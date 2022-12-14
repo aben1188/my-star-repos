@@ -1,0 +1,5790 @@
+{
+    "0no-co/wonka": [
+        "Other"
+    ],
+    "0voice/kernel_new_features": [
+        "Other"
+    ],
+    "11ty/eleventy": [
+        "Other"
+    ],
+    "17mon/china_ip_list": [
+        "Other"
+    ],
+    "2dust/v2rayNG": [
+        "Other"
+    ],
+    "30-seconds/30-seconds-of-code": [
+        "Other"
+    ],
+    "37Rb/nextcloud-hledger": [
+        "Other"
+    ],
+    "39aldo39/DecSync": [
+        "Other"
+    ],
+    "39aldo39/DecSyncCC": [
+        "Other"
+    ],
+    "39aldo39/Evolution-DecSync": [
+        "Other"
+    ],
+    "3b1b/manim": [
+        "Other"
+    ],
+    "42wim/matterbridge": [
+        "Other"
+    ],
+    "521xueweihan/HelloGitHub": [
+        "Other"
+    ],
+    "7eu7d7/genshin_auto_fish": [
+        "Other"
+    ],
+    "7kms/react-illustration-series": [
+        "Other"
+    ],
+    "996icu/996.ICU": [
+        "Other"
+    ],
+    "AArnott/Xunit.SkippableFact": [
+        "Other"
+    ],
+    "AGWA/git-crypt": [
+        "Other"
+    ],
+    "ALawating-Rex/AreaAndBanks": [
+        "Other"
+    ],
+    "AUTOMATIC1111/stable-diffusion-webui": [
+        "Other"
+    ],
+    "AaronFeng753/Waifu2x-Extension-GUI": [
+        "Other"
+    ],
+    "AboutRSS/ALL-about-RSS": [
+        "Other"
+    ],
+    "Airblader/i3": [
+        "Linux/GUI/Windows Manager"
+    ],
+    "Alecaddd/sequeler": [
+        "Other"
+    ],
+    "Alexandre-io/verdaccio-ldap": [
+        "Other"
+    ],
+    "Alexays/Waybar": [
+        "Other"
+    ],
+    "Algram/rofi-gopass": [
+        "Other"
+    ],
+    "Altinity/clickhouse-operator": [
+        "Other"
+    ],
+    "AlynxZhou/gnome-shell-extension-inotch": [
+        "Other"
+    ],
+    "AlynxZhou/showmethekey": [
+        "Other"
+    ],
+    "Anduin2017/HowToCook": [
+        "Other"
+    ],
+    "ApostropheEditor/Apostrophe": [
+        "Other"
+    ],
+    "AppImage/AppImageKit": [
+        "Other"
+    ],
+    "ApsaraDB/PolarDB-for-PostgreSQL": [
+        "Other"
+    ],
+    "ApsaraDB/galaxysql": [
+        "Other"
+    ],
+    "Arduino-IRremote/Arduino-IRremote": [
+        "Other"
+    ],
+    "Arsen6331/lure": [
+        "Other"
+    ],
+    "ArthurSonzogni/Diagon": [
+        "Other"
+    ],
+    "AsahiLinux/AsahiLinux.github.io": [
+        "Other"
+    ],
+    "AsahiLinux/linux": [
+        "Other"
+    ],
+    "AutoMapper/AutoMapper": [
+        "Other"
+    ],
+    "AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection": [
+        "Other"
+    ],
+    "Awesome-HarmonyOS/HarmonyOS": [
+        "Operating System/HarmonyOS"
+    ],
+    "AykoPoel/surface3-scripts": [
+        "Linux/Device/Surface"
+    ],
+    "BDZNH/MIUI-Theme-Download-Link-Generator": [
+        "Other"
+    ],
+    "BUPT-HJM/fun-photo-combine": [
+        "Chinese APP Hack/QQ"
+    ],
+    "BYVoid/OpenCC": [
+        "Other"
+    ],
+    "BishopFox/unredacter": [
+        "Other"
+    ],
+    "BlackArch/blackarch": [
+        "Other"
+    ],
+    "Blankj/awesome-comment": [
+        "Other"
+    ],
+    "BohuTANG/nessDB": [
+        "Other"
+    ],
+    "Bumblebee-Project/Bumblebee": [
+        "Other"
+    ],
+    "BurntSushi/xsv": [
+        "Other"
+    ],
+    "Byron/dua-cli": [
+        "Other"
+    ],
+    "Byron/gitoxide": [
+        "Other"
+    ],
+    "ByteLegend/ByteLegend": [
+        "Other"
+    ],
+    "CDDSCLab/Database-Optimization": [
+        "Other"
+    ],
+    "CTeX-org/ctex-kit": [
+        "Other"
+    ],
+    "CTeX-org/lshort-zh-cn": [
+        "Other"
+    ],
+    "CYBUTEK/KerbalEngineer": [
+        "Game/KSP"
+    ],
+    "ClickHouse/ClickHouse": [
+        "Other"
+    ],
+    "ClosedXML/ClosedXML": [
+        "Other"
+    ],
+    "CnTransGroup/Cpp17TheCompleteGuideChinese": [
+        "Other"
+    ],
+    "CnTransGroup/EffectiveModernCppChinese": [
+        "Other"
+    ],
+    "CoatiSoftware/Sourcetrail": [
+        "Other"
+    ],
+    "CoeJoder/waitForKeyElements.js": [
+        "Other"
+    ],
+    "CollegesChat/university-information": [
+        "Other"
+    ],
+    "ContainerSolutions/trow": [
+        "Other"
+    ],
+    "CrowCpp/Crow": [
+        "Other"
+    ],
+    "CyC2018/CS-Notes": [
+        "Other"
+    ],
+    "D4rCM4rC/MagiskSSH": [
+        "Android/Magick"
+    ],
+    "DBOS-project/dbos-project.github.io": [
+        "Other"
+    ],
+    "DDoSolitary/OkcAgent": [
+        "Other"
+    ],
+    "DIYgod/RSSHub": [
+        "Other"
+    ],
+    "DIYgod/RSSHub-Radar": [
+        "Other"
+    ],
+    "DapperLib/Dapper": [
+        "Other"
+    ],
+    "DaveGamble/cJSON": [
+        "C/JSON",
+        "JSON"
+    ],
+    "David-Desmaisons/Vue.Isotope": [
+        "Other"
+    ],
+    "DavideBri/Gesko": [
+        "Other"
+    ],
+    "DayBreak-u/chineseocr_lite": [
+        "Other"
+    ],
+    "DeadSix27/waifu2x-converter-cpp": [
+        "Other"
+    ],
+    "DeanIsMe/SevSeg": [
+        "Arduino"
+    ],
+    "DecaTec/Nextcloud-Backup-Restore": [
+        "Nextcloud"
+    ],
+    "DenverCoder1/github-readme-streak-stats": [
+        "Other"
+    ],
+    "Dev-XYS/Algorithms": [
+        "Other"
+    ],
+    "DigitalChinaOpenSource/TiDB-for-PostgreSQL": [
+        "Other"
+    ],
+    "Dimsmary/OpenSTM": [
+        "Other"
+    ],
+    "Docker-Hub-frolvlad/docker-alpine-glibc": [
+        "Other"
+    ],
+    "Dogfalo/materialize": [
+        "Other"
+    ],
+    "Doreamonsky/CampusAdventure": [
+        "Game"
+    ],
+    "Doreamonsky/Course-table": [
+        "WeChat/Mini Program/Utility"
+    ],
+    "Doreamonsky/Shnu-Cas-Login": [
+        "Spider"
+    ],
+    "Dotnet-Boxed/Templates": [
+        "Other"
+    ],
+    "DouyinFE/semi-design": [
+        "Other"
+    ],
+    "Dr-TSNG/ApplistDetector": [
+        "Other"
+    ],
+    "Dreamacro/clash": [
+        "Other"
+    ],
+    "DukeLuo/wai": [
+        "Other"
+    ],
+    "ECNU-Forum/ECNU-Forum": [
+        "Other"
+    ],
+    "ECNUCSE/ECNU_ITers": [
+        "Other"
+    ],
+    "EastWorld/wechat-app-mall": [
+        "WeChat/Mini Program/Develop"
+    ],
+    "Eastrall/EntityFrameworkCore.DataEncryption": [
+        "Other"
+    ],
+    "EbookFoundation/free-programming-books": [
+        "Other"
+    ],
+    "Edenhofer/Minimalism-Gnome-Shell": [
+        "Gnome Shell Extensions"
+    ],
+    "EdiWang/Edi.Captcha.AspNetCore": [
+        "Other"
+    ],
+    "ElaWorkshop/awesome-cn-cafe": [
+        "Other"
+    ],
+    "ElderDrivers/EdXposed": [
+        "Other"
+    ],
+    "ElemeFE/vue-infinite-scroll": [
+        "Other"
+    ],
+    "EliverLara/Ant": [
+        "Other"
+    ],
+    "EmixamPP/linux-enable-ir-emitter": [
+        "Other"
+    ],
+    "EstrellaXD/Auto_Bangumi": [
+        "Other"
+    ],
+    "EtherDream/js-port-knocking": [
+        "Other"
+    ],
+    "EvgSkv/logica": [
+        "Other"
+    ],
+    "FascodeNet/alterlinux": [
+        "Other"
+    ],
+    "FasterXML/jackson": [
+        "Java/JSON",
+        "JSON"
+    ],
+    "Fausto-Korpsvart/Everforest-GTK-Theme": [
+        "Other"
+    ],
+    "FeralInteractive/gamemode": [
+        "Other"
+    ],
+    "Flipboard/react-canvas": [
+        "Other"
+    ],
+    "Fmstrat/winapps": [
+        "Other"
+    ],
+    "Fody/Fody": [
+        "Other"
+    ],
+    "ForbesLindesay/throat": [
+        "Other"
+    ],
+    "FoundationDB/fdb-kubernetes-operator": [
+        "Other"
+    ],
+    "FoundationDB/fdb-record-layer": [
+        "Other"
+    ],
+    "FreshRSS/FreshRSS": [
+        "Other"
+    ],
+    "GNOME/glib": [
+        "C"
+    ],
+    "GPGTools/pinentry-mac": [
+        "Other"
+    ],
+    "GSConnect/gnome-shell-extension-gsconnect": [
+        "Other"
+    ],
+    "Genymobile/scrcpy": [
+        "Other"
+    ],
+    "Geofferey/mgkdhelper": [
+        "Other"
+    ],
+    "GhostFlying/LocationReportEnabler": [
+        "Android/APP/Utility"
+    ],
+    "Gioni06/terminal.css": [
+        "Other"
+    ],
+    "GitJournal/GitJournal": [
+        "Other"
+    ],
+    "Gogh-Co/Gogh": [
+        "Other"
+    ],
+    "GoogleChromeLabs/squoosh": [
+        "Other"
+    ],
+    "GoogleContainerTools/skaffold": [
+        "Other"
+    ],
+    "GrowingGit/GitHub-Chinese-Top-Charts": [
+        "Other"
+    ],
+    "Gruntfuggly/todo-tree": [
+        "Other"
+    ],
+    "Guake/guake": [
+        "Other"
+    ],
+    "HCLonely/awesome-bilibili-extra": [
+        "Other"
+    ],
+    "HZFE/awesome-interview": [
+        "Other"
+    ],
+    "Haleydu/Cimoc": [
+        "Other"
+    ],
+    "HandBrake/HandBrake": [
+        "Other"
+    ],
+    "HangfireIO/Hangfire": [
+        "Other"
+    ],
+    "HenryQW/Awesome-TTRSS": [
+        "Other"
+    ],
+    "Himself65/OpenArkCompiler": [
+        "Other"
+    ],
+    "Homebrew/brew": [
+        "Other"
+    ],
+    "Homebrew/homebrew-cask": [
+        "Other"
+    ],
+    "Homebrew/homebrew-livecheck": [
+        "Other"
+    ],
+    "Homebrew/homebrew-services": [
+        "Other"
+    ],
+    "HowardHinnant/date": [
+        "Other"
+    ],
+    "Ian2020/EasyScreenCast": [
+        "Other"
+    ],
+    "IlanCosman/tide": [
+        "Other"
+    ],
+    "ImVexed/muon": [
+        "Other"
+    ],
+    "Immediate-Mode-UI/Nuklear": [
+        "Other"
+    ],
+    "Inokinoki/kde-blog": [
+        "Other"
+    ],
+    "JabRef/jabref": [
+        "Other"
+    ],
+    "Jactor-Sue/Deepin-Apps-Installation": [
+        "Other"
+    ],
+    "JeffreySu/WeiXinMPSDK": [
+        "Other"
+    ],
+    "JessicaTegner/pypandoc": [
+        "Other"
+    ],
+    "JetBrains/JetBrainsMono": [
+        "Other"
+    ],
+    "Jguer/yay": [
+        "Other"
+    ],
+    "JinnLynn/genpac": [
+        "Utility"
+    ],
+    "Jman420/magisk-permissive-script": [
+        "Android/Magick"
+    ],
+    "Jomik/vscode-search-provider": [
+        "Other"
+    ],
+    "Jonno12345/TileIconifier": [
+        "Windows/Utility"
+    ],
+    "JoseExposito/gnome-shell-extension-x11gestures": [
+        "Other"
+    ],
+    "JoseExposito/touchegg": [
+        "Other"
+    ],
+    "JulianChow94/Windows-screenFetch": [
+        "Windows/PowerShell"
+    ],
+    "JumboInteractiveLimited/redux-cache": [
+        "Other"
+    ],
+    "KDAB/hotspot": [
+        "Other"
+    ],
+    "KDE/kdeconnect-android": [
+        "Other"
+    ],
+    "KDE/kdeconnect-kde": [
+        "Other"
+    ],
+    "KSP-CKAN/CKAN": [
+        "Game/KSP"
+    ],
+    "KaTeX/KaTeX": [
+        "Other"
+    ],
+    "Kagami/go-face": [
+        "Other"
+    ],
+    "KaitoHH/AnyCodeToBmp": [
+        "Other"
+    ],
+    "Kazhnuz/awesome-gnome": [
+        "Other"
+    ],
+    "Kentzo/git-archive-all": [
+        "Other"
+    ],
+    "KhaosT/tb3-enabler": [
+        "Other"
+    ],
+    "KittyKatt/screenFetch": [
+        "Other"
+    ],
+    "Kkevsterrr/geneva": [
+        "Other"
+    ],
+    "Kong/insomnia": [
+        "Other"
+    ],
+    "Kong/kubernetes-ingress-controller": [
+        "Other"
+    ],
+    "Kozea/Radicale": [
+        "Other"
+    ],
+    "Kozea/wdb": [
+        "Web"
+    ],
+    "Kyligence/ClickHouse": [
+        "Other"
+    ],
+    "LSPosed/LSPosed.github.io": [
+        "Other"
+    ],
+    "LSPosed/MagiskOnWSA": [
+        "Other"
+    ],
+    "LaTeX-Package-Repositories/geometry": [
+        "Other"
+    ],
+    "LearningOS/rust-based-os-comp2022": [
+        "Other"
+    ],
+    "LeetCode-OpenSource/rxjs-hooks": [
+        "Other"
+    ],
+    "LeetCode-OpenSource/vscode-leetcode": [
+        "Other"
+    ],
+    "Leleat/Tiling-Assistant": [
+        "Other"
+    ],
+    "Light-City/CPlusPlusThings": [
+        "Other"
+    ],
+    "LinkLeong/go-aliyundrive-webdav": [
+        "Other"
+    ],
+    "LinuxSuRen/remote-jobs-in-china": [
+        "Other"
+    ],
+    "LnL7/nix-darwin": [
+        "Other"
+    ],
+    "LumingSun/ML4DB-paper-list": [
+        "Other"
+    ],
+    "M0Rf30/android-udev-rules": [
+        "Other"
+    ],
+    "MacEnhance/MacForge": [
+        "Other"
+    ],
+    "Macil/flow-copy-source": [
+        "Other"
+    ],
+    "MadLittleMods/postcss-css-variables": [
+        "Other"
+    ],
+    "MadeBaruna/paimon-moe": [
+        "Other"
+    ],
+    "Magisk-Modules-Repo/com.piyushgarg.rclone": [
+        "Other"
+    ],
+    "Magisk-Modules-Repo/mm": [
+        "Other"
+    ],
+    "Magisk-Modules-Repo/noneDisplayCutout": [
+        "Other"
+    ],
+    "Magisk-Modules-Repo/v2ray": [
+        "Other"
+    ],
+    "MajsoulPlus/majsoul-plus": [
+        "Other"
+    ],
+    "Marak/faker.js": [
+        "Other"
+    ],
+    "Martchus/syncthingtray": [
+        "Other"
+    ],
+    "Masterminds/glide": [
+        "Other"
+    ],
+    "Masterminds/sprig": [
+        "Other"
+    ],
+    "Matoking/protontricks": [
+        "Other"
+    ],
+    "Maximus5/ConEmu": [
+        "Windows/Terminal/ConEmu"
+    ],
+    "Meituan-Dianping/mpvue": [
+        "Other"
+    ],
+    "MiKTeX/miktex": [
+        "Other"
+    ],
+    "MiPushFramework/MiPushFramework": [
+        "Other"
+    ],
+    "MicheleBertoli/css-in-js": [
+        "Other"
+    ],
+    "MinaMichita/MiuiEULocalizationToolsBox": [
+        "Other"
+    ],
+    "MlgmXyysd/NoneDisplayCutout": [
+        "Other"
+    ],
+    "MopTym/vue-waterfall": [
+        "Other"
+    ],
+    "Morganamilo/paru": [
+        "Other"
+    ],
+    "Mortennn/Dozer": [
+        "Other"
+    ],
+    "MrKiven/PyZh": [
+        "Python/Tutorial"
+    ],
+    "Mrs4s/go-cqhttp": [
+        "Other"
+    ],
+    "N-Yuki/gnome-shell-extension-workspace-isolated-dash": [
+        "Other"
+    ],
+    "NLog/NLog": [
+        "Other"
+    ],
+    "NLog/NLog.Extensions.Logging": [
+        "Other"
+    ],
+    "NVIDIA/open-gpu-kernel-modules": [
+        "Other"
+    ],
+    "Nanguage/Rainbow-Fart-MBG": [
+        "Other"
+    ],
+    "NanoHttpd/nanohttpd": [
+        "Java/Web"
+    ],
+    "Neilpang/wgcf-docker": [
+        "Other"
+    ],
+    "NeoApplications/Neo-Backup": [
+        "Other"
+    ],
+    "NervJS/taro": [
+        "Other"
+    ],
+    "NetApp/beegfs-csi-driver": [
+        "Other"
+    ],
+    "NicoleMayer/zotero-save-with-tag": [
+        "Other"
+    ],
+    "Nitrux/maui-shell": [
+        "Other"
+    ],
+    "NixOS/patchelf": [
+        "Other"
+    ],
+    "OI-wiki/OI-wiki": [
+        "Other"
+    ],
+    "OmniSharp/omnisharp-roslyn": [
+        "Other"
+    ],
+    "OmniSharp/omnisharp-vscode": [
+        "Other"
+    ],
+    "OneDrive/onedrive-sdk-python": [
+        "Python/API"
+    ],
+    "OpenAPITools/openapi-generator": [
+        "Other"
+    ],
+    "OpenIntelWireless/itlwm": [
+        "Other"
+    ],
+    "PGYER/codefever": [
+        "Other"
+    ],
+    "PKUFlyingPig/cs-self-learning": [
+        "Other"
+    ],
+    "PapirusDevelopmentTeam/papirus-icon-theme": [
+        "Other"
+    ],
+    "PeachScript/vue-infinite-loading": [
+        "Other"
+    ],
+    "PegasusWang/python-web-guide": [
+        "Python/Tutorial"
+    ],
+    "Perfare/Zygisk-Il2CppDumper": [
+        "Other"
+    ],
+    "Phantas0s/devdash": [
+        "Other"
+    ],
+    "PierreZ/fdb-etcd": [
+        "Other"
+    ],
+    "PipeWire/pipewire": [
+        "Other"
+    ],
+    "PomeloFoundation/Pomelo.EntityFrameworkCore.MySql": [
+        ".NET/.NET Core/EF Core"
+    ],
+    "PonasKovas/netctl-tray": [
+        "Other"
+    ],
+    "PowerShell/PSReadLine": [
+        "Other"
+    ],
+    "PureDarwin/PureDarwin": [
+        "Other"
+    ],
+    "PyCQA/pep8-naming": [
+        "Python"
+    ],
+    "PyratLabs/ansible-role-k3s": [
+        "Other"
+    ],
+    "QianMo/Game-Programmer-Study-Notes": [
+        "Other"
+    ],
+    "QingdaoU/OnlineJudge": [
+        "Other"
+    ],
+    "QiushiSun/ECNU-Undergraduate-Thesis-Template-2022": [
+        "Other"
+    ],
+    "RangerNJU/Static-Program-Analysis-Book": [
+        "Other"
+    ],
+    "RaphaelRochet/arch-update": [
+        "Other"
+    ],
+    "ReactiveX/RxGo": [
+        "Other"
+    ],
+    "ReactiveX/RxJava": [
+        "Other"
+    ],
+    "ReactiveX/RxKotlin": [
+        "Other"
+    ],
+    "RealPeha/This-Repo-Has-1763-Stars": [
+        "Other"
+    ],
+    "RelaxedJS/ReLaXed": [
+        "Other"
+    ],
+    "Rikj000/Magisk-Manager-for-Recovery-Mode": [
+        "Other"
+    ],
+    "RikkaApps/Riru": [
+        "Other"
+    ],
+    "RikkaApps/StorageRedirect-assets": [
+        "Other"
+    ],
+    "RimoChan/smoke_of_deceit": [
+        "Other"
+    ],
+    "RobThree/IdGen": [
+        "Other"
+    ],
+    "RobertCsordas/arch-efiboot": [
+        "Other"
+    ],
+    "RobinLinus/snapdrop": [
+        "Other"
+    ],
+    "Rocket1184/electron-netease-cloud-music": [
+        "Other"
+    ],
+    "Rprop/And64InlineHook": [
+        "Other"
+    ],
+    "Rucadi/wsld": [
+        "Other"
+    ],
+    "Rupan/paperbak": [
+        "Other"
+    ],
+    "S-1-T/miniob": [
+        "Other"
+    ],
+    "SCons/scons": [
+        "Other"
+    ],
+    "SDRausty/TermuxArch": [
+        "Other"
+    ],
+    "SDRausty/termux-archlinux": [
+        "Other"
+    ],
+    "SUPERCILEX/gnome-clipboard-history": [
+        "Other"
+    ],
+    "SaekiRaku/vscode-rainbow-fart": [
+        "Other"
+    ],
+    "SagerNet/SagerNet": [
+        "Other"
+    ],
+    "Schneegans/Desktop-Cube": [
+        "Other"
+    ],
+    "ScoopInstaller/Scoop": [
+        "Other"
+    ],
+    "SeaDve/Kooha": [
+        "Other"
+    ],
+    "SeleniumHQ/docker-selenium": [
+        "Other"
+    ],
+    "SeleniumHQ/selenium": [
+        "Other"
+    ],
+    "ShameCom/ShameCom": [
+        "Other"
+    ],
+    "SheetJS/sheetjs": [
+        "Other"
+    ],
+    "Shougo/context_filetype.vim": [
+        "Other"
+    ],
+    "Shougo/denite.nvim": [
+        "Other"
+    ],
+    "Shougo/deoplete.nvim": [
+        "Vim"
+    ],
+    "Shougo/vimshell.vim": [
+        "Vim"
+    ],
+    "SimpleMobileTools/Simple-Gallery": [
+        "Other"
+    ],
+    "SirVer/ultisnips": [
+        "Vim"
+    ],
+    "Snailclimb/JavaGuide": [
+        "Other"
+    ],
+    "SortableJS/Sortable": [
+        "Other"
+    ],
+    "SortableJS/vue.draggable.next": [
+        "Other"
+    ],
+    "StackExchange/blackbox": [
+        "Other"
+    ],
+    "Stellarium/stellarium": [
+        "Other"
+    ],
+    "SummerEmber/DELL-XPS13-9360": [
+        "Other"
+    ],
+    "Supervisor/supervisor": [
+        "Linux/Utility"
+    ],
+    "Suzie97/Communique": [
+        "Other"
+    ],
+    "SwiftLaTeX/SwiftLaTeX": [
+        "Other"
+    ],
+    "Swordfish90/cool-retro-term": [
+        "Other"
+    ],
+    "Syllo/nvtop": [
+        "Other"
+    ],
+    "TGSAN/CMWTAT_Digital_Edition": [
+        "Other"
+    ],
+    "TaKO8Ki/gobang": [
+        "Other"
+    ],
+    "TablePlus/TablePlus": [
+        "Other"
+    ],
+    "TablePlus/TablePlus-Linux": [
+        "Other"
+    ],
+    "TachibanaYoshino/AnimeGANv2": [
+        "Other"
+    ],
+    "TachibanaYoshino/AnimeGANv3": [
+        "Other"
+    ],
+    "Tarektouati/vue-use-web": [
+        "Other"
+    ],
+    "TaylanTatli/Halve": [
+        "Jekyll/Theme"
+    ],
+    "TaylanTatli/Moon": [
+        "Jekyll/Theme"
+    ],
+    "Tencent/kbone": [
+        "Other"
+    ],
+    "Tencent/secguide": [
+        "Other"
+    ],
+    "Tencent/vConsole": [
+        "Other"
+    ],
+    "Tencent/wepy": [
+        "Other"
+    ],
+    "Tencent/weui-wxss": [
+        "Other"
+    ],
+    "TermuxArch/TermuxArch": [
+        "Other"
+    ],
+    "TheAlgorithms/Go": [
+        "Other"
+    ],
+    "TheAlgorithms/Python": [
+        "Other"
+    ],
+    "TheLartians/ModernCppStarter": [
+        "Other"
+    ],
+    "TheLocehiliosan/yadm": [
+        "Other"
+    ],
+    "ThirtyDegreesRay/OpenHub": [
+        "Android/APP/Utility"
+    ],
+    "TieBaMma/InstallTutorial": [
+        "Other"
+    ],
+    "Tinche/aiofiles": [
+        "Other"
+    ],
+    "TomFreudenberg/dell-bios-fan-control": [
+        "Other"
+    ],
+    "TonnyL/Awesome_APIs": [
+        "Awesome"
+    ],
+    "Torbet/Dot-It-Up": [
+        "Other"
+    ],
+    "Toxblh/MTMR": [
+        "Other"
+    ],
+    "TriggerAu/KerbalAlarmClock": [
+        "Game/KSP"
+    ],
+    "Tudmotu/gnome-shell-extension-clipboard-indicator": [
+        "Other"
+    ],
+    "TylerYep/torchinfo": [
+        "Other"
+    ],
+    "Ulauncher/Ulauncher": [
+        "Other"
+    ],
+    "UnnoTed/fileb0x": [
+        "Other"
+    ],
+    "ValveSoftware/Proton": [
+        "Other"
+    ],
+    "VcDevel/Vc": [
+        "Other"
+    ],
+    "ViRb3/magisk-frida": [
+        "Other"
+    ],
+    "VictoriaMetrics/fastcache": [
+        "Other"
+    ],
+    "Volmarg/personal-management-system": [
+        "Other"
+    ],
+    "Vonng/ddia": [
+        "Other"
+    ],
+    "WayfireWM/wayfire": [
+        "Other"
+    ],
+    "WayneD/rsync": [
+        "Other"
+    ],
+    "WebFreak001/code-debug": [
+        "Other"
+    ],
+    "WickyNilliams/headroom.js": [
+        "Web/JavaScript"
+    ],
+    "Windos/BurntToast": [
+        "Windows/PowerShell"
+    ],
+    "WindySha/Xpatch": [
+        "Other"
+    ],
+    "Winetricks/winetricks": [
+        "Other"
+    ],
+    "WireGuard/wireguard-android": [
+        "Other"
+    ],
+    "Witko/nvidia-xrun": [
+        "Other"
+    ],
+    "WoeUSB/WoeUSB": [
+        "Other"
+    ],
+    "WrBug/dumpDex": [
+        "Other"
+    ],
+    "X-lab2017/OSSDevGov2021": [
+        "Other"
+    ],
+    "X-lab2017/open-digger": [
+        "Other"
+    ],
+    "XAMPPRocky/tokei": [
+        "Other"
+    ],
+    "XIU2/CloudflareSpeedTest": [
+        "Other"
+    ],
+    "XTLS/Xray-core": [
+        "Other"
+    ],
+    "Xfennec/progress": [
+        "Linux/Utility"
+    ],
+    "XiaoMi/chronos": [
+        "Other"
+    ],
+    "Xpra-org/xpra": [
+        "Other"
+    ],
+    "XuShaohua/bcloud": [
+        "Linux/Utility"
+    ],
+    "Xuyuanp/nerdtree-git-plugin": [
+        "Other"
+    ],
+    "Yelp/dumb-init": [
+        "Other"
+    ],
+    "Yggdroot/indentLine": [
+        "Vim"
+    ],
+    "Yinzo/SmartQQBot": [
+        "Chinese APP Hack/QQ"
+    ],
+    "Yiyiyimu/QQ-History-Backup": [
+        "Other"
+    ],
+    "Ysurac/openmptcprouter": [
+        "Other"
+    ],
+    "YuKongA/UnlockMiuiThemeManager": [
+        "Other"
+    ],
+    "YunYouJun/air-conditioner": [
+        "Other"
+    ],
+    "YunYouJun/cook": [
+        "Other"
+    ],
+    "ZSaberLv0/ZFVimDirDiff": [
+        "Other"
+    ],
+    "ZeekoZhu/TextTemplatingCore": [
+        ".NET"
+    ],
+    "aaronleopold/stump": [
+        "Other"
+    ],
+    "aarowill/base16-alacritty": [
+        "Other"
+    ],
+    "aarowill/base16-gnome-terminal": [
+        "Other"
+    ],
+    "aaubry/YamlDotNet": [
+        "Other"
+    ],
+    "aben1188/awesome-wepy": [
+        "Other"
+    ],
+    "abforce/xposed_art_n": [
+        "Android/Xposed"
+    ],
+    "abiosoft/caddy-docker": [
+        "Other"
+    ],
+    "abraunegg/onedrive": [
+        "Other"
+    ],
+    "acmesh-official/acme.sh": [
+        "Other"
+    ],
+    "ad-m/github-push-action": [
+        "Other"
+    ],
+    "adafruit/Adafruit_NeoPixel": [
+        "Arduino"
+    ],
+    "adah1972/output_container": [
+        "Other"
+    ],
+    "adapta-project/adapta-gtk-theme": [
+        "Linux/GUI/Desktop Environment/Gnome/Theme"
+    ],
+    "adi1090x/battery-wallpaper": [
+        "Other"
+    ],
+    "adi1090x/plymouth-themes": [
+        "Other"
+    ],
+    "adi1090x/rofi": [
+        "Other"
+    ],
+    "adobe-fonts/source-code-pro": [
+        "Font"
+    ],
+    "adobe-fonts/source-han-sans": [
+        "Font"
+    ],
+    "aemkei/jsfuck": [
+        "JavaScript"
+    ],
+    "afloren/openconnect-socks-proxy": [
+        "Other"
+    ],
+    "agalwood/Motrix": [
+        "Other"
+    ],
+    "agendav/agendav": [
+        "Other"
+    ],
+    "agronholm/apscheduler": [
+        "Other"
+    ],
+    "ahrm/sioyek": [
+        "Other"
+    ],
+    "ailidani/paxi": [
+        "Other"
+    ],
+    "airblade/vim-gitgutter": [
+        "Other"
+    ],
+    "akiraux/Akira": [
+        "Other"
+    ],
+    "aknuds1/html-to-react": [
+        "Other"
+    ],
+    "akopytov/sysbench": [
+        "Other"
+    ],
+    "akshat46/FlyingFox": [
+        "Other"
+    ],
+    "alacritty/alacritty": [
+        "Other"
+    ],
+    "alastairtree/LazyCache": [
+        "Other"
+    ],
+    "albertlauncher/albert": [
+        "Other"
+    ],
+    "alecthomas/participle": [
+        "Other"
+    ],
+    "alexflint/go-arg": [
+        "Other"
+    ],
+    "alexlenail/NN-SVG": [
+        "Other"
+    ],
+    "alexzielenski/Mousecape": [
+        "Other"
+    ],
+    "alfg/docker-nginx-rtmp": [
+        "Other"
+    ],
+    "alibaba/DataX": [
+        "Other"
+    ],
+    "alibaba/serverless-vscode": [
+        "Other"
+    ],
+    "almende/vis": [
+        "JavaScript"
+    ],
+    "alnorris/file-dialog": [
+        "Other"
+    ],
+    "alphapapa/org-ql": [
+        "Other"
+    ],
+    "altair-graphql/altair": [
+        "Other"
+    ],
+    "alwsl/alwsl": [
+        "Windows/WSL"
+    ],
+    "alyssaxuu/omni": [
+        "Other"
+    ],
+    "amanusk/s-tui": [
+        "Other"
+    ],
+    "anbox/anbox": [
+        "Other"
+    ],
+    "andrewlock/NetEscapades.Configuration": [
+        "Other"
+    ],
+    "andrewrothstein/ansible-velero": [
+        "Other"
+    ],
+    "andrey-pohilko/registry-cli": [
+        "Other"
+    ],
+    "android-hacker/VirtualXposed": [
+        "Android/Xposed"
+    ],
+    "android-password-store/Android-Password-Store": [
+        "Other"
+    ],
+    "androidannotations/androidannotations": [
+        "Other"
+    ],
+    "andsens/homeshick": [
+        "Other"
+    ],
+    "angt/glorytun": [
+        "Other"
+    ],
+    "anirudhajith/process-wallpaper": [
+        "Other"
+    ],
+    "ankitstarski/GeoclueShare": [
+        "Other"
+    ],
+    "anntzer/pypi2pkgbuild": [
+        "Other"
+    ],
+    "ansible-community/molecule": [
+        "Other"
+    ],
+    "ansible/ansible": [
+        "Other"
+    ],
+    "ant-design/ant-design-charts": [
+        "Other"
+    ],
+    "antfu/ni": [
+        "Other"
+    ],
+    "antirez/sds": [
+        "Other"
+    ],
+    "antoniomika/sish": [
+        "Other"
+    ],
+    "antvis/G2Plot": [
+        "Other"
+    ],
+    "anuraghazra/github-readme-stats": [
+        "Other"
+    ],
+    "aoaojiang/HelloWorld": [
+        "Other"
+    ],
+    "apache/arrow": [
+        "Other"
+    ],
+    "apache/buildstream": [
+        "Other"
+    ],
+    "apache/cassandra": [
+        "Other"
+    ],
+    "apache/druid": [
+        "Other"
+    ],
+    "apache/hadoop": [
+        "Other"
+    ],
+    "apache/shardingsphere": [
+        "Other"
+    ],
+    "apache/zookeeper": [
+        "Other"
+    ],
+    "apernet/hysteria": [
+        "Other"
+    ],
+    "aphyr/distsys-class": [
+        "Other"
+    ],
+    "apognu/tuigreet": [
+        "Other"
+    ],
+    "apollographql/subscriptions-transport-ws": [
+        "Other"
+    ],
+    "apple/foundationdb": [
+        "Other"
+    ],
+    "apple/sourcekit-lsp": [
+        "Other"
+    ],
+    "arc-design/arc-theme": [
+        "Other"
+    ],
+    "archlinuxcn/lilac": [
+        "Other"
+    ],
+    "archlinuxcn/repo": [
+        "Linux/Distribution/Arch Linux"
+    ],
+    "arcmags/ramroot": [
+        "Other"
+    ],
+    "argenos/zotero-mdnotes": [
+        "Other"
+    ],
+    "ariga/atlas": [
+        "Other"
+    ],
+    "arkane-systems/genie": [
+        "Other"
+    ],
+    "arrow-py/arrow": [
+        "Other"
+    ],
+    "asLody/VirtualApp": [
+        "Android"
+    ],
+    "asatarin/testing-distributed-systems": [
+        "Other"
+    ],
+    "asciinema/asciinema": [
+        "Other"
+    ],
+    "ascoders/weekly": [
+        "Other"
+    ],
+    "asg017/dataflow": [
+        "Other"
+    ],
+    "asins/vimcdoc": [
+        "Vim"
+    ],
+    "astaxie/build-web-application-with-golang": [
+        "Other"
+    ],
+    "astralapp/astral": [
+        "GitHub"
+    ],
+    "astroturfcss/astroturf": [
+        "Other"
+    ],
+    "astroza/udptunnel": [
+        "Other"
+    ],
+    "atmoz/sftp": [
+        "Other"
+    ],
+    "attractivechaos/klib": [
+        "C"
+    ],
+    "austinjones/tab-rs": [
+        "Other"
+    ],
+    "autozimu/LanguageClient-neovim": [
+        "Other"
+    ],
+    "avanishsubbiah/adwaita-materialu": [
+        "Other"
+    ],
+    "avelino/awesome-go": [
+        "Other"
+    ],
+    "awesome-selfhosted/awesome-selfhosted": [
+        "Other"
+    ],
+    "axios/axios": [
+        "Other"
+    ],
+    "aymericdamien/TensorFlow-Examples": [
+        "Other"
+    ],
+    "ayuer/shanghai_house_knowledge": [
+        "Other"
+    ],
+    "b3log/baidu-netdisk-downloaderx": [
+        "Other"
+    ],
+    "b4j4/indicator-kdeconnect": [
+        "Other"
+    ],
+    "babysor/MockingBird": [
+        "Other"
+    ],
+    "badafans/better-cloudflare-ip": [
+        "Other"
+    ],
+    "badges/shields": [
+        "Other"
+    ],
+    "balloonwj/CppGuide": [
+        "Other"
+    ],
+    "bamtercelboo/Awesome-Law-NLP-Research-Work": [
+        "Other"
+    ],
+    "banga/git-split-diffs": [
+        "Other"
+    ],
+    "barbalion/usbip-win-client": [
+        "Other"
+    ],
+    "bartdegoede/python-searchengine": [
+        "Other"
+    ],
+    "baskerville/bspwm": [
+        "Linux/GUI/Windows Manager"
+    ],
+    "bazelbuild/bazel": [
+        "Other"
+    ],
+    "bchavez/Bogus": [
+        "Other"
+    ],
+    "bcicen/grmon": [
+        "Other"
+    ],
+    "be5invis/Iosevka": [
+        "Font"
+    ],
+    "be5invis/Sarasa-Gothic": [
+        "Font"
+    ],
+    "beaudar/beaudar": [
+        "Other"
+    ],
+    "bee-san/pyWhat": [
+        "Other"
+    ],
+    "beiliangshizi/China_House": [
+        "Other"
+    ],
+    "bencbartlett/Overmind": [
+        "Other"
+    ],
+    "benoitgrelard/github-stars-tagger": [
+        "Other"
+    ],
+    "berberman/arch-hs": [
+        "Other"
+    ],
+    "berty/berty": [
+        "Other"
+    ],
+    "bettercap/bettercap": [
+        "Other"
+    ],
+    "bhuh12/vue-router-tab": [
+        "Other"
+    ],
+    "bilelmoussaoui/Hardcode-Tray": [
+        "Linux/Utility"
+    ],
+    "bilelmoussaoui/flatpak-vscode": [
+        "Other"
+    ],
+    "binux/ThunderLixianExporter": [
+        "Utility"
+    ],
+    "binux/yaaw": [
+        "Other"
+    ],
+    "biokoda/actordb": [
+        "Other"
+    ],
+    "bit-kitchen/frpc": [
+        "Other"
+    ],
+    "bitnami/charts": [
+        "Other"
+    ],
+    "bjcull/LinqExpander": [
+        "Other"
+    ],
+    "blacklabelops/volumerize": [
+        "Docker"
+    ],
+    "blanboom/Arduino-Task-Scheduler": [
+        "Arduino"
+    ],
+    "bloom-lang/bud": [
+        "Other"
+    ],
+    "blueimp/jQuery-File-Upload": [
+        "JavaScript/jQuery"
+    ],
+    "bodedejavu/gnome-shell-extensions": [
+        "Other"
+    ],
+    "boekkooi/openshift-cartridge-nginx": [
+        "OpenShift"
+    ],
+    "boltdb/bolt": [
+        "Other"
+    ],
+    "boltgolt/howdy": [
+        "Other"
+    ],
+    "borntyping/python-colorlog": [
+        "Other"
+    ],
+    "botoxparty/XP.css": [
+        "Other"
+    ],
+    "bpatrik/pigallery2": [
+        "Other"
+    ],
+    "bradymholt/cRonstrue": [
+        "Other"
+    ],
+    "bradymholt/cron-expression-descriptor": [
+        "Other"
+    ],
+    "breakwa11/gfw_whitelist": [
+        "GFW"
+    ],
+    "brendangregg/FlameGraph": [
+        "Other"
+    ],
+    "brewlin/net-protocol": [
+        "Other"
+    ],
+    "brick-design/brick-design": [
+        "Other"
+    ],
+    "brillout/awesome-react-components": [
+        "Other"
+    ],
+    "brndnmtthws/conky": [
+        "Other"
+    ],
+    "browserify/events": [
+        "Other"
+    ],
+    "browserpass/browserpass-extension": [
+        "Other"
+    ],
+    "browserpass/browserpass-native": [
+        "Other"
+    ],
+    "brucemiller/LaTeXML": [
+        "Other"
+    ],
+    "bsonntag/react-use-promise": [
+        "Other"
+    ],
+    "budtmo/docker-android": [
+        "Other"
+    ],
+    "buildfoundation/mainframer": [
+        "Other"
+    ],
+    "buttercup/buttercup-desktop": [
+        "Other"
+    ],
+    "bvaughn/react-window": [
+        "Other"
+    ],
+    "bytebase/bytebase": [
+        "Other"
+    ],
+    "bytebase/star-history": [
+        "Other"
+    ],
+    "bytedance/android-inline-hook": [
+        "Other"
+    ],
+    "bytedance/bhook": [
+        "Other"
+    ],
+    "bytegust/spm": [
+        "Linux/Utility"
+    ],
+    "c-bata/go-prompt": [
+        "Other"
+    ],
+    "caddy-dns/cloudflare": [
+        "Other"
+    ],
+    "caddyserver/certmagic": [
+        "Other"
+    ],
+    "caddyserver/xcaddy": [
+        "Other"
+    ],
+    "caj2pdf/caj2pdf": [
+        "Other"
+    ],
+    "caldwell/daemon-manager": [
+        "Linux/Utility"
+    ],
+    "callstack/linaria": [
+        "Other"
+    ],
+    "camptocamp/bivac": [
+        "Other"
+    ],
+    "canonical/dqlite": [
+        "Other"
+    ],
+    "canonical/multipass": [
+        "Other"
+    ],
+    "canton7/SyncTrayzor": [
+        "Other"
+    ],
+    "capaj/react-promise": [
+        "Other"
+    ],
+    "captnbp/docker-owncloud": [
+        "Docker"
+    ],
+    "carbon-app/carbon": [
+        "Other"
+    ],
+    "cat-milk/Anime-Girls-Holding-Programming-Books": [
+        "Other"
+    ],
+    "catppuccin/catppuccin": [
+        "Other"
+    ],
+    "cbeust/klaxon": [
+        "Other"
+    ],
+    "cblp/yaml-sucks": [
+        "Other"
+    ],
+    "cbrnix/Newaita": [
+        "Other"
+    ],
+    "ccat3z/blog.ccat3z.xyz": [
+        "Other"
+    ],
+    "ccfddl/ccf-deadlines": [
+        "Other"
+    ],
+    "celery/celery": [
+        "Other"
+    ],
+    "ceph/ceph": [
+        "Other"
+    ],
+    "cernekee/ocproxy": [
+        "Other"
+    ],
+    "cesanta/docker_auth": [
+        "Other"
+    ],
+    "cezanne/usbip-win": [
+        "Other"
+    ],
+    "cginternals/cppfs": [
+        "Other"
+    ],
+    "championswimmer/vuex-persist": [
+        "Other"
+    ],
+    "chaos-mesh/chaos-mesh": [
+        "Other"
+    ],
+    "cheat/cheat": [
+        "Other"
+    ],
+    "checkpoint-restore/criu": [
+        "Other"
+    ],
+    "chef/chef": [
+        "Other"
+    ],
+    "chezou/tabula-py": [
+        "Other"
+    ],
+    "chkimes/graphql-net": [
+        "Other"
+    ],
+    "chokcoco/iCSS": [
+        "Other"
+    ],
+    "chr4/nginx.vim": [
+        "Other"
+    ],
+    "chrislgarry/Apollo-11": [
+        "Other"
+    ],
+    "christo-pr/dangerously-set-html-content-v1": [
+        "Other"
+    ],
+    "chubin/cheat.sh": [
+        "Other"
+    ],
+    "chyyuu/os_kernel_lab": [
+        "Other"
+    ],
+    "citusdata/citus": [
+        "Other"
+    ],
+    "ckissane/blur-me": [
+        "Other"
+    ],
+    "claytongulick/bit-sync": [
+        "Other"
+    ],
+    "cloudreve/Cloudreve": [
+        "Other"
+    ],
+    "cmhughes/latexindent.pl": [
+        "LaTeX"
+    ],
+    "cmu-db/benchbase": [
+        "Other"
+    ],
+    "cmu-db/bustub": [
+        "Other"
+    ],
+    "cmu-db/dbdb.io": [
+        "Other"
+    ],
+    "cmu-db/noisepage": [
+        "Other"
+    ],
+    "cmu-db/ottertune": [
+        "Other"
+    ],
+    "cmu-db/peloton": [
+        "Other"
+    ],
+    "cobaltdisco/Google-Chinese-Results-Blocklist": [
+        "Other"
+    ],
+    "cockroachdb/cockroach": [
+        "Other"
+    ],
+    "codecrafters-io/build-your-own-x": [
+        "Other"
+    ],
+    "coder/code-server": [
+        "Other"
+    ],
+    "coder2gwy/coder2gwy": [
+        "Other"
+    ],
+    "coderstory/Mi-Purify": [
+        "Android/Xposed"
+    ],
+    "codota/tabnine-vscode": [
+        "Other"
+    ],
+    "coldfix/udiskie": [
+        "Other"
+    ],
+    "coleifer/peewee": [
+        "Python"
+    ],
+    "colin-kyang/reverse-interview-zh": [
+        "Other"
+    ],
+    "commitizen/cz-cli": [
+        "Other"
+    ],
+    "conan-io/conan": [
+        "Other"
+    ],
+    "conanhujinming/tips_for_interview": [
+        "Other"
+    ],
+    "concourse/concourse": [
+        "Other"
+    ],
+    "concourse/concourse-chart": [
+        "Other"
+    ],
+    "concourse/git-resource": [
+        "Other"
+    ],
+    "concourse/oci-build-task": [
+        "Other"
+    ],
+    "concourse/registry-image-resource": [
+        "Other"
+    ],
+    "conda-incubator/conda-lock": [
+        "Other"
+    ],
+    "containers/podman": [
+        "Other"
+    ],
+    "containrrr/watchtower": [
+        "Other"
+    ],
+    "conventional-changelog/commitlint": [
+        "Other"
+    ],
+    "conwnet/github1s": [
+        "Other"
+    ],
+    "corbindavenport/creative-cloud-linux": [
+        "Other"
+    ],
+    "corellium/usbfluxd": [
+        "Other"
+    ],
+    "coreos/license-bill-of-materials": [
+        "Other"
+    ],
+    "coreybutler/nvm-windows": [
+        "Other"
+    ],
+    "coxley/quip2md": [
+        "Other"
+    ],
+    "crate-ci/typos": [
+        "Other"
+    ],
+    "creack/pty": [
+        "Other"
+    ],
+    "crossoverJie/JCSprout": [
+        "Other"
+    ],
+    "cryptomator/cryptomator": [
+        "Other"
+    ],
+    "cs01/gdbgui": [
+        "C/Utility"
+    ],
+    "csujedihy/proximac": [
+        "Other"
+    ],
+    "ctf-wiki/ctf-wiki": [
+        "Other"
+    ],
+    "ctrlpvim/ctrlp.vim": [
+        "Vim"
+    ],
+    "cuelang/cue": [
+        "Other"
+    ],
+    "cup-of-tea-dot-be/entity-framework-core-mock": [
+        "Other"
+    ],
+    "cup-of-tea-dot-be/entity-framework-core3-mock": [
+        "Other"
+    ],
+    "customd/jquery-visible": [
+        "Other"
+    ],
+    "cvfosammmm/Setzer": [
+        "Other"
+    ],
+    "cvzi/rollup-userscript-template": [
+        "Other"
+    ],
+    "cweijan/vscode-database-client": [
+        "Other"
+    ],
+    "cytle/wechat_web_devtools": [
+        "Other"
+    ],
+    "d4nj1/TLPUI": [
+        "Linux/Utility"
+    ],
+    "daattali/beautiful-jekyll": [
+        "Jekyll"
+    ],
+    "dado3212/spaces-renamer": [
+        "Other"
+    ],
+    "dahlbyk/posh-git": [
+        "Windows/PowerShell"
+    ],
+    "daliansky/Hackintosh": [
+        "Other"
+    ],
+    "damoeb/rss-proxy": [
+        "Other"
+    ],
+    "dandavison/delta": [
+        "Other"
+    ],
+    "daniellandau/switcher": [
+        "Other"
+    ],
+    "danielnixon/total-functions": [
+        "Other"
+    ],
+    "danmactough/node-feedparser": [
+        "Other"
+    ],
+    "darknessomi/musicbox": [
+        "Utility"
+    ],
+    "darlinghq/darling": [
+        "Other"
+    ],
+    "darshanparajuli/LogcatReader": [
+        "Other"
+    ],
+    "datafuselabs/databend": [
+        "Other"
+    ],
+    "datawhalechina/daily-interview": [
+        "Other"
+    ],
+    "datawhalechina/go-talent": [
+        "Other"
+    ],
+    "datawhalechina/pumpkin-book": [
+        "Other"
+    ],
+    "datawhalechina/statistical-learning-method-solutions-manual": [
+        "Other"
+    ],
+    "date-fns/date-fns": [
+        "Other"
+    ],
+    "davatorium/rofi": [
+        "Other"
+    ],
+    "davidhalter/jedi-vim": [
+        "Vim"
+    ],
+    "davidquinn/psi-header": [
+        "Other"
+    ],
+    "dbader/schedule": [
+        "Other"
+    ],
+    "dbcli/mycli": [
+        "Other"
+    ],
+    "dbcli/pgcli": [
+        "Other"
+    ],
+    "dbeaver/dbeaver": [
+        "Other"
+    ],
+    "dbgate/dbgate": [
+        "Other"
+    ],
+    "deadpixi/mtm": [
+        "Other"
+    ],
+    "deapplization/awesome-switching": [
+        "Other"
+    ],
+    "debauchee/barrier": [
+        "Other"
+    ],
+    "dell/dkms": [
+        "Other"
+    ],
+    "delta-io/delta": [
+        "Other"
+    ],
+    "dendronhq/dendron": [
+        "Other"
+    ],
+    "denisidoro/navi": [
+        "Other"
+    ],
+    "denoland/deno": [
+        "Other"
+    ],
+    "dense-analysis/ale": [
+        "Other"
+    ],
+    "derailed/k9s": [
+        "Other"
+    ],
+    "desandro/imagesloaded": [
+        "Other"
+    ],
+    "desandro/masonry": [
+        "Other"
+    ],
+    "desiderantes/awesome-vala": [
+        "Other"
+    ],
+    "devlooped/GitInfo": [
+        "Other"
+    ],
+    "devoxx/JavaRoadmap2022": [
+        "Other"
+    ],
+    "dexidp/dex": [
+        "Other"
+    ],
+    "dginev/ar5iv": [
+        "Other"
+    ],
+    "dgraph-io/badger": [
+        "Other"
+    ],
+    "dgraph-io/dgraph": [
+        "Other"
+    ],
+    "dianariyanto/virtual-display-linux": [
+        "Other"
+    ],
+    "digint/btrbk": [
+        "Other"
+    ],
+    "dipakkr/A-to-Z-Resources-for-Students": [
+        "Other"
+    ],
+    "directus/directus": [
+        "Other"
+    ],
+    "discordianfish/docker-backup": [
+        "Other"
+    ],
+    "diseq/csi-rclone": [
+        "Other"
+    ],
+    "distribution/distribution": [
+        "Other"
+    ],
+    "djyde/ossart": [
+        "Other"
+    ],
+    "docker-library/haproxy": [
+        "Docker"
+    ],
+    "docker-library/openjdk": [
+        "Docker"
+    ],
+    "docker-slim/docker-slim": [
+        "Other"
+    ],
+    "docker/dockercraft": [
+        "Other"
+    ],
+    "docopt/docopt.go": [
+        "Other"
+    ],
+    "dojiong/daemon-manager": [
+        "Other"
+    ],
+    "domaindrivendev/Swashbuckle.AspNetCore": [
+        "Other"
+    ],
+    "donnemartin/system-design-primer": [
+        "Other"
+    ],
+    "doocs/advanced-java": [
+        "Other"
+    ],
+    "doocs/jvm": [
+        "Other"
+    ],
+    "doocs/source-code-hunter": [
+        "Other"
+    ],
+    "dortania/OpenCore-Install-Guide": [
+        "Other"
+    ],
+    "dotenv-linter/dotenv-linter": [
+        "Other"
+    ],
+    "dotnet-architecture/eShopOnContainers": [
+        ".NET/.NET Core/ASP.NET Core"
+    ],
+    "dotnet-architecture/eShopOnWeb": [
+        ".NET/.NET Core/ASP.NET Core"
+    ],
+    "dotnet/BenchmarkDotNet": [
+        "Other"
+    ],
+    "dotnet/Docker.DotNet": [
+        "Other"
+    ],
+    "dotnet/aspnetcore": [
+        "Other"
+    ],
+    "dotnet/csharplang": [
+        "Other"
+    ],
+    "dotnet/dotnet-docker": [
+        ".NET/.NET Core/ASP.NET Core"
+    ],
+    "dotnet/reactive": [
+        "Other"
+    ],
+    "dragoonDorise/EmuDeck": [
+        "Other"
+    ],
+    "draivin/hsnips": [
+        "Other"
+    ],
+    "dreamhead/patterns-of-distributed-systems": [
+        "Other"
+    ],
+    "dront78/PulseDroid": [
+        "Other"
+    ],
+    "dropwizard/dropwizard": [
+        "Java/Web/RESTful"
+    ],
+    "drudru/ansi_up": [
+        "Other"
+    ],
+    "drwpow/openapi-typescript": [
+        "Other"
+    ],
+    "dtm-labs/dtm": [
+        "Other"
+    ],
+    "duckdb/duckdb": [
+        "Other"
+    ],
+    "dunwu/db-tutorial": [
+        "Other"
+    ],
+    "dusansimic/dynamic-wallpaper": [
+        "Other"
+    ],
+    "duskwuff/Xilinx-ISE-Makefile": [
+        "Other"
+    ],
+    "dustinkirkland/byobu": [
+        "Other"
+    ],
+    "dutchcoders/transfer.sh": [
+        "Other"
+    ],
+    "duxingkei33/orangepi_PC_gpio_pyH3": [
+        "SBC"
+    ],
+    "dylanaraps/pure-bash-bible": [
+        "Other"
+    ],
+    "dyweb/awesome-resume-for-chinese": [
+        "Other"
+    ],
+    "dyweb/papers-notebook": [
+        "Other"
+    ],
+    "easychen/howto-make-more-money": [
+        "Other"
+    ],
+    "ecmadao/hacknical": [
+        "Other"
+    ],
+    "eddiemf/vue-scrollactive": [
+        "Other"
+    ],
+    "edgedb/edgedb": [
+        "Other"
+    ],
+    "eduardoboucas/staticman": [
+        "Jekyll"
+    ],
+    "egh/ledger-autosync": [
+        "Other"
+    ],
+    "egoist/hack": [
+        "Jekyll",
+        "Web/CSS"
+    ],
+    "egoist/vue-mugen-scroll": [
+        "Other"
+    ],
+    "egzosn/pay-java-parent": [
+        "Other"
+    ],
+    "ekibun/QQNotfAndShare": [
+        "Android/APP/Utility"
+    ],
+    "ekpyron/ktxutils": [
+        "Unity"
+    ],
+    "elasticdog/transcrypt": [
+        "Other"
+    ],
+    "ele7enxxh/Android-Inline-Hook": [
+        "Other"
+    ],
+    "element-plus/element-plus": [
+        "Other"
+    ],
+    "eli-schwartz/aurpublish": [
+        "Other"
+    ],
+    "elves/elvish": [
+        "Other"
+    ],
+    "emacs-evil/evil": [
+        "Other"
+    ],
+    "emacs-tw/emacs-101-beginner-survival-guide": [
+        "Other"
+    ],
+    "emasab/shelltile": [
+        "Linux/GUI/Desktop Environment/Gnome/Extension"
+    ],
+    "embear/vim-localvimrc": [
+        "Vim"
+    ],
+    "emedvedev/attention-ocr": [
+        "Other"
+    ],
+    "emeraldwalk/vscode-runonsave": [
+        "VS Code"
+    ],
+    "emiapwil/glassy-gnome": [
+        "Linux/GUI/Desktop Environment/Gnome/Extension"
+    ],
+    "emicklei/go-restful": [
+        "Other"
+    ],
+    "emissary-ingress/emissary": [
+        "Other"
+    ],
+    "emotion-js/emotion": [
+        "Other"
+    ],
+    "enaqx/awesome-react": [
+        "Other"
+    ],
+    "eolinker/goku_lite": [
+        "Other"
+    ],
+    "eonpatapon/gnome-shell-extension-caffeine": [
+        "Other"
+    ],
+    "epasveer/seer": [
+        "Other"
+    ],
+    "ept/crdt-website": [
+        "Other"
+    ],
+    "equalsraf/win32yank": [
+        "Windows/Utility"
+    ],
+    "erebe/greenclip": [
+        "Other"
+    ],
+    "ericandrewlewis/emoji-mosaic": [
+        "Other"
+    ],
+    "esnet/iperf": [
+        "Other"
+    ],
+    "essensoft/paylink": [
+        "Other"
+    ],
+    "etcd-io/bbolt": [
+        "Other"
+    ],
+    "etcd-io/etcd": [
+        "Other"
+    ],
+    "etesync/etesync-dav": [
+        "Other"
+    ],
+    "etesync/server": [
+        "Other"
+    ],
+    "ethanwillis/zotero-scihub": [
+        "Other"
+    ],
+    "ety001/wx_msg": [
+        "Chinese APP Hack/WeChat"
+    ],
+    "evanw/esbuild": [
+        "Other"
+    ],
+    "evilsocket/librestd": [
+        "Web/Backend/REST"
+    ],
+    "evrardjp/ansible-tinc": [
+        "Other"
+    ],
+    "ewlsh/dynamic-panel-transparency": [
+        "Other"
+    ],
+    "excalidraw/excalidraw": [
+        "Other"
+    ],
+    "extrawurst/gitui": [
+        "Other"
+    ],
+    "eycorsican/go-tun2socks": [
+        "Other"
+    ],
+    "eycorsican/kitsunebi-android": [
+        "Other"
+    ],
+    "f/awesome-chatgpt-prompts": [
+        "Other"
+    ],
+    "f/vue-wait": [
+        "Other"
+    ],
+    "fabiandev/ts-runtime": [
+        "Other"
+    ],
+    "facebook/create-react-app": [
+        "Other"
+    ],
+    "facebook/flow": [
+        "Other"
+    ],
+    "facebook/folly": [
+        "Other"
+    ],
+    "facebook/react": [
+        "Other"
+    ],
+    "facebook/rocksdb": [
+        "Other"
+    ],
+    "facebook/zstd": [
+        "Other"
+    ],
+    "fankes/AndroidNotifyIconAdapt": [
+        "Other"
+    ],
+    "fankes/MIUINativeNotifyIcon": [
+        "Other"
+    ],
+    "fankes/YukiHookAPI": [
+        "Other"
+    ],
+    "faressoft/terminalizer": [
+        "Other"
+    ],
+    "fastfloat/fast_float": [
+        "Other"
+    ],
+    "fastrizwaan/flatpak-wine": [
+        "Other"
+    ],
+    "fatedier/frp": [
+        "Other"
+    ],
+    "fcitx/fcitx": [
+        "Linux"
+    ],
+    "fcitx/fcitx5": [
+        "Other"
+    ],
+    "feeluown/FeelUOwn": [
+        "Other"
+    ],
+    "feilongfl/Cimoc": [
+        "Other"
+    ],
+    "feiskyer/kubernetes-handbook": [
+        "Other"
+    ],
+    "felixrieseberg/npm-windows-upgrade": [
+        "Node.js/Windows"
+    ],
+    "felixse/FluentTerminal": [
+        "Windows/Terminal"
+    ],
+    "ferbar/jmagick": [
+        "Java"
+    ],
+    "fffaraz/awesome-cpp": [
+        "Other"
+    ],
+    "fgheng/keysound": [
+        "Other"
+    ],
+    "fhackenberger/ktikz": [
+        "Other"
+    ],
+    "fisadev/vim-ctrlp-cmdpalette": [
+        "Vim"
+    ],
+    "flaneur2020/pua-lang": [
+        "Other"
+    ],
+    "flant/shell-operator": [
+        "Other"
+    ],
+    "flathub/com.valvesoftware.Steam": [
+        "Other"
+    ],
+    "flippingbitss/react-daterange-picker": [
+        "Other"
+    ],
+    "florentc/xob": [
+        "Other"
+    ],
+    "florisboard/florisboard": [
+        "Other"
+    ],
+    "fluent/fluentd": [
+        "Other"
+    ],
+    "fluentscheduler/FluentScheduler": [
+        "Other"
+    ],
+    "foambubble/foam": [
+        "Other"
+    ],
+    "foonathan/lexy": [
+        "Other"
+    ],
+    "foreversd/forever": [
+        "Other"
+    ],
+    "formulahendry/944.Life": [
+        "Other"
+    ],
+    "formulahendry/vscode-code-runner": [
+        "Other"
+    ],
+    "forthespada/CampusShame": [
+        "Other"
+    ],
+    "forza-painter/forza-painter": [
+        "Other"
+    ],
+    "fosslife/awesome-ricing": [
+        "Other"
+    ],
+    "foxcpp/maddy": [
+        "Other"
+    ],
+    "foxlet/macOS-Simple-KVM": [
+        "Other"
+    ],
+    "fredimachado/IRCClient": [
+        "Other"
+    ],
+    "freeotp/freeotp-android": [
+        "Other"
+    ],
+    "freereadorg/awesome-libgen": [
+        "Other"
+    ],
+    "freesmartphone/vala-dbus-binding-tool": [
+        "Other"
+    ],
+    "frgomes/bash-scripts": [
+        "Other"
+    ],
+    "frida/frida": [
+        "Other"
+    ],
+    "frimin/learning-kcp-protocol": [
+        "Other"
+    ],
+    "frogatto/frogatto": [
+        "Game"
+    ],
+    "fsnotify/fsnotify": [
+        "Other"
+    ],
+    "fthx/no-overview": [
+        "Other"
+    ],
+    "fugary/calibre-douban": [
+        "Other"
+    ],
+    "ful1e5/Bibata_Cursor": [
+        "Other"
+    ],
+    "ful1e5/Google_Cursor": [
+        "Other"
+    ],
+    "fullstorydev/grpcurl": [
+        "Other"
+    ],
+    "fusepy/fusepy": [
+        "Python"
+    ],
+    "future-architect/eslint-plugin-vue-scoped-css": [
+        "Other"
+    ],
+    "fxsjy/jieba": [
+        "Other"
+    ],
+    "gTile/gTile": [
+        "Linux/GUI/Desktop Environment/Gnome/Extension"
+    ],
+    "gajus/flow-runtime": [
+        "Other"
+    ],
+    "gaul/s3proxy": [
+        "Other"
+    ],
+    "gdiepen/docker-convenience-scripts": [
+        "Docker"
+    ],
+    "gedzeppelin/monitor-window-switcher": [
+        "Other"
+    ],
+    "geeeeeeeeek/electronic-wechat": [
+        "Chinese APP Hack/WeChat"
+    ],
+    "geekan/HowToLiveLonger": [
+        "Other"
+    ],
+    "geekfactory/PID": [
+        "Other"
+    ],
+    "geekplux/cv_resume": [
+        "Other"
+    ],
+    "geektutu/7days-golang": [
+        "Other"
+    ],
+    "geerlingguy/ansible-role-k8s_manifests": [
+        "Other"
+    ],
+    "geerlingguy/macos-virtualbox-vm": [
+        "Other"
+    ],
+    "gelstudios/gitfiti": [
+        "GitHub"
+    ],
+    "georgemandis/jekyll-rss-feeds": [
+        "Other"
+    ],
+    "getActivity/XXPermissions": [
+        "Other"
+    ],
+    "getgridea/gridea": [
+        "Other"
+    ],
+    "getlantern/systray": [
+        "Other"
+    ],
+    "gfjaru/Kiko": [
+        "Jekyll"
+    ],
+    "gfredericks/quinedb": [
+        "Other"
+    ],
+    "gfwlist/gfwlist": [
+        "GFW"
+    ],
+    "ggandor/lightspeed.nvim": [
+        "Other"
+    ],
+    "ghbhaha/JzApp": [
+        "Android/APP"
+    ],
+    "gilbarbara/logos": [
+        "Resource"
+    ],
+    "gilbertchen/duplicacy": [
+        "Other"
+    ],
+    "ginuerzh/gost": [
+        "Other"
+    ],
+    "giorginolab/zotfile_doctor": [
+        "Other"
+    ],
+    "giscus/giscus": [
+        "Other"
+    ],
+    "git/git": [
+        "Other"
+    ],
+    "gitalk/gitalk": [
+        "Other"
+    ],
+    "github-tools/github": [
+        "GitHub"
+    ],
+    "githubixx/ansible-role-wireguard": [
+        "Other"
+    ],
+    "gizak/termui": [
+        "Other"
+    ],
+    "gliffy/canvas2svg": [
+        "Linux/Utility"
+    ],
+    "gluster/glusterfs": [
+        "Other"
+    ],
+    "gmg137/netease-cloud-music-gtk": [
+        "Other"
+    ],
+    "gnurag/openshift-origin-cartridge-httpd-proxy": [
+        "OpenShift"
+    ],
+    "go-delve/delve": [
+        "Other"
+    ],
+    "go-gitea/gitea": [
+        "Other"
+    ],
+    "go-gorm/gorm": [
+        "Other"
+    ],
+    "go-sql-driver/mysql": [
+        "Other"
+    ],
+    "gobuffalo/packr": [
+        "Other"
+    ],
+    "goccmack/gogll": [
+        "Other"
+    ],
+    "gocd/gocd": [
+        "Other"
+    ],
+    "goessner/markdown-it-texmath": [
+        "Other"
+    ],
+    "goessner/mdmath": [
+        "VS Code"
+    ],
+    "gogradle/gogradle": [
+        "Other"
+    ],
+    "gogs/gogs": [
+        "Other"
+    ],
+    "goharbor/harbor": [
+        "Other"
+    ],
+    "gohugoio/hugo": [
+        "Other"
+    ],
+    "gojek/awesome-distributed-systems": [
+        "Other"
+    ],
+    "gojue/ecapture": [
+        "Other"
+    ],
+    "golang-standards/project-layout": [
+        "Other"
+    ],
+    "google/autocxx": [
+        "Other"
+    ],
+    "google/bbr": [
+        "Other"
+    ],
+    "google/benchmark": [
+        "Other"
+    ],
+    "google/git-appraise": [
+        "Other"
+    ],
+    "google/googletest": [
+        "Other"
+    ],
+    "google/leveldb": [
+        "Other"
+    ],
+    "google/pprof": [
+        "Other"
+    ],
+    "google/sanitizers": [
+        "Other"
+    ],
+    "google/wire": [
+        "Other"
+    ],
+    "google/xsecurelock": [
+        "Other"
+    ],
+    "google/yapf": [
+        "Python"
+    ],
+    "google/zetasql": [
+        "Other"
+    ],
+    "google/zx": [
+        "Other"
+    ],
+    "gookit/color": [
+        "Other"
+    ],
+    "gopasspw/gopass": [
+        "Other"
+    ],
+    "goplus/gop": [
+        "Other"
+    ],
+    "gorilla/mux": [
+        "Other"
+    ],
+    "gpakosz/.tmux": [
+        "Other"
+    ],
+    "grandchef/vuex-persistedstate-migrate": [
+        "Other"
+    ],
+    "graphql/graphiql": [
+        "Other"
+    ],
+    "graphql/graphql-playground": [
+        "Other"
+    ],
+    "greenpau/caddy-auth-portal": [
+        "Other"
+    ],
+    "greenplum-db/gpdb": [
+        "Other"
+    ],
+    "greenrobot/greenDAO": [
+        "Android"
+    ],
+    "greensock/GSAP": [
+        "Other"
+    ],
+    "greycodee/wechat-backup": [
+        "Other"
+    ],
+    "gsliepen/tinc": [
+        "Other"
+    ],
+    "gsterjov/openshift-nginx-cartridge": [
+        "OpenShift"
+    ],
+    "guanguans/design-patterns-for-humans-cn": [
+        "Other"
+    ],
+    "gulrak/filesystem": [
+        "Other"
+    ],
+    "guren-cloud/v-request": [
+        "Other"
+    ],
+    "gusztavvargadr/packer": [
+        "Other"
+    ],
+    "gwding/draw_convnet": [
+        "Other"
+    ],
+    "gwsw/less": [
+        "Other"
+    ],
+    "hackergrrl/art-of-readme": [
+        "Other"
+    ],
+    "halfkiss/ZjDroid": [
+        "Android/Xposed"
+    ],
+    "handlebars-lang/handlebars.js": [
+        "Other"
+    ],
+    "hanickadot/compile-time-regular-expressions": [
+        "Other"
+    ],
+    "hanwen/go-fuse": [
+        "Go"
+    ],
+    "hao14293/2021-Postgraduate-408": [
+        "Other"
+    ],
+    "happyfish100/fastdfs": [
+        "Other"
+    ],
+    "hardcore-sushi/DroidFS": [
+        "Other"
+    ],
+    "hardpixel/unite-shell": [
+        "Other"
+    ],
+    "harness/drone": [
+        "Other"
+    ],
+    "harness/drone-cli": [
+        "Other"
+    ],
+    "hashicorp/consul": [
+        "Other"
+    ],
+    "hashicorp/nomad": [
+        "Other"
+    ],
+    "hashicorp/raft": [
+        "Other"
+    ],
+    "hashicorp/vagrant": [
+        "Other"
+    ],
+    "haskell/haskell-ide-engine": [
+        "Other"
+    ],
+    "haskell/haskell-language-server": [
+        "Other"
+    ],
+    "hcy226/CSSummerCamp2020": [
+        "Other"
+    ],
+    "hcy226/CSYuTuiMian2020": [
+        "Other"
+    ],
+    "heavenshell/vim-jsdoc": [
+        "Other"
+    ],
+    "heidihoward/distributed-consensus-reading-list": [
+        "Other"
+    ],
+    "hellocodeM/baidu-wenku": [
+        "Other"
+    ],
+    "henrysher/duplicity": [
+        "Other"
+    ],
+    "hermanTenuki/ASCII-Generator.site": [
+        "Other"
+    ],
+    "hertogp/imagine": [
+        "Other"
+    ],
+    "hexsum/Mojo-Webqq": [
+        "Other"
+    ],
+    "hexsum/Mojo-Weixin": [
+        "Other"
+    ],
+    "hit-thusz-RookieCJ/CSSummerCamp2021": [
+        "Other"
+    ],
+    "hkupty/nvimux": [
+        "Other"
+    ],
+    "hmrc/service-manager": [
+        "Linux/Utility"
+    ],
+    "hnrss/hnrss": [
+        "Other"
+    ],
+    "hoanX/xps13-9360-Hackintosh": [
+        "Other"
+    ],
+    "hollischuang/toBeTopJavaer": [
+        "Other"
+    ],
+    "home-sweet-gnome/dash-to-panel": [
+        "Other"
+    ],
+    "hoovercj/vscode-power-mode": [
+        "Other"
+    ],
+    "horst3180/arc-icon-theme": [
+        "Other"
+    ],
+    "horst3180/arc-theme": [
+        "Linux/GUI/Desktop Environment/Gnome/Theme"
+    ],
+    "hrdwrrsk/adementary-theme": [
+        "Other"
+    ],
+    "http-party/http-server": [
+        "Other"
+    ],
+    "httpie/httpie": [
+        "Other"
+    ],
+    "huachaohuang/awesome-dbdev": [
+        "Other"
+    ],
+    "huanghaibin-dev/CalendarView": [
+        "Other"
+    ],
+    "huanghongxun/HMCL": [
+        "Other"
+    ],
+    "huggingface/transformers": [
+        "Other"
+    ],
+    "huihut/interview": [
+        "Other"
+    ],
+    "huysentruitw/entity-framework-mock": [
+        "Other"
+    ],
+    "hwhw/kindlevncviewer": [
+        "Kindle"
+    ],
+    "iCHAIT/awesome-macOS": [
+        "Other"
+    ],
+    "iamdanfox/typetype": [
+        "Web/JavaScript"
+    ],
+    "iamhosseindhv/notistack": [
+        "Other"
+    ],
+    "iamkun/dayjs": [
+        "Other"
+    ],
+    "ibhagwan/picom": [
+        "Other"
+    ],
+    "ibraheemdev/modern-unix": [
+        "Other"
+    ],
+    "ics-py/ics-py": [
+        "Other"
+    ],
+    "idealvin/coost": [
+        "Other"
+    ],
+    "iggredible/Learn-Vim": [
+        "Other"
+    ],
+    "iglance/iGlance": [
+        "Other"
+    ],
+    "iitc-project/ingress-intel-total-conversion": [
+        "Game/Ingress"
+    ],
+    "ilearnio/module-alias": [
+        "Other"
+    ],
+    "iluwatar/java-design-patterns": [
+        "Other"
+    ],
+    "imadr/Unity-game-hacking": [
+        "Other"
+    ],
+    "imarvinle/awesome-cs-books": [
+        "Other"
+    ],
+    "imba/imba": [
+        "Other"
+    ],
+    "immutable-js/immutable-js": [
+        "Other"
+    ],
+    "imsun/gitment": [
+        "Jekyll"
+    ],
+    "include-what-you-use/include-what-you-use": [
+        "Other"
+    ],
+    "input-leap/input-leap": [
+        "Other"
+    ],
+    "inspircd/inspircd": [
+        "Other"
+    ],
+    "int128/wslexec": [
+        "Other"
+    ],
+    "iovisor/bcc": [
+        "Other"
+    ],
+    "ipr-cnrs/nftables": [
+        "Other"
+    ],
+    "isaacs/async-cache": [
+        "Other"
+    ],
+    "it-ebooks/w3school": [
+        "Web/Tutorial"
+    ],
+    "itchyny/lightline.vim": [
+        "Other"
+    ],
+    "itdevbooks/pdf": [
+        "Other"
+    ],
+    "itorr/sakana": [
+        "Other"
+    ],
+    "ivarptr/yu-writer.site": [
+        "Other"
+    ],
+    "ivmech/ivPID": [
+        "Other"
+    ],
+    "jD91mZM2/xidlehook": [
+        "Other"
+    ],
+    "jadbox/BreezyTile": [
+        "Other"
+    ],
+    "jamessan/vim-gnupg": [
+        "Other"
+    ],
+    "janeczku/calibre-web": [
+        "Utility"
+    ],
+    "jantimon/iconfont-webpack-plugin": [
+        "Other"
+    ],
+    "jaredpalmer/formik": [
+        "Other"
+    ],
+    "jaredpalmer/tsdx": [
+        "Other"
+    ],
+    "jasonlvhit/gocron": [
+        "Other"
+    ],
+    "jaydenseric/graphql-react": [
+        "Other"
+    ],
+    "jaystrictor/gnome-shell-extension-syncthing": [
+        "Other"
+    ],
+    "jaywcjlove/awesome-mac": [
+        "Other"
+    ],
+    "jbezos/titlesec": [
+        "Other"
+    ],
+    "jbhuang0604/awesome-tips": [
+        "Other"
+    ],
+    "jceb/vim-orgmode": [
+        "Other"
+    ],
+    "jcjohnson/pytorch-examples": [
+        "Other"
+    ],
+    "jcouyang/grokking-monad": [
+        "Other"
+    ],
+    "jdah/tetris-os": [
+        "Other"
+    ],
+    "jdan/98.css": [
+        "Other"
+    ],
+    "jeffgerickson/algorithms": [
+        "Other"
+    ],
+    "jeffreytse/zsh-vi-mode": [
+        "Other"
+    ],
+    "jeffshee/hidamari": [
+        "Other"
+    ],
+    "jekyll/jekyll": [
+        "Jekyll"
+    ],
+    "jekyll/jekyll-paginate": [
+        "Jekyll"
+    ],
+    "jekyll/jemoji": [
+        "Other"
+    ],
+    "jelmer/xandikos": [
+        "Other"
+    ],
+    "jepsen-io/jepsen": [
+        "Other"
+    ],
+    "jepsen-io/maelstrom": [
+        "Other"
+    ],
+    "jergusg/k380-function-keys-conf": [
+        "Other"
+    ],
+    "jesseduffield/lazydocker": [
+        "Other"
+    ],
+    "jesseduffield/lazygit": [
+        "Other"
+    ],
+    "jfinal/jfinal": [
+        "Other"
+    ],
+    "jglovier/dotfiles-logo": [
+        "Other"
+    ],
+    "jgm/pandocfilters": [
+        "Pandoc"
+    ],
+    "jgraph/drawio": [
+        "Utility"
+    ],
+    "jgraph/drawio-desktop": [
+        "Other"
+    ],
+    "jhspetersson/fselect": [
+        "Other"
+    ],
+    "jiangmiao/auto-pairs": [
+        "Vim"
+    ],
+    "jimdigriz/debian-mssp4": [
+        "Linux/Device/Surface"
+    ],
+    "jlevy/the-art-of-command-line": [
+        "Other"
+    ],
+    "jmblog/how-to-optimize-momentjs-with-webpack": [
+        "Other"
+    ],
+    "jmoiron/sqlx": [
+        "Other"
+    ],
+    "jmpews/Dobby": [
+        "Other"
+    ],
+    "jnsh/arc-theme": [
+        "Other"
+    ],
+    "jobbole/awesome-c-cn": [
+        "Awesome"
+    ],
+    "johannesboyne/gofakes3": [
+        "Other"
+    ],
+    "johnagan/clean-webpack-plugin": [
+        "Other"
+    ],
+    "johnfactotum/foliate": [
+        "Other"
+    ],
+    "johnsoncodehk/volar": [
+        "Other"
+    ],
+    "johnsoncodehk/vue-tsc": [
+        "Other"
+    ],
+    "jonasstrehle/supercookie": [
+        "Other"
+    ],
+    "joonro/ConEmu-Color-Themes": [
+        "Windows/Terminal/ConEmu"
+    ],
+    "jorgebucaran/awsm.fish": [
+        "Other"
+    ],
+    "jorgebucaran/fisher": [
+        "Other"
+    ],
+    "jotaen/xit": [
+        "Other"
+    ],
+    "jquense/react-big-calendar": [
+        "Other"
+    ],
+    "jquense/yup": [
+        "Other"
+    ],
+    "jrnl-org/jrnl": [
+        "Other"
+    ],
+    "jroimartin/gocui": [
+        "Other"
+    ],
+    "jsjoeio/styled-components-vs-emotion": [
+        "Other"
+    ],
+    "juicedata/juicefs": [
+        "Other"
+    ],
+    "juicedata/juicefs-csi-driver": [
+        "Other"
+    ],
+    "julio641742/gnome-shell-extension-reference": [
+        "Other"
+    ],
+    "jumper149/blugon": [
+        "Other"
+    ],
+    "junegunn/fzf": [
+        "Other"
+    ],
+    "junegunn/vim-plug": [
+        "Other"
+    ],
+    "just-containers/s6-overlay": [
+        "Other"
+    ],
+    "justind000/nRF-IoT": [
+        "SBC"
+    ],
+    "justjavac/awesome-wechat-weapp": [
+        "Other"
+    ],
+    "jwadhams/json-logic-js": [
+        "Other"
+    ],
+    "jwasham/coding-interview-university": [
+        "Other"
+    ],
+    "jwuensche/heic-to-dynamic-gnome-wallpaper": [
+        "Other"
+    ],
+    "k0shk0sh/FastHub": [
+        "Android/APP"
+    ],
+    "k3d-io/k3d": [
+        "Other"
+    ],
+    "k3s-io/helm-controller": [
+        "Other"
+    ],
+    "k3s-io/k3s": [
+        "Other"
+    ],
+    "k8up-io/k8up": [
+        "Other"
+    ],
+    "k8up-io/wrestic": [
+        "Other"
+    ],
+    "kamranahmedse/developer-roadmap": [
+        "Other"
+    ],
+    "karabaja4/vscode-explorer-git-status": [
+        "VS Code"
+    ],
+    "karlin/mintty-colors-solarized": [
+        "Windows/Terminal/Mintty"
+    ],
+    "karlstav/cava": [
+        "Other"
+    ],
+    "kcp-dev/kcp": [
+        "Other"
+    ],
+    "kdrag0n/safetynet-fix": [
+        "Other"
+    ],
+    "keeferrourke/capitaine-cursors": [
+        "Other"
+    ],
+    "kekru/docker-remote-api-tls": [
+        "Other"
+    ],
+    "keratin/authn-server": [
+        "Other"
+    ],
+    "kesenhoo/android-training-course-in-chinese": [
+        "Android"
+    ],
+    "keybuk/libnih": [
+        "C"
+    ],
+    "kgshank/gse-refresh-wifi": [
+        "Other"
+    ],
+    "kgshank/gse-sound-output-device-chooser": [
+        "Other"
+    ],
+    "kholia/OSX-KVM": [
+        "Other"
+    ],
+    "killercup/cargo-edit": [
+        "Other"
+    ],
+    "kimwalisch/calculator": [
+        "Other"
+    ],
+    "kirsch33/realip": [
+        "Other"
+    ],
+    "kiteco/vscode-plugin": [
+        "Other"
+    ],
+    "kitian616/jekyll-TeXt-theme": [
+        "Other"
+    ],
+    "kizzx2/docker-openvpn-client-socks": [
+        "Other"
+    ],
+    "klausw/hackerskeyboard": [
+        "Android/APP"
+    ],
+    "koalaman/shellcheck": [
+        "Other"
+    ],
+    "koekeishiya/skhd": [
+        "Other"
+    ],
+    "koekeishiya/yabai": [
+        "Other"
+    ],
+    "koral--/android-gif-drawable": [
+        "Other"
+    ],
+    "koreader/koreader": [
+        "Kindle",
+        "Android/APP"
+    ],
+    "koutheir/libcxx-pretty-printers": [
+        "Other"
+    ],
+    "kovidgoyal/kitty": [
+        "Other"
+    ],
+    "krallin/tini": [
+        "Other"
+    ],
+    "krhougs/mina-webpack-plugin": [
+        "Other"
+    ],
+    "kronik3r/daktilo": [
+        "Jekyll"
+    ],
+    "ktprime/emhash": [
+        "Other"
+    ],
+    "kubenav/kubenav": [
+        "Other"
+    ],
+    "kubernetes-sigs/kustomize": [
+        "Other"
+    ],
+    "kubernetes-sigs/sig-storage-local-static-provisioner": [
+        "Other"
+    ],
+    "kubernetes/kompose": [
+        "Other"
+    ],
+    "kubernetes/kubernetes": [
+        "Other"
+    ],
+    "kubeshark/kubeshark": [
+        "Other"
+    ],
+    "kulshekhar/ts-jest": [
+        "Other"
+    ],
+    "kvalo/ath10k-firmware": [
+        "Linux/Kernel"
+    ],
+    "kvalo/ath11k-firmware": [
+        "Other"
+    ],
+    "kwk/docker-registry-setup": [
+        "Other"
+    ],
+    "kylemanna/docker-aosp": [
+        "Other"
+    ],
+    "l0o0/jasminum": [
+        "Other"
+    ],
+    "l0o0/translators_CN": [
+        "Other"
+    ],
+    "labstack/echo": [
+        "Other"
+    ],
+    "labuladong/fucking-algorithm": [
+        "Other"
+    ],
+    "lainsce/notejot": [
+        "Other"
+    ],
+    "laixintao/python-parallel-programming-cookbook-cn": [
+        "Other"
+    ],
+    "lambdalisue/suda.vim": [
+        "Other"
+    ],
+    "lanceliao/china-holiday-calender": [
+        "Other"
+    ],
+    "lauritzsh/pandoc-markdown-template": [
+        "Pandoc"
+    ],
+    "lazyparser/survival-manual-for-interns": [
+        "Other"
+    ],
+    "leachim6/hello-world": [
+        "Other"
+    ],
+    "ledger/ledger": [
+        "Utility"
+    ],
+    "ledger/vim-ledger": [
+        "Other"
+    ],
+    "leisurelicht/wtfpython-cn": [
+        "Other"
+    ],
+    "lensapp/lens": [
+        "Other"
+    ],
+    "lepture/opencc-python": [
+        "Python"
+    ],
+    "lerna/lerna": [
+        "Other"
+    ],
+    "lervag/vimtex": [
+        "Vim"
+    ],
+    "lesspass/lesspass": [
+        "Other"
+    ],
+    "lewis6991/impatient.nvim": [
+        "Other"
+    ],
+    "lework/kainstall": [
+        "Other"
+    ],
+    "libfuse/python-fuse": [
+        "Python"
+    ],
+    "libvips/libvips": [
+        "Other"
+    ],
+    "ligurio/awesome-ci": [
+        "Other"
+    ],
+    "lilydjwg/nvchecker": [
+        "Other"
+    ],
+    "lima-vm/lima": [
+        "Other"
+    ],
+    "lingfengsan/MillionHero": [
+        "Utility"
+    ],
+    "linusyang92/mipay-extract": [
+        "Android/MIUI"
+    ],
+    "linux-noah/noah": [
+        "Other"
+    ],
+    "linux-surface/linux-surface": [
+        "Other"
+    ],
+    "liriliri/licia": [
+        "Other"
+    ],
+    "littlecodersh/ItChat": [
+        "Chinese APP Hack/WeChat"
+    ],
+    "liubaoyua/CustomText": [
+        "Android/Xposed"
+    ],
+    "liubaoyua/CustomText-MD": [
+        "Android/Xposed"
+    ],
+    "liuchengxu/vim-clap": [
+        "Other"
+    ],
+    "liuchuo/PAT": [
+        "Other"
+    ],
+    "liuxinyu95/unplugged": [
+        "Other"
+    ],
+    "livechat/octopus": [
+        "Other"
+    ],
+    "ljharb/qs": [
+        "Other"
+    ],
+    "llimllib/bloomfilter-tutorial": [
+        "Computer Science"
+    ],
+    "lltcggie/waifu2x-caffe": [
+        "Utility",
+        "Machine Learning"
+    ],
+    "llvm/llvm-project": [
+        "Other"
+    ],
+    "lodash/lodash": [
+        "Other"
+    ],
+    "loft-sh/devspace": [
+        "Other"
+    ],
+    "lofyer/spice-webdav": [
+        "Other"
+    ],
+    "logaretm/vee-validate": [
+        "Other"
+    ],
+    "lokles/Web-Development-Interview-With-Java": [
+        "Other"
+    ],
+    "loomchild/volume-backup": [
+        "Docker"
+    ],
+    "loopeer/code-reader": [
+        "Android/APP"
+    ],
+    "losfair/mvsqlite": [
+        "Other"
+    ],
+    "louisdx/cxx-prettyprint": [
+        "Other"
+    ],
+    "lowlighter/metrics": [
+        "Other"
+    ],
+    "lrsjng/h5ai": [
+        "Other"
+    ],
+    "lsyncd/lsyncd": [
+        "Other"
+    ],
+    "lucaslorentz/caddy-docker-proxy": [
+        "Other"
+    ],
+    "luk1337/ih8sn": [
+        "Other"
+    ],
+    "lutris/lutris": [
+        "Other"
+    ],
+    "lutzroeder/netron": [
+        "Other"
+    ],
+    "lwouis/alt-tab-macos": [
+        "Other"
+    ],
+    "lxgw/LxgwWenKai": [
+        "Other"
+    ],
+    "m13253/BiliDan": [
+        "Utility"
+    ],
+    "m8/refined.blog": [
+        "Other"
+    ],
+    "maHidaka/ros_face": [
+        "Other"
+    ],
+    "machyve/xhyve": [
+        "Other"
+    ],
+    "magic-wormhole/magic-wormhole": [
+        "Other"
+    ],
+    "maguowei/starred": [
+        "GitHub"
+    ],
+    "maharmstone/btrfs": [
+        "Other"
+    ],
+    "mamba-org/mamba": [
+        "Other"
+    ],
+    "mamoe/mirai": [
+        "Other"
+    ],
+    "manisandro/gImageReader": [
+        "Other"
+    ],
+    "maralla/completor.vim": [
+        "Vim"
+    ],
+    "marcopompili/docker-nginx-git": [
+        "Other"
+    ],
+    "markdown-it/markdown-it": [
+        "Other"
+    ],
+    "marktext/marktext": [
+        "Other"
+    ],
+    "marlonrichert/zsh-snap": [
+        "Other"
+    ],
+    "martanne/dvtm": [
+        "Other"
+    ],
+    "martinus/map_benchmark": [
+        "Other"
+    ],
+    "mashirozx/deemo": [
+        "Other"
+    ],
+    "masonr/yet-another-bench-script": [
+        "Other"
+    ],
+    "mastodon/mastodon": [
+        "Other"
+    ],
+    "material-components/material-components-web": [
+        "Other"
+    ],
+    "material-shell/material-shell": [
+        "Other"
+    ],
+    "matheuss/google-translate-api": [
+        "Other"
+    ],
+    "matryer/xbar": [
+        "Other"
+    ],
+    "matteoserva/MegaFuse": [
+        "Other"
+    ],
+    "matthewwardrop/linux-surfacepro3": [
+        "Linux/Device/Surface"
+    ],
+    "mattingalls/Soundflower": [
+        "Other"
+    ],
+    "mattn/goreman": [
+        "Other"
+    ],
+    "mattzeunert/CSS-Todo-App": [
+        "Other"
+    ],
+    "mavnn/mintty-colors-solarized": [
+        "Windows/Terminal/Mintty"
+    ],
+    "mayswind/AriaNg": [
+        "Other"
+    ],
+    "mbbill/undotree": [
+        "Other"
+    ],
+    "mbrlabs/Lorien": [
+        "Other"
+    ],
+    "mchehab/zbar": [
+        "Other"
+    ],
+    "mcuadros/ofelia": [
+        "Other"
+    ],
+    "mdb/concourse-webhook-resource": [
+        "Other"
+    ],
+    "mdbootstrap/mdb-vue-ui-kit": [
+        "Other"
+    ],
+    "me-shaon/GLWTPL": [
+        "Other"
+    ],
+    "meefik/linuxdeploy": [
+        "Android/APP"
+    ],
+    "meganz/MEGAcmd": [
+        "Other"
+    ],
+    "megastep/makeself": [
+        "Other"
+    ],
+    "mellow-io/mellow": [
+        "Other"
+    ],
+    "mendsley/bsdiff": [
+        "Other"
+    ],
+    "menzi11/BullshitGenerator": [
+        "Other"
+    ],
+    "mercurius-js/mercurius": [
+        "Other"
+    ],
+    "mermaid-js/mermaid": [
+        "Other"
+    ],
+    "mesonbuild/meson": [
+        "Other"
+    ],
+    "mesosphere/traefik-forward-auth": [
+        "Other"
+    ],
+    "messense/aliyundrive-fuse": [
+        "Other"
+    ],
+    "messense/aliyundrive-webdav": [
+        "Other"
+    ],
+    "metafizzy/isotope": [
+        "Other"
+    ],
+    "metallb/metallb": [
+        "Other"
+    ],
+    "mhinz/vim-signify": [
+        "Other"
+    ],
+    "michael-rapp/gnome-shell-extension-hide-app-icon": [
+        "Other"
+    ],
+    "mickael-kerjean/filestash": [
+        "Other"
+    ],
+    "microsoft/WSL": [
+        "Other"
+    ],
+    "microsoft/WSL-DistroLauncher": [
+        "Other"
+    ],
+    "microsoft/monaco-editor": [
+        "Other"
+    ],
+    "microsoft/playwright": [
+        "Other"
+    ],
+    "microsoft/pyright": [
+        "Other"
+    ],
+    "microsoft/react-native-windows": [
+        "Other"
+    ],
+    "microsoft/vcpkg": [
+        "Other"
+    ],
+    "microsoft/vscode": [
+        "Other"
+    ],
+    "microsoft/winget-cli": [
+        "Other"
+    ],
+    "microsoft/winget-pkgs": [
+        "Other"
+    ],
+    "migueravila/SimpleFox": [
+        "Other"
+    ],
+    "millsp/ts-toolbelt": [
+        "Other"
+    ],
+    "milvus-io/milvus": [
+        "Other"
+    ],
+    "miniflux/v2": [
+        "Other"
+    ],
+    "mininet/mininet": [
+        "Other"
+    ],
+    "minio/minio": [
+        "Other"
+    ],
+    "mipmip/gnome-shell-extensions-useless-gaps": [
+        "Other"
+    ],
+    "mitchellh/mapstructure": [
+        "Other"
+    ],
+    "mitmproxy/mitmproxy": [
+        "Other"
+    ],
+    "mixu/distsysbook": [
+        "Other"
+    ],
+    "mk-fg/onedrive-fuse-fs": [
+        "Linux/Utility"
+    ],
+    "mlouielu/cn_constitution_2018": [
+        "Gov"
+    ],
+    "mmacneil/ASPNetCoreGraphQL": [
+        "Other"
+    ],
+    "mmiller42/html-webpack-externals-plugin": [
+        "Other"
+    ],
+    "mnielsen/neural-networks-and-deep-learning": [
+        "Other"
+    ],
+    "mochajs/mocha": [
+        "Other"
+    ],
+    "mockito/mockito": [
+        "Other"
+    ],
+    "mockito/mockito-kotlin": [
+        "Other"
+    ],
+    "modern-js-dev/modern.js": [
+        "Other"
+    ],
+    "mojombo/mojombo.github.io": [
+        "Blog"
+    ],
+    "moment/moment": [
+        "Other"
+    ],
+    "mono/t4": [
+        "Other"
+    ],
+    "monyhar/monyhar": [
+        "Other"
+    ],
+    "moovweb/gvm": [
+        "Other"
+    ],
+    "moq/moq4": [
+        "Other"
+    ],
+    "mortennobel/cpp-cheatsheet": [
+        "Other"
+    ],
+    "mozilla-services/syncserver": [
+        "Other"
+    ],
+    "mozilla/nunjucks": [
+        "Other"
+    ],
+    "mozilla/pdf.js": [
+        "Other"
+    ],
+    "mozillazg/python-pinyin": [
+        "Other"
+    ],
+    "mrvautin/adminMongo": [
+        "Other"
+    ],
+    "ms-jpq/chadtree": [
+        "Other"
+    ],
+    "msharov/snownews": [
+        "Other"
+    ],
+    "mskyaxl/wsl-terminal": [
+        "Other"
+    ],
+    "msojocs/wechat-web-devtools-linux": [
+        "Other"
+    ],
+    "muckSponge/MaterialFox": [
+        "Other"
+    ],
+    "muesli/duf": [
+        "Other"
+    ],
+    "muesli/gitomatic": [
+        "Other"
+    ],
+    "mui/material-ui": [
+        "Other"
+    ],
+    "multiprocessio/dsq": [
+        "Other"
+    ],
+    "mumoshu/variant": [
+        "Other"
+    ],
+    "museui/muse-ui": [
+        "Other"
+    ],
+    "mwh/dragon": [
+        "Other"
+    ],
+    "mysql-net/MySqlConnector": [
+        "Other"
+    ],
+    "mzlogin/mzlogin.github.io": [
+        "Blog"
+    ],
+    "n0wa11/gfw_whitelist": [
+        "GFW"
+    ],
+    "nagadomi/waifu2x": [
+        "Utility",
+        "Machine Learning"
+    ],
+    "nakst/gf": [
+        "Other"
+    ],
+    "nana-4/materia-theme": [
+        "Other"
+    ],
+    "nanmu42/orly": [
+        "Other"
+    ],
+    "natemcmaster/dotnet-tools": [
+        "Other"
+    ],
+    "nativefier/nativefier": [
+        "Other"
+    ],
+    "ncopa/lddtree": [
+        "Other"
+    ],
+    "ned14/outcome": [
+        "Other"
+    ],
+    "nefe/iron-redux": [
+        "Other"
+    ],
+    "neilpa/cmd-colors-solarized": [
+        "Windows/Terminal"
+    ],
+    "nelhage/reptyr": [
+        "Other"
+    ],
+    "neoclide/coc.nvim": [
+        "Other"
+    ],
+    "neovimhaskell/haskell-vim": [
+        "Other"
+    ],
+    "netbootxyz/netboot.xyz": [
+        "Other"
+    ],
+    "netcan/asyncio": [
+        "Other"
+    ],
+    "netdata/netdata": [
+        "Other"
+    ],
+    "neuland/micro-frontends": [
+        "Other"
+    ],
+    "neurosnap/lists.sh": [
+        "Other"
+    ],
+    "newTendermint/awesome-bigdata": [
+        "Other"
+    ],
+    "newren/git-filter-repo": [
+        "Other"
+    ],
+    "ngaut/builddatabase": [
+        "Other"
+    ],
+    "nginx-proxy/nginx-proxy": [
+        "Other"
+    ],
+    "ngs-lang/ngs": [
+        "Other"
+    ],
+    "nihui/waifu2x-ncnn-vulkan": [
+        "Other"
+    ],
+    "nissl-lab/npoi": [
+        "Other"
+    ],
+    "niudai/How-to-be-a-good-programmer": [
+        "Other"
+    ],
+    "nix-community/home-manager": [
+        "Other"
+    ],
+    "nkanaev/yarr": [
+        "Other"
+    ],
+    "nndl/nndl.github.io": [
+        "Other"
+    ],
+    "nocodb/nocodb": [
+        "Other"
+    ],
+    "noctuid/tdrop": [
+        "Other"
+    ],
+    "nok/leap-motion-processing": [
+        "Other"
+    ],
+    "nolanlawson/fuite": [
+        "Other"
+    ],
+    "nondanee/UnblockNeteaseMusic": [
+        "Other"
+    ],
+    "nondanee/ncmdump": [
+        "Other"
+    ],
+    "nonebot/nonebot2": [
+        "Other"
+    ],
+    "novoid/Memacs": [
+        "Other"
+    ],
+    "nreco/data": [
+        "Other"
+    ],
+    "nsf/termbox-go": [
+        "Other"
+    ],
+    "numetriclabz/awesome-db": [
+        "Other"
+    ],
+    "nusr/hacker-laws-zh": [
+        "Other"
+    ],
+    "nvm-sh/nvm": [
+        "Other"
+    ],
+    "oae/gnome-shell-pano": [
+        "Other"
+    ],
+    "oap-project/gazelle_plugin": [
+        "Other"
+    ],
+    "oap-project/gluten": [
+        "Other"
+    ],
+    "oceanbase/oceanbase": [
+        "Other"
+    ],
+    "ochinchina/supervisord": [
+        "Other"
+    ],
+    "ochukai/wepy-com-toptip": [
+        "Other"
+    ],
+    "ocibuilder/ocibuilder": [
+        "Other"
+    ],
+    "ocornut/imgui": [
+        "Other"
+    ],
+    "octokit/octokit.js": [
+        "Other"
+    ],
+    "odziom91/libadwaita-theme-changer": [
+        "Other"
+    ],
+    "oguimbal/pg-mem": [
+        "Other"
+    ],
+    "oh-my-fish/oh-my-fish": [
+        "Other"
+    ],
+    "ohmyzsh/ohmyzsh": [
+        "Other"
+    ],
+    "olivierlacan/keep-a-changelog": [
+        "Other"
+    ],
+    "oltpbenchmark/oltpbench": [
+        "Other"
+    ],
+    "ongardie/raftscope": [
+        "Other"
+    ],
+    "onsi/ginkgo": [
+        "Other"
+    ],
+    "open-keychain/open-keychain": [
+        "Other"
+    ],
+    "open-source-translation/celery-cn": [
+        "Other"
+    ],
+    "openSUSE/lftp-concourse-resource": [
+        "Other"
+    ],
+    "openSUSE/snapper": [
+        "Other"
+    ],
+    "openpaperwork/paperwork": [
+        "Other"
+    ],
+    "opensource-f2f/episode": [
+        "Other"
+    ],
+    "openstack/stevedore": [
+        "Other"
+    ],
+    "optimisme/gjs-examples": [
+        "Other"
+    ],
+    "oracle/graal": [
+        "Other"
+    ],
+    "oracle/graaljs": [
+        "Other"
+    ],
+    "oreboot/oreboot": [
+        "Other"
+    ],
+    "orgzly/orgzly-android": [
+        "Other"
+    ],
+    "ory/fosite": [
+        "Other"
+    ],
+    "ory/hydra": [
+        "Other"
+    ],
+    "ostreedev/ostree": [
+        "Other"
+    ],
+    "overmighty/i-use-arch-btw": [
+        "Other"
+    ],
+    "p-e-w/argos": [
+        "Linux/GUI/Desktop Environment/Gnome/Extension"
+    ],
+    "pH14/fdb-zk": [
+        "Other"
+    ],
+    "pacien/tincapp": [
+        "Other"
+    ],
+    "pallets/click": [
+        "Python"
+    ],
+    "pangloss/vim-javascript": [
+        "Other"
+    ],
+    "papers-we-love/papers-we-love": [
+        "Other"
+    ],
+    "paperwm/PaperWM": [
+        "Other"
+    ],
+    "papis/papis": [
+        "Other"
+    ],
+    "papis/papis-zotero": [
+        "Other"
+    ],
+    "paradoxxxzero/gnome-shell-system-monitor-applet": [
+        "Linux/GUI/Desktop Environment/Gnome/Extension"
+    ],
+    "paramiko/paramiko": [
+        "Other"
+    ],
+    "parcel-bundler/lightningcss": [
+        "Other"
+    ],
+    "pattex/jekyll-tagging": [
+        "Jekyll"
+    ],
+    "paulcollett/vue-masonry-css": [
+        "Other"
+    ],
+    "paulmillr/chokidar": [
+        "Other"
+    ],
+    "pawelsalawa/sqlitestudio": [
+        "SQLite"
+    ],
+    "pbharrin/machinelearninginaction": [
+        "Other"
+    ],
+    "pcottle/learnGitBranching": [
+        "Other"
+    ],
+    "pdudits/soundlibs": [
+        "Java"
+    ],
+    "peaceiris/actions-gh-pages": [
+        "Other"
+    ],
+    "pemistahl/grex": [
+        "Other"
+    ],
+    "peng-zhihui/XUAN": [
+        "Other"
+    ],
+    "percona/PerconaFT": [
+        "Other"
+    ],
+    "perlancar/perl-Org-Parser": [
+        "Other"
+    ],
+    "peterq/pan-light": [
+        "Other"
+    ],
+    "petoolse/petools": [
+        "Other"
+    ],
+    "pganalyze/libpg_query": [
+        "Other"
+    ],
+    "phocean/TopIcons-plus": [
+        "Linux/GUI/Desktop Environment/Gnome/Extension"
+    ],
+    "phodal/tangping": [
+        "Other"
+    ],
+    "phoronix-test-suite/phoronix-test-suite": [
+        "Other"
+    ],
+    "photondb/photondb": [
+        "Other"
+    ],
+    "phuhl/linux_notification_center": [
+        "Other"
+    ],
+    "phw/peek": [
+        "Other"
+    ],
+    "pikax/vue-composable": [
+        "Other"
+    ],
+    "pimutils/khal": [
+        "Other"
+    ],
+    "pingcap/awesome-database-learning": [
+        "Other"
+    ],
+    "pingcap/benchmarksql": [
+        "Other"
+    ],
+    "pingcap/tidb": [
+        "Other"
+    ],
+    "piotrwitek/utility-types": [
+        "Other"
+    ],
+    "pixel-saver/pixel-saver": [
+        "Other"
+    ],
+    "plaintextaccounting/plaintextaccounting": [
+        "Other"
+    ],
+    "plantuml-stdlib/C4-PlantUML": [
+        "Other"
+    ],
+    "plantuml/plantuml": [
+        "Other"
+    ],
+    "plasma-disassembler/plasma": [
+        "Other"
+    ],
+    "plk/biber": [
+        "Other"
+    ],
+    "plk/biblatex": [
+        "Other"
+    ],
+    "pluja/awesome-privacy": [
+        "Other"
+    ],
+    "pnigos/hookjs": [
+        "Web/JavaScript"
+    ],
+    "pnpm/pnpm": [
+        "Other"
+    ],
+    "pock/pock": [
+        "Other"
+    ],
+    "pocoproject/poco": [
+        "Other"
+    ],
+    "polybar/polybar": [
+        "Other"
+    ],
+    "pop-os/shell": [
+        "Other"
+    ],
+    "portainer/portainer": [
+        "Docker"
+    ],
+    "postcss/postcss-custom-properties": [
+        "Other"
+    ],
+    "postgres/postgres": [
+        "Other"
+    ],
+    "posva/vim-vue": [
+        "Other"
+    ],
+    "posva/vue-promised": [
+        "Other"
+    ],
+    "ppwwyyxx/wechat-dump": [
+        "Other"
+    ],
+    "pre-commit/pre-commit": [
+        "Other"
+    ],
+    "preactjs/preact": [
+        "Other"
+    ],
+    "preactjs/preact-cli": [
+        "Other"
+    ],
+    "preservim/nerdcommenter": [
+        "Other"
+    ],
+    "preservim/nerdtree": [
+        "Other"
+    ],
+    "preservim/tagbar": [
+        "Other"
+    ],
+    "presslabs/gitfs": [
+        "Other"
+    ],
+    "prettier/prettier": [
+        "Other"
+    ],
+    "prikhi/lightdm-mini-greeter": [
+        "Linux/GUI/Display Manager"
+    ],
+    "prinsss/blessing-skin-server": [
+        "Other"
+    ],
+    "prisma-labs/graphql-request": [
+        "Other"
+    ],
+    "projectcontour/contour": [
+        "Other"
+    ],
+    "prometheus/prometheus": [
+        "Other"
+    ],
+    "proot-me/proot": [
+        "Other"
+    ],
+    "proxyee-down-org/proxyee-down": [
+        "Other"
+    ],
+    "prprprus/scheduler": [
+        "Other"
+    ],
+    "psf/requests-html": [
+        "Other"
+    ],
+    "puppeteer/puppeteer": [
+        "Other"
+    ],
+    "puppetlabs/puppet": [
+        "Other"
+    ],
+    "pyenv/pyenv": [
+        "Other"
+    ],
+    "pygments/pygments": [
+        "Other"
+    ],
+    "pypa/flit": [
+        "Other"
+    ],
+    "pypa/pipenv": [
+        "Python"
+    ],
+    "pypa/pipx": [
+        "Other"
+    ],
+    "pytest-dev/pytest-testinfra": [
+        "Other"
+    ],
+    "python-mode/python-mode": [
+        "Vim"
+    ],
+    "python-pillow/Pillow": [
+        "Other"
+    ],
+    "python-poetry/poetry": [
+        "Other"
+    ],
+    "pytorch/vision": [
+        "Other"
+    ],
+    "qgaye/DataStructures": [
+        "Other"
+    ],
+    "qgaye/note": [
+        "Other"
+    ],
+    "qgaye/qgaye": [
+        "Other"
+    ],
+    "qier222/YesPlayMusic": [
+        "Other"
+    ],
+    "qinguoyi/TinyWebServer": [
+        "Other"
+    ],
+    "qor/auth": [
+        "Other"
+    ],
+    "qrohlf/trianglify": [
+        "Other"
+    ],
+    "quartznet/quartznet": [
+        "Other"
+    ],
+    "quip/quip-api": [
+        "Other"
+    ],
+    "rafaelmardojai/firefox-gnome-scrollbars": [
+        "Other"
+    ],
+    "rafaelmardojai/firefox-gnome-theme": [
+        "Other"
+    ],
+    "rakyll/statik": [
+        "Other"
+    ],
+    "ramda/ramda": [
+        "Other"
+    ],
+    "rami3l/pacaptr": [
+        "Other"
+    ],
+    "ramottamado/eval-gjs": [
+        "Other"
+    ],
+    "rancher/local-path-provisioner": [
+        "Other"
+    ],
+    "ranxian/xv6-chinese": [
+        "Other"
+    ],
+    "ray-project/ray": [
+        "Other"
+    ],
+    "rclone/rclone": [
+        "Other"
+    ],
+    "realmazharhussain/gdm-settings": [
+        "Other"
+    ],
+    "realywithoutname/mini-program-webpack-loader": [
+        "Other"
+    ],
+    "redis/redis": [
+        "Other"
+    ],
+    "redpanda-data/console": [
+        "Other"
+    ],
+    "reduxjs/redux": [
+        "Other"
+    ],
+    "refi64/stylepak": [
+        "Other"
+    ],
+    "refined-github/refined-github": [
+        "Other"
+    ],
+    "remaxjs/remax": [
+        "Other"
+    ],
+    "remjey/luaotp": [
+        "Other"
+    ],
+    "remotion-dev/remotion": [
+        "Other"
+    ],
+    "replicatedhq/local-volume-provider": [
+        "Other"
+    ],
+    "replit-archive/repl.it": [
+        "Other"
+    ],
+    "repsac-by/gnome-shell-extension-quake-mode": [
+        "Other"
+    ],
+    "restic/others": [
+        "Other"
+    ],
+    "restic/restic": [
+        "Other"
+    ],
+    "resumejob/awesome-resume": [
+        "Other"
+    ],
+    "revolist/revogrid": [
+        "Other"
+    ],
+    "revolist/vue-datagrid": [
+        "Other"
+    ],
+    "rfjakob/earlyoom": [
+        "Other"
+    ],
+    "rfjakob/gocryptfs": [
+        "Other"
+    ],
+    "rgov/Thunderbolt3Unblocker": [
+        "Other"
+    ],
+    "rigor789/vue-scrollto": [
+        "Other"
+    ],
+    "rime/plum": [
+        "Other"
+    ],
+    "rime/rime-emoji": [
+        "Other"
+    ],
+    "risingwavelabs/risingwave": [
+        "Other"
+    ],
+    "ritave/xeventbind": [
+        "Other"
+    ],
+    "ritz078/transform": [
+        "Other"
+    ],
+    "riverwm/river": [
+        "Other"
+    ],
+    "rjsf-team/react-jsonschema-form": [
+        "Other"
+    ],
+    "rkalla/imgscalr": [
+        "Java"
+    ],
+    "robfig/cron": [
+        "Other"
+    ],
+    "robinvdvleuten/vuex-persistedstate": [
+        "Other"
+    ],
+    "rocksdanister/lively": [
+        "Other"
+    ],
+    "rohanrhu/gdb-frontend": [
+        "Other"
+    ],
+    "rollup/rollup": [
+        "Other"
+    ],
+    "roncoo/roncoo-pay": [
+        "Other"
+    ],
+    "ronv/lines": [
+        "Other"
+    ],
+    "roryprimrose/Divergic.Logging.Xunit": [
+        "Other"
+    ],
+    "rosghub/TLP-Switcher": [
+        "Linux/GUI/Desktop Environment/Gnome/Extension"
+    ],
+    "rouge-ruby/rouge": [
+        "Other"
+    ],
+    "roxma/vim-hug-neovim-rpc": [
+        "Vim"
+    ],
+    "rpardini/docker-registry-proxy": [
+        "Other"
+    ],
+    "rprichard/wslbridge": [
+        "Windows/WSL"
+    ],
+    "rqlite/rqlite": [
+        "Other"
+    ],
+    "rs/zerolog": [
+        "Other"
+    ],
+    "rtyley/bfg-repo-cleaner": [
+        "Other"
+    ],
+    "ruffle-rs/ruffle": [
+        "Other"
+    ],
+    "rui314/chibicc": [
+        "Other"
+    ],
+    "rui314/mold": [
+        "Other"
+    ],
+    "rust-lang-cn/book-cn": [
+        "Other"
+    ],
+    "rust-lang/mdBook": [
+        "Other"
+    ],
+    "rustdesk/rustdesk": [
+        "Other"
+    ],
+    "rxin/db-readings": [
+        "Other"
+    ],
+    "ryanoasis/nerd-fonts": [
+        "Other"
+    ],
+    "rytilahti/python-miio": [
+        "Other"
+    ],
+    "saarasio/enroute": [
+        "Other"
+    ],
+    "sabre-io/Baikal": [
+        "Other"
+    ],
+    "saeziae/manjaro2archlinux": [
+        "Other"
+    ],
+    "saltstack/salt": [
+        "Other"
+    ],
+    "sammydre/ts-for-gir": [
+        "Other"
+    ],
+    "samsheff/Amazon-Kindle-Cross-Toolchain": [
+        "Kindle"
+    ],
+    "samyk/evercookie": [
+        "Other"
+    ],
+    "sansquoi/PlushCV": [
+        "Other"
+    ],
+    "sapk/docker-volume-rclone": [
+        "Other"
+    ],
+    "sass/sass": [
+        "Other"
+    ],
+    "satwikkansal/wtfpython": [
+        "Other"
+    ],
+    "sboli/twmn": [
+        "Other"
+    ],
+    "scala/scala": [
+        "Other"
+    ],
+    "schollz/croc": [
+        "Other"
+    ],
+    "scinos/yarn-deduplicate": [
+        "Other"
+    ],
+    "screepers/screeps-multimeter": [
+        "Other"
+    ],
+    "screepers/screeps-typescript-starter": [
+        "Other"
+    ],
+    "screeps/screeps": [
+        "Other"
+    ],
+    "seata/seata": [
+        "Other"
+    ],
+    "seblucas/cops": [
+        "Other"
+    ],
+    "seedvault-app/seedvault": [
+        "Other"
+    ],
+    "seeingtheory/Seeing-Theory": [
+        "Other"
+    ],
+    "senzhk/ADBKeyBoard": [
+        "Other"
+    ],
+    "serhii-londar/open-source-mac-os-apps": [
+        "Other"
+    ],
+    "serjs/socks5-server": [
+        "Other"
+    ],
+    "sevenuz/gnome-translate-indicator": [
+        "Other"
+    ],
+    "severin-lemaignan/vim-minimap": [
+        "Vim"
+    ],
+    "shadowsocks/shadowsocks-windows": [
+        "GFW"
+    ],
+    "shadowsocksr-backup/shadowsocksr": [
+        "GFW"
+    ],
+    "shadowsocksrr/shadowsocksr-csharp": [
+        "GFW"
+    ],
+    "shanghai2022/shanghai2022": [
+        "Other"
+    ],
+    "shannonmoeller/handlebars-layouts": [
+        "Other"
+    ],
+    "shannpersand/comic-shanns": [
+        "Other"
+    ],
+    "sharkdp/bat": [
+        "Other"
+    ],
+    "sharkdp/hexyl": [
+        "Other"
+    ],
+    "sharkdp/vivid": [
+        "Other"
+    ],
+    "shelljs/shx": [
+        "Other"
+    ],
+    "shenfeng/tiny-web-server": [
+        "C"
+    ],
+    "shengcaishizhan/kkndme_tianya": [
+        "Other"
+    ],
+    "shengxinjing/programmer-job-blacklist": [
+        "Other"
+    ],
+    "shimohq/chinese-programmer-wrong-pronunciation": [
+        "Other"
+    ],
+    "shopspring/decimal": [
+        "Other"
+    ],
+    "sickcodes/Docker-OSX": [
+        "Other"
+    ],
+    "sigeryang/ropez": [
+        "Other"
+    ],
+    "sigmavirus24/github3.py": [
+        "GitHub"
+    ],
+    "sigoden/dufs": [
+        "Other"
+    ],
+    "simonmichael/hledger": [
+        "Other"
+    ],
+    "simple-icons/simple-icons": [
+        "Other"
+    ],
+    "simplyzee/kube-rclone": [
+        "Other"
+    ],
+    "sindresorhus/Plash": [
+        "Other"
+    ],
+    "sindresorhus/awesome": [
+        "Other"
+    ],
+    "sindresorhus/github-markdown-css": [
+        "Other"
+    ],
+    "sirredbeard/Awesome-WSL": [
+        "Other"
+    ],
+    "sirupsen/logrus": [
+        "Other"
+    ],
+    "sitaramc/gitolite": [
+        "Other"
+    ],
+    "siyuan-note/siyuan": [
+        "Other"
+    ],
+    "skilion/onedrive": [
+        "Linux/Utility"
+    ],
+    "skooner-k8s/skooner": [
+        "Other"
+    ],
+    "skygragon/leetcode-cli": [
+        "Other"
+    ],
+    "skylot/jadx": [
+        "Java",
+        "Android"
+    ],
+    "skywind3000/asyncrun.vim": [
+        "Other"
+    ],
+    "skywind3000/kcp": [
+        "Other"
+    ],
+    "skywind3000/vim": [
+        "Vim"
+    ],
+    "slacka/WoeUSB": [
+        "Other"
+    ],
+    "slidevjs/slidev": [
+        "Other"
+    ],
+    "smxi/inxi": [
+        "Other"
+    ],
+    "snachx/gfwlist2privoxy": [
+        "GFW"
+    ],
+    "snwh/paper-gtk-theme": [
+        "Linux/GUI/Desktop Environment/Gnome/Theme"
+    ],
+    "sobolevn/git-secret": [
+        "Other"
+    ],
+    "soduto/Soduto": [
+        "Other"
+    ],
+    "soimort/translate-shell": [
+        "Other"
+    ],
+    "soimort/you-get": [
+        "Other"
+    ],
+    "solidjs/solid": [
+        "Other"
+    ],
+    "solo-io/gloo": [
+        "Other"
+    ],
+    "songgao/water": [
+        "Other"
+    ],
+    "sorin-ionescu/prezto": [
+        "Other"
+    ],
+    "soruly/trace.moe": [
+        "Other"
+    ],
+    "soulmachine/leetcode": [
+        "Other"
+    ],
+    "soupi/learn-haskell-blog-generator": [
+        "Other"
+    ],
+    "souporserious/react-measure": [
+        "Other"
+    ],
+    "sourcegraph/go-langserver": [
+        "Other"
+    ],
+    "sourcery-ai/sourcery": [
+        "Other"
+    ],
+    "sparksuite/simplemde-markdown-editor": [
+        "Other"
+    ],
+    "spf13/cobra": [
+        "Other"
+    ],
+    "spf13/viper": [
+        "Other"
+    ],
+    "spin83/multi-monitors-add-on": [
+        "Other"
+    ],
+    "spwhitton/git-remote-gcrypt": [
+        "Other"
+    ],
+    "sqlitebrowser/sqlitebrowser": [
+        "SQLite"
+    ],
+    "sqlparser-rs/sqlparser-rs": [
+        "Other"
+    ],
+    "square/go-jose": [
+        "Other"
+    ],
+    "square/logcat": [
+        "Other"
+    ],
+    "square/moshi": [
+        "Other"
+    ],
+    "square/retrofit": [
+        "Other"
+    ],
+    "srevinsaju/guiscrcpy": [
+        "Other"
+    ],
+    "ssshooter/mind-elixir-core": [
+        "Other"
+    ],
+    "stashed/stash": [
+        "Other"
+    ],
+    "staticlibs/ccronexpr": [
+        "Other"
+    ],
+    "stefan-niedermann/nextcloud-notes": [
+        "Nextcloud"
+    ],
+    "stephenh/mirror": [
+        "Other"
+    ],
+    "stephenh/ts-proto": [
+        "Other"
+    ],
+    "stevenjoezhang/live2d-widget": [
+        "Other"
+    ],
+    "stilliard/docker-pure-ftpd": [
+        "Other"
+    ],
+    "stitchesjs/stitches": [
+        "Other"
+    ],
+    "streamich/react-use": [
+        "Other"
+    ],
+    "stretchr/testify": [
+        "Other"
+    ],
+    "studentmain/censor": [
+        "Other"
+    ],
+    "studyzy/imewlconverter": [
+        "Utility"
+    ],
+    "stv0g/stm32cube-gcc": [
+        "Other"
+    ],
+    "styled-components/styled-components": [
+        "Other"
+    ],
+    "substrait-io/substrait": [
+        "Other"
+    ],
+    "sudar/vim-arduino-snippets": [
+        "Vim",
+        "Arduino"
+    ],
+    "sudar/vim-arduino-syntax": [
+        "Vim",
+        "Arduino"
+    ],
+    "sunfkny/genshin-gacha-export": [
+        "Other"
+    ],
+    "sunym1993/flash-linux0.11-talk": [
+        "Other"
+    ],
+    "superwf/vuex-cache": [
+        "Other"
+    ],
+    "susers/Writeups": [
+        "Other"
+    ],
+    "sveltejs/svelte": [
+        "Other"
+    ],
+    "svengong/xcubebase": [
+        "Other"
+    ],
+    "swagger-api/swagger-codegen": [
+        "Other"
+    ],
+    "syncthing/syncthing": [
+        "Other"
+    ],
+    "syntaxhighlighter/syntaxhighlighter": [
+        "Web/JavaScript"
+    ],
+    "sysprog21/lkmpg": [
+        "Other"
+    ],
+    "systemd/systemd": [
+        "Other"
+    ],
+    "systemd/zram-generator": [
+        "Other"
+    ],
+    "szimek/sharedrop": [
+        "Other"
+    ],
+    "tachiyomiorg/tachiyomi": [
+        "Other"
+    ],
+    "tadly/hideIt.sh": [
+        "Other"
+    ],
+    "taichi-framework/TaiChi": [
+        "Other"
+    ],
+    "tailwindlabs/tailwindcss": [
+        "Other"
+    ],
+    "taki0112/UGATIT": [
+        "Other"
+    ],
+    "talent-plan/tinykv": [
+        "Other"
+    ],
+    "talent-plan/tinysql": [
+        "Other"
+    ],
+    "tangwz/db-monthly": [
+        "Other"
+    ],
+    "taowen/modularization-examples": [
+        "Other"
+    ],
+    "tclem/vim-arduino": [
+        "Vim",
+        "Arduino"
+    ],
+    "tcnksm/ghr": [
+        "Other"
+    ],
+    "technicalpickles/homesick": [
+        "Other"
+    ],
+    "teddysun/across": [
+        "GFW"
+    ],
+    "teejee2008/timeshift": [
+        "Other"
+    ],
+    "telepresenceio/telepresence": [
+        "Other"
+    ],
+    "tensorbase/tensorbase": [
+        "Other"
+    ],
+    "termux/termux-app": [
+        "Android/APP/Utility"
+    ],
+    "termux/termux-services": [
+        "Other"
+    ],
+    "terser/terser": [
+        "Other"
+    ],
+    "tesseract-ocr/tesseract": [
+        "Other"
+    ],
+    "texworld/blacktex": [
+        "Other"
+    ],
+    "thangchung/awesome-dotnet-core": [
+        "Other"
+    ],
+    "the-cavalry/light-locker": [
+        "Other"
+    ],
+    "theQuert/XPS-9360-macOS": [
+        "Other"
+    ],
+    "theanalyst/awesome-distributed-systems": [
+        "Other"
+    ],
+    "theasp/docker-novnc": [
+        "Other"
+    ],
+    "themix-project/themix-gui": [
+        "Other"
+    ],
+    "theryangeary/choose": [
+        "Other"
+    ],
+    "theskumar/python-dotenv": [
+        "Other"
+    ],
+    "thestinger/termite": [
+        "Other"
+    ],
+    "thetirefire/badidea": [
+        "Other"
+    ],
+    "thisboyiscrazy/vscode-rsync": [
+        "Other"
+    ],
+    "thomseddon/traefik-forward-auth": [
+        "Other"
+    ],
+    "tidb-incubator/tidis": [
+        "Other"
+    ],
+    "tikv/tikv": [
+        "Other"
+    ],
+    "tilt-dev/tilt": [
+        "Other"
+    ],
+    "timarney/react-app-rewired": [
+        "Other"
+    ],
+    "timbertson/shellshape": [
+        "Other"
+    ],
+    "timbertson/slinger": [
+        "Other"
+    ],
+    "timvisee/send": [
+        "Other"
+    ],
+    "tinajs/mina-webpack": [
+        "Other"
+    ],
+    "tinajs/tina": [
+        "Other"
+    ],
+    "tindy2013/subconverter": [
+        "Other"
+    ],
+    "tinted-theming/base16-termite": [
+        "Other"
+    ],
+    "tinysearch/tinysearch": [
+        "Other"
+    ],
+    "tipsy/j2html": [
+        "Java"
+    ],
+    "tj/n": [
+        "Other"
+    ],
+    "tkem/cachetools": [
+        "Python"
+    ],
+    "tldr-pages/tldr": [
+        "Other"
+    ],
+    "tleunen/babel-plugin-module-resolver": [
+        "Other"
+    ],
+    "tmrts/go-patterns": [
+        "Other"
+    ],
+    "tmux-plugins/tmux-resurrect": [
+        "Other"
+    ],
+    "tmux-plugins/tmux-sensible": [
+        "Other"
+    ],
+    "tmux-plugins/tpm": [
+        "Other"
+    ],
+    "tolerious/Programming_learning_resource": [
+        "Other"
+    ],
+    "tomduck/pandoc-eqnos": [
+        "Other"
+    ],
+    "tonybaloney/Pyjion": [
+        "Other"
+    ],
+    "tonybeltramelli/pix2code": [
+        "Other"
+    ],
+    "top-bettercode/docker-qq": [
+        "Other"
+    ],
+    "tpope/vim-eunuch": [
+        "Other"
+    ],
+    "tpope/vim-speeddating": [
+        "Other"
+    ],
+    "tqdm/tqdm": [
+        "Other"
+    ],
+    "traefik/traefik": [
+        "Other"
+    ],
+    "trashpanda001/docker-alpine-sshd": [
+        "Other"
+    ],
+    "trazyn/ieaseMusic": [
+        "Other"
+    ],
+    "trazyn/weweChat": [
+        "Chinese APP Hack/WeChat"
+    ],
+    "treeverse/lakeFS": [
+        "Other"
+    ],
+    "tsl0922/ttyd": [
+        "Other"
+    ],
+    "tsujan/Kvantum": [
+        "Other"
+    ],
+    "tuberry/color-picker": [
+        "Other"
+    ],
+    "tuberry/ibus-tweaker": [
+        "Other"
+    ],
+    "tuberry/light-dict": [
+        "Other"
+    ],
+    "tuplex/tuplex": [
+        "Other"
+    ],
+    "tusdotnet/tusdotnet": [
+        "Other"
+    ],
+    "tusen-ai/naive-ui": [
+        "Other"
+    ],
+    "tvfe/wxpage": [
+        "Other"
+    ],
+    "twpayne/chezmoi": [
+        "Other"
+    ],
+    "txthinking/socks5": [
+        "Other"
+    ],
+    "txyyss/Lambda-Calculus": [
+        "Other"
+    ],
+    "typicode/husky": [
+        "Other"
+    ],
+    "tyru/caw.vim": [
+        "Other"
+    ],
+    "uber/AutoDispose": [
+        "Other"
+    ],
+    "uber/baseweb": [
+        "Other"
+    ],
+    "ubuntu-touch-clover/Droidian4Clover": [
+        "Other"
+    ],
+    "ubuntu/libreoffice-style-yaru-fullcolor": [
+        "Other"
+    ],
+    "ufoscout/docker-compose-wait": [
+        "Other"
+    ],
+    "ultralight-ux/Ultralight": [
+        "Other"
+    ],
+    "umdjs/umd": [
+        "Other"
+    ],
+    "umijs/qiankun": [
+        "Other"
+    ],
+    "unchase/Unchase.Swashbuckle.AspNetCore.Extensions": [
+        "Other"
+    ],
+    "undergroundwires/privacy.sexy": [
+        "Other"
+    ],
+    "unknwon/the-way-to-go_ZH_CN": [
+        "Other"
+    ],
+    "unlock-music/unlock-music": [
+        "Other"
+    ],
+    "upptime/upptime": [
+        "Other"
+    ],
+    "upupming/new-grad-positions": [
+        "Other"
+    ],
+    "urql-graphql/urql": [
+        "Other"
+    ],
+    "utmapp/UTM": [
+        "Other"
+    ],
+    "utterance/utterances": [
+        "Other"
+    ],
+    "v2fly/docker": [
+        "Other"
+    ],
+    "v2fly/v2ray-core": [
+        "Other"
+    ],
+    "v2ray/v2ray-core": [
+        "GFW"
+    ],
+    "v8/v8": [
+        "Other"
+    ],
+    "vadimcn/vscode-lldb": [
+        "Other"
+    ],
+    "vala-lang/vala-language-server": [
+        "Other"
+    ],
+    "vala-lang/vala-lint": [
+        "Other"
+    ],
+    "vbauerster/mpb": [
+        "Other"
+    ],
+    "vcheckzen/MIUIThemeDownloader": [
+        "Other"
+    ],
+    "ventoy/Ventoy": [
+        "Other"
+    ],
+    "vercel/serve": [
+        "Other"
+    ],
+    "verdaccio/verdaccio": [
+        "Other"
+    ],
+    "viatsko/awesome-vscode": [
+        "Other"
+    ],
+    "vim-awesome/vim-awesome": [
+        "Vim"
+    ],
+    "vim-pandoc/vim-pandoc": [
+        "Vim",
+        "Pandoc"
+    ],
+    "vim-pandoc/vim-pandoc-after": [
+        "Vim",
+        "Pandoc"
+    ],
+    "vim-pandoc/vim-pandoc-syntax": [
+        "Vim",
+        "Pandoc"
+    ],
+    "vim-python/python-syntax": [
+        "Vim"
+    ],
+    "vim/vim": [
+        "Other"
+    ],
+    "vinceliuice/Fluent-gtk-theme": [
+        "Other"
+    ],
+    "vinceliuice/Fluent-icon-theme": [
+        "Other"
+    ],
+    "vinceliuice/Graphite-gtk-theme": [
+        "Other"
+    ],
+    "vinceliuice/Orchis-theme": [
+        "Other"
+    ],
+    "vinceliuice/Qogir-icon-theme": [
+        "Other"
+    ],
+    "vinceliuice/Tela-icon-theme": [
+        "Other"
+    ],
+    "vincentbernat/hellogopher": [
+        "Other"
+    ],
+    "viniciuschiele/flask-apscheduler": [
+        "Python"
+    ],
+    "virgili0/Virgilio": [
+        "Other"
+    ],
+    "vitejs/vite": [
+        "Other"
+    ],
+    "vitessio/vitess": [
+        "Other"
+    ],
+    "vlang/v": [
+        "Other"
+    ],
+    "vldbss-2021/vldb-2021-labs": [
+        "Other"
+    ],
+    "vmware-archive/cron-resource": [
+        "Other"
+    ],
+    "vmware-tanzu/carvel-kapp": [
+        "Other"
+    ],
+    "vmware-tanzu/octant": [
+        "Other"
+    ],
+    "vmware-tanzu/velero": [
+        "Other"
+    ],
+    "vnotex/vnote": [
+        "Other"
+    ],
+    "voderl/genshin-gacha-analyzer": [
+        "Other"
+    ],
+    "volatiletech/authboss": [
+        "Other"
+    ],
+    "vue-styleguidist/vue-styleguidist": [
+        "Other"
+    ],
+    "vuedx/languagetools": [
+        "Other"
+    ],
+    "vuejs/awesome-vue": [
+        "Other"
+    ],
+    "vuejs/core": [
+        "Other"
+    ],
+    "vuejs/petite-vue": [
+        "Other"
+    ],
+    "vuematerial/vue-material": [
+        "Web/Vue"
+    ],
+    "vuetifyjs/vuetify": [
+        "Web/Vue"
+    ],
+    "vueuse/vueuse": [
+        "Other"
+    ],
+    "vufa/deepin-wine-qq-arch": [
+        "Other"
+    ],
+    "vufa/deepin-wine-wechat-arch": [
+        "Other"
+    ],
+    "wader/fq": [
+        "Other"
+    ],
+    "wal-g/wal-g": [
+        "Other"
+    ],
+    "wanghenshui/cppweeklynews": [
+        "Other"
+    ],
+    "wangshub/wechat_jump_game": [
+        "Chinese APP Hack/WeChat/Mini Program"
+    ],
+    "wangxian/alpine-mysql": [
+        "Docker"
+    ],
+    "wangyu-/udp2raw": [
+        "Other"
+    ],
+    "wangyu-/udp2raw-multiplatform": [
+        "Other"
+    ],
+    "waydroid/waydroid": [
+        "Other"
+    ],
+    "weaveworks/scope": [
+        "Other"
+    ],
+    "weaveworks/weave": [
+        "Other"
+    ],
+    "webpack-contrib/mini-css-extract-plugin": [
+        "Other"
+    ],
+    "webpack-contrib/postcss-loader": [
+        "Other"
+    ],
+    "webpack/webpack": [
+        "Other"
+    ],
+    "websanova/vue-auth": [
+        "Other"
+    ],
+    "wechat-miniprogram/api-typings": [
+        "Other"
+    ],
+    "wechatpy/wechatpy": [
+        "Other"
+    ],
+    "wechaty/wechaty": [
+        "Other"
+    ],
+    "wengxt/gnome-shell-extension-kimpanel": [
+        "Other"
+    ],
+    "wenyan-lang/wenyan": [
+        "Other"
+    ],
+    "wepyjs/wepy-weui-demo": [
+        "Other"
+    ],
+    "wernight/docker-duplicity": [
+        "Other"
+    ],
+    "wernight/docker-ngrok": [
+        "Other"
+    ],
+    "wetools/wept": [
+        "Other"
+    ],
+    "wg/wrk": [
+        "Other"
+    ],
+    "wgwoods/vim-systemd-syntax": [
+        "Other"
+    ],
+    "will-ww/IntroDaSE": [
+        "Other"
+    ],
+    "willdoescode/nat": [
+        "Other"
+    ],
+    "win0err/gnome-runcat": [
+        "Other"
+    ],
+    "winfsp/sshfs-win": [
+        "Other"
+    ],
+    "winfsp/winfsp": [
+        "Other"
+    ],
+    "woai3c/nand2tetris": [
+        "Other"
+    ],
+    "wonderful-panda/vue-tsx-support": [
+        "Other"
+    ],
+    "wormtql/genshin_artifact": [
+        "Other"
+    ],
+    "wormtql/yas": [
+        "Other"
+    ],
+    "wubaiqing/zaobao": [
+        "Other"
+    ],
+    "wunderio/csi-rclone": [
+        "Other"
+    ],
+    "wuye9036/CppTemplateTutorial": [
+        "Other"
+    ],
+    "x-cold/yuque-hexo": [
+        "Other"
+    ],
+    "x0b/rcx": [
+        "Other"
+    ],
+    "xdanaux/moderncv": [
+        "Other"
+    ],
+    "xhawk18/promise-cpp": [
+        "Other"
+    ],
+    "xiangmingzhe0928/hpv4g": [
+        "Other"
+    ],
+    "xiaods/k8e": [
+        "Other"
+    ],
+    "xiaolincoder/CS-Base": [
+        "Other"
+    ],
+    "xiaomi-sdm660/android_device_xiaomi_clover": [
+        "Other"
+    ],
+    "xiaoxiunique/awesome-IntelliJ-IDEA": [
+        "Other"
+    ],
+    "xiehuc/pidgin-lwqq": [
+        "Chinese APP Hack/QQ"
+    ],
+    "xingshaocheng/architect-awesome": [
+        "Other"
+    ],
+    "xinntao/Real-ESRGAN": [
+        "Other"
+    ],
+    "xitu/gold-miner": [
+        "Other"
+    ],
+    "xjasonlyu/tun2socks": [
+        "Other"
+    ],
+    "xloger/ExLink": [
+        "Other"
+    ],
+    "xmake-io/xmake": [
+        "Other"
+    ],
+    "xournalpp/xournalpp": [
+        "Other"
+    ],
+    "xuhdev/vim-latex-live-preview": [
+        "Vim"
+    ],
+    "xupefei/Locale-Emulator": [
+        "Other"
+    ],
+    "xxf098/go-tun2socks-build": [
+        "Other"
+    ],
+    "y1yang0/llmd": [
+        "Other"
+    ],
+    "yakumioto/YaHei-Consolas-Hybrid-1.12": [
+        "Font"
+    ],
+    "yangshun/tech-interview-handbook": [
+        "Other"
+    ],
+    "yangyangwithgnu/use_vim_as_ide": [
+        "Vim"
+    ],
+    "yanue/V2rayU": [
+        "Other"
+    ],
+    "ycm-core/YouCompleteMe": [
+        "Other"
+    ],
+    "yeetzone/docker-dontstarvetogether": [
+        "Other"
+    ],
+    "yidao620c/python3-cookbook": [
+        "Python/Tutorial"
+    ],
+    "yifeikong/reverse-interview-zh": [
+        "Other"
+    ],
+    "yilozt/mutter-rounded": [
+        "Other"
+    ],
+    "yilozt/rounded-window-corners": [
+        "Other"
+    ],
+    "yingjunwu/DBMS-Indexology": [
+        "Other"
+    ],
+    "yoda-pa/yoda": [
+        "Other"
+    ],
+    "you-dont-need/You-Dont-Need-Momentjs": [
+        "Other"
+    ],
+    "youngwookim/awesome-hadoop": [
+        "Other"
+    ],
+    "youzan/vant-weapp": [
+        "Other"
+    ],
+    "yshui/picom": [
+        "Other"
+    ],
+    "yuanxiaosc/Machine-Learning-Book": [
+        "Other"
+    ],
+    "yudai/gotty": [
+        "Utility"
+    ],
+    "yued-fe/lulu": [
+        "Other"
+    ],
+    "yujincheng08/BiliRoaming": [
+        "Other"
+    ],
+    "yuk7/ArchWSL": [
+        "Windows/WSL"
+    ],
+    "yuk7/wsldl": [
+        "Other"
+    ],
+    "yunjey/pytorch-tutorial": [
+        "Other"
+    ],
+    "yzx9/blog": [
+        "Other"
+    ],
+    "zachleat/speedlify": [
+        "Other"
+    ],
+    "zalando/patroni": [
+        "Other"
+    ],
+    "zalando/skipper": [
+        "Other"
+    ],
+    "zbezj/HEU_KMS_Activator": [
+        "Other"
+    ],
+    "zealotCE/America-Against-America": [
+        "Other"
+    ],
+    "zehome/MLVPN": [
+        "Other"
+    ],
+    "zen-kernel/zen-kernel": [
+        "Other"
+    ],
+    "zfl9/ss-tproxy": [
+        "Other"
+    ],
+    "zh32/drtelemetry": [
+        "Other"
+    ],
+    "zhanghai/BeeShell": [
+        "Other"
+    ],
+    "zhanghai/MaterialFiles": [
+        "Other"
+    ],
+    "zhangkaizhao/gnome-shell-extension-tray-icons": [
+        "Other"
+    ],
+    "zhangysh1995/awesome-database-testing": [
+        "Other"
+    ],
+    "zhblue/hustoj": [
+        "Other"
+    ],
+    "zhouhuahui/zhouhuahui.github.io": [
+        "Other"
+    ],
+    "ziahamza/webui-aria2": [
+        "Other"
+    ],
+    "zotero/zotero": [
+        "Other"
+    ],
+    "zouxiaohang/TinySTL": [
+        "Other"
+    ],
+    "zpm-zsh/zpm": [
+        "Other"
+    ],
+    "zricethezav/gitleaks": [
+        "Other"
+    ],
+    "zsxsoft/libfprint-fprintd": [
+        "Other"
+    ],
+    "zth/json-to-flowtype-generator": [
+        "Other"
+    ],
+    "zthxxx/kugimiya-rainbow-fart": [
+        "Other"
+    ],
+    "zzzeyez/pecan": [
+        "Other"
+    ],
+    "zzzprojects/EntityFramework-Plus": [
+        "Other"
+    ]
+}
