@@ -160,7 +160,7 @@
 * [lincanbin/Carbon-Forum](https://github.com/lincanbin/Carbon-Forum): A high performance open-source forum software written in PHP. Discussions Tags based with Quora/StackOverflow style.
 * [Tai7sy/card-system](https://github.com/Tai7sy/card-system): 卡密商城系统，高效安全的在线卡密商城
 * [hjkcai/cardiovascular-tracker](https://github.com/hjkcai/cardiovascular-tracker): 心血管健康助理小程序代码仓库
-* [dntzhang/cax](https://github.com/dntzhang/cax): HTML5 Canvas 2D Rendering Engine - 小程序、小游戏以及 Web 通用 Canvas 渲染引擎
+* [dntzhang/cax](https://github.com/dntzhang/cax): Canvas 渲染引擎，兼容了小程序、小游戏和 Web 
 * [zce/caz](https://github.com/zce/caz): A simple yet powerful template-based Scaffolding tools.
 * [CentOS/CentOS-Dockerfiles](https://github.com/CentOS/CentOS-Dockerfiles): Dockerfiles for various common implementations
 * [jas0ncn/cet](https://github.com/jas0ncn/cet): CET4/6 score query website based on Vue.js and Node
@@ -555,7 +555,7 @@
 * [D-xuanmo/Nuxtjs-Wordpress](https://github.com/D-xuanmo/Nuxtjs-Wordpress): 🎉 Nuxtjs + Wordpress REST API 主题；支持企业微信通知功能；全站前后端分离，自适应，白日、黑夜两种主题切换
 * [ncjoes/office-converter](https://github.com/ncjoes/office-converter): PHP Wrapper for LibreOffice
 * [YowFung/officetopdf](https://github.com/YowFung/officetopdf): This is a PHP Laravel library, which uses LibreOffice built-in command to convert Office documents(such as doc, docx, xls, xlsx, ppt, pptx, wps, dwg and so on) to PDF files.
-* [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+* [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 * [OneQuick/OneQuick.AHK-legacy](https://github.com/OneQuick/OneQuick.AHK-legacy): windows快捷键工具（屏幕边缘操作, 剪贴板增强）.  Autohotkey tool (screen border operation, clipboard manager). 
 * [onivim/oni](https://github.com/onivim/oni): Oni: Modern Modal Editing - powered by Neovim
 * [k-takata/Onigmo](https://github.com/k-takata/Onigmo): Onigmo is a regular expressions library forked from Oniguruma.
