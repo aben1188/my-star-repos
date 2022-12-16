@@ -570,7 +570,7 @@
 * [yulingchen/openMina](https://github.com/yulingchen/openMina): 一个开放的、运行微信小程序的Web MINA框架
 * [openresty/openresty](https://github.com/openresty/openresty): High Performance Web Platform Based on Nginx and LuaJIT
 * [openresty/openresty.org](https://github.com/openresty/openresty.org): Code and data for the openresty.org site
-* [eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat): golang版微信SDK
+* [eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat): golang微信SDK
 * [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db): Peer-to-Peer Databases for the Decentralized Web
 * [haixin1225/otld](https://github.com/haixin1225/otld): simple tempermonkey script to open the link directly
 * [yeaha/owl-orm](https://github.com/yeaha/owl-orm): None
