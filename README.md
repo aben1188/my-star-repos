@@ -500,6 +500,7 @@
 * [zhangdaren/miniprogram-to-uniapp](https://github.com/zhangdaren/miniprogram-to-uniapp): 轻松将各种小程序转换为uni-app项目
 * [ElemeFE/mint-ui](https://github.com/ElemeFE/mint-ui): Mobile UI elements for Vue.js
 * [mipengine/mip2](https://github.com/mipengine/mip2): MIP (移动网页加速器)通过优化网页JS、控制资源加载顺序，达到加速网页的效果。
+* [mamoe/mirai](https://github.com/mamoe/mirai): 高效率 QQ 机器人支持库
 * [ethereum/mist](https://github.com/ethereum/mist): [DEPRECATED] Mist. Browse and use Ðapps on the Ethereum network.
 * [mix-php/mix](https://github.com/mix-php/mix): ☄️  PHP CLI mode development framework, supports Swoole, WorkerMan, FPM, CLI-Server / PHP 命令行模式开发框架，支持 Swoole、Swow、WorkerMan、FPM、CLI-Server
 * [mobi-css/mobi.css](https://github.com/mobi-css/mobi.css): A lightweight, scalable, mobile-first CSS framework
@@ -608,6 +609,7 @@
 * [laruence/php7-internal](https://github.com/laruence/php7-internal): Understanding PHP7 Internal articles
 * [pangdahua/php7-wxwork-finance-sdk](https://github.com/pangdahua/php7-wxwork-finance-sdk): PHP企业微信会话存档扩展
 * [ieure/php_repl](https://github.com/ieure/php_repl): A REPL (Read-Eval-Print Loop) for PHP
+* [blogdaren/PHPCreeper](https://github.com/blogdaren/PHPCreeper): A new generation of multi-process asynchronous event-driven spider engine based on Workerman.    http://www.phpcreeper.com
 * [blogdaren/PHPCreeper](https://github.com/blogdaren/PHPCreeper): A new generation of multi-process asynchronous event-driven spider engine based on Workerman.    http://www.phpcreeper.com
 * [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv): Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 * [summerblue/phphub](https://github.com/summerblue/phphub): (Deprecated See - https://github.com/summerblue/phphub5 ) PHPHub is a Forum project written in Laravel 4.2, and it is also the project build up PHP & Laravel China community - http://phphub.org.
