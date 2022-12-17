@@ -501,6 +501,7 @@
 * [ElemeFE/mint-ui](https://github.com/ElemeFE/mint-ui): Mobile UI elements for Vue.js
 * [mipengine/mip2](https://github.com/mipengine/mip2): MIP (移动网页加速器)通过优化网页JS、控制资源加载顺序，达到加速网页的效果。
 * [mamoe/mirai](https://github.com/mamoe/mirai): 高效率 QQ 机器人支持库
+* [Mrs4s/MiraiGo](https://github.com/Mrs4s/MiraiGo): qq协议的golang实现, 移植于mirai
 * [ethereum/mist](https://github.com/ethereum/mist): [DEPRECATED] Mist. Browse and use Ðapps on the Ethereum network.
 * [mix-php/mix](https://github.com/mix-php/mix): ☄️  PHP CLI mode development framework, supports Swoole, WorkerMan, FPM, CLI-Server / PHP 命令行模式开发框架，支持 Swoole、Swow、WorkerMan、FPM、CLI-Server
 * [mobi-css/mobi.css](https://github.com/mobi-css/mobi.css): A lightweight, scalable, mobile-first CSS framework
@@ -609,7 +610,6 @@
 * [laruence/php7-internal](https://github.com/laruence/php7-internal): Understanding PHP7 Internal articles
 * [pangdahua/php7-wxwork-finance-sdk](https://github.com/pangdahua/php7-wxwork-finance-sdk): PHP企业微信会话存档扩展
 * [ieure/php_repl](https://github.com/ieure/php_repl): A REPL (Read-Eval-Print Loop) for PHP
-* [blogdaren/PHPCreeper](https://github.com/blogdaren/PHPCreeper): A new generation of multi-process asynchronous event-driven spider engine based on Workerman.    http://www.phpcreeper.com
 * [blogdaren/PHPCreeper](https://github.com/blogdaren/PHPCreeper): A new generation of multi-process asynchronous event-driven spider engine based on Workerman.    http://www.phpcreeper.com
 * [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv): Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 * [summerblue/phphub](https://github.com/summerblue/phphub): (Deprecated See - https://github.com/summerblue/phphub5 ) PHPHub is a Forum project written in Laravel 4.2, and it is also the project build up PHP & Laravel China community - http://phphub.org.
@@ -1040,6 +1040,7 @@
 * [xuedingmiaojun/wxappUnpacker](https://github.com/xuedingmiaojun/wxappUnpacker): 小程序反编译(支持分包)
 * [cluic/wxauto](https://github.com/cluic/wxauto): Windows版本微信客户端（非网页版）自动化，可实现简单的发送、接收微信消息，持续更新中
 * [beclass/wxbot](https://github.com/beclass/wxbot): 微信机器人，个人微信号小助手平台， nodejs+nuxt + wechaty 技术栈
+* [fudaoji/wxbot](https://github.com/fudaoji/wxbot): 多商户多微信号机器人web系统，目前支持了VLW（个微和企微）、可爱猫、我的（个微和企微）、Web微信。
 * [wux-weapp/wxbot](https://github.com/wux-weapp/wxbot): 微信机器人，个人微信号小助手平台， nodejs + nuxt + wechaty 技术栈
 * [WeixinCloud/wxcloudrun-wxcomponent](https://github.com/WeixinCloud/wxcloudrun-wxcomponent): 微信云托管 微信第三方平台模版
 * [icindy/WxEmojiView](https://github.com/icindy/WxEmojiView): WxEmojiView
