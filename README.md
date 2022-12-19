@@ -86,7 +86,7 @@
 * [hchbaw/auto-fu.zsh](https://github.com/hchbaw/auto-fu.zsh): #zsh automatic complete-word and list-choices. Originally incr-0.2.zsh  by y.fujii <y-fujii at mimosa-pudica.net>
 * [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js): Automation&Workflow JavaScript IDE on Android(安卓平台上的自动化工作流JavaScript IDE)
 * [mli/autocut](https://github.com/mli/autocut): 用文本编辑器剪视频
-* [Lexikos/AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L): AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
+* [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey): AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 * [postcss/autoprefixer](https://github.com/postcss/autoprefixer):  Parse CSS and add vendor prefixes to rules by Can I Use
 * [bneijt/autotrash](https://github.com/bneijt/autotrash): Tool to automatically purge old trashed files
 * [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome): :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
