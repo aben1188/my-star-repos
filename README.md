@@ -551,6 +551,7 @@
 * [ParryQiu/nodeclub](https://github.com/ParryQiu/nodeclub): WXOPEN Club 社区为国内最专业的微信小程序技术社区，致力于微信小程序的技术研究。
 * [cnodejs/nodeclub](https://github.com/cnodejs/nodeclub): :baby_chick:Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统
 * [nullivex/nodist](https://github.com/nullivex/nodist): Natural node.js and npm version manager for windows.
+* [nonebot/nonebot2](https://github.com/nonebot/nonebot2): 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
 * [necolas/normalize.css](https://github.com/necolas/normalize.css): A modern alternative to CSS resets
 * [nissl-lab/npoi](https://github.com/nissl-lab/npoi): a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
 * [bruderstein/nppPluginManager](https://github.com/bruderstein/nppPluginManager): Notepad++ Plugin Manager
