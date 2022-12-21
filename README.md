@@ -630,7 +630,7 @@
 * [supermarin/powerline-fonts](https://github.com/supermarin/powerline-fonts): Patched fonts for Powerline users.
 * [microsoft/PowerToys](https://github.com/microsoft/PowerToys): Windows system utilities to maximize productivity
 * [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto): The configuration framework for Zsh
-* [wangrongding/prm-cli](https://github.com/wangrongding/prm-cli): Quickly switch the registry of the package management tool.(快速切换包管理工具的镜像源)
+* [wangrongding/prm-cli](https://github.com/wangrongding/prm-cli): 🧩Quickly switch the registry of the package management tool.(快速切换包管理工具的镜像源)
 * [2792273/programmer-makemoney](https://github.com/2792273/programmer-makemoney): 一个程序猿赚钱平台，平台内包含平台内包含商城、社区团购、OA、ERP、SAAS、B2C、CMS、CPS、官网（门户店）、餐饮外卖、社交通讯、游戏、财务、直播、短视频、智能工具、配送跑腿、知识付费、视频授课等多种系统，其中包括微信小程序（支付宝小程序 + 百度小程序 + 头条号小程序）、h5、pc、安卓Android、苹果ios、微信公众号..等多端载体！ 后台包含商品管理、订单管理、运费模板、规格管理、会员管理、运营管理、内容管理、统计报表、权限管理、设置等模块、商品添加、规格设置、商品上下架，下单、购物车、支付，发货、收货、评价、退款，积分、优惠券、分销、砍价、秒杀、多门店，自定义菜单、自动回复、微信授权、图文管理、模板消息推送，登陆、注册、会员卡、充值、插件管理、签到管理、轮播图管理、新闻管理、页面管理、公告管理、系统管理、拼团活动、抽奖管理、邀请有奖管理、线下核销、竞拍、订单打印、商家WEB、控制面板、物流公司管理、阿里云OSS插件、阿里云短信插件、智能表单、可视化操作、布局管理、留言、在线报名、上课签到、活动预约、会议登记、api接口、商品详情页、自定义分配佣金比例、外卖红包、裂变分销、联盟返利、团长审核、常见问题、限时折扣、交易概况、cvs素材、快递订单、社群接龙、城市管理、供应商、采购模块、采购备货、售后服务、库存模块、对帐报价模块、商品分拣
 * [ProgrammingBlockchain/ProgrammingBlockchain](https://github.com/ProgrammingBlockchain/ProgrammingBlockchain): None
 * [ThomasWhyne/projects](https://github.com/ThomasWhyne/projects): None
