@@ -580,6 +580,7 @@
 * [thomas-yanxin/OXiaoPeng](https://github.com/thomas-yanxin/OXiaoPeng): 🤗【欧小鹏】辅助社区运营，支持文生图、闲聊等群活跃技能，以及社群自动问答等辅助管理功能。
 * [mawenjie8731/paddlenlp-wechaty-demo](https://github.com/mawenjie8731/paddlenlp-wechaty-demo): None
 * [padlocal/padlocal-client-ts](https://github.com/padlocal/padlocal-client-ts): None
+* [tw93/Pake](https://github.com/tw93/Pake): 🤱🏻 Simply make any web page a desktop application using Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
 * [syhyz1990/panAI](https://github.com/syhyz1990/panAI): 油猴脚本 - 智能识别网页中网盘链接和提取码并自动填写
 * [openethereum/parity-ethereum](https://github.com/openethereum/parity-ethereum): The fast, light, and robust client for Ethereum-like networks.
 * [kongzhidea/pay](https://github.com/kongzhidea/pay): 微信支付，支付宝支付
