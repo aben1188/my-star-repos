@@ -160,7 +160,7 @@
 * [lincanbin/Carbon-Forum](https://github.com/lincanbin/Carbon-Forum): A high performance open-source forum software written in PHP. Discussions Tags based with Quora/StackOverflow style.
 * [Tai7sy/card-system](https://github.com/Tai7sy/card-system): 卡密商城系统，高效安全的在线卡密商城
 * [hjkcai/cardiovascular-tracker](https://github.com/hjkcai/cardiovascular-tracker): 心血管健康助理小程序代码仓库
-* [dntzhang/cax](https://github.com/dntzhang/cax): Canvas 渲染引擎，兼容了小程序、小游戏和 Web 
+* [dntzhang/cax](https://github.com/dntzhang/cax): Canvas 渲染引擎，支持 SVG，兼容了小程序、小游戏和 Web 
 * [zce/caz](https://github.com/zce/caz): A simple yet powerful template-based Scaffolding tools.
 * [CentOS/CentOS-Dockerfiles](https://github.com/CentOS/CentOS-Dockerfiles): Dockerfiles for various common implementations
 * [jas0ncn/cet](https://github.com/jas0ncn/cet): CET4/6 score query website based on Vue.js and Node
