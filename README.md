@@ -109,6 +109,7 @@
 * [aloisdg/awesome-regex](https://github.com/aloisdg/awesome-regex): A curated collection of awesome Regex libraries, tools, frameworks and software
 * [Wekoi/awesome-scripts](https://github.com/Wekoi/awesome-scripts): useful scripts for Linux op
 * [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+* [bkrem/awesome-solidity](https://github.com/bkrem/awesome-solidity): ⟠ A curated list of awesome Solidity resources, libraries, tools and more
 * [facert/awesome-spider](https://github.com/facert/awesome-spider): 爬虫集合
 * [vikadata/awesome-vikadata](https://github.com/vikadata/awesome-vikadata): 🙀 A list of awesome projects / resources / SDKs / frameworks that make Vikadata even more awesome. 🤪  https://vika.cn/developers
 * [xjh22222228/awesome-web-editor](https://github.com/xjh22222228/awesome-web-editor): 🔨  Open source WEB editor summary
