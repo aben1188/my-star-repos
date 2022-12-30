@@ -940,6 +940,7 @@
 * [gefeixun01/wechat-linux](https://github.com/gefeixun01/wechat-linux): linux微信协议，稳定挂机不掉线
 * [mojisrc/wechat-mini-shop](https://github.com/mojisrc/wechat-mini-shop): 微信小程序商城，微信小程序微店，接口基于FaShop
 * [choogoo/wechat-openai-qa-bot](https://github.com/choogoo/wechat-openai-qa-bot): None
+* [rixingyike/wechat-operation-assistant](https://github.com/rixingyike/wechat-operation-assistant): 一个使用小微商户+微信聊天机器人构建的可付费私域运营助手
 * [ligboy/Wechat-php](https://github.com/ligboy/Wechat-php): 本微信sdk实现了被动响应的官方api已经主动发送消息给订阅用户，主动批量发送消息给订阅用户。
 * [dodgepudding/wechat-php-sdk](https://github.com/dodgepudding/wechat-php-sdk): 微信公众平台php开发包, weixin developer SDK.
 * [netputer/wechat-php-sdk](https://github.com/netputer/wechat-php-sdk): 微信公众平台 PHP SDK
