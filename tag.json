@@ -2882,6 +2882,9 @@
     "wechats/forum": [
         "Other"
     ],
+    "wechaty/plugin-contrib": [
+        "Other"
+    ],
     "wechaty/puppet-padlocal": [
         "Other"
     ],

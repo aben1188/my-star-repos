@@ -627,6 +627,7 @@
 * [LarryUllman/phpvqs-5ed](https://github.com/LarryUllman/phpvqs-5ed): PHP for the Web: Visual QuickStart Guide (Fifth Edition)
 * [PHPOffice/PHPWord](https://github.com/PHPOffice/PHPWord): A pure PHP library for reading and writing word processing documents
 * [sxei/pinyinjs](https://github.com/sxei/pinyinjs): 一个实现汉字与拼音互转的小巧web工具库，演示地址：
+* [wechaty/plugin-contrib](https://github.com/wechaty/plugin-contrib): Wechaty Plugin Ecosystem Contrib Package
 * [ambition-hb/Pool_Proxy](https://github.com/ambition-hb/Pool_Proxy): IP Agent Pool (IP代理池)
 * [postcss/postcss](https://github.com/postcss/postcss): Transforming styles with JS plugins
 * [crimx/postcss-safe-important](https://github.com/crimx/postcss-safe-important): PostCSS plugin that adds !important to style declarations safely.
