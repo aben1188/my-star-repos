@@ -165,7 +165,7 @@
 * [zce/caz](https://github.com/zce/caz): A simple yet powerful template-based Scaffolding tools.
 * [CentOS/CentOS-Dockerfiles](https://github.com/CentOS/CentOS-Dockerfiles): Dockerfiles for various common implementations
 * [jas0ncn/cet](https://github.com/jas0ncn/cet): CET4/6 score query website based on Vue.js and Node
-* [lencx/ChatGPT](https://github.com/lencx/ChatGPT): 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)
+* [lencx/ChatGPT](https://github.com/lencx/ChatGPT): 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 * [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api): Node.js client for the unofficial ChatGPT API. 🔥
 * [UNICKCHENG/ChatGPT-For-Wechat](https://github.com/UNICKCHENG/ChatGPT-For-Wechat): A wechat bot using Wechaty and ChatGPT
 * [labteral/chatgpt-python](https://github.com/labteral/chatgpt-python): Unofficial Python SDK for OpenAI's ChatGPT
