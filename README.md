@@ -1027,7 +1027,7 @@
 * [liuyi91/word](https://github.com/liuyi91/word): word正则工具
 * [WordPress/WordPress](https://github.com/WordPress/WordPress): WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead.
 * [rikouu/wordpress](https://github.com/rikouu/wordpress): wordpress主题收集
-* [Licoy/wordpress-theme-puock](https://github.com/Licoy/wordpress-theme-puock): :art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports day and night modes, no refresh loading, etc.
+* [Licoy/wordpress-theme-puock](https://github.com/Licoy/wordpress-theme-puock): :art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh loading, etc.
 * [liangsonghua/wordpressTheme](https://github.com/liangsonghua/wordpressTheme): wordpress博客主题，高仿微信公众号图文消息
 * [walkor/workerman](https://github.com/walkor/workerman): An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols. PHP>=7.0.
 * [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity): 我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy
