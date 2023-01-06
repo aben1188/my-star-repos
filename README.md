@@ -111,6 +111,7 @@
 * [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 * [bkrem/awesome-solidity](https://github.com/bkrem/awesome-solidity): ⟠ A curated list of awesome Solidity resources, libraries, tools and more
 * [facert/awesome-spider](https://github.com/facert/awesome-spider): 爬虫集合
+* [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri): 🚀 Awesome Tauri Apps, Plugins and Resources
 * [vikadata/awesome-vikadata](https://github.com/vikadata/awesome-vikadata): 🙀 A list of awesome projects / resources / SDKs / frameworks that make Vikadata even more awesome. 🤪  https://vika.cn/developers
 * [xjh22222228/awesome-web-editor](https://github.com/xjh22222228/awesome-web-editor): 🔨  Open source WEB editor summary
 * [Aufree/awesome-wechat-weapp](https://github.com/Aufree/awesome-wechat-weapp): None
@@ -167,6 +168,7 @@
 * [jas0ncn/cet](https://github.com/jas0ncn/cet): CET4/6 score query website based on Vue.js and Node
 * [lencx/ChatGPT](https://github.com/lencx/ChatGPT): 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 * [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api): Node.js client for the unofficial ChatGPT API. 🔥
+* [zhuzilin/chatgpt-desktop](https://github.com/zhuzilin/chatgpt-desktop): Desktop version of ChatGPT, support manually set cookie
 * [UNICKCHENG/ChatGPT-For-Wechat](https://github.com/UNICKCHENG/ChatGPT-For-Wechat): A wechat bot using Wechaty and ChatGPT
 * [labteral/chatgpt-python](https://github.com/labteral/chatgpt-python): Unofficial Python SDK for OpenAI's ChatGPT
 * [AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot): ChatGPT for wechat
@@ -763,6 +765,8 @@
 * [yujinpan/tampermonkey-extension](https://github.com/yujinpan/tampermonkey-extension): 自制油猴日常插件。
 * [alanchenyan/taobaoke-server](https://github.com/alanchenyan/taobaoke-server): 淘宝客PHP服务器端
 * [TarsCloud/Tars](https://github.com/TarsCloud/Tars): Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
+* [tauri-apps/tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
+* [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs): The source for all tauri project documentation.
 * [tecnickcom/TCPDF](https://github.com/tecnickcom/TCPDF): Official clone of PHP library to generate PDF documents and barcodes
 * [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop): Telegram Desktop messaging app
 * [lcomplete/TechShare](https://github.com/lcomplete/TechShare): 🌟 分享效率方法 🪄、优质文章 📑、编程知识 🎹、实用工具 🛠️ 和有趣内容 😄。💌 当有重要的事情需要分享时会发送 newsletter。

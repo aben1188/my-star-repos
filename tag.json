@@ -2582,6 +2582,15 @@
     "tastejs/todomvc": [
         "Other"
     ],
+    "tauri-apps/awesome-tauri": [
+        "Other"
+    ],
+    "tauri-apps/tauri": [
+        "Other"
+    ],
+    "tauri-apps/tauri-docs": [
+        "Other"
+    ],
     "taylorchen709/vue-admin": [
         "Other"
     ],
@@ -3159,6 +3168,9 @@
         "Other"
     ],
     "zhupengfeivip/chrome-plugin-demo": [
+        "Other"
+    ],
+    "zhuzilin/chatgpt-desktop": [
         "Other"
     ],
     "ziadoz/awesome-php": [
