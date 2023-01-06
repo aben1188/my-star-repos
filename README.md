@@ -145,6 +145,7 @@
 * [D-xuanmo/blog-miniprogram-wordpress](https://github.com/D-xuanmo/blog-miniprogram-wordpress): 博客小程序版
 * [brandonxiang/blog-weapp](https://github.com/brandonxiang/blog-weapp): None
 * [bolasblack/BlogPosts](https://github.com/bolasblack/BlogPosts): None
+* [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher): Search books index, create your private local library.
 * [hejinzhi/bookLibrary-wepy](https://github.com/hejinzhi/bookLibrary-wepy): None
 * [programthink/books](https://github.com/programthink/books): 【编程随想】收藏的电子书清单（多个学科，含下载链接）
 * [twbs/bootstrap](https://github.com/twbs/bootstrap): The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -1101,7 +1102,6 @@
 * [bohancen/ZhihuEditor](https://github.com/bohancen/ZhihuEditor): 知乎的Web编辑器，从iOS客户端搞出来的
 * [wuwenhan/zhongchou](https://github.com/wuwenhan/zhongchou): 基于yii2的微信众筹项目，已上线
 * [SeriaWei/ZKEACMS](https://github.com/SeriaWei/ZKEACMS): ZKEACMS build with .Net 5 (.Net CMS)可视化设计在线编辑内容管理系统
-* [zlib-searcher/zlib-searcher](https://github.com/zlib-searcher/zlib-searcher): search zlib/libgen index
 * [zplug/zplug](https://github.com/zplug/zplug): :hibiscus: A next-generation plugin manager for zsh
 * [changyuheng/zsh-interactive-cd](https://github.com/changyuheng/zsh-interactive-cd): Fish like interactive tab completion for cd in zsh
 * [zhangxinxu/zxx.lib.css](https://github.com/zhangxinxu/zxx.lib.css): a css library for quick layout, especially for flow layout
