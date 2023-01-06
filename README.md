@@ -1085,7 +1085,6 @@
 * [walexer/Yli_Fulltext](https://github.com/walexer/Yli_Fulltext): Chinese Word Segmentation with Mysql 5.7 for Magento
 * [camsong/You-Dont-Need-jQuery](https://github.com/camsong/You-Dont-Need-jQuery): Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 * [soimort/you-get](https://github.com/soimort/you-get): :arrow_double_down: Dumb downloader that scrapes the web
-* [ego008/youbbs](https://github.com/ego008/youbbs): youBBS是一个轻型的php+mysql论坛。 新版已用golang 编写
 * [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe): A code-completion engine for Vim
 * [why2lyj/youxiang-Itchat](https://github.com/why2lyj/youxiang-Itchat): 无视微信Web无法登录问题。获取淘宝优惠券、京东优惠券、拼多多（多多客）优惠券、苏宁易购优惠券、唯品会优惠券，通过接入淘宝联盟、京东联盟、拼多多（多多进宝）、苏宁联盟（苏宁推客）、唯品会及其对应的开放平台，获取优惠商品图片和对应商品信息，利用微信机器人推送到指定群聊。
 * [km3945/ysapi](https://github.com/km3945/ysapi): yaf swoole api socket servers
