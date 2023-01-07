@@ -688,7 +688,7 @@
 * [microsoft/reactxp](https://github.com/microsoft/reactxp): Library for cross-platform app development.
 * [garyhouston/regexp.old](https://github.com/garyhouston/regexp.old): Henry Spencer's old regular expression library, also known as the book regex library, circa 1986.
 * [chuckcarpenter/REM-unit-polyfill](https://github.com/chuckcarpenter/REM-unit-polyfill): A polyfill to parse CSS links and rewrite pixel equivalents into head for non supporting browsers 
-* [viljamis/ResponsiveSlides.js](https://github.com/viljamis/ResponsiveSlides.js): Simple & lightweight responsive slider plugin (in 1kb)
+* [arielsalminen/ResponsiveSlides.js](https://github.com/arielsalminen/ResponsiveSlides.js): Simple & lightweight responsive slider plugin (in 1kb)
 * [resque/resque-web](https://github.com/resque/resque-web): a Rails-based web interface to Resque
 * [billyct/resume](https://github.com/billyct/resume): 解析简历：智联招聘
 * [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher): :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）

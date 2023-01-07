@@ -689,6 +689,9 @@
     "ares333/php-curl": [
         "Other"
     ],
+    "arielsalminen/ResponsiveSlides.js": [
+        "Other"
+    ],
     "aristocratos/bashtop": [
         "Other"
     ],
@@ -2766,9 +2769,6 @@
         "Other"
     ],
     "vikadata/awesome-vikadata": [
-        "Other"
-    ],
-    "viljamis/ResponsiveSlides.js": [
         "Other"
     ],
     "vim-airline/vim-airline": [
