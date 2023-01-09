@@ -69,6 +69,7 @@
 * [AlloyTeam/AlloyFinger](https://github.com/AlloyTeam/AlloyFinger): Super tiny size multi-touch gestures library for the web. 　　　You can touch this →
 * [AlloyTeam/AlloyImage](https://github.com/AlloyTeam/AlloyImage): 基于HTML5的专业级图像处理开源引擎。An image processing lib based on html5.
 * [ampproject/amphtml](https://github.com/ampproject/amphtml): The AMP web component framework.
+* [kiwibrowser/android](https://github.com/kiwibrowser/android): This repository is archived, and is now transferred to https://github.com/kiwibrowser/src
 * [wildfirechat/android-chat](https://github.com/wildfirechat/android-chat): 开源即时通讯(野火IM)系统Android端，支持Android 4.x —— 最新
 * [JZ-Darkal/AndroidHttpCapture](https://github.com/JZ-Darkal/AndroidHttpCapture): AndroidHttpCapture网络诊断工具 是一款Android手机抓包软件 主要功能包括：手机端抓包、PING/DNS/TraceRoute诊断、抓包HAR数据上传分享。你也可以看成是Android版的"Fiddler" \(^o^)/~
 * [Kotlin/anko](https://github.com/Kotlin/anko): Pleasant Android application development
