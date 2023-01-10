@@ -97,7 +97,7 @@
 * [Kamigami55/awesome-chatgpt](https://github.com/Kamigami55/awesome-chatgpt): Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。
 * [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt): Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 * [saharmor/awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt): Selected ChatGPT demos, tools, articles, and more ✨
-* [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT promt curation to use ChatGPT better.
+* [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT prompt curation to use ChatGPT better.
 * [opendigg/awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp): 微信小程序开源项目库汇总
 * [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs): Useful resources for using IPFS and building things on top of it
 * [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
