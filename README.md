@@ -411,6 +411,7 @@
 * [klren0312/ironInfoWeapp](https://github.com/klren0312/ironInfoWeapp): (请仔细阅读每个项目文件夹下的README) 钢材信息小程序服务已暂停, 后续可能改为云函数
 * [ish-app/ish](https://github.com/ish-app/ish): Linux shell for iOS
 * [TalkingData/iview-weapp](https://github.com/TalkingData/iview-weapp): 一套高质量的微信小程序 UI 组件库
+* [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript): Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 * [airbnb/javascript](https://github.com/airbnb/javascript): JavaScript Style Guide
 * [BonsaiDen/JavaScript-Garden](https://github.com/BonsaiDen/JavaScript-Garden): A collection of documentation about the most quirky parts of the JavaScript language. 
 * [zarocknz/javascript-skyrocket](https://github.com/zarocknz/javascript-skyrocket): Design and Display fireworks on HTML canvas with Skyrocket.js
