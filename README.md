@@ -1097,6 +1097,7 @@
 * [yangchunaijtt/yueDu](https://github.com/yangchunaijtt/yueDu): 悦读-小程序项目 uni-app编码
 * [Yurunsoft/YurunOAuthLogin](https://github.com/Yurunsoft/YurunOAuthLogin): PHP 第三方登录授权 SDK，集成了QQ、微信、微博、Github等常用接口。支持 php-fpm 和 Swoole，所有框架通用。QQ群：17916227
 * [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot): 🎬 人人影视bot，完全对接人人影视全部无删减资源
+* [zhengkai/zebra](https://github.com/zhengkai/zebra): 基于 zLib Searcher 的 Web 界面
 * [zendframework/ZendPdf](https://github.com/zendframework/ZendPdf): None
 * [Baiyuetribe/zfaka](https://github.com/Baiyuetribe/zfaka): 免费、安全、稳定、高效的发卡系统，值得拥有!
 * [zfaka-plus/zfaka](https://github.com/zfaka-plus/zfaka): 免费、安全、稳定、高效的发卡系统，值得拥有!
@@ -1106,6 +1107,9 @@
 * [bohancen/ZhihuEditor](https://github.com/bohancen/ZhihuEditor): 知乎的Web编辑器，从iOS客户端搞出来的
 * [wuwenhan/zhongchou](https://github.com/wuwenhan/zhongchou): 基于yii2的微信众筹项目，已上线
 * [SeriaWei/ZKEACMS](https://github.com/SeriaWei/ZKEACMS): ZKEACMS build with .Net 5 (.Net CMS)可视化设计在线编辑内容管理系统
+* [puzzithinker/zlib-searcher](https://github.com/puzzithinker/zlib-searcher): None
+* [Senkita/zLib-Web](https://github.com/Senkita/zLib-Web): 自写一个zlib-searcher的 Web UI。
+* [DeKabilan/zlib_module](https://github.com/DeKabilan/zlib_module): A Python module that can search and Download Books from the ZLib Archive
 * [zplug/zplug](https://github.com/zplug/zplug): :hibiscus: A next-generation plugin manager for zsh
 * [changyuheng/zsh-interactive-cd](https://github.com/changyuheng/zsh-interactive-cd): Fish like interactive tab completion for cd in zsh
 * [zhangxinxu/zxx.lib.css](https://github.com/zhangxinxu/zxx.lib.css): a css library for quick layout, especially for flow layout
