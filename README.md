@@ -54,6 +54,7 @@
 
 * [nsh87/.rc-files-and-scripts](https://github.com/nsh87/.rc-files-and-scripts): My .vimrc, .zshrc, .ideavimrc files and custom scripts for the terminal
 * [gpakosz/.tmux](https://github.com/gpakosz/.tmux): 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+* [phuocng/1loc](https://github.com/phuocng/1loc): What's your favorite JavaScript single LOC (line of code)?
 * [hzheng/1pass4all](https://github.com/hzheng/1pass4all): a bookmarklet to create passwords easily and securely
 * [acejump/AceJump](https://github.com/acejump/AceJump): 🅰️ single character search, select, and jump
 * [mileszs/ack.vim](https://github.com/mileszs/ack.vim): Vim plugin for the Perl module / CLI script 'ack'
@@ -337,6 +338,7 @@
 * [zfl9/gfwlist2privoxy](https://github.com/zfl9/gfwlist2privoxy): 将 gfwlist.txt（Adblock Plus 规则）转换为 privoxy.action
 * [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules): Flight rules for git
 * [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet): A list of cool features of Git and GitHub.
+* [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily): 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 * [github/gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
 * [kaedei/gitignore](https://github.com/kaedei/gitignore): A collection of useful .gitignore templates
 * [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum): Official Go implementation of the Ethereum protocol
