@@ -421,6 +421,7 @@
 * [adamlu/javascript-style-guide](https://github.com/adamlu/javascript-style-guide): JavaScript规范
 * [Aruelius/jd_maotai](https://github.com/Aruelius/jd_maotai): 抢京东茅台脚本，定时自动触发，自动预约，自动停止
 * [lijialong1314/JDUnionAPIV2](https://github.com/lijialong1314/JDUnionAPIV2): 京东联盟新版接口PHPSDK
+* [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin): The Free Software Media System
 * [JPressProjects/jpress](https://github.com/JPressProjects/jpress): JPress，一个使用 Java 开发的建站神器，目前已经有 10w+ 网站使用 JPress 进行驱动，其中包括多个政府机构，200+上市公司，中科院、红+字会等。
 * [jquery/jquery](https://github.com/jquery/jquery): jQuery JavaScript Library
 * [jquery/jquery-migrate](https://github.com/jquery/jquery-migrate): A development tool to help migrate away from APIs and features that have been or will be removed from jQuery core
@@ -840,6 +841,7 @@
 * [v8/v8](https://github.com/v8/v8): The official mirror of the V8 Git repository
 * [youzan/vant](https://github.com/youzan/vant): Lightweight Mobile UI Components built on Vue
 * [youzan/vant-weapp](https://github.com/youzan/vant-weapp): 轻量、可靠的小程序 UI 组件库
+* [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden): Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 * [Tencent/vConsole](https://github.com/Tencent/vConsole): A lightweight, extendable front-end developer tool for mobile web page.
 * [sinchang/vdonate](https://github.com/sinchang/vdonate): 💰 为你的网站增加个微信、支付宝二维码，方便读者打赏
 * [ventoy/Ventoy](https://github.com/ventoy/Ventoy): A new bootable USB solution.
