@@ -309,6 +309,7 @@
 * [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang): 翻墙-科学上网
 * [mojisrc/fashop](https://github.com/mojisrc/fashop): php开源商城系统，基于swoole、easyswoole框架开发
 * [fastdlabs/fastD](https://github.com/fastdlabs/fastD): :rocket: A high performance PHP API framework.
+* [dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub): github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
 * [Snipaste/feedback](https://github.com/Snipaste/feedback): Feedback & wiki for Snipaste https://snipaste.com
 * [icindy/fenda](https://github.com/icindy/fenda): 微信小程序－7天写分答微信小程序
 * [php-fig/fig-standards](https://github.com/php-fig/fig-standards): Standards either proposed or approved by the Framework Interop Group

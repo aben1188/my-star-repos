@@ -1070,6 +1070,9 @@
     "donnemartin/dev-setup": [
         "Other"
     ],
+    "dotnetcore/FastGithub": [
+        "Other"
+    ],
     "douglascrockford/JSON-js": [
         "Other"
     ],
