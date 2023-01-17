@@ -340,8 +340,10 @@
 * [zfl9/gfwlist2privoxy](https://github.com/zfl9/gfwlist2privoxy): 将 gfwlist.txt（Adblock Plus 规则）转换为 privoxy.action
 * [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules): Flight rules for git
 * [zixia/git-scripts](https://github.com/zixia/git-scripts): Git hooks integration for Node.js projects
+* [yihong0618/gitblog](https://github.com/yihong0618/gitblog): People Die, but Long Live GitHub
 * [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet): A list of cool features of Git and GitHub.
 * [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily): 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+* [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster): Make everything a GitHub svg poster and Skyline!
 * [github/gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
 * [kaedei/gitignore](https://github.com/kaedei/gitignore): A collection of useful .gitignore templates
 * [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum): Official Go implementation of the Ethereum protocol
