@@ -949,6 +949,7 @@
 * [wecenter/wecenter](https://github.com/wecenter/wecenter): WeCenter 是一款知识型的社交化开源社区程序，专注于企业和行业社区内容的整理、归类、检索和再发行。
 * [node-webot/wechat](https://github.com/node-webot/wechat): 微信公共平台消息接口服务中间件
 * [ChinaVolvocars/WeChat-applet](https://github.com/ChinaVolvocars/WeChat-applet): 微信小应用，微信小程序资源汇总整理，涵括微信 Web 开发工具、开发框架、开发教程、以及官方文档和相关资源的整理
+* [leochen-g/wechat-assistant-engine](https://github.com/leochen-g/wechat-assistant-engine): 智能微秘书engine版本
 * [leochen-g/wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro): 智能微秘书客户端，搭配
 * [leochen-g/wechat-assistant-pro-ipad](https://github.com/leochen-g/wechat-assistant-pro-ipad): 智能微秘书ipad协议版本
 * [darknightlab/wechat-bot](https://github.com/darknightlab/wechat-bot): a wechat bot using wechaty, which can archive web pages, analyze pictures, and automatically reply.
