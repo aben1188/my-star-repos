@@ -535,6 +535,7 @@
 * [shawtung/mpvue-wepy-compare](https://github.com/shawtung/mpvue-wepy-compare): 从wepy迁移到mpvue的调研
 * [dcloudio/mui](https://github.com/dcloudio/mui): 最接近原生APP体验的高性能框架
 * [brizer/multi-repo-git](https://github.com/brizer/multi-repo-git): A very simple Git command line tool, to manage multiple git rspositories at once.
+* [kevinfu1717/multimediaChatbot](https://github.com/kevinfu1717/multimediaChatbot): 构建了可用于多个对话框架的场景型对话的聊天机器人。支持吐槽类情景及情感倾诉型情景。使用wechaty，结合Paddlehub的人脸特征点、动漫人脸生成、对联生成、情感分类，ernie迁移，人脸变胖
 * [janl/mustache.js](https://github.com/janl/mustache.js): Minimal templating with {{mustaches}} in JavaScript
 * [xirong/my-git](https://github.com/xirong/my-git): Individual collecting material of learning git（有关 git 的学习资料）
 * [venaissance/myBlog](https://github.com/venaissance/myBlog): 💡 致力于提升技术学习效率的博客
