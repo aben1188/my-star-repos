@@ -1256,6 +1256,9 @@
     "functoreality/rime-flypy-zrmfast": [
         "Other"
     ],
+    "fxsjy/jieba": [
+        "Other"
+    ],
     "gabesoft/vim-ags": [
         "Other"
     ],
@@ -3093,6 +3096,9 @@
         "Other"
     ],
     "yanue/V2rayU": [
+        "Other"
+    ],
+    "yanyiwu/nodejieba": [
         "Other"
     ],
     "yanyiwu/sqljieba": [

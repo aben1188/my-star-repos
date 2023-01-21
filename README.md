@@ -428,6 +428,7 @@
 * [Aruelius/jd_maotai](https://github.com/Aruelius/jd_maotai): 抢京东茅台脚本，定时自动触发，自动预约，自动停止
 * [lijialong1314/JDUnionAPIV2](https://github.com/lijialong1314/JDUnionAPIV2): 京东联盟新版接口PHPSDK
 * [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin): The Free Software Media System
+* [fxsjy/jieba](https://github.com/fxsjy/jieba): 结巴中文分词
 * [JPressProjects/jpress](https://github.com/JPressProjects/jpress): JPress，一个使用 Java 开发的建站神器，目前已经有 10w+ 网站使用 JPress 进行驱动，其中包括多个政府机构，200+上市公司，中科院、红+字会等。
 * [jquery/jquery](https://github.com/jquery/jquery): jQuery JavaScript Library
 * [jquery/jquery-migrate](https://github.com/jquery/jquery-migrate): A development tool to help migrate away from APIs and features that have been or will be removed from jQuery core
@@ -571,6 +572,7 @@
 * [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB): Node.js based forum software built for the modern web
 * [ParryQiu/nodeclub](https://github.com/ParryQiu/nodeclub): WXOPEN Club 社区为国内最专业的微信小程序技术社区，致力于微信小程序的技术研究。
 * [cnodejs/nodeclub](https://github.com/cnodejs/nodeclub): :baby_chick:Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统
+* [yanyiwu/nodejieba](https://github.com/yanyiwu/nodejieba): "结巴"中文分词的Node.js版本
 * [nullivex/nodist](https://github.com/nullivex/nodist): Natural node.js and npm version manager for windows.
 * [nonebot/nonebot2](https://github.com/nonebot/nonebot2): 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
 * [necolas/normalize.css](https://github.com/necolas/normalize.css): A modern alternative to CSS resets
