@@ -990,7 +990,7 @@
 * [qbright/wechatCode-complete](https://github.com/qbright/wechatCode-complete): 微信小程序 代码提示插件
 * [zoujingli/WeChatDeveloper](https://github.com/zoujingli/WeChatDeveloper): 【新】微信服务号+微信小程序+微信支付+支付宝支付
 * [xuncv/WeChatDownloader](https://github.com/xuncv/WeChatDownloader): 微信视频号下载器. WeChatDownloader
-* [suzukaze-hazuki/wechatgpt](https://github.com/suzukaze-hazuki/wechatgpt): wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持微信(wechat)，telegram（可直接加@xiaomo_chatgpt_bot体验）
+* [houko/wechatgpt](https://github.com/houko/wechatgpt): wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持微信(wechat)，telegram（可直接加@xiaomo_chatgpt_bot体验）
 * [jayazhang/weChatMiniPrograms](https://github.com/jayazhang/weChatMiniPrograms): 微信小程序api汇总
 * [blikr/WeChatShareCard](https://github.com/blikr/WeChatShareCard): WeChatShareCard，一款微信卡片分享链接免费在线制作工具；
 * [lecepin/WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader): 超方便的微信视频号下载器
