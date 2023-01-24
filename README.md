@@ -355,7 +355,7 @@
 * [AlloyTeam/gopng](https://github.com/AlloyTeam/gopng): GoPng - a HTML5 css sprite generator with cool feature.
 * [ginuerzh/gost](https://github.com/ginuerzh/gost): GO Simple Tunnel - a simple tunnel written in golang
 * [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte): Goutte, a simple PHP Web Scraper
-* [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter): Chrome extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3. Available in the chrome web store
+* [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter): Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3. Available in the Chrome web store and Firefox browser add-ons
 * [cryptonomex/graphene](https://github.com/cryptonomex/graphene): None
 * [phodal/growth-ebook](https://github.com/phodal/growth-ebook): Growth Engineering: The Definitive Guide。全栈增长工程师指南
 * [phodal/growth-in-action](https://github.com/phodal/growth-in-action): 全栈增长工程师实战
