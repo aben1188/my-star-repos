@@ -546,6 +546,7 @@
 * [neoclide/mycomment.vim](https://github.com/neoclide/mycomment.vim): one mapping for comment:  <leader>c
 * [terrylinooo/mynote](https://github.com/terrylinooo/mynote): WordPress theme built for developers.
 * [uloveits/myTools](https://github.com/uloveits/myTools): 基于taro框架写的微信小程序，包括‘大转盘’，‘答案之书’，‘砸金蛋’，‘贺卡’能工具内容
+* [qingconglaixueit/mywechatbot](https://github.com/qingconglaixueit/mywechatbot): 仅用于我个人的 chatgpt 项目
 * [x-cold/N3-admin](https://github.com/x-cold/N3-admin): vue / vuex / N3 / vue-router / axios v2
 * [N3-components/N3-components](https://github.com/N3-components/N3-components): N3-components , Powerful Vue UI Library.
 * [hyperf/nano](https://github.com/hyperf/nano): 🧬 Nano is a zero-config, no skeleton, minimal Hyperf distribution that allows you to quickly build a Hyperf application with just a single PHP file.
@@ -967,6 +968,7 @@
 * [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt): Use ChatGPT On Wechat via wechaty
 * [gtoxlili/wechat-chatGPT](https://github.com/gtoxlili/wechat-chatGPT): 实现微信公众号被动返回接口的ChatGPT
 * [lyricat/wechat-format](https://github.com/lyricat/wechat-format): 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
+* [lonely1215225/wechat-gpt-3](https://github.com/lonely1215225/wechat-gpt-3): 基于openai的gpt-3开发微信机器人
 * [unmagic/wechat-im](https://github.com/unmagic/wechat-im): 微信小程序即时通讯模板，使用WebSocket通信
 * [gefeixun01/wechat-linux](https://github.com/gefeixun01/wechat-linux): linux微信协议，稳定挂机不掉线
 * [mojisrc/wechat-mini-shop](https://github.com/mojisrc/wechat-mini-shop): 微信小程序商城，微信小程序微店，接口基于FaShop
@@ -986,6 +988,7 @@
 * [wnma3mz/wechat_articles_spider](https://github.com/wnma3mz/wechat_articles_spider): 微信公众号文章的爬虫
 * [xiangchuwang/Wechat_IDE_For_Crack](https://github.com/xiangchuwang/Wechat_IDE_For_Crack): This document is Wechat's Cracked IDE
 * [leochen-g/wechatBot](https://github.com/leochen-g/wechatBot): 微信每日说，三步教你用Node做一个微信哄女友(基友)神器！还能帮女朋友解决垃圾分类难题
+* [HyechoLee/wechatbot-chatgpt](https://github.com/HyechoLee/wechatbot-chatgpt): None
 * [KingsleyYau/WeChatChannelsDownloader](https://github.com/KingsleyYau/WeChatChannelsDownloader): 微信视频号下载器
 * [qbright/wechatCode-complete](https://github.com/qbright/wechatCode-complete): 微信小程序 代码提示插件
 * [zoujingli/WeChatDeveloper](https://github.com/zoujingli/WeChatDeveloper): 【新】微信服务号+微信小程序+微信支付+支付宝支付
