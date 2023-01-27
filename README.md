@@ -452,6 +452,7 @@
 * [meta-magic/kubernetes_workshop](https://github.com/meta-magic/kubernetes_workshop): Kubernetes is an open source Container Orchestration System for automatic deployment, scaling, and management of Containerized application. Kubernetes gives you the freedom to take advantage of on-premise, hybrid or public cloud infrastructure. Kubernetes helps you to scale both horizontally and vertically depends on the load.
 * [maichong/labrador](https://github.com/maichong/labrador): 微信小程序模块化开发框架
 * [maichong/labrador-cli](https://github.com/maichong/labrador-cli): 拉布拉多命令工具，微信小程序模块化开发框架
+* [labring/laf](https://github.com/labring/laf): laf 是一个 serverless 框架，提供开箱即用的云函数，云数据库，对象存储等能力，是一个一站式开发平台，像写博客一样写代码！
 * [lixuancn/LaneWeChat](https://github.com/lixuancn/LaneWeChat): 微信PHP快速开发框架！将微信的各个功能进行了封装，只需要简单的调用方法和传递参数即可。
 * [laravel/laravel](https://github.com/laravel/laravel): Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 * [laravel-china/laravel-docs](https://github.com/laravel-china/laravel-docs): Laravel 中文文档
@@ -726,6 +727,8 @@
 * [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat): 脚本猫,一个可以执行用户脚本的浏览器扩展,万物皆可脚本化,让你的浏览器可以做更多的事情!
 * [hightman/scws](https://github.com/hightman/scws): 开源免费的简易中文分词系统，PHP分词的上乘之选！
 * [seajs/seajs](https://github.com/seajs/seajs): A Module Loader for the Web
+* [sealerio/sealer](https://github.com/sealerio/sealer): Build, Share and Run Both Your Kubernetes Cluster and Distributed Applications  (Project under CNCF)
+* [labring/sealos](https://github.com/labring/sealos): sealos is a Kubernetes distribution, a general-purpose cloud operating system for managing cloud-native applications. Demo: https://cloud.sealos.io
 * [SeasX/SeasLog](https://github.com/SeasX/SeasLog): An effective,fast,stable log extension for PHP.http://pecl.php.net/package/SeasLog http://php.net/SeasLog
 * [luochen1990/select-and-search](https://github.com/luochen1990/select-and-search): an useful vim plugin: select text in v mode, then press n to search next one (N for prev one)
 * [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI): Semantic is a UI component framework based around useful principles from natural language.

@@ -1778,6 +1778,12 @@
     "kongzhidea/pay": [
         "Other"
     ],
+    "labring/laf": [
+        "Other"
+    ],
+    "labring/sealos": [
+        "Other"
+    ],
     "labteral/chatgpt-python": [
         "Other"
     ],
@@ -2502,6 +2508,9 @@
         "Other"
     ],
     "seajs/seajs": [
+        "Other"
+    ],
+    "sealerio/sealer": [
         "Other"
     ],
     "senmeng/jtt": [
