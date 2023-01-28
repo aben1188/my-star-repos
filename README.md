@@ -419,6 +419,7 @@
 * [ipfspics/ipfspics-server](https://github.com/ipfspics/ipfspics-server): Content-addressable, peer-to-peer method of storing and sharing images on the internet.
 * [klren0312/ironInfoWeapp](https://github.com/klren0312/ironInfoWeapp): (请仔细阅读每个项目文件夹下的README) 钢材信息小程序服务已暂停, 后续可能改为云函数
 * [ish-app/ish](https://github.com/ish-app/ish): Linux shell for iOS
+* [eatmoreapple/itchat-desktop](https://github.com/eatmoreapple/itchat-desktop): desktop login mode for itchat
 * [TalkingData/iview-weapp](https://github.com/TalkingData/iview-weapp): 一套高质量的微信小程序 UI 组件库
 * [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript): Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 * [airbnb/javascript](https://github.com/airbnb/javascript): JavaScript Style Guide
@@ -612,6 +613,8 @@
 * [yansongda/pay](https://github.com/yansongda/pay): 可能是我用过的最优雅的 Alipay/WeChat/Unipay 的支付 SDK 扩展包了
 * [helei112g/payment](https://github.com/helei112g/payment): Payment是php版本的支付聚合第三方sdk，集成了微信支付、支付宝支付、招商一网通支付。提供统一的调用接口，方便快速接入各种支付、查询、退款、转账能力。服务端接入支付功能，方便、快捷。
 * [Yurunsoft/PaySDK](https://github.com/Yurunsoft/PaySDK): PHP 集成支付 SDK ，集成了支付宝、微信支付的支付接口和其它相关接口的操作。支持 php-fpm 和 Swoole，所有框架通用。宇润PHP全家桶技术支持群：17916227
+* [hedada-hc/pc_wechat_hook](https://github.com/hedada-hc/pc_wechat_hook): pc微信hook 课程例子源码 最新版pc微信hook全套课程尽在网易云课堂 搜索微信逆向即可 pcwx pcweichat 微信hook C语言开发
+* [zmrbak/PcWeChatHooK](https://github.com/zmrbak/PcWeChatHooK): 云课堂《2019 PC微信 探秘》示例代码
 * [phpgearbox/pdf](https://github.com/phpgearbox/pdf): A PDF builder using HTML or DOCX templates.
 * [mozilla/pdf.js](https://github.com/mozilla/pdf.js): PDF Reader in JavaScript
 * [myokyawhtun/PDFMerger](https://github.com/myokyawhtun/PDFMerger): PDFMerger compatible for PHP 5, PHP 7, and PHP 8
@@ -973,6 +976,7 @@
 * [gtoxlili/wechat-chatGPT](https://github.com/gtoxlili/wechat-chatGPT): 实现微信公众号被动返回接口的ChatGPT
 * [lyricat/wechat-format](https://github.com/lyricat/wechat-format): 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
 * [lonely1215225/wechat-gpt-3](https://github.com/lonely1215225/wechat-gpt-3): 基于openai的gpt-3开发微信机器人
+* [aixed/WeChat-Hook](https://github.com/aixed/WeChat-Hook): PC wechat robot interface [wechat Hook] / PC微信3.8.0.41接口 微信Hook 微信机器人 微信Hook源码 PC微信协议算法 
 * [unmagic/wechat-im](https://github.com/unmagic/wechat-im): 微信小程序即时通讯模板，使用WebSocket通信
 * [gefeixun01/wechat-linux](https://github.com/gefeixun01/wechat-linux): linux微信协议，稳定挂机不掉线
 * [mojisrc/wechat-mini-shop](https://github.com/mojisrc/wechat-mini-shop): 微信小程序商城，微信小程序微店，接口基于FaShop
@@ -989,9 +993,11 @@
 * [dao42/wechat-weapp-mobx](https://github.com/dao42/wechat-weapp-mobx): 微信小程序(wechat weapp) mobx 绑定, 跨页面通信的利器, 现已发布npm包
 * [edagarli/wechat-webapp-resources](https://github.com/edagarli/wechat-webapp-resources): wechat   webapp  resources
 * [sniperyan/wechat-xiaochengxu](https://github.com/sniperyan/wechat-xiaochengxu): 微信小程序demo合集
+* [ByboyCn/wechat7016](https://github.com/ByboyCn/wechat7016): None
 * [wnma3mz/wechat_articles_spider](https://github.com/wnma3mz/wechat_articles_spider): 微信公众号文章的爬虫
 * [xiangchuwang/Wechat_IDE_For_Crack](https://github.com/xiangchuwang/Wechat_IDE_For_Crack): This document is Wechat's Cracked IDE
 * [leochen-g/wechatBot](https://github.com/leochen-g/wechatBot): 微信每日说，三步教你用Node做一个微信哄女友(基友)神器！还能帮女朋友解决垃圾分类难题
+* [zhizhuoshuma/WechatBot](https://github.com/zhizhuoshuma/WechatBot): 一个基于PC版的微信机器人，采用hook的形式进行消息拦截，内存信息读取的形式，实现安全工具，安全资讯，安全客，freebuf等安全论坛自动推送以及每日早报，晚报和娱乐功能
 * [HyechoLee/wechatbot-chatgpt](https://github.com/HyechoLee/wechatbot-chatgpt): None
 * [KingsleyYau/WeChatChannelsDownloader](https://github.com/KingsleyYau/WeChatChannelsDownloader): 微信视频号下载器
 * [qbright/wechatCode-complete](https://github.com/qbright/wechatCode-complete): 微信小程序 代码提示插件
@@ -1024,6 +1030,8 @@
 * [node-webot/weixin-robot](https://github.com/node-webot/weixin-robot): 微信公共帐号自动回复机器人 A Node.js robot for wechat.
 * [54xingzhe/weixin_crawler](https://github.com/54xingzhe/weixin_crawler): 高效微信公众号历史文章和阅读数据爬虫powered by scrapy
 * [52Lau/weixin_crawler-1](https://github.com/52Lau/weixin_crawler-1): 高效微信公众号历史文章和阅读数据爬虫powered by scrapy 微信公众号爬虫 微信采集 公众号采集
+* [Urinx/WeixinBot](https://github.com/Urinx/WeixinBot): 网页版微信API，包含终端版微信及微信机器人
+* [gannicusleon/WeixinBot](https://github.com/gannicusleon/WeixinBot): 网页版微信API，包含终端版微信及微信机器人
 * [dedemao/weixinMp](https://github.com/dedemao/weixinMp): 微信公众号接口单文件版。一个PHP文件搞定微信公众号系列。包括自定义菜单、消息管理等
 * [JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK): 微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0、.NET 7.0。已支持微信公众号、小程序、小游戏、微信支付、企业微信/企业号、开放平台、JSSDK、微信周边等全平台。 WeChat SDK for C#.
 * [dedemao/weixinPay](https://github.com/dedemao/weixinPay): 微信支付单文件版。一个PHP文件搞定微信支付系列。包括原生支付（扫码支付），H5支付，公众号支付，现金红包、企业付款到零钱等。新增V3版。
