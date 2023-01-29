@@ -467,6 +467,7 @@
 * [bluetechsky/Leaflet.DynamicMarker](https://github.com/bluetechsky/Leaflet.DynamicMarker): Plugin for Leaflet to add dynamic color and text to map markers
 * [kevinyan815/Learning_Laravel_Kernel](https://github.com/kevinyan815/Learning_Laravel_Kernel): Laravel核心代码学习
 * [phodal/ledge](https://github.com/phodal/ledge): Ledge —— DevOps knowledge learning platform. DevOps、研发效能知识和工具平台，是我们基于在 ThoughtWorks 进行的一系列 DevOps 实践、敏捷实践、软件开发与测试、精益实践提炼出来的知识体系。它包含了各种最佳实践、操作手册、原则与模式、度量、工具，用于帮助您的企业在数字化时代更好地前进，还有 DevOps 转型。
+* [j178/leetgo](https://github.com/j178/leetgo): Best LeetCode friend for geek. :snowboarder:
 * [cmiscm/leonsans](https://github.com/cmiscm/leonsans): Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
 * [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton): 💻     Democratizing Snippet Management (macOS/Win/Linux)
 * [coolhwm/leshare-map-weapp](https://github.com/coolhwm/leshare-map-weapp): 基于微信小程序的地图展现工具，使用wepy框架及weui样式开发
@@ -709,7 +710,7 @@
 * [obaniu2006/react-native-RealRecyclerView](https://github.com/obaniu2006/react-native-RealRecyclerView): [DEPRECATED]react-native-RealRecyclerView on android.
 * [yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat): 🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)
 * [microsoft/reactxp](https://github.com/microsoft/reactxp): Library for cross-platform app development.
-* [forrestchang/readpilot](https://github.com/forrestchang/readpilot): None
+* [forrestchang/readpilot](https://github.com/forrestchang/readpilot): Read Pilot analyzes online articles and generate Q&A cards for you. Powered by OpenAI & Next.js.
 * [garyhouston/regexp.old](https://github.com/garyhouston/regexp.old): Henry Spencer's old regular expression library, also known as the book regex library, circa 1986.
 * [chuckcarpenter/REM-unit-polyfill](https://github.com/chuckcarpenter/REM-unit-polyfill): A polyfill to parse CSS links and rewrite pixel equivalents into head for non supporting browsers 
 * [arielsalminen/ResponsiveSlides.js](https://github.com/arielsalminen/ResponsiveSlides.js): Simple & lightweight responsive slider plugin (in 1kb)
