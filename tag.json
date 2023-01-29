@@ -377,6 +377,9 @@
     "PHPOffice/PhpSpreadsheet": [
         "Other"
     ],
+    "PaddlePaddle/PaddleHub": [
+        "Other"
+    ],
     "PanJiaChen/vue-admin-template": [
         "Other"
     ],
@@ -2643,6 +2646,9 @@
         "Other"
     ],
     "suulnnka/BullshitGenerator": [
+        "Other"
+    ],
+    "swagger-api/swagger-ui": [
         "Other"
     ],
     "swoft-cloud/swoft": [

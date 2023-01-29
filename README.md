@@ -606,6 +606,7 @@
 * [haixin1225/otld](https://github.com/haixin1225/otld): simple tempermonkey script to open the link directly
 * [yeaha/owl-orm](https://github.com/yeaha/owl-orm): None
 * [thomas-yanxin/OXiaoPeng](https://github.com/thomas-yanxin/OXiaoPeng): 🤗【欧小鹏】辅助社区运营，支持文生图、闲聊等群活跃技能，以及社群自动问答等辅助管理功能。
+* [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub): Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)
 * [mawenjie8731/paddlenlp-wechaty-demo](https://github.com/mawenjie8731/paddlenlp-wechaty-demo): None
 * [padlocal/padlocal-client-ts](https://github.com/padlocal/padlocal-client-ts): None
 * [tw93/Pake](https://github.com/tw93/Pake): 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
@@ -779,6 +780,7 @@
 * [startbbs/startbbs](https://github.com/startbbs/startbbs): startbbs is a free, open-source, light weight forum software package built with PHP and MySQL
 * [staticfile/static](https://github.com/staticfile/static): 开放静态文件 - 为开源库提供稳定、快速的免费 CDN 服务
 * [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf): Control and manage Android devices from your browser.
+* [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui): Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 * [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts): Switch hosts quickly!
 * [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega): Manage and switch between multiple proxies quickly & easily.
 * [swoft-cloud/swoft](https://github.com/swoft-cloud/swoft): 🚀 PHP Microservice Full Coroutine Framework
