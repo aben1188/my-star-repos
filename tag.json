@@ -149,6 +149,9 @@
     "DeKabilan/zlib_module": [
         "Other"
     ],
+    "DeviceFarmer/stf": [
+        "Other"
+    ],
     "DocsHome/nginx-docs": [
         "Other"
     ],
@@ -2759,6 +2762,9 @@
     "the1812/Bilibili-Evolved": [
         "Other"
     ],
+    "thinkhy/deploy-stf-docker": [
+        "Other"
+    ],
     "thinksaas/ThinkSAAS": [
         "Other"
     ],
@@ -3066,6 +3072,9 @@
         "Other"
     ],
     "wux-weapp/wxbot": [
+        "Other"
+    ],
+    "wxext/wxext": [
         "Other"
     ],
     "x-cold/N3-admin": [

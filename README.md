@@ -240,6 +240,7 @@
 * [liyupi/daxigua](https://github.com/liyupi/daxigua): 最简单的魔改发布『 合成大西瓜 』，配套改图工具，不用改代码，修改配置即可！
 * [Shougo/defx.nvim](https://github.com/Shougo/defx.nvim): :file_folder: The dark powered file explorer implementation for neovim/Vim8
 * [beurtschipper/Depix](https://github.com/beurtschipper/Depix): Recovers passwords from pixelized screenshots
+* [thinkhy/deploy-stf-docker](https://github.com/thinkhy/deploy-stf-docker): Scripts to deploy STF master server on Ubuntu with one-button operation
 * [WebAssembly/design](https://github.com/WebAssembly/design): WebAssembly Design Documents
 * [me115/design_patterns](https://github.com/me115/design_patterns): 图说设计模式
 * [EthereumCN/dev](https://github.com/EthereumCN/dev): You can find all things about Ethereum development! 以太坊开发者门户
@@ -777,6 +778,7 @@
 * [easychen/stack-roadmap](https://github.com/easychen/stack-roadmap): 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈
 * [startbbs/startbbs](https://github.com/startbbs/startbbs): startbbs is a free, open-source, light weight forum software package built with PHP and MySQL
 * [staticfile/static](https://github.com/staticfile/static): 开放静态文件 - 为开源库提供稳定、快速的免费 CDN 服务
+* [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf): Control and manage Android devices from your browser.
 * [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts): Switch hosts quickly!
 * [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega): Manage and switch between multiple proxies quickly & easily.
 * [swoft-cloud/swoft](https://github.com/swoft-cloud/swoft): 🚀 PHP Microservice Full Coroutine Framework
@@ -1096,6 +1098,7 @@
 * [wux-weapp/wxbot](https://github.com/wux-weapp/wxbot): 微信机器人，个人微信号小助手平台， nodejs + nuxt + wechaty 技术栈
 * [WeixinCloud/wxcloudrun-wxcomponent](https://github.com/WeixinCloud/wxcloudrun-wxcomponent): 微信云托管 微信第三方平台模版
 * [icindy/WxEmojiView](https://github.com/icindy/WxEmojiView): WxEmojiView
+* [wxext/wxext](https://github.com/wxext/wxext): e小天·微信机器人管理界面,PC微信接口扩展开发,自适应微信版本,收发消息获取群昵称等,集成常用功能快速开发插件
 * [icindy/wxflex](https://github.com/icindy/wxflex): 微信小程序的Flex布局demo－4种必备常用的Flex布局模式
 * [yitd/wxkp](https://github.com/yitd/wxkp): 微信卡片分享链接在线制作工具
 * [icindy/WxNotificationCenter](https://github.com/icindy/WxNotificationCenter): WxNotificationCenter - 微信小程序通知广播模式类,降低小程序之间的耦合度
