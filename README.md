@@ -355,6 +355,7 @@
 * [guyigenius/Google-Baidu-Bing-360-Sogou-Weibo-Twitter](https://github.com/guyigenius/Google-Baidu-Bing-360-Sogou-Weibo-Twitter): Show results from Baidu, Bing, 360, Sogou, Weibo and Twitter in Google web search. | 在Google网页搜索显示百度、必应、360、搜狗、微博和Twitter的搜索结果。
 * [AlloyTeam/gopng](https://github.com/AlloyTeam/gopng): GoPng - a HTML5 css sprite generator with cool feature.
 * [ginuerzh/gost](https://github.com/ginuerzh/gost): GO Simple Tunnel - a simple tunnel written in golang
+* [EasyGolang/goTools](https://github.com/EasyGolang/goTools): 一个 go 语言工具库, 让你在编写go应用程序时可以更加得心应手
 * [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte): Goutte, a simple PHP Web Scraper
 * [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter): Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3. Available in the Chrome web store and Firefox browser add-ons
 * [cryptonomex/graphene](https://github.com/cryptonomex/graphene): None
