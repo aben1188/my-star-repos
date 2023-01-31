@@ -801,7 +801,7 @@
 * [alanchenyan/taobaoke-server](https://github.com/alanchenyan/taobaoke-server): 淘宝客PHP服务器端
 * [TarsCloud/Tars](https://github.com/TarsCloud/Tars): Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
 * [tauri-apps/tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
-* [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs): The source for all tauri project documentation.
+* [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs): The source for all Tauri project documentation.
 * [tecnickcom/TCPDF](https://github.com/tecnickcom/TCPDF): Official clone of PHP library to generate PDF documents and barcodes
 * [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop): Telegram Desktop messaging app
 * [lcomplete/TechShare](https://github.com/lcomplete/TechShare): 🌟 分享效率方法 🪄、优质文章 📑、编程知识 🎹、实用工具 🛠️ 和有趣内容 😄。💌 当有重要的事情需要分享时会发送 newsletter。
