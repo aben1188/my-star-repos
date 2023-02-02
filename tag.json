@@ -1724,6 +1724,15 @@
     "jurosh/php-pdf-merge": [
         "Other"
     ],
+    "justauth/CollectiveOAuth": [
+        "Other"
+    ],
+    "justauth/JustAuth": [
+        "Other"
+    ],
+    "justauth/justauth-php": [
+        "Other"
+    ],
     "justinmk/vim-sneak": [
         "Other"
     ],
@@ -1965,6 +1974,12 @@
         "Other"
     ],
     "lixh00/web-wechat": [
+        "Other"
+    ],
+    "lixi5338619/lxBook": [
+        "Other"
+    ],
+    "lixi5338619/lxSpider": [
         "Other"
     ],
     "lixuancn/LaneWeChat": [

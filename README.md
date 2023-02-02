@@ -210,6 +210,7 @@
 * [jojoin/Codekart](https://github.com/jojoin/Codekart): Web application framework for Node.js
 * [CodisLabs/codis](https://github.com/CodisLabs/codis): Proxy based Redis cluster solution supporting pipeline and scaling dynamically
 * [codius-deprecated/codius](https://github.com/codius-deprecated/codius): Repository for general information about the Codius system.
+* [justauth/CollectiveOAuth](https://github.com/justauth/CollectiveOAuth): .Net平台(C#) 史上最全的整合第三方登录的开源库 => 环境支持 .NET Framework 4.5 ~ 4.6.2 和 .NetCore 3.1。目前已包含Github、Gitee、钉钉、百度、支付宝、微信、企业微信、腾讯云开发者平台(Coding)、OSChina、微博、QQ、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、酷家乐、Gitlab、美团、饿了么、等第三方平台的授权登录。以下平台正在接入中: 推特、淘宝
 * [mrmrs/colors](https://github.com/mrmrs/colors): Smarter defaults for colors on the web.
 * [kangax/compat-table](https://github.com/kangax/compat-table): ECMAScript 5/6/7 compatibility tables
 * [docker/compose-on-kubernetes](https://github.com/docker/compose-on-kubernetes): Deploy applications described in Compose onto Kubernetes clusters
@@ -451,6 +452,8 @@
 * [ruanyf/jstraining](https://github.com/ruanyf/jstraining): 全栈工程师培训材料
 * [ruanyf/jstutorial](https://github.com/ruanyf/jstutorial): Javascript tutorial book
 * [senmeng/jtt](https://github.com/senmeng/jtt): 京东客、京东联盟、京东API、京推推
+* [justauth/JustAuth](https://github.com/justauth/JustAuth): 🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、推特、飞书、京东、阿里云、喜马拉雅、Amazon、Slack和 Line 等第三方平台的授权登录。 Login, so easy!
+* [justauth/justauth-php](https://github.com/justauth/justauth-php): PHP 版 JustAuth，目前已支持 GITEE 、GITHUB 、OSChina、StackOverflow 、百度、微博、抖音、QQ 、钉钉平台。
 * [AlloyTeam/JX](https://github.com/AlloyTeam/JX): JX(Javascript eXtension tools) 是腾讯AlloyTeam推出的模块化、非侵入式Web前端框架，适合构建和组织工业级大规模、高效率的 Web App
 * [BennyWang/KBinding](https://github.com/BennyWang/KBinding): Android MVVM framework write in kotlin, develop Android has never been so fun.
 * [Tencent/kbone](https://github.com/Tencent/kbone): 一个致力于微信小程序和 Web 端同构的解决方案
@@ -499,6 +502,8 @@
 * [lspcieee/lspcieee_ahk](https://github.com/lspcieee/lspcieee_ahk): 个人开机启动的ahk脚本
 * [octopuszy/LTalk-swoole](https://github.com/octopuszy/LTalk-swoole): 网页版实时通讯功能，基于 easyswoole
 * [6tail/lunar-javascript](https://github.com/6tail/lunar-javascript): 日历、公历(阳历)、农历(阴历、老黄历)、佛历、道历，支持节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道黑道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar.
+* [lixi5338619/lxBook](https://github.com/lixi5338619/lxBook): 《爬虫逆向进阶实战》书籍代码库
+* [lixi5338619/lxSpider](https://github.com/lixi5338619/lxSpider): 爬虫案例合集。包括但不限于《淘宝、京东、天猫、豆瓣、抖音、快手、微博、微信、阿里、头条、pdd、优酷、爱奇艺、携程、12306、58、搜狐、各种指数、维普万方、Zlibraty、Oalib、小说、招标网、采购网、小红书、大众点评、推特、脉脉、知乎》
 * [chokcoco/magicCss](https://github.com/chokcoco/magicCss): CSS3奇思妙想，单标签实现各类图形
 * [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk): The Magic Mask for Android
 * [exvim/main](https://github.com/exvim/main): This is the main repository for exVim!
