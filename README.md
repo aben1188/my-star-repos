@@ -270,6 +270,8 @@
 * [humiaozuzu/dot-vimrc](https://github.com/humiaozuzu/dot-vimrc): Maple's vim config files
 * [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles): :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 * [taizilongxu/dotfiles](https://github.com/taizilongxu/dotfiles): 迁移配置文件
+* [wechaty/dotnet-wechaty](https://github.com/wechaty/dotnet-wechaty): .NET Wechaty is a Conversational SDK for Chatbot Makers Written in C#
+* [wechaty/dotnet-wechaty-getting-started](https://github.com/wechaty/dotnet-wechaty-getting-started): .NET Wechaty Starter Project Template that Works Out-of-the-Box
 * [wangshub/Douyin-Bot](https://github.com/wangshub/Douyin-Bot): 😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？ 
 * [lonnyzhang423/douyin-hot-hub](https://github.com/lonnyzhang423/douyin-hot-hub): 记录抖音热榜、明星榜、直播榜、音乐榜和品牌榜，每小时更新，按天归档。
 * [dracula/dracula-theme](https://github.com/dracula/dracula-theme): 🧛🏻‍♂️ One theme. All platforms.
