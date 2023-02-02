@@ -1010,6 +1010,7 @@
 * [dao42/wechat-weapp-mobx](https://github.com/dao42/wechat-weapp-mobx): 微信小程序(wechat weapp) mobx 绑定, 跨页面通信的利器, 现已发布npm包
 * [edagarli/wechat-webapp-resources](https://github.com/edagarli/wechat-webapp-resources): wechat   webapp  resources
 * [sniperyan/wechat-xiaochengxu](https://github.com/sniperyan/wechat-xiaochengxu): 微信小程序demo合集
+* [nodeWechat/wechat4u](https://github.com/nodeWechat/wechat4u): 微信 wechat web 网页版接口的 JavaScript 实现，兼容Node和浏览器，微信机器人
 * [ByboyCn/wechat7016](https://github.com/ByboyCn/wechat7016): None
 * [wnma3mz/wechat_articles_spider](https://github.com/wnma3mz/wechat_articles_spider): 微信公众号文章的爬虫
 * [xiangchuwang/Wechat_IDE_For_Crack](https://github.com/xiangchuwang/Wechat_IDE_For_Crack): This document is Wechat's Cracked IDE
