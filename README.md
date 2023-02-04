@@ -922,7 +922,7 @@
 * [microsoft/VS-PPT](https://github.com/microsoft/VS-PPT): Productivity Power Tools - a set of Visual Studio extensions improving developer productivity.
 * [microsoft/vscode](https://github.com/microsoft/vscode): Visual Studio Code
 * [VsVim/VsVim](https://github.com/VsVim/VsVim): Vim Emulator Plugin for Visual Studio 2015+ 
-* [vuejs/vue](https://github.com/vuejs/vue): 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+* [vuejs/vue](https://github.com/vuejs/vue): This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 * [taylorchen709/vue-admin](https://github.com/taylorchen709/vue-admin): admin template based on vuejs2 and element.
 * [vue-bulma/vue-admin](https://github.com/vue-bulma/vue-admin): We are refactoring it, using the latest Vue and Bulma. WIP
 * [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template): a vue2.0 minimal admin template 
