@@ -876,7 +876,7 @@
 * [yanue/V2rayU](https://github.com/yanue/V2rayU): V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
 * [Cenmrev/V2RayW](https://github.com/Cenmrev/V2RayW): GUI for v2ray-core on Windows
 * [v8/v8](https://github.com/v8/v8): The official mirror of the V8 Git repository
-* [youzan/vant](https://github.com/youzan/vant): Lightweight Mobile UI Components built on Vue
+* [youzan/vant](https://github.com/youzan/vant): A lightweight Vue UI library for mobile Web Apps.
 * [youzan/vant-weapp](https://github.com/youzan/vant-weapp): 轻量、可靠的小程序 UI 组件库
 * [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden): Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 * [Tencent/vConsole](https://github.com/Tencent/vConsole): A lightweight, extendable front-end developer tool for mobile web page.
