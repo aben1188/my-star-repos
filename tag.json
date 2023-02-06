@@ -1091,6 +1091,12 @@
     "docker/compose-on-kubernetes": [
         "Other"
     ],
+    "docmirror/dev-sidecar": [
+        "Other"
+    ],
+    "docmirror/dev-sidecar-doc": [
+        "Other"
+    ],
     "docsifyjs/docsify": [
         "Other"
     ],
