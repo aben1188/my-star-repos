@@ -266,6 +266,9 @@
     "Jesn/dotnet-wechaty-getting-started": [
         "Other"
     ],
+    "JesseWeb/wechaty-room-manager": [
+        "Other"
+    ],
     "JetBrains/ideavim": [
         "Other"
     ],
@@ -888,6 +891,9 @@
         "Other"
     ],
     "bruderstein/nppPluginManager": [
+        "Other"
+    ],
+    "brujie/wechaty-room-forward": [
         "Other"
     ],
     "bullhe4d/bigwatermelon": [
@@ -1593,6 +1599,12 @@
         "Other"
     ],
     "isboyjc/wechaty-plugin-robot": [
+        "Other"
+    ],
+    "isboyjc/wechaty-room-invite": [
+        "Other"
+    ],
+    "isboyjc/wechaty-room-welcome": [
         "Other"
     ],
     "ish-app/ish": [
@@ -2328,6 +2340,9 @@
         "Other"
     ],
     "pangxiaobin/CrawlerHot": [
+        "Other"
+    ],
+    "panlina/wechaty-guess-song": [
         "Other"
     ],
     "parro-it/awesome-micro-npm-packages": [
