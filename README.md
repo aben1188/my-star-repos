@@ -1035,14 +1035,17 @@
 * [x-dr/wechaty-bot](https://github.com/x-dr/wechaty-bot): 一个基于wechaty和openai智能回复、AI绘画的微信机器人
 * [sunshanpeng/wechaty-chatgpt](https://github.com/sunshanpeng/wechaty-chatgpt): 基于wechaty创建一个自己的ChatGPT微信机器人
 * [zscorpio/wechaty-client](https://github.com/zscorpio/wechaty-client): wechat web client on wechaty
+* [isboyjc/wechaty-friend-pass](https://github.com/isboyjc/wechaty-friend-pass): Wechat friend application passes automatically
 * [panlina/wechaty-guess-song](https://github.com/panlina/wechaty-guess-song): A Wechaty plugin to play guess song game in a room
 * [coderwhocode/wechaty-pay](https://github.com/coderwhocode/wechaty-pay): Personal Payment Solution based on Wechaty
 * [isboyjc/wechaty-plugin-robot](https://github.com/isboyjc/wechaty-plugin-robot): wechaty plugin robot
 * [wechaty/wechaty-puppet-padpro](https://github.com/wechaty/wechaty-puppet-padpro): None
 * [isboyjc/wechaty-Robot](https://github.com/isboyjc/wechaty-Robot): 基于wechaty-puppet-padplus的微信机器人助手
+* [isboyjc/wechaty-room-clock](https://github.com/isboyjc/wechaty-room-clock): integral, clock
 * [brujie/wechaty-room-forward](https://github.com/brujie/wechaty-room-forward): wechaty群聊提到自己的消息转发插件
 * [isboyjc/wechaty-room-invite](https://github.com/isboyjc/wechaty-room-invite): Invite user to rooms by keyword
 * [JesseWeb/wechaty-room-manager](https://github.com/JesseWeb/wechaty-room-manager): a room manager
+* [isboyjc/wechaty-room-remove](https://github.com/isboyjc/wechaty-room-remove): Quick automatic removal from group chat
 * [isboyjc/wechaty-room-welcome](https://github.com/isboyjc/wechaty-room-welcome): Welcome to the room
 * [Gcaufy/wechaty-schedule](https://github.com/Gcaufy/wechaty-schedule): Wechaty Schedule allow you to easily schedule jobs for your Wechaty bots.
 * [Gcaufy/wechaty-voteout](https://github.com/Gcaufy/wechaty-voteout): Wechaty voteout plugin

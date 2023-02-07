@@ -1601,10 +1601,19 @@
     "isboyjc/wechaty-Robot": [
         "Other"
     ],
+    "isboyjc/wechaty-friend-pass": [
+        "Other"
+    ],
     "isboyjc/wechaty-plugin-robot": [
         "Other"
     ],
+    "isboyjc/wechaty-room-clock": [
+        "Other"
+    ],
     "isboyjc/wechaty-room-invite": [
+        "Other"
+    ],
+    "isboyjc/wechaty-room-remove": [
         "Other"
     ],
     "isboyjc/wechaty-room-welcome": [
