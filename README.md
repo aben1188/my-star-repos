@@ -244,6 +244,7 @@
 * [CSSLint/csslint](https://github.com/CSSLint/csslint): Automated linting of Cascading Stylesheets
 * [itwanger/daxigua](https://github.com/itwanger/daxigua): 合成大西瓜未修改版本源码，可直接在浏览器运行
 * [liyupi/daxigua](https://github.com/liyupi/daxigua): 最简单的魔改发布『 合成大西瓜 』，配套改图工具，不用改代码，修改配置即可！
+* [tisfeng/deepl-cli](https://github.com/tisfeng/deepl-cli): A simple DeepL Translation command line program written in Python that does not require key.  一个使用 Python 编写、无需 auth_key 的 DeepL 翻译命令行工具。
 * [Shougo/defx.nvim](https://github.com/Shougo/defx.nvim): :file_folder: The dark powered file explorer implementation for neovim/Vim8
 * [beurtschipper/Depix](https://github.com/beurtschipper/Depix): Recovers passwords from pixelized screenshots
 * [thinkhy/deploy-stf-docker](https://github.com/thinkhy/deploy-stf-docker): Scripts to deploy STF master server on Ubuntu with one-button operation
