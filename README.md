@@ -695,6 +695,7 @@
 * [pugjs/pug](https://github.com/pugjs/pug): Pug – robust, elegant, feature rich template engine for Node.js
 * [wechaty/puppet-padlocal](https://github.com/wechaty/puppet-padlocal): Puppet PadLocal is a Pad Protocol for WeChat
 * [wechaty/puppet-walnut](https://github.com/wechaty/puppet-walnut): Wechaty Puppet Walnut - 硬核桃5G消息
+* [wechaty/puppet-wechat4u](https://github.com/wechaty/puppet-wechat4u): Wechat4u Puppet for Wechaty
 * [wechaty/puppet-xp](https://github.com/wechaty/puppet-xp): Wechaty Puppet WeChat Windows Protocol
 * [pure-css/pure](https://github.com/pure-css/pure): A set of small, responsive CSS modules that you can use in every web project.
 * [cixingguangming55555/Python-100-Days](https://github.com/cixingguangming55555/Python-100-Days): Python - 100天从新手到大师
