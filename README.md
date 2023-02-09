@@ -623,6 +623,7 @@
 * [openresty/openresty.org](https://github.com/openresty/openresty.org): Code and data for the openresty.org site
 * [eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat): golang微信SDK
 * [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db): Peer-to-Peer Databases for the Decentralized Web
+* [kaiyuanshe/osschat](https://github.com/kaiyuanshe/osschat): Apache Open Source Software Chat BOT
 * [haixin1225/otld](https://github.com/haixin1225/otld): simple tempermonkey script to open the link directly
 * [yeaha/owl-orm](https://github.com/yeaha/owl-orm): None
 * [thomas-yanxin/OXiaoPeng](https://github.com/thomas-yanxin/OXiaoPeng): 🤗【欧小鹏】辅助社区运营，支持文生图、闲聊等群活跃技能，以及社群自动问答等辅助管理功能。
@@ -644,6 +645,7 @@
 * [smalot/pdfparser](https://github.com/smalot/pdfparser): PdfParser, a standalone PHP library, provides various tools to extract data from a PDF file.
 * [peco/peco](https://github.com/peco/peco): Simplistic interactive filtering tool
 * [PeopleDao/people](https://github.com/PeopleDao/people): None
+* [luiscruzga/perplexityai](https://github.com/luiscruzga/perplexityai): Search information and summarized news using artificial intelligence from perplexity
 * [docker-library/php](https://github.com/docker-library/php): Docker Official Image packaging for PHP
 * [codecasts/php-alpine](https://github.com/codecasts/php-alpine): PHP APK Repository for Alpine Linux
 * [liexusong/php-beast](https://github.com/liexusong/php-beast): PHP source code encrypt module (PHP源码加密扩展)
