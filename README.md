@@ -588,7 +588,7 @@
 * [arquivei/nginx-vts](https://github.com/arquivei/nginx-vts): Nginx with VTS module and Prometheus exporter
 * [tumobi/nideshop](https://github.com/tumobi/nideshop): NideShop 开源微信小程序商城服务端 API（Node.js + ThinkJS）
 * [liuxing/node-abc](https://github.com/liuxing/node-abc): 《Node.js入门教程》
-* [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api): A ChatGPT implementation using the official ChatGPT model via OpenAI's API. Available as a Node.js module, REST API server, and CLI app.
+* [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api): A ChatGPT implementation with support for Bing's GPT-4 version of ChatGPT, plus the official ChatGPT model via OpenAI's API. Available as a Node.js module, REST API server, and CLI app.
 * [bda-research/node-crawler](https://github.com/bda-research/node-crawler): Web Crawler/Spider for NodeJS + server-side jQuery ;-)
 * [snowdream/node-gitm](https://github.com/snowdream/node-gitm): A simple but useful tool to manage multiple git repositories.
 * [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache): None
