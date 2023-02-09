@@ -693,6 +693,7 @@
 * [bobthecow/psysh](https://github.com/bobthecow/psysh): A REPL for PHP
 * [pug-php/pug](https://github.com/pug-php/pug): Pug template engine for PHP
 * [pugjs/pug](https://github.com/pugjs/pug): Pug – robust, elegant, feature rich template engine for Node.js
+* [wechaty/puppet-oicq](https://github.com/wechaty/puppet-oicq): Wechaty Puppet for QQ based on project takayama-lily/oicq-template
 * [wechaty/puppet-padlocal](https://github.com/wechaty/puppet-padlocal): Puppet PadLocal is a Pad Protocol for WeChat
 * [wechaty/puppet-walnut](https://github.com/wechaty/puppet-walnut): Wechaty Puppet Walnut - 硬核桃5G消息
 * [wechaty/puppet-wechat4u](https://github.com/wechaty/puppet-wechat4u): Wechat4u Puppet for Wechaty

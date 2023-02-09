@@ -3092,6 +3092,9 @@
     "wechaty/plugin-contrib": [
         "Other"
     ],
+    "wechaty/puppet-oicq": [
+        "Other"
+    ],
     "wechaty/puppet-padlocal": [
         "Other"
     ],
