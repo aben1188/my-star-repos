@@ -1805,6 +1805,12 @@
     "kangvcar/InfoSpider": [
         "Other"
     ],
+    "karpathy/minGPT": [
+        "Other"
+    ],
+    "karpathy/nanoGPT": [
+        "Other"
+    ],
     "kazaff/third-part-auth": [
         "Other"
     ],
@@ -1857,6 +1863,9 @@
         "Other"
     ],
     "kongzhidea/pay": [
+        "Other"
+    ],
+    "krahets/hello-algo": [
         "Other"
     ],
     "labring/laf": [
@@ -2424,6 +2433,9 @@
         "Other"
     ],
     "phuocng/1loc": [
+        "Other"
+    ],
+    "pingcap/ossinsight": [
         "Other"
     ],
     "pjkui/q2a-behaviac-editor": [

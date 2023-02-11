@@ -388,6 +388,7 @@
 * [pandecheng36/hcdkp](https://github.com/pandecheng36/hcdkp): 最简单的魔改发布『 合成大西瓜 』，不用改代码，修改配置即可！
 * [ilovexjp/health-code-index](https://github.com/ilovexjp/health-code-index): 健康码模拟 - 索引
 * [idontlovexjp/health-code-index.bak](https://github.com/idontlovexjp/health-code-index.bak): 健康码模拟；变态清零，祸国殃民。（备份自 https://github.com/ilovexjp/health-code-index ）新家在此：👇
+* [krahets/hello-algo](https://github.com/krahets/hello-algo): 《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。
 * [zbezj/HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator): None
 * [hexojs/hexo](https://github.com/hexojs/hexo): A fast, simple & powerful blog framework, powered by Node.js.
 * [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid): :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
@@ -534,6 +535,7 @@
 * [huorswords/Microsoft.Extensions.Logging.Log4Net.AspNetCore](https://github.com/huorswords/Microsoft.Extensions.Logging.Log4Net.AspNetCore): Allows to configure Log4net as Microsoft Extensions Logging handler on any ASP.NET Core application.  Original code proposal by @anuraj --> https://dotnetthoughts.net/how-to-use-log4net-with-aspnetcore-for-logging/
 * [midwayjs/midway](https://github.com/midwayjs/midway): 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
 * [phith0n/Mind-Map](https://github.com/phith0n/Mind-Map): 各种安全相关思维导图整理收集
+* [karpathy/minGPT](https://github.com/karpathy/minGPT): A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 * [BooLeei/mini-program](https://github.com/BooLeei/mini-program): None
 * [weolar/miniblink49](https://github.com/weolar/miniblink49): a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
 * [YuniorZen/minicode-debug](https://github.com/YuniorZen/minicode-debug): 微信小程序、公众号、H5等小的案例代码分享。
@@ -574,6 +576,7 @@
 * [x-cold/N3-admin](https://github.com/x-cold/N3-admin): vue / vuex / N3 / vue-router / axios v2
 * [N3-components/N3-components](https://github.com/N3-components/N3-components): N3-components , Powerful Vue UI Library.
 * [hyperf/nano](https://github.com/hyperf/nano): 🧬 Nano is a zero-config, no skeleton, minimal Hyperf distribution that allows you to quickly build a Hyperf application with just a single PHP file.
+* [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT): The simplest, fastest repository for training/finetuning medium-sized GPTs.
 * [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript): ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.
 * [MetacoSA/NBitcoin](https://github.com/MetacoSA/NBitcoin): Comprehensive Bitcoin library for the .NET framework.
 * [neo-project/neo](https://github.com/neo-project/neo): NEO Smart Economy
@@ -625,6 +628,7 @@
 * [eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat): golang微信SDK
 * [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db): Peer-to-Peer Databases for the Decentralized Web
 * [kaiyuanshe/osschat](https://github.com/kaiyuanshe/osschat): Apache Open Source Software Chat BOT
+* [pingcap/ossinsight](https://github.com/pingcap/ossinsight): Open Source Software Insights - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 5 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/ossinsight
 * [haixin1225/otld](https://github.com/haixin1225/otld): simple tempermonkey script to open the link directly
 * [yeaha/owl-orm](https://github.com/yeaha/owl-orm): None
 * [thomas-yanxin/OXiaoPeng](https://github.com/thomas-yanxin/OXiaoPeng): 🤗【欧小鹏】辅助社区运营，支持文生图、闲聊等群活跃技能，以及社群自动问答等辅助管理功能。
