@@ -89,7 +89,7 @@
 * [Qihoo360/Atlas](https://github.com/Qihoo360/Atlas): A high-performance and stable proxy for MySQL, it is developed by Qihoo's DBA and infrastructure team
 * [PythonNut/auto-fu.zsh](https://github.com/PythonNut/auto-fu.zsh): zsh automatic complete-word and list-choices.
 * [hchbaw/auto-fu.zsh](https://github.com/hchbaw/auto-fu.zsh): #zsh automatic complete-word and list-choices. Originally incr-0.2.zsh  by y.fujii <y-fujii at mimosa-pudica.net>
-* [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js): Automation&Workflow JavaScript IDE on Android(安卓平台上的自动化工作流JavaScript IDE)
+* [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js): Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
 * [mli/autocut](https://github.com/mli/autocut): 用文本编辑器剪视频
 * [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey): AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 * [postcss/autoprefixer](https://github.com/postcss/autoprefixer):  Parse CSS and add vendor prefixes to rules by Can I Use
