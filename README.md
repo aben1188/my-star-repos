@@ -876,6 +876,7 @@
 * [doyoe/trip](https://github.com/doyoe/trip): 移动前端开发经验指南
 * [typecho/typecho](https://github.com/typecho/typecho): A PHP Blogging Platform. Simple and Powerful.
 * [microsoft/TypeScript](https://github.com/microsoft/TypeScript): TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+* [jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese): TypeScript Deep Dive 中文版 
 * [XIU2/UACWhitelistTool](https://github.com/XIU2/UACWhitelistTool): 📃 UAC 白名单小工具！
 * [sksmatt/UItoTop-jQuery-Plugin](https://github.com/sksmatt/UItoTop-jQuery-Plugin): jQuery dynamic UI plugin.
 * [uiv-lib/uiv](https://github.com/uiv-lib/uiv): Bootstrap 3 components implemented by Vue.js.
