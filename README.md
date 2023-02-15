@@ -180,6 +180,7 @@
 * [Hello-SimpleAI/chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection): Human ChatGPT Comparison Corpus (HC3), Detectors, and more! 🔥
 * [zhuzilin/chatgpt-desktop](https://github.com/zhuzilin/chatgpt-desktop): Desktop version of ChatGPT, support manually set cookie
 * [UNICKCHENG/ChatGPT-For-Wechat](https://github.com/UNICKCHENG/ChatGPT-For-Wechat): A wechat bot using Wechaty and ChatGPT
+* [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension): A browser extension that enhance search engines with ChatGPT
 * [labteral/chatgpt-python](https://github.com/labteral/chatgpt-python): Unofficial Python SDK for OpenAI's ChatGPT
 * [yi-ge/chatgpt-web](https://github.com/yi-ge/chatgpt-web): Multi-user h5 version, 3rd party ChatGPT web page. Uses OpenAPI official web API.
 * [whyiyhw/chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat): 通过企业微信实现 微信中与 chatgpt 对话
