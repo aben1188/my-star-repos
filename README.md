@@ -436,6 +436,7 @@
 * [LiLittleCat/intellij-chatgpt](https://github.com/LiLittleCat/intellij-chatgpt): A ChatGPT plugin for IntelliJ Platform-Based IDEs
 * [Damao/Intellij-IDEA-F2E](https://github.com/Damao/Intellij-IDEA-F2E): Intellij IDEA / PHPStorm / WebStorm Front End Engineer Guide (中文)
 * [izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets): 🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio
+* [Olshansk/interview](https://github.com/Olshansk/interview): Everything you need to prepare for your technical interview
 * [loveuqian/iOS-Carbon-Forum](https://github.com/loveuqian/iOS-Carbon-Forum): iOS Client for Carbon Forum
 * [ipfs/ipfs](https://github.com/ipfs/ipfs): Peer-to-peer hypermedia protocol
 * [ipfs/ipfs-companion](https://github.com/ipfs/ipfs-companion): Browser extension that simplifies access to IPFS resources on the web
@@ -596,6 +597,7 @@
 * [chenxianshuang/nezha-cashier](https://github.com/chenxianshuang/nezha-cashier): 简单的支付 sdk
 * [DocsHome/nginx-docs](https://github.com/DocsHome/nginx-docs): Nginx 中文文档. Chinese translation of Nginx documentation.
 * [arquivei/nginx-vts](https://github.com/arquivei/nginx-vts): Nginx with VTS module and Prometheus exporter
+* [nhost/nhost](https://github.com/nhost/nhost): The Open Source Firebase Alternative with GraphQL.
 * [tumobi/nideshop](https://github.com/tumobi/nideshop): NideShop 开源微信小程序商城服务端 API（Node.js + ThinkJS）
 * [liuxing/node-abc](https://github.com/liuxing/node-abc): 《Node.js入门教程》
 * [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api): A ChatGPT implementation with support for Bing's GPT-4 version of ChatGPT, plus the official ChatGPT model via OpenAI's API. Available as a Node.js module, REST API server, and CLI app.
@@ -612,6 +614,7 @@
 * [nullivex/nodist](https://github.com/nullivex/nodist): Natural node.js and npm version manager for windows.
 * [nonebot/nonebot2](https://github.com/nonebot/nonebot2): 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
 * [necolas/normalize.css](https://github.com/necolas/normalize.css): A modern alternative to CSS resets
+* [novuhq/novu](https://github.com/novuhq/novu): The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
 * [nissl-lab/npoi](https://github.com/nissl-lab/npoi): a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
 * [bruderstein/nppPluginManager](https://github.com/bruderstein/nppPluginManager): Notepad++ Plugin Manager
 * [D-xuanmo/Nuxtjs-Wordpress](https://github.com/D-xuanmo/Nuxtjs-Wordpress): 🎉 Nuxtjs + Wordpress REST API 主题；支持企业微信通知功能；全站前后端分离，自适应，白日、黑夜两种主题切换
@@ -749,6 +752,7 @@
 * [yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat): 🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)
 * [microsoft/reactxp](https://github.com/microsoft/reactxp): Library for cross-platform app development.
 * [forrestchang/readpilot](https://github.com/forrestchang/readpilot): Read Pilot analyzes online articles and generate Q&A cards for you. Powered by OpenAI & Next.js.
+* [Fechin/reference](https://github.com/Fechin/reference): ⭕ Share quick reference cheat sheet for developers.
 * [garyhouston/regexp.old](https://github.com/garyhouston/regexp.old): Henry Spencer's old regular expression library, also known as the book regex library, circa 1986.
 * [chuckcarpenter/REM-unit-polyfill](https://github.com/chuckcarpenter/REM-unit-polyfill): A polyfill to parse CSS links and rewrite pixel equivalents into head for non supporting browsers 
 * [arielsalminen/ResponsiveSlides.js](https://github.com/arielsalminen/ResponsiveSlides.js): Simple & lightweight responsive slider plugin (in 1kb)
@@ -881,6 +885,7 @@
 * [typecho/typecho](https://github.com/typecho/typecho): A PHP Blogging Platform. Simple and Powerful.
 * [microsoft/TypeScript](https://github.com/microsoft/TypeScript): TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 * [jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese): TypeScript Deep Dive 中文版 
+* [rmolinamir/typescript-cheatsheet](https://github.com/rmolinamir/typescript-cheatsheet): A set of TypeScript related notes used for quick reference. The cheatsheet contains references to types, classes, decorators, and many other TypeScript related subjects.
 * [XIU2/UACWhitelistTool](https://github.com/XIU2/UACWhitelistTool): 📃 UAC 白名单小工具！
 * [sksmatt/UItoTop-jQuery-Plugin](https://github.com/sksmatt/UItoTop-jQuery-Plugin): jQuery dynamic UI plugin.
 * [uiv-lib/uiv](https://github.com/uiv-lib/uiv): Bootstrap 3 components implemented by Vue.js.
@@ -986,7 +991,6 @@
 * [phodal/weapp-quick](https://github.com/phodal/weapp-quick): 微信小应用示例代码
 * [byk04712/weapp-swiper3D](https://github.com/byk04712/weapp-swiper3D): 微信小程序3D滑动
 * [phodal/weapp-webdemo](https://github.com/phodal/weapp-webdemo): A Hack of Weapp Framework
-* [RebeccaHanjw/weapp-wechat-zhihu](https://github.com/RebeccaHanjw/weapp-wechat-zhihu): 微信中的知乎--微信小程序 demo // Zhihu in Wechat
 * [RebeccaHanjw/weapp-wechat-zhihu](https://github.com/RebeccaHanjw/weapp-wechat-zhihu): 微信中的知乎--微信小程序 demo // Zhihu in Wechat
 * [szy0syz/weapp-wedding-photo](https://github.com/szy0syz/weapp-wedding-photo): 使用wepy框架写的婚纱摄影微信小程序
 * [dongweiming/weapp-zhihulive](https://github.com/dongweiming/weapp-zhihulive): 知乎Live微信小程序 & asyncio爬虫
