@@ -987,6 +987,7 @@
 * [byk04712/weapp-swiper3D](https://github.com/byk04712/weapp-swiper3D): 微信小程序3D滑动
 * [phodal/weapp-webdemo](https://github.com/phodal/weapp-webdemo): A Hack of Weapp Framework
 * [RebeccaHanjw/weapp-wechat-zhihu](https://github.com/RebeccaHanjw/weapp-wechat-zhihu): 微信中的知乎--微信小程序 demo // Zhihu in Wechat
+* [RebeccaHanjw/weapp-wechat-zhihu](https://github.com/RebeccaHanjw/weapp-wechat-zhihu): 微信中的知乎--微信小程序 demo // Zhihu in Wechat
 * [szy0syz/weapp-wedding-photo](https://github.com/szy0syz/weapp-wedding-photo): 使用wepy框架写的婚纱摄影微信小程序
 * [dongweiming/weapp-zhihulive](https://github.com/dongweiming/weapp-zhihulive): 知乎Live微信小程序 & asyncio爬虫
 * [tolerance-go/weappx](https://github.com/tolerance-go/weappx): 🌱基于 redux 的轻量级小程序状态管理框架，适配原生小程序，wepy，taro
