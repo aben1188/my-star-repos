@@ -614,7 +614,7 @@
 * [nullivex/nodist](https://github.com/nullivex/nodist): Natural node.js and npm version manager for windows.
 * [nonebot/nonebot2](https://github.com/nonebot/nonebot2): 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
 * [necolas/normalize.css](https://github.com/necolas/normalize.css): A modern alternative to CSS resets
-* [novuhq/novu](https://github.com/novuhq/novu): The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
+* [novuhq/novu](https://github.com/novuhq/novu): Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻 
 * [nissl-lab/npoi](https://github.com/nissl-lab/npoi): a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
 * [bruderstein/nppPluginManager](https://github.com/bruderstein/nppPluginManager): Notepad++ Plugin Manager
 * [D-xuanmo/Nuxtjs-Wordpress](https://github.com/D-xuanmo/Nuxtjs-Wordpress): 🎉 Nuxtjs + Wordpress REST API 主题；支持企业微信通知功能；全站前后端分离，自适应，白日、黑夜两种主题切换
