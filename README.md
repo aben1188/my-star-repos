@@ -151,6 +151,7 @@
 * [D-xuanmo/blog-miniprogram-wordpress](https://github.com/D-xuanmo/blog-miniprogram-wordpress): 博客小程序版
 * [brandonxiang/blog-weapp](https://github.com/brandonxiang/blog-weapp): None
 * [bolasblack/BlogPosts](https://github.com/bolasblack/BlogPosts): None
+* [akl7777777/bob-plugin-akl-deepl-free-translate](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate): 免费无限次使用deepl,根据网页版JavaScript加密算法开发的bobplugin;所以只要官网的算法不该,理论上就可以无限使用
 * [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher): Easy and fast book searcher, create and search your private library.
 * [hejinzhi/bookLibrary-wepy](https://github.com/hejinzhi/bookLibrary-wepy): None
 * [programthink/books](https://github.com/programthink/books): 【编程随想】收藏的电子书清单（多个学科，含下载链接）
@@ -426,6 +427,7 @@
 * [wechaty/im-aggregation](https://github.com/wechaty/im-aggregation): Aggregate WeCom, WeChat, and WhatsApp together.
 * [TencentCloudBase/image-node-sdk](https://github.com/TencentCloudBase/image-node-sdk): 智能图像服务 node sdk
 * [44886/imgBridge](https://github.com/44886/imgBridge): 图片跳板、图片中转，包括php、nodejs源码。（You can use this file to visite the images which your website can't visited.）
+* [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate): Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展 
 * [lyoe/incr.zsh](https://github.com/lyoe/incr.zsh): None
 * [haya14busa/incsearch.vim](https://github.com/haya14busa/incsearch.vim): :flashlight: Improved incremental searching for Vim
 * [apache/incubator-pagespeed-mod](https://github.com/apache/incubator-pagespeed-mod): Apache module for rewriting web pages to reduce latency and bandwidth.
@@ -815,7 +817,6 @@
 * [yanyiwu/sqljieba](https://github.com/yanyiwu/sqljieba): Jieba Mysql Full-Text Parser Plugin
 * [shionphan/sslzoo](https://github.com/shionphan/sslzoo): Question2Answer bootstrap theme
 * [evangui/sso](https://github.com/evangui/sso): PHP版单点登陆实现方案。可以跨多个主域名、跨多个应用（含网页与app客户端）的单点登录。已投入实际运营超过8年。
-* [jasny/sso](https://github.com/jasny/sso): Simple Single Sign-On for PHP
 * [jasny/sso](https://github.com/jasny/sso): Simple Single Sign-On for PHP
 * [zhangyuang/ssr](https://github.com/zhangyuang/ssr): A most advanced ssr framework support React/Vue2/Vue3 on Earth that implemented serverless-side render specification.
 * [easychen/stack-roadmap](https://github.com/easychen/stack-roadmap): 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈
