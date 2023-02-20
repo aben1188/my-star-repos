@@ -151,7 +151,7 @@
 * [D-xuanmo/blog-miniprogram-wordpress](https://github.com/D-xuanmo/blog-miniprogram-wordpress): 博客小程序版
 * [brandonxiang/blog-weapp](https://github.com/brandonxiang/blog-weapp): None
 * [bolasblack/BlogPosts](https://github.com/bolasblack/BlogPosts): None
-* [akl7777777/bob-plugin-akl-deepl-free-translate](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate): 免费无限次使用deepl,根据网页版JavaScript加密算法开发的bobplugin;所以只要官网的算法不该,理论上就可以无限使用
+* [akl7777777/bob-plugin-akl-deepl-free-translate](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate): 免费无限次使用deepl,根据网页版JavaScript加密算法开发的bobplugin;所以只要官网的算法不改,理论上就可以无限使用----现在好像开始限制IP访问了,如果同一个IP访问过多好像会被提示;所以如果网页版上不可用,插件也是不可用的
 * [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher): Easy and fast book searcher, create and search your private library.
 * [hejinzhi/bookLibrary-wepy](https://github.com/hejinzhi/bookLibrary-wepy): None
 * [programthink/books](https://github.com/programthink/books): 【编程随想】收藏的电子书清单（多个学科，含下载链接）
