@@ -602,7 +602,7 @@
 * [nhost/nhost](https://github.com/nhost/nhost): The Open Source Firebase Alternative with GraphQL.
 * [tumobi/nideshop](https://github.com/tumobi/nideshop): NideShop 开源微信小程序商城服务端 API（Node.js + ThinkJS）
 * [liuxing/node-abc](https://github.com/liuxing/node-abc): 《Node.js入门教程》
-* [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api): A ChatGPT implementation with support for Bing's GPT-4 version of ChatGPT, plus the official ChatGPT model via OpenAI's API. Available as a Node.js module, REST API server, and CLI app.
+* [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api): A client implementation for ChatGPT and Bing. Available as a Node.js module, REST API server, and CLI app.
 * [bda-research/node-crawler](https://github.com/bda-research/node-crawler): Web Crawler/Spider for NodeJS + server-side jQuery ;-)
 * [snowdream/node-gitm](https://github.com/snowdream/node-gitm): A simple but useful tool to manage multiple git repositories.
 * [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache): None
@@ -818,7 +818,7 @@
 * [shionphan/sslzoo](https://github.com/shionphan/sslzoo): Question2Answer bootstrap theme
 * [evangui/sso](https://github.com/evangui/sso): PHP版单点登陆实现方案。可以跨多个主域名、跨多个应用（含网页与app客户端）的单点登录。已投入实际运营超过8年。
 * [jasny/sso](https://github.com/jasny/sso): Simple Single Sign-On for PHP
-* [zhangyuang/ssr](https://github.com/zhangyuang/ssr): A most advanced ssr framework support React/Vue2/Vue3 on Earth that implemented serverless-side render specification.
+* [zhangyuang/ssr](https://github.com/zhangyuang/ssr): A most advanced ssr framework support React17/React18/Vue2/Vue3 on Earth that implemented serverless-side render specification.
 * [easychen/stack-roadmap](https://github.com/easychen/stack-roadmap): 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈
 * [startbbs/startbbs](https://github.com/startbbs/startbbs): startbbs is a free, open-source, light weight forum software package built with PHP and MySQL
 * [staticfile/static](https://github.com/staticfile/static): 开放静态文件 - 为开源库提供稳定、快速的免费 CDN 服务
