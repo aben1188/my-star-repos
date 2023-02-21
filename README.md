@@ -1002,7 +1002,7 @@
 * [rime/weasel](https://github.com/rime/weasel): 【小狼毫】Rime for Windows
 * [walkor/web-msg-sender](https://github.com/walkor/web-msg-sender): Web message pusher  written in PHP based on workerman.
 * [joewalnes/web-vmstats](https://github.com/joewalnes/web-vmstats): Prettify vmstats in your browser
-* [lixh00/web-wechat](https://github.com/lixh00/web-wechat): 基于`Golang`语言和`Gin`框架的个人微信系统
+* [lixh00/web-wechat](https://github.com/lixh00/web-wechat): 基于`Golang`语言和`Gin`框架的个人微信系统，支持ChatGPT
 * [webdzq/webdemo](https://github.com/webdzq/webdemo): 一些项目的demo，包括使用webpack，vue，fis3等项目架构和解决方案。用来熟悉最新的前端新知识。
 * [calidion/webfullstack-awesome](https://github.com/calidion/webfullstack-awesome):  Web全栈工程师常用网址大全
 * [zhukov/webogram](https://github.com/zhukov/webogram): Telegram web application, GPL v3
