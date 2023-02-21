@@ -798,6 +798,7 @@
 * [pachico/slim-swoole](https://github.com/pachico/slim-swoole): Convenient library to run SlimPHP applications with Swoole
 * [wosiwo/slim-swoole-service](https://github.com/wosiwo/slim-swoole-service): use slim as a services with swoole 将slim转化为兼容http与rpc服务化请求的框架
 * [qiu8310/smart-npm](https://github.com/qiu8310/smart-npm): Auto switch registry according your npm command.
+* [FallenMax/smart-toc](https://github.com/FallenMax/smart-toc): A Chrome extension for auto-generating a table of contents 
 * [keelii/snote](https://github.com/keelii/snote): Simple note
 * [anerg2046/sns_auth](https://github.com/anerg2046/sns_auth): 通用第三方登录SDK，支持微信，微信扫码，QQ，微博登录，支付宝登录，Facebook，Line，Twitter，Google
 * [pyrocms/social](https://github.com/pyrocms/social): DEPRECATED: Social logins and integrations with various OAuth Providers.
