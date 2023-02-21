@@ -229,6 +229,7 @@
 * [kitian616/config](https://github.com/kitian616/config): Tian Qi's Configs. include zsh, vim, lint etc.
 * [runsisi/consolas-font-for-powerline](https://github.com/runsisi/consolas-font-for-powerline): Powerline is a nice vim plugin, consolas is a nice font under windows, in order to use consolas in putty or securecrt to work with powerline, the font must be patched.
 * [eugeneching/consolas-powerline-vim](https://github.com/eugeneching/consolas-powerline-vim): Fixed Consolas font for use with Vim Powerline. Font has all variants: regular, bold, italic, bold-italic.
+* [ssborbis/ContextSearch-web-ext](https://github.com/ssborbis/ContextSearch-web-ext): Search engine manager for modern browsers
 * [easychen/CookieCloud](https://github.com/easychen/CookieCloud): CookieCloud是一个和自架服务器同步Cookie的小工具，可以将浏览器的Cookie及Local storage同步到手机和云端，它支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。
 * [mlzxy/cordova-plugin-leanpush](https://github.com/mlzxy/cordova-plugin-leanpush): Cordova plugin for LeanCloud push notification and analytics
 * [ghboke/CorePressWPTheme](https://github.com/ghboke/CorePressWPTheme): CorePress 主题，一款高性能，高颜值的WordPress主题
