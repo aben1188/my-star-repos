@@ -465,6 +465,7 @@
 * [lihongxun945/jquery-weui](https://github.com/lihongxun945/jquery-weui): 由于前端业界早已以React/Vue/Angular为主，个人也多年未使用过jQuery，此仓库已不再维护。推荐大家尽快转向 AntD、Element等更先进的UI库，https://ant.design/, https://element.eleme.io/#/zh-CN
 * [cjheath/jquery.comet](https://github.com/cjheath/jquery.comet): A Comet (Bayeux) Plugin for JQuery, with an async_sinatra server
 * [diamont1001/jrQrcode](https://github.com/diamont1001/jrQrcode): 二维码生成库，把内容生成二维码，以base64编码的图片输出
+* [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify): Beautifier for javascript 
 * [kennethkufluk/js-fireworks](https://github.com/kennethkufluk/js-fireworks): JavaScript Fireworks
 * [kissjs/JSinJS](https://github.com/kissjs/JSinJS): A JS parser in JS
 * [douglascrockford/JSON-js](https://github.com/douglascrockford/JSON-js): JSON in JavaScript
