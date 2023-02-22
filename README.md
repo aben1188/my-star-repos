@@ -617,6 +617,7 @@
 * [cnodejs/nodeclub](https://github.com/cnodejs/nodeclub): :baby_chick:Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统
 * [yanyiwu/nodejieba](https://github.com/yanyiwu/nodejieba): "结巴"中文分词的Node.js版本
 * [nullivex/nodist](https://github.com/nullivex/nodist): Natural node.js and npm version manager for windows.
+* [lencx/nofwl](https://github.com/lencx/nofwl): NoFWL Desktop Application
 * [nonebot/nonebot2](https://github.com/nonebot/nonebot2): 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
 * [necolas/normalize.css](https://github.com/necolas/normalize.css): A modern alternative to CSS resets
 * [novuhq/novu](https://github.com/novuhq/novu): The open-source notification infrastructure with fully functional embedded notification center
