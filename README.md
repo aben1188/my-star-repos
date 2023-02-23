@@ -563,6 +563,7 @@
 * [Mrs4s/MiraiGo](https://github.com/Mrs4s/MiraiGo): qq协议的golang实现, 移植于mirai
 * [ethereum/mist](https://github.com/ethereum/mist): [DEPRECATED] Mist. Browse and use Ðapps on the Ethereum network.
 * [mix-php/mix](https://github.com/mix-php/mix): ☄️  PHP CLI mode development framework, supports Swoole, WorkerMan, FPM, CLI-Server / PHP 命令行模式开发框架，支持 Swoole、Swow、WorkerMan、FPM、CLI-Server
+* [amazon-science/mm-cot](https://github.com/amazon-science/mm-cot): Official implementation for "Multimodal Chain-of-Thought Reasoning in Language Models" (stay tuned and more will be updated)
 * [mobi-css/mobi.css](https://github.com/mobi-css/mobi.css): A lightweight, scalable, mobile-first CSS framework
 * [zhangxinxu/mobilebone](https://github.com/zhangxinxu/mobilebone): Single Page Switching bone(include page manage, events manage) for mobile web APP, Hybrid APP, Phonegap, PPT, Single-Screen PC page...
 * [mochat-cloud/mochat](https://github.com/mochat-cloud/mochat): 基于企业微信的开源SCRM应用开发框架&引擎，也是一套通用的企业私域流量管理系统!
