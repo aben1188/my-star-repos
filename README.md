@@ -647,6 +647,7 @@
 * [kaiyuanshe/osschat](https://github.com/kaiyuanshe/osschat): Apache Open Source Software Chat BOT
 * [pingcap/ossinsight](https://github.com/pingcap/ossinsight): Open Source Software Insights - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 5 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/ossinsight
 * [haixin1225/otld](https://github.com/haixin1225/otld): simple tempermonkey script to open the link directly
+* [proYang/outils](https://github.com/proYang/outils): :rocket: 前端业务代码工具库
 * [yeaha/owl-orm](https://github.com/yeaha/owl-orm): None
 * [thomas-yanxin/OXiaoPeng](https://github.com/thomas-yanxin/OXiaoPeng): 🤗【欧小鹏】辅助社区运营，支持文生图、闲聊等群活跃技能，以及社群自动问答等辅助管理功能。
 * [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub): Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)
