@@ -90,7 +90,7 @@
 * [PythonNut/auto-fu.zsh](https://github.com/PythonNut/auto-fu.zsh): zsh automatic complete-word and list-choices.
 * [hchbaw/auto-fu.zsh](https://github.com/hchbaw/auto-fu.zsh): #zsh automatic complete-word and list-choices. Originally incr-0.2.zsh  by y.fujii <y-fujii at mimosa-pudica.net>
 * [no5ix/auto-toc](https://github.com/no5ix/auto-toc): A userscript that adds a table of contents to any website. 一个自动生成网站目录大纲的油猴脚本
-* [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js): Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
+* [clearw5/Auto.js](https://github.com/clearw5/Auto.js): Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
 * [mli/autocut](https://github.com/mli/autocut): 用文本编辑器剪视频
 * [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey): AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 * [AutomaApp/automa](https://github.com/AutomaApp/automa): A browser extension for automating your browser by connecting blocks

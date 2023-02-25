@@ -1001,6 +1001,9 @@
     "ckeditor/ckeditor5": [
         "Other"
     ],
+    "clearw5/Auto.js": [
+        "Other"
+    ],
     "cloudroc/baidu-nolimit": [
         "Other"
     ],
@@ -1539,9 +1542,6 @@
         "Other"
     ],
     "huruji/rpn.js": [
-        "Other"
-    ],
-    "hyb1996/Auto.js": [
         "Other"
     ],
     "hyperf/hyperf": [
