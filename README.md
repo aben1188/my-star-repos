@@ -895,6 +895,7 @@
 * [itmad/Tpay_Svr](https://github.com/itmad/Tpay_Svr): Tpay_Svr是微信和支付宝的个人免签 24小时全自动回调支付系统的php服务端程序
 * [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection): 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 * [ambition-hb/Trancefer](https://github.com/ambition-hb/Trancefer): 知乎爬虫——Mongo数据→MySQL数据
+* [huggingface/transformers](https://github.com/huggingface/transformers): 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 * [sindresorhus/trash](https://github.com/sindresorhus/trash): Move files and directories to the trash
 * [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli): Command line interface to the freedesktop.org trashcan.
 * [sindresorhus/trash-cli](https://github.com/sindresorhus/trash-cli): Move files and folders to the trash
