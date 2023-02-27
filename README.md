@@ -103,6 +103,7 @@
 * [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt): Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 * [saharmor/awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt): Selected ChatGPT demos, tools, articles, and more ✨
 * [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT prompt curation to use ChatGPT better.
+* [caiyongmin/awesome-coding-javascript](https://github.com/caiyongmin/awesome-coding-javascript): 📌 持续构建个人的源码库（JavaScript 原生、常用库、数据结构、算法）
 * [opendigg/awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp): 微信小程序开源项目库汇总
 * [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs): Useful resources for using IPFS and building things on top of it
 * [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -342,6 +343,7 @@
 * [rolyatmax/fireworks](https://github.com/rolyatmax/fireworks): experimenting with algorithms for creating curves on a canvas
 * [jeromeetienne/fireworks.js](https://github.com/jeromeetienne/fireworks.js): Particles engine in javascript
 * [flarum/flarum](https://github.com/flarum/flarum): Simple forum software for building great communities.
+* [fltenwall/flten-utils](https://github.com/fltenwall/flten-utils): javascript常用函数工具库
 * [bilibili/flv.js](https://github.com/bilibili/flv.js): HTML5 FLV Player
 * [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome): The iconic SVG, font, and CSS toolkit
 * [purplebamboo/font-carrier](https://github.com/purplebamboo/font-carrier): font-carrier是一个功能强大的字体操作库，使用它你可以随心所欲的操作字体。让你可以在svg的维度改造字体的展现形状。
@@ -408,6 +410,7 @@
 * [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way): 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 * [tvvocold/How-To-Ask-Questions-The-Smart-Way](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way): How To Ask Questions The Smart Way 《提问的智慧》中文版
 * [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money): 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
+* [biancangming/howtools](https://github.com/biancangming/howtools): 一个简单的JavaScript常用函数工具库
 * [hstarorg/HstarDoc](https://github.com/hstarorg/HstarDoc): My blogs write with markdown.
 * [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas): Screenshots with JavaScript
 * [ieras/http-sdk](https://github.com/ieras/http-sdk): 可爱猫|http-sdk(微信机器人)，主要提供了可爱猫http版的sdk全部功能！支持可爱猫4和可爱猫5，欢迎大家使用！欢迎大家提pr，让我们一起完善吧！wechat robot首选插件！可爱猫iHttp插件，开源免费～
@@ -456,6 +459,7 @@
 * [BonsaiDen/JavaScript-Garden](https://github.com/BonsaiDen/JavaScript-Garden): A collection of documentation about the most quirky parts of the JavaScript language. 
 * [zarocknz/javascript-skyrocket](https://github.com/zarocknz/javascript-skyrocket): Design and Display fireworks on HTML canvas with Skyrocket.js
 * [adamlu/javascript-style-guide](https://github.com/adamlu/javascript-style-guide): JavaScript规范
+* [wxingheng/jcommon](https://github.com/wxingheng/jcommon): JavaScript 常用纯函数工具库
 * [Aruelius/jd_maotai](https://github.com/Aruelius/jd_maotai): 抢京东茅台脚本，定时自动触发，自动预约，自动停止
 * [lijialong1314/JDUnionAPIV2](https://github.com/lijialong1314/JDUnionAPIV2): 京东联盟新版接口PHPSDK
 * [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin): The Free Software Media System
@@ -477,6 +481,7 @@
 * [senmeng/jtt](https://github.com/senmeng/jtt): 京东客、京东联盟、京东API、京推推
 * [justauth/JustAuth](https://github.com/justauth/JustAuth): 🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、推特、飞书、京东、阿里云、喜马拉雅、Amazon、Slack和 Line 等第三方平台的授权登录。 Login, so easy!
 * [justauth/justauth-php](https://github.com/justauth/justauth-php): PHP 版 JustAuth，目前已支持 GITEE 、GITHUB 、OSChina、StackOverflow 、百度、微博、抖音、QQ 、钉钉平台。
+* [dong-sir/jutils](https://github.com/dong-sir/jutils): JavaScript常用函数库，提升前端开发效率。
 * [AlloyTeam/JX](https://github.com/AlloyTeam/JX): JX(Javascript eXtension tools) 是腾讯AlloyTeam推出的模块化、非侵入式Web前端框架，适合构建和组织工业级大规模、高效率的 Web App
 * [BennyWang/KBinding](https://github.com/BennyWang/KBinding): Android MVVM framework write in kotlin, develop Android has never been so fun.
 * [Tencent/kbone](https://github.com/Tencent/kbone): 一个致力于微信小程序和 Web 端同构的解决方案
