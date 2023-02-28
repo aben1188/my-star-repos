@@ -319,6 +319,7 @@
 * [lanthaler/emacsIDEAs](https://github.com/lanthaler/emacsIDEAs): Porting some great extensions of emacs to Intellij IDEA. such as AceJump, CopyWithoutSelection.
 * [whunmr/emacsIDEAs](https://github.com/whunmr/emacsIDEAs): Porting some great extensions of emacs to Intellij IDEA. such as AceJump, CopyWithoutSelection.
 * [JanKallman/EPPlus](https://github.com/JanKallman/EPPlus): Create advanced Excel spreadsheets using .NET
+* [stacktracejs/error-stack-parser](https://github.com/stacktracejs/error-stack-parser): Extract meaning from JS Errors
 * [ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial): 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
 * [eslint/eslint](https://github.com/eslint/eslint): Find and fix problems in your JavaScript code.
 * [espanso/espanso](https://github.com/espanso/espanso): Cross-platform Text Expander written in Rust
@@ -834,6 +835,7 @@
 * [jasny/sso](https://github.com/jasny/sso): Simple Single Sign-On for PHP
 * [zhangyuang/ssr](https://github.com/zhangyuang/ssr): A most advanced ssr framework support React17/React18/Vue2/Vue3 on Earth that implemented serverless-side render specification.
 * [easychen/stack-roadmap](https://github.com/easychen/stack-roadmap): 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈
+* [stacktracejs/stacktrace-gps](https://github.com/stacktracejs/stacktrace-gps): Turns partial code location into precise code location
 * [startbbs/startbbs](https://github.com/startbbs/startbbs): startbbs is a free, open-source, light weight forum software package built with PHP and MySQL
 * [staticfile/static](https://github.com/staticfile/static): 开放静态文件 - 为开源库提供稳定、快速的免费 CDN 服务
 * [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf): Control and manage Android devices from your browser.

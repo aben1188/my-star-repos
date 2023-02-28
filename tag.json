@@ -2798,6 +2798,12 @@
     "ssborbis/ContextSearch-web-ext": [
         "Other"
     ],
+    "stacktracejs/error-stack-parser": [
+        "Other"
+    ],
+    "stacktracejs/stacktrace-gps": [
+        "Other"
+    ],
     "startbbs/startbbs": [
         "Other"
     ],
