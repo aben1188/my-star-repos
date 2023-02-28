@@ -153,7 +153,7 @@
 * [D-xuanmo/blog-miniprogram-wordpress](https://github.com/D-xuanmo/blog-miniprogram-wordpress): 博客小程序版
 * [brandonxiang/blog-weapp](https://github.com/brandonxiang/blog-weapp): None
 * [bolasblack/BlogPosts](https://github.com/bolasblack/BlogPosts): None
-* [akl7777777/bob-plugin-akl-deepl-free-translate](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate): 无需apiKey;无需账号密码;免费无限次使用deepl,根据网页版JavaScript加密算法开发的bobplugin;所以只要官网的算法不改,理论上就可以无限使用;apiKey is not required; No account password required; 
+* [akl7777777/bob-plugin-akl-deepl-free-translate](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate): 免秘钥,免启服务,双击使用,免费无限次使用deepl,根据网页版JavaScript加密算法开发的bobplugin;所以只要官网的算法不改,理论上就可以无限使用;(#即将更新本地和服务端调用负载均衡切换,敬请关注)apiKey is not required; No account password required; 
 * [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher): Easy and fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs.
 * [hejinzhi/bookLibrary-wepy](https://github.com/hejinzhi/bookLibrary-wepy): None
 * [programthink/books](https://github.com/programthink/books): 【编程随想】收藏的电子书清单（多个学科，含下载链接）
