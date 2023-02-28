@@ -2801,7 +2801,13 @@
     "stacktracejs/error-stack-parser": [
         "Other"
     ],
+    "stacktracejs/stacktrace-bookmarklet": [
+        "Other"
+    ],
     "stacktracejs/stacktrace-gps": [
+        "Other"
+    ],
+    "stacktracejs/stacktrace.js": [
         "Other"
     ],
     "startbbs/startbbs": [

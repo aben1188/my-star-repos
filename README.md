@@ -835,7 +835,9 @@
 * [jasny/sso](https://github.com/jasny/sso): Simple Single Sign-On for PHP
 * [zhangyuang/ssr](https://github.com/zhangyuang/ssr): A most advanced ssr framework support React17/React18/Vue2/Vue3 on Earth that implemented serverless-side render specification.
 * [easychen/stack-roadmap](https://github.com/easychen/stack-roadmap): 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈
+* [stacktracejs/stacktrace-bookmarklet](https://github.com/stacktracejs/stacktrace-bookmarklet): Bookmarklet for stacktrace.js
 * [stacktracejs/stacktrace-gps](https://github.com/stacktracejs/stacktrace-gps): Turns partial code location into precise code location
+* [stacktracejs/stacktrace.js](https://github.com/stacktracejs/stacktrace.js): Generate, parse, and enhance JavaScript stack traces in all web browsers
 * [startbbs/startbbs](https://github.com/startbbs/startbbs): startbbs is a free, open-source, light weight forum software package built with PHP and MySQL
 * [staticfile/static](https://github.com/staticfile/static): 开放静态文件 - 为开源库提供稳定、快速的免费 CDN 服务
 * [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf): Control and manage Android devices from your browser.
