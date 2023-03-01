@@ -613,7 +613,7 @@
 * [nhost/nhost](https://github.com/nhost/nhost): The Open Source Firebase Alternative with GraphQL.
 * [tumobi/nideshop](https://github.com/tumobi/nideshop): NideShop 开源微信小程序商城服务端 API（Node.js + ThinkJS）
 * [liuxing/node-abc](https://github.com/liuxing/node-abc): 《Node.js入门教程》
-* [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api): A client implementation for ChatGPT and Bing. Available as a Node.js module, REST API server, and CLI app.
+* [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api): A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
 * [bda-research/node-crawler](https://github.com/bda-research/node-crawler): Web Crawler/Spider for NodeJS + server-side jQuery ;-)
 * [snowdream/node-gitm](https://github.com/snowdream/node-gitm): A simple but useful tool to manage multiple git repositories.
 * [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache): None
