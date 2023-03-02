@@ -486,6 +486,7 @@
 * [AlloyTeam/JX](https://github.com/AlloyTeam/JX): JX(Javascript eXtension tools) 是腾讯AlloyTeam推出的模块化、非侵入式Web前端框架，适合构建和组织工业级大规模、高效率的 Web App
 * [BennyWang/KBinding](https://github.com/BennyWang/KBinding): Android MVVM framework write in kotlin, develop Android has never been so fun.
 * [Tencent/kbone](https://github.com/Tencent/kbone): 一个致力于微信小程序和 Web 端同构的解决方案
+* [kikiakikia/keyword](https://github.com/kikiakikia/keyword): 敏感词整理
 * [kindsoft/kindeditor](https://github.com/kindsoft/kindeditor): WYSIWYG HTML editor
 * [koahubjs/koahub](https://github.com/koahubjs/koahub): KoaHub.js -- 中文最佳实践Node.js Web快速开发框架。支持Koa.js, Express.js中间件。当前项目已停止维护，推荐使用Doodoo.js
 * [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook): Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz
@@ -800,6 +801,7 @@
 * [sydkj/shopping_api](https://github.com/sydkj/shopping_api): 购物指南接口集成淘宝客、拼多多、京东联盟等平台接口，适合thinkphp5.1版本
 * [leixiaokou/short-video](https://github.com/leixiaokou/short-video): 简单易用的获取无水印短视频播放地址，比如抖音无水印，快手无水印，微视无水印接口服务
 * [mozillazg/ShortURL](https://github.com/mozillazg/ShortURL): A URL  Shortener Site 短网址生成网站（web.py）
+* [tomatocuke/sieve](https://github.com/tomatocuke/sieve): 使用DFA算法实现关键词/敏感词检测，支持通配符和标签分类
 * [Lixucheng/Simple-Calendar](https://github.com/Lixucheng/Simple-Calendar): 一个简单的日历插件
 * [Kerinlin/simple-electron-vue-template](https://github.com/Kerinlin/simple-electron-vue-template): A start template with the latest electron and vue-cli4
 * [yujiandong/simpleforum](https://github.com/yujiandong/simpleforum): Simple Forum
@@ -1157,6 +1159,7 @@
 * [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity): 我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy
 * [wux-weapp/wux-weapp](https://github.com/wux-weapp/wux-weapp): :dog: 一套组件化、可复用、易扩展的微信小程序 UI 组件库
 * [baoshan/wx](https://github.com/baoshan/wx): (minimalist) WeChat Middleware for Express.js
+* [wuomzfx/wx-chatgpt](https://github.com/wuomzfx/wx-chatgpt): 公众号微信云托管接入 chatgpt 模板
 * [wangzimo111/wx-cloud](https://github.com/wangzimo111/wx-cloud): 微信小程序云开发应用小栗子
 * [jf3096/wx-compile-key](https://github.com/jf3096/wx-compile-key): 微信小程序自动化构建编译
 * [lcxfs1991/wx-js-utils](https://github.com/lcxfs1991/wx-js-utils): 微信开发util函数
@@ -1174,6 +1177,7 @@
 * [beclass/wxbot](https://github.com/beclass/wxbot): 微信机器人，个人微信号小助手平台， nodejs+nuxt + wechaty 技术栈
 * [fudaoji/wxbot](https://github.com/fudaoji/wxbot): 多商户多微信号机器人web系统，目前支持了VLW（个微和企微）、可爱猫、我的（个微和企微）、Web微信。
 * [wux-weapp/wxbot](https://github.com/wux-weapp/wxbot): 微信机器人，个人微信号小助手平台， nodejs + nuxt + wechaty 技术栈
+* [yqchilde/wxbot](https://github.com/yqchilde/wxbot): ☝🏻 一个好玩的个人微信机器人项目(千寻、VLW)，插件开发，查天气，ChatGPT聊天，设置定时任务，公众号监控转发...
 * [WeixinCloud/wxcloudrun-wxcomponent](https://github.com/WeixinCloud/wxcloudrun-wxcomponent): 微信云托管 微信第三方平台模版
 * [icindy/WxEmojiView](https://github.com/icindy/WxEmojiView): WxEmojiView
 * [wxext/wxext](https://github.com/wxext/wxext): e小天·微信机器人管理界面,PC微信接口扩展开发,自适应微信版本,收发消息获取群昵称等,集成常用功能快速开发插件
