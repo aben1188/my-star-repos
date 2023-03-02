@@ -179,7 +179,7 @@
 * [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT): Reverse engineered ChatGPT API
 * [lencx/ChatGPT](https://github.com/lencx/ChatGPT): 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 * [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced): WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
-* [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api): Node.js client for the unofficial ChatGPT API. 🔥
+* [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api): Node.js client for the official ChatGPT API. 🔥
 * [Hello-SimpleAI/chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection): Human ChatGPT Comparison Corpus (HC3), Detectors, and more! 🔥
 * [zhuzilin/chatgpt-desktop](https://github.com/zhuzilin/chatgpt-desktop): Desktop version of ChatGPT, support manually set cookie
 * [UNICKCHENG/ChatGPT-For-Wechat](https://github.com/UNICKCHENG/ChatGPT-For-Wechat): A wechat bot using Wechaty and ChatGPT
