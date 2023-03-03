@@ -1229,7 +1229,7 @@
 * [wuwenhan/zhongchou](https://github.com/wuwenhan/zhongchou): 基于yii2的微信众筹项目，已上线
 * [SeriaWei/ZKEACMS](https://github.com/SeriaWei/ZKEACMS): ZKEACMS build with .Net 7 (.Net CMS)可视化设计在线编辑内容管理系统
 * [puzzithinker/zlib-searcher](https://github.com/puzzithinker/zlib-searcher): None
-* [Senkita/zLib-Web](https://github.com/Senkita/zLib-Web): 自写一个zlib-searcher的 Web UI。
+* [Senkita/zLib-Web](https://github.com/Senkita/zLib-Web): 自写一个 zLib-Searcher 的 Web UI。
 * [DeKabilan/zlib_module](https://github.com/DeKabilan/zlib_module): A Python module that can search and Download Books from the ZLib Archive
 * [zplug/zplug](https://github.com/zplug/zplug): :hibiscus: A next-generation plugin manager for zsh
 * [changyuheng/zsh-interactive-cd](https://github.com/changyuheng/zsh-interactive-cd): Fish like interactive tab completion for cd in zsh
