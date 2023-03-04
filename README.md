@@ -156,6 +156,7 @@
 * [brandonxiang/blog-weapp](https://github.com/brandonxiang/blog-weapp): None
 * [bolasblack/BlogPosts](https://github.com/bolasblack/BlogPosts): None
 * [akl7777777/bob-plugin-akl-deepl-free-translate](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate): 免秘钥,免启服务,双击使用,免费无限次使用deepl,根据网页版JavaScript加密算法开发的bobplugin;所以只要官网的算法不改,理论上就可以无限使用;(#即将更新本地和服务端调用负载均衡切换,敬请关注)apiKey is not required; No account password required; 
+* [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator): 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！
 * [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher): Easy and fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs.
 * [hejinzhi/bookLibrary-wepy](https://github.com/hejinzhi/bookLibrary-wepy): None
 * [programthink/books](https://github.com/programthink/books): 【编程随想】收藏的电子书清单（多个学科，含下载链接）
@@ -648,6 +649,7 @@
 * [stubbornella/oocss](https://github.com/stubbornella/oocss): Object Oriented CSS Framework
 * [OldPanda/Open-the-F-king-URL-Right-Now](https://github.com/OldPanda/Open-the-F-king-URL-Right-Now): 自动跳转某些网站不希望用户直达的外链
 * [openai/openai-node](https://github.com/openai/openai-node): Node.js library for the OpenAI API
+* [yetone/openai-translator](https://github.com/yetone/openai-translator): 基于 ChatGPT API 的划词翻译 Chrome 插件
 * [OpenBazaar/OpenBazaar-Client](https://github.com/OpenBazaar/OpenBazaar-Client): (DEPRECATED) Front-end Electron application for talking with the OpenBazaar-Server daemon
 * [OpenBazaar/openbazaar-desktop](https://github.com/OpenBazaar/openbazaar-desktop): OpenBazaar 2.0 Desktop Client (talks to openbazaar-go server daemon)
 * [OpenBazaar/OpenBazaar-Server](https://github.com/OpenBazaar/OpenBazaar-Server): (Deprecated) OpenBazaar 1.0 Server daemon for communication with OpenBazaar-Client
