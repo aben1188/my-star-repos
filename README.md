@@ -180,6 +180,7 @@
 * [CentOS/CentOS-Dockerfiles](https://github.com/CentOS/CentOS-Dockerfiles): Dockerfiles for various common implementations
 * [jas0ncn/cet](https://github.com/jas0ncn/cet): CET4/6 score query website based on Vue.js and Node
 * [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT): Reverse engineered ChatGPT API
+* [dirk1983/chatgpt](https://github.com/dirk1983/chatgpt): PHP版调用OpenAI最新接口和模型gpt-3.5-turbo进行问答的Demo，理论上和ChatGPT一样。页面UI简洁，支持上下文连续会话，支持保存查询日志。源码只有两个文件，没用任何框架，支持所有PHP版本，只需要修改message.php中的API_KEY即可使用。
 * [lencx/ChatGPT](https://github.com/lencx/ChatGPT): 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 * [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced): WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 * [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api): Node.js client for the official ChatGPT API. 🔥
