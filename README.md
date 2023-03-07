@@ -393,6 +393,7 @@
 * [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte): Goutte, a simple PHP Web Scraper
 * [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter): Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
 * [mymusise/gpt2-quickly](https://github.com/mymusise/gpt2-quickly): None
+* [jerryjliu/gpt_index](https://github.com/jerryjliu/gpt_index): LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
 * [cryptonomex/graphene](https://github.com/cryptonomex/graphene): None
 * [phodal/growth-ebook](https://github.com/phodal/growth-ebook): Growth Engineering: The Definitive Guide。全栈增长工程师指南
 * [phodal/growth-in-action](https://github.com/phodal/growth-in-action): 全栈增长工程师实战
