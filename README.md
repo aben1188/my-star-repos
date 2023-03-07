@@ -412,7 +412,7 @@
 * [pandecheng36/hcdkp](https://github.com/pandecheng36/hcdkp): 最简单的魔改发布『 合成大西瓜 』，不用改代码，修改配置即可！
 * [ilovexjp/health-code-index](https://github.com/ilovexjp/health-code-index): 健康码模拟 - 索引
 * [idontlovexjp/health-code-index.bak](https://github.com/idontlovexjp/health-code-index.bak): 健康码模拟；变态清零，祸国殃民。（备份自 https://github.com/ilovexjp/health-code-index ）新家在此：👇
-* [krahets/hello-algo](https://github.com/krahets/hello-algo): 《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。
+* [krahets/hello-algo](https://github.com/krahets/hello-algo): 《Hello 算法》是一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。
 * [zbezj/HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator): None
 * [hexojs/hexo](https://github.com/hexojs/hexo): A fast, simple & powerful blog framework, powered by Node.js.
 * [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid): :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
