@@ -101,6 +101,7 @@
 * [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting): AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform
 * [snowdream/awesome-android](https://github.com/snowdream/awesome-android): android libs from github or other websites
 * [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence): A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
+* [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness): A curated list of awesome awesomeness
 * [Kamigami55/awesome-chatgpt](https://github.com/Kamigami55/awesome-chatgpt): Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。
 * [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt): Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 * [saharmor/awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt): Selected ChatGPT demos, tools, articles, and more ✨
@@ -337,6 +338,7 @@
 * [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat): 微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）
 * [arv/ExplorerCanvas](https://github.com/arv/ExplorerCanvas): Canvas for IE8 and older
 * [crimx/ext-saladict](https://github.com/crimx/ext-saladict): 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
+* [altryne/extensionizr](https://github.com/altryne/extensionizr): Extensionizr! Create a chrome extension in 15 seconds!
 * [ZZUTK/Face-Aging-CAAE](https://github.com/ZZUTK/Face-Aging-CAAE): Age Progression/Regression by Conditional Adversarial Autoencoder
 * [Jooong/Face-Aging-CAAE-Pytorch](https://github.com/Jooong/Face-Aging-CAAE-Pytorch): Age Progression/Regression by Conditional Adversarial Autoencoder
 * [moklick/face-mask-browser-extension](https://github.com/moklick/face-mask-browser-extension): 😷 A browser extension that puts masks on faces on the internet
