@@ -194,6 +194,7 @@
 * [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension): A browser extension that enhance search engines with ChatGPT
 * [sparticleinc/chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension): Chrome extension to display ChatGPT summaries alongside Google search results and YouTube videos.
 * [labteral/chatgpt-python](https://github.com/labteral/chatgpt-python): Unofficial Python SDK for OpenAI's ChatGPT
+* [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers): Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
 * [bigemon/ChatGPT-ToolBox](https://github.com/bigemon/ChatGPT-ToolBox): 由ChatGPT负责编写的ChatGPT工具箱。 
 * [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel): Powered by OpenAI API (gpt-3.5-turbo) and Vercel
 * [yi-ge/chatgpt-web](https://github.com/yi-ge/chatgpt-web): Multi-user h5 version, 3rd party ChatGPT web page. Uses OpenAPI official web API.
