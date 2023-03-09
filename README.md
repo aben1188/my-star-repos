@@ -612,6 +612,7 @@
 * [hyperf/nano](https://github.com/hyperf/nano): 🧬 Nano is a zero-config, no skeleton, minimal Hyperf distribution that allows you to quickly build a Hyperf application with just a single PHP file.
 * [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT): The simplest, fastest repository for training/finetuning medium-sized GPTs.
 * [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript): ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.
+* [mckaywrigley/naval-gpt](https://github.com/mckaywrigley/naval-gpt): AI search & chat for Naval Ravikant's Twitter thread "How To Get Rich."
 * [MetacoSA/NBitcoin](https://github.com/MetacoSA/NBitcoin): Comprehensive Bitcoin library for the .NET framework.
 * [neo-project/neo](https://github.com/neo-project/neo): NEO Smart Economy
 * [neovim/neovim](https://github.com/neovim/neovim): Vim-fork focused on extensibility and usability
@@ -1212,6 +1213,7 @@
 * [phacility/xhprof](https://github.com/phacility/xhprof): XHProf is a function-level hierarchical profiler for PHP and has a simple HTML based user interface.
 * [Yxnt/xiaoet](https://github.com/Yxnt/xiaoet): 小鹅通视频下载
 * [jiji262/xiaoetong-video-downloader](https://github.com/jiji262/xiaoetong-video-downloader): 小鹅通资源下载工具
+* [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt): play chatgpt with xiaomi ai speaker
 * [idollo/xloger](https://github.com/idollo/xloger): a cross-server web-GUI log monitor for cross-language(PHP/Node/Python and more) websever logs
 * [XTLS/Xray-core](https://github.com/XTLS/Xray-core): Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
 * [hightman/xunsearch](https://github.com/hightman/xunsearch): 免费开源的中文搜索引擎，采用 C/C++ 编写 (基于 xapian 和 scws)，提供 PHP 的开发接口和丰富文档
