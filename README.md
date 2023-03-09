@@ -1191,7 +1191,7 @@
 * [xuedingmiaojun/wxappUnpacker](https://github.com/xuedingmiaojun/wxappUnpacker): 小程序反编译(支持分包)
 * [cluic/wxauto](https://github.com/cluic/wxauto): Windows版本微信客户端（非网页版）自动化，可实现简单的发送、接收微信消息，持续更新中
 * [beclass/wxbot](https://github.com/beclass/wxbot): 微信机器人，个人微信号小助手平台， nodejs+nuxt + wechaty 技术栈
-* [fudaoji/wxbot](https://github.com/fudaoji/wxbot): 多商户多微信号机器人web系统，目前支持了VLW（个微和企微）、可爱猫、我的（个微和企微）、Web微信。
+* [fudaoji/wxbot](https://github.com/fudaoji/wxbot): 多商户多微信号机器人web系统，目前支持了e小天、西瓜、可爱猫、我的（个微和企微）、Web微信。
 * [wux-weapp/wxbot](https://github.com/wux-weapp/wxbot): 微信机器人，个人微信号小助手平台， nodejs + nuxt + wechaty 技术栈
 * [yqchilde/wxbot](https://github.com/yqchilde/wxbot): ☝🏻 一个好玩的个人微信机器人项目(千寻、VLW)，插件开发，查天气，ChatGPT聊天，设置定时任务，公众号监控转发...
 * [WeixinCloud/wxcloudrun-wxcomponent](https://github.com/WeixinCloud/wxcloudrun-wxcomponent): 微信云托管 微信第三方平台模版
