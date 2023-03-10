@@ -192,7 +192,7 @@
 * [bestony/ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu): 给飞书准备的 ChatGPT 机器人
 * [UNICKCHENG/ChatGPT-For-Wechat](https://github.com/UNICKCHENG/ChatGPT-For-Wechat): A wechat bot using Wechaty and ChatGPT
 * [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension): A browser extension that enhance search engines with ChatGPT
-* [sparticleinc/chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension): Chrome extension to display ChatGPT summaries alongside Google search results and YouTube videos.
+* [sparticleinc/chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension): Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents.
 * [labteral/chatgpt-python](https://github.com/labteral/chatgpt-python): Unofficial Python SDK for OpenAI's ChatGPT
 * [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers): Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
 * [bigemon/ChatGPT-ToolBox](https://github.com/bigemon/ChatGPT-ToolBox): 由ChatGPT负责编写的ChatGPT工具箱。 
