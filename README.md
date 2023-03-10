@@ -573,7 +573,7 @@
 * [weolar/miniblink49](https://github.com/weolar/miniblink49): a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
 * [YuniorZen/minicode-debug](https://github.com/YuniorZen/minicode-debug): 微信小程序、公众号、H5等小的案例代码分享。
 * [wechat-miniprogram/minigame-demo](https://github.com/wechat-miniprogram/minigame-demo): 微信小游戏组件 / API / 云开发示例
-* [x3852/miniprogram-component](https://github.com/x3852/miniprogram-component): 小程序自定义组件:下拉刷新、上拉加载组件、搜索组件、省+市选择组件、年月区间选择等
+* [qiuwenxing/miniprogram-component](https://github.com/qiuwenxing/miniprogram-component): 小程序自定义组件:下拉刷新、上拉加载组件、搜索组件、省+市选择组件、年月区间选择等
 * [wechat-miniprogram/miniprogram-custom-component](https://github.com/wechat-miniprogram/miniprogram-custom-component): None
 * [Ewall1106/miniprogram-demo](https://github.com/Ewall1106/miniprogram-demo): 小程序的因难技巧
 * [yingouqlj/MiniProgram-lite](https://github.com/yingouqlj/MiniProgram-lite): 微信小程序php后端接口轻量版（wechat mini program sdk 项目名称不带wechat是不是不会被人发现的😆）
