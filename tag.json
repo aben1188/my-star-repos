@@ -215,6 +215,9 @@
     "Fyrd/caniuse": [
         "Other"
     ],
+    "GanymedeNil/document.ai": [
+        "Other"
+    ],
     "Gcaufy/wechaty-schedule": [
         "Other"
     ],
@@ -1408,6 +1411,9 @@
     ],
     "gfwlist/gfwlist": [
         "GFW"
+    ],
+    "ggerganov/whisper.cpp": [
+        "Other"
     ],
     "ggreer/the_silver_searcher": [
         "Other"

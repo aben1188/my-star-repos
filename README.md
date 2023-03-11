@@ -291,6 +291,7 @@
 * [yeasy/docker_practice](https://github.com/yeasy/docker_practice): Learn and understand Docker&Container technologies, with real DevOps practice!
 * [knative/docs](https://github.com/knative/docs): User documentation for Knative components.
 * [docsifyjs/docsify](https://github.com/docsifyjs/docsify): 🃏 A magical documentation site generator.
+* [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai): 基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)
 * [sparkandshine/documents](https://github.com/sparkandshine/documents): None
 * [taijiweb/domcom](https://github.com/taijiweb/domcom): the web framework to provide dom component
 * [amiyasahu/Donut](https://github.com/amiyasahu/Donut): Modern and Responsive theme for Question2Answer ( Q2A ) websites 
@@ -1165,6 +1166,7 @@
 * [Tencent/weui-wxss](https://github.com/Tencent/weui-wxss): A UI library by WeChat official design team, includes the most useful widgets/modules.
 * [wdfe/weweb](https://github.com/wdfe/weweb): 兼容小程序写法的web开发框架
 * [edxposedd/wework](https://github.com/edxposedd/wework): 【Xposed Hook 企业微信 微信】企业微信机器人 微信机器人 自动抢回复 会话 自动通过 好友列表 群管理 SDK
+* [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp): Port of OpenAI's Whisper model in C/C++
 * [bndw/wifi-card](https://github.com/bndw/wifi-card): 📶 Print a QR code for connecting to your WiFi (wificard.io)
 * [Greyh4t/WinXray](https://github.com/Greyh4t/WinXray): 支持Xray / V2Ray（vmess / vless），Shadowsocks，SSR，Trojan，NaïveProxy，Trojan-go通用客户端（Windows）！默认基于xray核心！本程序采用aardio设计与开发！
 * [TheMRLL/WinXray](https://github.com/TheMRLL/WinXray): 支持Xray / V2Ray（vmess / vless），Shadowsocks，SSR，Trojan，NaïveProxy，Trojan-go通用客户端（Windows）！默认基于xray核心！本程序采用aardio设计与开发！
