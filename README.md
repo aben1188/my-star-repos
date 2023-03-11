@@ -287,6 +287,7 @@
 * [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer): Easily install PHP extension in Docker containers
 * [afeiship/docker-sequenceserver](https://github.com/afeiship/docker-sequenceserver): Docker for sequenceserver.
 * [gdraheim/docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement): docker systemctl replacement - allows to deploy to systemd-controlled containers without starting an actual systemd daemon (e.g.  centos7, ubuntu16)
+* [huan/docker-wechat](https://github.com/huan/docker-wechat): DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux
 * [easychen/docker2saas](https://github.com/easychen/docker2saas): An open source tool that lets you create a SaaS website from docker images in 10 minutes.
 * [yeasy/docker_practice](https://github.com/yeasy/docker_practice): Learn and understand Docker&Container technologies, with real DevOps practice!
 * [knative/docs](https://github.com/knative/docs): User documentation for Knative components.
@@ -792,6 +793,8 @@
 * [Fechin/reference](https://github.com/Fechin/reference): ⭕ Share quick reference cheat sheet for developers.
 * [garyhouston/regexp.old](https://github.com/garyhouston/regexp.old): Henry Spencer's old regular expression library, also known as the book regex library, circa 1986.
 * [chuckcarpenter/REM-unit-polyfill](https://github.com/chuckcarpenter/REM-unit-polyfill): A polyfill to parse CSS links and rewrite pixel equivalents into head for non supporting browsers 
+* [hezhizheng/repo-image-hosting](https://github.com/hezhizheng/repo-image-hosting): github | coding | gitee 图床 ，使用golang（Gin）实现
+* [hezhizheng/repo-storage](https://github.com/hezhizheng/repo-storage): 使用代码托管平台( github | coding | gitee )做自己 '私有' 的 '对象存储'
 * [arielsalminen/ResponsiveSlides.js](https://github.com/arielsalminen/ResponsiveSlides.js): Simple & lightweight responsive slider plugin (in 1kb)
 * [resque/resque-web](https://github.com/resque/resque-web): a Rails-based web interface to Resque
 * [billyct/resume](https://github.com/billyct/resume): 解析简历：智联招聘
