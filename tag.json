@@ -389,9 +389,6 @@
     "NodeBB/NodeBB": [
         "Other"
     ],
-    "Noietch/wechat-chatgpt": [
-        "Other"
-    ],
     "OldPanda/Open-the-F-king-URL-Right-Now": [
         "Other"
     ],
@@ -1775,7 +1772,7 @@
     "jeromeetienne/fireworks.js": [
         "Other"
     ],
-    "jerryjliu/gpt_index": [
+    "jerryjliu/llama_index": [
         "Other"
     ],
     "jf3096/wx-compile-key": [

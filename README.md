@@ -398,7 +398,6 @@
 * [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte): Goutte, a simple PHP Web Scraper
 * [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter): Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
 * [mymusise/gpt2-quickly](https://github.com/mymusise/gpt2-quickly): None
-* [jerryjliu/gpt_index](https://github.com/jerryjliu/gpt_index): LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
 * [cryptonomex/graphene](https://github.com/cryptonomex/graphene): None
 * [phodal/growth-ebook](https://github.com/phodal/growth-ebook): Growth Engineering: The Definitive Guide。全栈增长工程师指南
 * [phodal/growth-in-action](https://github.com/phodal/growth-in-action): 全栈增长工程师实战
@@ -540,6 +539,7 @@
 * [LiskHQ/lisk-sdk](https://github.com/LiskHQ/lisk-sdk): 🔩 Lisk software development kit
 * [listen1/listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension): one for all free music in china (chrome extension, also works for firefox)
 * [blocklistproject/Lists](https://github.com/blocklistproject/Lists): Primary Block Lists
+* [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index): LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
 * [Kerinlin/localMusicPlayer](https://github.com/Kerinlin/localMusicPlayer): Audio player that play local audio files and show audio spectrum.
 * [apache/logging-log4net](https://github.com/apache/logging-log4net): Mirror of This is the Apache log4net logging project git repository.
 * [apache/logging-log4php](https://github.com/apache/logging-log4php): Mirror of Apache log4php
@@ -1067,7 +1067,6 @@
 * [wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot): 🤖一个基于OpenAi  ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
 * [zhouxiongking/wechat-calculator](https://github.com/zhouxiongking/wechat-calculator): 微信小程序之简易计算器
 * [Jeremy4455/wechat-chatgpt](https://github.com/Jeremy4455/wechat-chatgpt): None
-* [Noietch/wechat-chatgpt](https://github.com/Noietch/wechat-chatgpt): None
 * [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt): Use ChatGPT On Wechat via wechaty
 * [gtoxlili/wechat-chatGPT](https://github.com/gtoxlili/wechat-chatGPT): 实现微信公众号被动返回接口的ChatGPT
 * [lyricat/wechat-format](https://github.com/lyricat/wechat-format): 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
