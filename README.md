@@ -62,6 +62,7 @@
 * [kaienkira/acme-client](https://github.com/kaienkira/acme-client): a small tool to get and renew tls certs from let's encrypt
 * [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh): A pure Unix shell script implementing ACME client protocol
 * [agileago/agileTheme](https://github.com/agileago/agileTheme): a very beautiful theme for webstorm
+* [KeJunMao/ai-anything](https://github.com/KeJunMao/ai-anything): Anyone can create GPT tools
 * [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners): 12 Weeks, 24 Lessons, AI for All!
 * [ethereum/aleth](https://github.com/ethereum/aleth): Aleth – Ethereum C++ client, tools and libraries
 * [aliceui/aliceui.github.io](https://github.com/aliceui/aliceui.github.io): 写样式的一种方式
@@ -852,6 +853,7 @@
 * [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs): A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 * [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim): A community-driven modular vim/neovim distribution - The ultimate vimrc
 * [spf13/spf13-vim](https://github.com/spf13/spf13-vim): The ultimate vim distribution
+* [zhenyangze/SpiderX](https://github.com/zhenyangze/SpiderX): php多线程，可定制爬虫框架
 * [SporeUI/spore-wepy-tipbox](https://github.com/SporeUI/spore-wepy-tipbox): 类toast提示窗口，但只显示文字，可调整显示位置。用于小程序wepy框架
 * [charlenezell/sportee_wepy](https://github.com/charlenezell/sportee_wepy): sportee using wepy component base develop
 * [wuchangming/spy-debugger](https://github.com/wuchangming/spy-debugger): 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。
