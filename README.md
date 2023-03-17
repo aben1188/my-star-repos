@@ -210,6 +210,7 @@
 * [QiYuOr2/chrome-extension-getimage](https://github.com/QiYuOr2/chrome-extension-getimage): 获取当前页面图片的插件
 * [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo): 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
 * [zhupengfeivip/chrome-plugin-demo](https://github.com/zhupengfeivip/chrome-plugin-demo): 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
+* [bigemon/ChuanhuChatGPT](https://github.com/bigemon/ChuanhuChatGPT): GUI for ChatGPT API (with  NSFW option)
 * [ckeditor/ckeditor4](https://github.com/ckeditor/ckeditor4): The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.
 * [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5): Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 * [josephschmitt/Clamp.js](https://github.com/josephschmitt/Clamp.js): Clamps an HTML element by adding ellipsis to it if the content inside is too long.
