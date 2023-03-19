@@ -286,7 +286,7 @@
 * [guanguans/dnmp-plus](https://github.com/guanguans/dnmp-plus): 🐳Docker的LNMP一键安装开发环境 + PHP非侵入式监控平台xhgui(优化系统性能、定位Bug神器)
 * [mochat-cloud/docker-compose](https://github.com/mochat-cloud/docker-compose): 🐳 The docker compose offered by MoChat.
 * [eternity-wdd/docker-env](https://github.com/eternity-wdd/docker-env): This project includes using docker to build the environment automatically
-* [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer): Easily install PHP extension in Docker containers
+* [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer): Easily install PHP extensions in Docker containers
 * [afeiship/docker-sequenceserver](https://github.com/afeiship/docker-sequenceserver): Docker for sequenceserver.
 * [gdraheim/docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement): docker systemctl replacement - allows to deploy to systemd-controlled containers without starting an actual systemd daemon (e.g.  centos7, ubuntu16)
 * [huan/docker-wechat](https://github.com/huan/docker-wechat): DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux
