@@ -782,7 +782,7 @@
 * [mengzonefire/rapid-upload-userscript](https://github.com/mengzonefire/rapid-upload-userscript): 秒传链接提取脚本, 使用typescript + webpack重构
 * [youzan/raven-weapp](https://github.com/youzan/raven-weapp): Sentry SDK for WeApp
 * [google/re2](https://github.com/google/re2): RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
-* [facebook/react](https://github.com/facebook/react): A declarative, efficient, and flexible JavaScript library for building user interfaces.
+* [facebook/react](https://github.com/facebook/react): The library for web and native user interfaces
 * [afeiship/react-calendar-graph](https://github.com/afeiship/react-calendar-graph): Calendar graph like github for react.
 * [ruanyf/react-demos](https://github.com/ruanyf/react-demos): a collection of simple demos of React.js
 * [afeiship/react-inline-edit](https://github.com/afeiship/react-inline-edit): Inline editing for react.
