@@ -627,6 +627,7 @@
 * [preservim/nerdtree](https://github.com/preservim/nerdtree): A tree explorer plugin for vim.
 * [sqaiyan/NeteaseMusicWxMiniApp](https://github.com/sqaiyan/NeteaseMusicWxMiniApp): 仿网易云音乐APP的微信小程序
 * [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac): 翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
+* [echosoar/news](https://github.com/echosoar/news): 全网新闻热点每小时自动聚合排序，基于SimHash算法聚合相似内容
 * [RunnerLee/nezha-cashier](https://github.com/RunnerLee/nezha-cashier): 简单的支付 sdk
 * [chenxianshuang/nezha-cashier](https://github.com/chenxianshuang/nezha-cashier): 简单的支付 sdk
 * [DocsHome/nginx-docs](https://github.com/DocsHome/nginx-docs): Nginx 中文文档. Chinese translation of Nginx documentation.
