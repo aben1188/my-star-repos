@@ -62,7 +62,7 @@
 * [kaienkira/acme-client](https://github.com/kaienkira/acme-client): a small tool to get and renew tls certs from let's encrypt
 * [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh): A pure Unix shell script implementing ACME client protocol
 * [agileago/agileTheme](https://github.com/agileago/agileTheme): a very beautiful theme for webstorm
-* [KeJunMao/ai-anything](https://github.com/KeJunMao/ai-anything): Anyone can create GPT tools
+* [KeJunMao/ai-anything](https://github.com/KeJunMao/ai-anything): Anyone can create GPT tools 人人都能创建 GPT 工具
 * [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners): 12 Weeks, 24 Lessons, AI for All!
 * [ethereum/aleth](https://github.com/ethereum/aleth): Aleth – Ethereum C++ client, tools and libraries
 * [aliceui/aliceui.github.io](https://github.com/aliceui/aliceui.github.io): 写样式的一种方式
