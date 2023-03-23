@@ -423,7 +423,6 @@
 * [hi-our/hi-face](https://github.com/hi-our/hi-face): Hi头像——让头像有趣一点。
 * [Jannchie/Historical-ranking-data-visualization-based-on-d3.js](https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js): [Deprecated!] This is a data visualization project that converts historical data rankings into dynamic bar charts.
 * [lincanbin/Holy-Lance](https://github.com/lincanbin/Holy-Lance): A Linux Resource / Performance Monitor based on PHP. 
-* [y1yang0/hosts](https://github.com/y1yang0/hosts): :statue_of_liberty:最新可用的google hosts文件。国内镜像：
 * [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way): 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 * [tvvocold/How-To-Ask-Questions-The-Smart-Way](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way): How To Ask Questions The Smart Way 《提问的智慧》中文版
 * [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money): 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
