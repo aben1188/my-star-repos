@@ -197,7 +197,7 @@
 * [labteral/chatgpt-python](https://github.com/labteral/chatgpt-python): Unofficial Python SDK for OpenAI's ChatGPT
 * [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers): Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
 * [bigemon/ChatGPT-ToolBox](https://github.com/bigemon/ChatGPT-ToolBox): 由ChatGPT负责编写的ChatGPT工具箱。 
-* [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel): Elegant and Powerfull. Powered by OpenAI and Vercel
+* [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel): Elegant and Powerfull. Powered by OpenAI and Vercel.
 * [yi-ge/chatgpt-web](https://github.com/yi-ge/chatgpt-web): Multi-user h5 version, 3rd party ChatGPT web page. Uses OpenAPI official web API.
 * [whyiyhw/chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat): 可在微信 安全使用的 ChatGPT 个人助手应用
 * [AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot): ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot
