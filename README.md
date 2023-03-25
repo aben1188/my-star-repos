@@ -749,7 +749,7 @@
 * [ThomasWhyne/projects](https://github.com/ThomasWhyne/projects): None
 * [derekhe/ProxyPool](https://github.com/derekhe/ProxyPool): 高质量免费代理池——每日1w+代理资源滚动更新
 * [lanhebe/proxypool](https://github.com/lanhebe/proxypool): 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表，每小时更新
-* [zu1k/proxypool](https://github.com/zu1k/proxypool): 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重测试可用性后提供节点列表
+* [zu1k/proxypool](https://github.com/zu1k/proxypool): None
 * [bobthecow/psysh](https://github.com/bobthecow/psysh): A REPL for PHP
 * [pug-php/pug](https://github.com/pug-php/pug): Pug template engine for PHP
 * [pugjs/pug](https://github.com/pugjs/pug): Pug – robust, elegant, feature rich template engine for Node.js
