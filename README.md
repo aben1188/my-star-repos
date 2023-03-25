@@ -694,6 +694,7 @@
 * [helei112g/payment](https://github.com/helei112g/payment): Payment是php版本的支付聚合第三方sdk，集成了微信支付、支付宝支付、招商一网通支付。提供统一的调用接口，方便快速接入各种支付、查询、退款、转账能力。服务端接入支付功能，方便、快捷。
 * [Yurunsoft/PaySDK](https://github.com/Yurunsoft/PaySDK): PHP 集成支付 SDK ，集成了支付宝、微信支付的支付接口和其它相关接口的操作。支持 php-fpm 和 Swoole，所有框架通用。宇润PHP全家桶技术支持群：17916227
 * [hedada-hc/pc_wechat_hook](https://github.com/hedada-hc/pc_wechat_hook): pc微信hook 课程例子源码 最新版pc微信hook全套课程尽在网易云课堂 搜索微信逆向即可 pcwx pcweichat 微信hook C语言开发
+* [BlackTrace/pc_wxapkg_decrypt](https://github.com/BlackTrace/pc_wxapkg_decrypt): windows pc端wxpkg文件解密（非解包）
 * [zmrbak/PcWeChatHooK](https://github.com/zmrbak/PcWeChatHooK): 云课堂《2019 PC微信 探秘》示例代码
 * [phpgearbox/pdf](https://github.com/phpgearbox/pdf): A PDF builder using HTML or DOCX templates.
 * [mozilla/pdf.js](https://github.com/mozilla/pdf.js): PDF Reader in JavaScript
