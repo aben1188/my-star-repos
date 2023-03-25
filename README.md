@@ -605,6 +605,7 @@
 * [dcloudio/mui](https://github.com/dcloudio/mui): 最接近原生APP体验的高性能框架
 * [brizer/multi-repo-git](https://github.com/brizer/multi-repo-git): A very simple Git command line tool, to manage multiple git rspositories at once.
 * [kevinfu1717/multimediaChatbot](https://github.com/kevinfu1717/multimediaChatbot): 构建了可用于多个对话框架的场景型对话的聊天机器人。支持吐槽类情景及情感倾诉型情景。使用wechaty，结合Paddlehub的人脸特征点、动漫人脸生成、对联生成、情感分类，ernie迁移，人脸变胖
+* [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree): 插件化、定制化、无广告的免费音乐播放器
 * [janl/mustache.js](https://github.com/janl/mustache.js): Minimal templating with {{mustaches}} in JavaScript
 * [xirong/my-git](https://github.com/xirong/my-git): Individual collecting material of learning git（有关 git 的学习资料）
 * [venaissance/myBlog](https://github.com/venaissance/myBlog): 💡 致力于提升技术学习效率的博客
@@ -1216,6 +1217,7 @@
 * [icindy/WxNotificationCenter](https://github.com/icindy/WxNotificationCenter): WxNotificationCenter - 微信小程序通知广播模式类,降低小程序之间的耦合度
 * [icindy/wxParse](https://github.com/icindy/wxParse): wxParse-微信小程序富文本解析自定义组件，支持HTML及markdown解析
 * [ifanrx/wxParser](https://github.com/ifanrx/wxParser): 微信小程序富文本渲染引擎
+* [maotoumao/wxpc-miniprogram-decryption](https://github.com/maotoumao/wxpc-miniprogram-decryption): pc端微信小程序包wxapkg文件解密，nodejs版本。
 * [icindy/wxSearch](https://github.com/icindy/wxSearch): wxSearch-微信小程序优雅的搜索框
 * [TCloudBase/WXSEVER-SMS](https://github.com/TCloudBase/WXSEVER-SMS): 发送短信，并在外部浏览器拉起微信小程序的能力教程
 * [LunaYJ/wxss-emoji](https://github.com/LunaYJ/wxss-emoji): 纯微信小程序 emoji解析组件
