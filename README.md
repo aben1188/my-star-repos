@@ -572,6 +572,7 @@
 * [meteoric/meteor-ionic](https://github.com/meteoric/meteor-ionic): Ionic components for Meteor. No Angular!
 * [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts): A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 * [huorswords/Microsoft.Extensions.Logging.Log4Net.AspNetCore](https://github.com/huorswords/Microsoft.Extensions.Logging.Log4Net.AspNetCore): Allows to configure Log4net as Microsoft Extensions Logging handler on any ASP.NET Core application.  Original code proposal by @anuraj --> https://dotnetthoughts.net/how-to-use-log4net-with-aspnetcore-for-logging/
+* [maotoumao/midjourney-downloader](https://github.com/maotoumao/midjourney-downloader): MidJourney绘画下载脚本
 * [midwayjs/midway](https://github.com/midwayjs/midway): 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
 * [phith0n/Mind-Map](https://github.com/phith0n/Mind-Map): 各种安全相关思维导图整理收集
 * [karpathy/minGPT](https://github.com/karpathy/minGPT): A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
