@@ -860,6 +860,7 @@
 * [charlenezell/sportee_wepy](https://github.com/charlenezell/sportee_wepy): sportee using wepy component base develop
 * [wuchangming/spy-debugger](https://github.com/wuchangming/spy-debugger): 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。
 * [yanyiwu/sqljieba](https://github.com/yanyiwu/sqljieba): Jieba Mysql Full-Text Parser Plugin
+* [zcxey2911/sse_tornado6_vuejs3](https://github.com/zcxey2911/sse_tornado6_vuejs3): 基于Python3.10异步非阻塞框架Tornado6.0和前端Vue.js3框架实现ChatGPT的流式返回协议Server-sent events
 * [shionphan/sslzoo](https://github.com/shionphan/sslzoo): Question2Answer bootstrap theme
 * [evangui/sso](https://github.com/evangui/sso): PHP版单点登陆实现方案。可以跨多个主域名、跨多个应用（含网页与app客户端）的单点登录。已投入实际运营超过8年。
 * [jasny/sso](https://github.com/jasny/sso): Simple Single Sign-On for PHP
