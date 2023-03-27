@@ -2111,6 +2111,9 @@
     "lincanbin/PHP-PDO-MySQL-Class": [
         "Other"
     ],
+    "lipeng0820/newBingHelper": [
+        "Other"
+    ],
     "listen1/listen1_chrome_extension": [
         "Other"
     ],
@@ -3111,6 +3114,9 @@
         "Other"
     ],
     "tpope/vim-surround": [
+        "Other"
+    ],
+    "transitive-bullshit/bing-chat": [
         "Other"
     ],
     "transitive-bullshit/chatgpt-api": [

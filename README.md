@@ -142,6 +142,7 @@
 * [bullhe4d/bigwatermelon](https://github.com/bullhe4d/bigwatermelon): 合成大西瓜源码,修改版
 * [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved): 强大的哔哩哔哩增强脚本
 * [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen): Optimizer and compiler/toolchain library for WebAssembly
+* [transitive-bullshit/bing-chat](https://github.com/transitive-bullshit/bing-chat): Node.js client for Bing's new AI-powered search. It's like ChatGPT on steroids 🔥
 * [gantrol/Bing-Chat-Saver](https://github.com/gantrol/Bing-Chat-Saver): Save Bing chat with PNG，JPG、JSON and Markdown
 * [teambit/bit](https://github.com/teambit/bit): A tool for composable software development.
 * [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin): Bitcoin Core integration/staging tree
@@ -629,6 +630,7 @@
 * [preservim/nerdtree](https://github.com/preservim/nerdtree): A tree explorer plugin for vim.
 * [sqaiyan/NeteaseMusicWxMiniApp](https://github.com/sqaiyan/NeteaseMusicWxMiniApp): 仿网易云音乐APP的微信小程序
 * [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac): 翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
+* [lipeng0820/newBingHelper](https://github.com/lipeng0820/newBingHelper): None
 * [echosoar/news](https://github.com/echosoar/news): 全网新闻热点每小时自动聚合排序，基于SimHash算法聚合相似内容
 * [RunnerLee/nezha-cashier](https://github.com/RunnerLee/nezha-cashier): 简单的支付 sdk
 * [chenxianshuang/nezha-cashier](https://github.com/chenxianshuang/nezha-cashier): 简单的支付 sdk
