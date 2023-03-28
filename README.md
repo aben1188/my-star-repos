@@ -1211,7 +1211,7 @@
 * [beclass/wxbot](https://github.com/beclass/wxbot): 微信机器人，个人微信号小助手平台， nodejs+nuxt + wechaty 技术栈
 * [fudaoji/wxbot](https://github.com/fudaoji/wxbot): 多商户多微信号机器人web系统，目前支持了e小天、西瓜、可爱猫、我的（个微和企微）、Web微信。
 * [wux-weapp/wxbot](https://github.com/wux-weapp/wxbot): 微信机器人，个人微信号小助手平台， nodejs + nuxt + wechaty 技术栈
-* [yqchilde/wxbot](https://github.com/yqchilde/wxbot): ☝🏻 一个好玩的个人微信机器人程序(千寻、VLW)，插件开发，查天气，ChatGPT聊天，设置定时任务，公众号监控转发...
+* [yqchilde/wxbot](https://github.com/yqchilde/wxbot): ❗因HOOK被扫号，临时暂停维护 ☝🏻 一个好玩的个人微信机器人程序(千寻、VLW)，插件开发，查天气，ChatGPT聊天，设置定时任务，公众号监控转发...
 * [WeixinCloud/wxcloudrun-wxcomponent](https://github.com/WeixinCloud/wxcloudrun-wxcomponent): 微信云托管 微信第三方平台模版
 * [icindy/WxEmojiView](https://github.com/icindy/WxEmojiView): WxEmojiView
 * [wxext/wxext](https://github.com/wxext/wxext): e小天·微信机器人管理界面,PC微信接口扩展开发,自适应微信版本,收发消息获取群昵称等,集成常用功能快速开发插件
