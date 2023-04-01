@@ -625,6 +625,7 @@
 * [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript): ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue and you name it compatible.
 * [mckaywrigley/naval-gpt](https://github.com/mckaywrigley/naval-gpt): AI search & chat for Naval Ravikant's Twitter thread "How To Get Rich."
 * [MetacoSA/NBitcoin](https://github.com/MetacoSA/NBitcoin): Comprehensive Bitcoin library for the .NET framework.
+* [seald/nedb](https://github.com/seald/nedb): The JavaScript Database, for Node.js, nw.js, electron and the browser
 * [neo-project/neo](https://github.com/neo-project/neo): NEO Smart Economy
 * [neovim/neovim](https://github.com/neovim/neovim): Vim-fork focused on extensibility and usability
 * [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts): Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
