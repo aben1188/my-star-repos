@@ -478,6 +478,7 @@
 * [TalkingData/iview-weapp](https://github.com/TalkingData/iview-weapp): 一套高质量的微信小程序 UI 组件库
 * [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript): Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 * [airbnb/javascript](https://github.com/airbnb/javascript): JavaScript Style Guide
+* [lin-123/javascript](https://github.com/lin-123/javascript): eslint-config-airbnb 中文版
 * [BonsaiDen/JavaScript-Garden](https://github.com/BonsaiDen/JavaScript-Garden): A collection of documentation about the most quirky parts of the JavaScript language. 
 * [zarocknz/javascript-skyrocket](https://github.com/zarocknz/javascript-skyrocket): Design and Display fireworks on HTML canvas with Skyrocket.js
 * [adamlu/javascript-style-guide](https://github.com/adamlu/javascript-style-guide): JavaScript规范
@@ -879,6 +880,7 @@
 * [stacktracejs/stacktrace-bookmarklet](https://github.com/stacktracejs/stacktrace-bookmarklet): Bookmarklet for stacktrace.js
 * [stacktracejs/stacktrace-gps](https://github.com/stacktracejs/stacktrace-gps): Turns partial code location into precise code location
 * [stacktracejs/stacktrace.js](https://github.com/stacktracejs/stacktrace.js): Generate, parse, and enhance JavaScript stack traces in all web browsers
+* [standard/standard](https://github.com/standard/standard): 🌟 JavaScript Style Guide, with linter & automatic code fixer
 * [startbbs/startbbs](https://github.com/startbbs/startbbs): startbbs is a free, open-source, light weight forum software package built with PHP and MySQL
 * [staticfile/static](https://github.com/staticfile/static): 开放静态文件 - 为开源库提供稳定、快速的免费 CDN 服务
 * [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf): Control and manage Android devices from your browser.
