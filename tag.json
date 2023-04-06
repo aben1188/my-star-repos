@@ -131,6 +131,9 @@
     "CentOS/CentOS-Dockerfiles": [
         "Other"
     ],
+    "Chanzhaoyu/chatgpt-web": [
+        "Other"
+    ],
     "ChinaVolvocars/WeChat-applet": [
         "Other"
     ],
@@ -1161,6 +1164,9 @@
         "Other"
     ],
     "diamont1001/jrQrcode": [
+        "Other"
+    ],
+    "dice2o/BingGPT": [
         "Other"
     ],
     "digitaltoad/vim-pug": [
