@@ -635,6 +635,9 @@
     "Yggdroot/LeaderF": [
         "Other"
     ],
+    "Yidadaa/ChatGPT-Next-Web": [
+        "Other"
+    ],
     "YowFung/officetopdf": [
         "Other"
     ],
@@ -3342,6 +3345,9 @@
         "Other"
     ],
     "wechaty/plugin-contrib": [
+        "Other"
+    ],
+    "wechaty/puppet-official-account": [
         "Other"
     ],
     "wechaty/puppet-oicq": [

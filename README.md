@@ -197,6 +197,7 @@
 * [UNICKCHENG/ChatGPT-For-Wechat](https://github.com/UNICKCHENG/ChatGPT-For-Wechat): A wechat bot using Wechaty and ChatGPT
 * [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension): A browser extension that enhance search engines with ChatGPT
 * [sparticleinc/chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension): Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.
+* [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web): One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。
 * [labteral/chatgpt-python](https://github.com/labteral/chatgpt-python): Unofficial Python SDK for OpenAI's ChatGPT
 * [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers): Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
 * [bigemon/ChatGPT-ToolBox](https://github.com/bigemon/ChatGPT-ToolBox): 由ChatGPT负责编写的ChatGPT工具箱。 
@@ -764,6 +765,7 @@
 * [bobthecow/psysh](https://github.com/bobthecow/psysh): A REPL for PHP
 * [pug-php/pug](https://github.com/pug-php/pug): Pug template engine for PHP
 * [pugjs/pug](https://github.com/pugjs/pug): Pug – robust, elegant, feature rich template engine for Node.js
+* [wechaty/puppet-official-account](https://github.com/wechaty/puppet-official-account): Wechaty Puppet for WeChat Official Account
 * [wechaty/puppet-oicq](https://github.com/wechaty/puppet-oicq): Wechaty Puppet for QQ based on project takayama-lily/oicq-template
 * [wechaty/puppet-padlocal](https://github.com/wechaty/puppet-padlocal): Puppet PadLocal is a Pad Protocol for WeChat
 * [wechaty/puppet-walnut](https://github.com/wechaty/puppet-walnut): Wechaty Puppet Walnut - 硬核桃5G消息
