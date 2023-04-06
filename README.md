@@ -809,6 +809,7 @@
 * [index-labs/readpilot](https://github.com/index-labs/readpilot): Read Pilot analyzes online articles and generate Q&A cards for you. Powered by OpenAI & Next.js.
 * [Fechin/reference](https://github.com/Fechin/reference): ⭕ Share quick reference cheat sheet for developers.
 * [garyhouston/regexp.old](https://github.com/garyhouston/regexp.old): Henry Spencer's old regular expression library, also known as the book regex library, circa 1986.
+* [vczh-libraries/Release](https://github.com/vczh-libraries/Release): Release folder of all projects.
 * [chuckcarpenter/REM-unit-polyfill](https://github.com/chuckcarpenter/REM-unit-polyfill): A polyfill to parse CSS links and rewrite pixel equivalents into head for non supporting browsers 
 * [hezhizheng/repo-image-hosting](https://github.com/hezhizheng/repo-image-hosting): github | coding | gitee 图床 ，使用golang（Gin）实现
 * [hezhizheng/repo-storage](https://github.com/hezhizheng/repo-storage): 使用代码托管平台( github | coding | gitee )做自己 '私有' 的 '对象存储'
