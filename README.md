@@ -1219,7 +1219,7 @@
 * [jiangxy/wxapplet-canvas-demo](https://github.com/jiangxy/wxapplet-canvas-demo): 用微信小程序的canvas做的一个小游戏
 * [jschentt/wxappUnpacker](https://github.com/jschentt/wxappUnpacker): Wechat App(微信小程序,.wxapkg)解包及相关文件(.wxss,.json,.wxs,.wxml)还原工具
 * [larack8/wxappUnpacker](https://github.com/larack8/wxappUnpacker): Wechat App(微信小程序,.wxapkg)解包及相关文件(.wxss,.json,.wxs,.wxml)还原工具
-* [xuedingmiaojun/wxappUnpacker](https://github.com/xuedingmiaojun/wxappUnpacker): 小程序反编译(支持分包)
+* [xuedingmiaojun/wxappUnpacker](https://github.com/xuedingmiaojun/wxappUnpacker): None
 * [cluic/wxauto](https://github.com/cluic/wxauto): Windows版本微信客户端（非网页版）自动化，可实现简单的发送、接收微信消息，持续更新中
 * [beclass/wxbot](https://github.com/beclass/wxbot): 微信机器人，个人微信号小助手平台， nodejs+nuxt + wechaty 技术栈
 * [fudaoji/wxbot](https://github.com/fudaoji/wxbot): 多商户多微信号机器人web系统，目前支持了e小天、西瓜、可爱猫、我的（个微和企微）、Web微信。
