@@ -64,6 +64,7 @@
 * [agileago/agileTheme](https://github.com/agileago/agileTheme): a very beautiful theme for webstorm
 * [KeJunMao/ai-anything](https://github.com/KeJunMao/ai-anything): 💞 Anyone can create GPT tools 人人都能创建 GPT 工具
 * [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners): 12 Weeks, 24 Lessons, AI for All!
+* [AirCodeLabs/aircode](https://github.com/AirCodeLabs/aircode): Build intelligent bots with Node.js, remarkably fast.
 * [ethereum/aleth](https://github.com/ethereum/aleth): Aleth – Ethereum C++ client, tools and libraries
 * [aliceui/aliceui.github.io](https://github.com/aliceui/aliceui.github.io): 写样式的一种方式
 * [dedemao/alipay](https://github.com/dedemao/alipay): 一个PHP文件搞定支付宝支付系列，包括电脑网站支付，手机网站支付，现金红包、消费红包、扫码支付，JSAPI支付、单笔转账到支付宝账户、交易结算（分账、分润）、网页授权获取用户信息等
