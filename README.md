@@ -209,6 +209,7 @@
 * [whyiyhw/chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat): 可在微信 安全使用的 ChatGPT 个人助手应用
 * [AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot): ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot
 * [TankNee/chatgpt-wechaty](https://github.com/TankNee/chatgpt-wechaty): GPTChat wechat robot based on wechaty and padlocal.
+* [chathub-dev/chathub](https://github.com/chathub-dev/chathub): All-in-one chatbot client
 * [yangg/check-cert](https://github.com/yangg/check-cert):  检查 https 证书是否临近过期时间，并通过 Server酱 通知
 * [easychen/checkchan-dist](https://github.com/easychen/checkchan-dist): Check酱：监测网页内容变化，并发送异动到微信。亦支持http status、json和rss监测。配合自架云端，关电脑后也能运行。
 * [w3c/chinese-ig](https://github.com/w3c/chinese-ig): Web中文兴趣组
@@ -393,6 +394,7 @@
 * [zixia/git-scripts](https://github.com/zixia/git-scripts): Git hooks integration for Node.js projects
 * [yihong0618/gitblog](https://github.com/yihong0618/gitblog): People Die, but Long Live GitHub
 * [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet): A list of cool features of Git and GitHub.
+* [harshjv/github-repo-size](https://github.com/harshjv/github-repo-size): 🚀 Chrome extension to display repository size on GitHub
 * [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily): 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 * [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster): Make everything a GitHub svg poster and Skyline!
 * [github/gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
@@ -810,6 +812,7 @@
 * [obaniu2006/react-native-RealRecyclerView](https://github.com/obaniu2006/react-native-RealRecyclerView): [DEPRECATED]react-native-RealRecyclerView on android.
 * [yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat): 🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)
 * [microsoft/reactxp](https://github.com/microsoft/reactxp): Library for cross-platform app development.
+* [ken107/read-aloud](https://github.com/ken107/read-aloud): An awesome browser extension that reads aloud webpage content with one click
 * [index-labs/readpilot](https://github.com/index-labs/readpilot): Read Pilot analyzes online articles and generate Q&A cards for you. Powered by OpenAI & Next.js.
 * [Fechin/reference](https://github.com/Fechin/reference): ⭕ Share quick reference cheat sheet for developers.
 * [garyhouston/regexp.old](https://github.com/garyhouston/regexp.old): Henry Spencer's old regular expression library, also known as the book regex library, circa 1986.
