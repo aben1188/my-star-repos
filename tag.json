@@ -845,6 +845,9 @@
     "bailicangdu/vue2-manage": [
         "Other"
     ],
+    "bajankristof/nedb-promises": [
+        "Other"
+    ],
     "bannedbook/fanqiang": [
         "Other"
     ],
@@ -2097,6 +2100,9 @@
         "Other"
     ],
     "leochen-g/wechrome": [
+        "Other"
+    ],
+    "levg34/typescript-nedb-orm": [
         "Other"
     ],
     "li-xianfeng/wepy-plugin-autoprefixer": [

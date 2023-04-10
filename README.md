@@ -633,6 +633,7 @@
 * [mckaywrigley/naval-gpt](https://github.com/mckaywrigley/naval-gpt): AI search & chat for Naval Ravikant's Twitter thread "How To Get Rich."
 * [MetacoSA/NBitcoin](https://github.com/MetacoSA/NBitcoin): Comprehensive Bitcoin library for the .NET framework.
 * [seald/nedb](https://github.com/seald/nedb): The JavaScript Database, for Node.js, nw.js, electron and the browser
+* [bajankristof/nedb-promises](https://github.com/bajankristof/nedb-promises): A dead-simple promise wrapper for nedb.
 * [neo-project/neo](https://github.com/neo-project/neo): NEO Smart Economy
 * [neovim/neovim](https://github.com/neovim/neovim): Vim-fork focused on extensibility and usability
 * [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts): Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -962,6 +963,7 @@
 * [microsoft/TypeScript](https://github.com/microsoft/TypeScript): TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 * [jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese): TypeScript Deep Dive 中文版 
 * [rmolinamir/typescript-cheatsheet](https://github.com/rmolinamir/typescript-cheatsheet): A set of TypeScript related notes used for quick reference. The cheatsheet contains references to types, classes, decorators, and many other TypeScript related subjects.
+* [levg34/typescript-nedb-orm](https://github.com/levg34/typescript-nedb-orm): ORM for @seald-io/nedb written in TypeScript
 * [XIU2/UACWhitelistTool](https://github.com/XIU2/UACWhitelistTool): 📃 UAC 白名单小工具！
 * [sksmatt/UItoTop-jQuery-Plugin](https://github.com/sksmatt/UItoTop-jQuery-Plugin): jQuery dynamic UI plugin.
 * [uiv-lib/uiv](https://github.com/uiv-lib/uiv): Bootstrap 3 components implemented by Vue.js.
