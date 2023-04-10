@@ -658,6 +658,7 @@
 * [ParryQiu/nodeclub](https://github.com/ParryQiu/nodeclub): WXOPEN Club 社区为国内最专业的微信小程序技术社区，致力于微信小程序的技术研究。
 * [cnodejs/nodeclub](https://github.com/cnodejs/nodeclub): :baby_chick:Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统
 * [yanyiwu/nodejieba](https://github.com/yanyiwu/nodejieba): "结巴"中文分词的Node.js版本
+* [kangleyunju/nodejs_vue3_uniapp](https://github.com/kangleyunju/nodejs_vue3_uniapp): nodejs操作数据库写接口，vue3后台，uniapp移动端，三合一，node_api接口，node_vue后台，node_uni移动端。
 * [nullivex/nodist](https://github.com/nullivex/nodist): Natural node.js and npm version manager for windows.
 * [lencx/nofwl](https://github.com/lencx/nofwl): NoFWL Desktop Application
 * [nonebot/nonebot2](https://github.com/nonebot/nonebot2): 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
@@ -963,6 +964,8 @@
 * [zhangchunlin/uliweb-apijson](https://github.com/zhangchunlin/uliweb-apijson): apijson implementation in uliweb
 * [dcloudio/uni-app](https://github.com/dcloudio/uni-app): A cross-platform framework using Vue.js
 * [dcloudio/uni-template-news](https://github.com/dcloudio/uni-template-news): 基于uni-app开发的新闻/资讯类App模板
+* [zhangfh-cq/uni-translator-backend](https://github.com/zhangfh-cq/uni-translator-backend): UNI Translator 后端，基于node.js+typescript+koa2+mysql+sequelize。
+* [zhangfh-cq/uni-translator-frontend](https://github.com/zhangfh-cq/uni-translator-frontend): UNI Translator 前端，基于uni-app和uni-ui。
 * [leixiaokou/uniapp-peiyin](https://github.com/leixiaokou/uniapp-peiyin): 文字转人声配音uniapp多端支持的小程序
 * [unoconv/unoconv](https://github.com/unoconv/unoconv): Universal Office Converter - Convert between any document format supported by LibreOffice/OpenOffice.
 * [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma): A fancy self-hosted monitoring tool

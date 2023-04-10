@@ -1931,6 +1931,9 @@
     "kangax/compat-table": [
         "Other"
     ],
+    "kangleyunju/nodejs_vue3_uniapp": [
+        "Other"
+    ],
     "kangvcar/InfoSpider": [
         "Other"
     ],
@@ -3639,6 +3642,12 @@
         "Other"
     ],
     "zhangdaren/miniprogram-to-uniapp": [
+        "Other"
+    ],
+    "zhangfh-cq/uni-translator-backend": [
+        "Other"
+    ],
+    "zhangfh-cq/uni-translator-frontend": [
         "Other"
     ],
     "zhangkaitao/websocket-protocol": [
