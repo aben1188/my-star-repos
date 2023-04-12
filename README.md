@@ -860,6 +860,7 @@
 * [mozillazg/ShortURL](https://github.com/mozillazg/ShortURL): A URL  Shortener Site 短网址生成网站（web.py）
 * [tomatocuke/sieve](https://github.com/tomatocuke/sieve): 使用DFA算法实现关键词/敏感词检测，支持通配符和标签分类
 * [Lixucheng/Simple-Calendar](https://github.com/Lixucheng/Simple-Calendar): 一个简单的日历插件
+* [dufu1991/simple-cloud-music](https://github.com/dufu1991/simple-cloud-music): 简洁的的第三方网易云音乐播放器
 * [Kerinlin/simple-electron-vue-template](https://github.com/Kerinlin/simple-electron-vue-template): A start template with the latest electron and vue-cli4
 * [yujiandong/simpleforum](https://github.com/yujiandong/simpleforum): Simple Forum
 * [simplewebrtc/SimpleWebRTC](https://github.com/simplewebrtc/SimpleWebRTC): Simplest WebRTC ever
