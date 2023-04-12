@@ -148,6 +148,7 @@
 * [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved): 强大的哔哩哔哩增强脚本
 * [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen): Optimizer and compiler/toolchain library for WebAssembly
 * [transitive-bullshit/bing-chat](https://github.com/transitive-bullshit/bing-chat): Node.js client for Bing's new AI-powered search. It's like ChatGPT on steroids 🔥
+* [anaclumos/bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers): A simple extension that enables Bing ChatGPT on Chrome and Firefox.
 * [gantrol/Bing-Chat-Saver](https://github.com/gantrol/Bing-Chat-Saver): Save Bing chat with PNG，JPG、JSON and Markdown
 * [dice2o/BingGPT](https://github.com/dice2o/BingGPT): Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 * [teambit/bit](https://github.com/teambit/bit): A tool for composable software development.
