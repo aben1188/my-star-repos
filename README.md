@@ -233,6 +233,7 @@
 * [2dust/clashN](https://github.com/2dust/clashN): A clash client for Windows, support clash core and Clash.Meta core
 * [lzdnico/ClashWeb](https://github.com/lzdnico/ClashWeb): Another clash gui for windows with integrated API and  ultra-small memory consumption.
 * [yichengchen/clashX](https://github.com/yichengchen/clashX): None
+* [npm/cli](https://github.com/npm/cli): the package manager for JavaScript
 * [google/closure-library](https://github.com/google/closure-library): Google's common JavaScript library
 * [TencentCloudBase/cloudbase-extension-cms](https://github.com/TencentCloudBase/cloudbase-extension-cms): 🚀 一站式云端内容管理系统 - An open source Node.js headless cms based on CloudBase
 * [Tencent/cloudbase-framework](https://github.com/Tencent/cloudbase-framework):  腾讯云开发云原生一体化部署工具 🚀  CloudBase Framework：一键部署，不限框架语言，云端一体化开发，基于Serverless 架构。A front-end and back-end integrated deployment tool. One-click deploy to serverless architecture. https://docs.cloudbase.net/framework/index
@@ -757,6 +758,7 @@
 * [PHPOffice/PHPWord](https://github.com/PHPOffice/PHPWord): A pure PHP library for reading and writing word processing documents
 * [sxei/pinyinjs](https://github.com/sxei/pinyinjs): 一个实现汉字与拼音互转的小巧web工具库，演示地址：
 * [wechaty/plugin-contrib](https://github.com/wechaty/plugin-contrib): Wechaty Plugin Ecosystem Contrib Package
+* [pnpm/pnpm](https://github.com/pnpm/pnpm): Fast, disk space efficient package manager
 * [ambition-hb/Pool_Proxy](https://github.com/ambition-hb/Pool_Proxy): IP Agent Pool (IP代理池)
 * [postcss/postcss](https://github.com/postcss/postcss): Transforming styles with JS plugins
 * [crimx/postcss-safe-important](https://github.com/crimx/postcss-safe-important): PostCSS plugin that adds !important to style declarations safely.
@@ -1267,6 +1269,7 @@
 * [gnpok/yafApi](https://github.com/gnpok/yafApi): 使用yaf和swoole_http_server，专注于高性能api接口服务，异步任务...
 * [vim-scripts/YankRing.vim](https://github.com/vim-scripts/YankRing.vim): Maintains a history of previous yanks, changes and deletes
 * [YMFE/yapi](https://github.com/YMFE/yapi): YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
+* [yarnpkg/yarn](https://github.com/yarnpkg/yarn): The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 * [elvenyh/yh](https://github.com/elvenyh/yh): None
 * [yiisoft/yii2](https://github.com/yiisoft/yii2): Yii 2: The Fast, Secure and Professional PHP Framework
 * [fecshop/yii2_fecshop](https://github.com/fecshop/yii2_fecshop): yii2 ( PHP ) fecmall（fecshop） core code used for ecommerce shop 多语言多货币多入口的开源电商 B2C 商城，支持移动端vue, app, html5，微信小程序微店，微信小程序商城等

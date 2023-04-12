@@ -2489,6 +2489,9 @@
     "novuhq/novu": [
         "Other"
     ],
+    "npm/cli": [
+        "Other"
+    ],
     "nsh87/.rc-files-and-scripts": [
         "Other"
     ],
@@ -2667,6 +2670,9 @@
         "Other"
     ],
     "plantegg/programmer_case": [
+        "Other"
+    ],
+    "pnpm/pnpm": [
         "Other"
     ],
     "postcss/autoprefixer": [
@@ -3555,6 +3561,9 @@
         "Other"
     ],
     "yanyiwu/sqljieba": [
+        "Other"
+    ],
+    "yarnpkg/yarn": [
         "Other"
     ],
     "ycm-core/YouCompleteMe": [
