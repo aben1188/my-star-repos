@@ -560,6 +560,7 @@
 * [blocklistproject/Lists](https://github.com/blocklistproject/Lists): Primary Block Lists
 * [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index): LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
 * [Kerinlin/localMusicPlayer](https://github.com/Kerinlin/localMusicPlayer): Audio player that play local audio files and show audio spectrum.
+* [localsend/localsend](https://github.com/localsend/localsend): An open source cross-platform alternative to AirDrop
 * [apache/logging-log4net](https://github.com/apache/logging-log4net): Mirror of This is the Apache log4net logging project git repository.
 * [apache/logging-log4php](https://github.com/apache/logging-log4php): Mirror of Apache log4php
 * [bmpi-dev/logseq.xyz](https://github.com/bmpi-dev/logseq.xyz): logseq self-host with github feature
