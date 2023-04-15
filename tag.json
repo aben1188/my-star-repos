@@ -788,6 +788,9 @@
     "angular/angular": [
         "Other"
     ],
+    "aniftyco/awesome-tailwindcss": [
+        "Other"
+    ],
     "apache/incubator-pagespeed-mod": [
         "Other"
     ],
@@ -2963,6 +2966,9 @@
     "solstice23/argon-theme": [
         "Other"
     ],
+    "sonofmagic/weapp-tailwindcss-webpack-plugin": [
+        "Other"
+    ],
     "sorin-ionescu/prezto": [
         "Other"
     ],
@@ -3057,6 +3063,9 @@
         "Other"
     ],
     "taijiweb/domcom": [
+        "Other"
+    ],
+    "tailwindlabs/tailwindcss.com": [
         "Other"
     ],
     "taizilongxu/dotfiles": [

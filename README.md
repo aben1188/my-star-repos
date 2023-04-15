@@ -130,6 +130,7 @@
 * [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 * [bkrem/awesome-solidity](https://github.com/bkrem/awesome-solidity): ⟠ A curated list of awesome Solidity resources, libraries, tools and more
 * [facert/awesome-spider](https://github.com/facert/awesome-spider): 爬虫集合
+* [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss): 😎 Awesome things related to Tailwind CSS
 * [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri): 🚀 Awesome Tauri Apps, Plugins and Resources
 * [vikadata/awesome-vikadata](https://github.com/vikadata/awesome-vikadata): 🙀 A list of awesome projects / resources / SDKs / frameworks that make Vikadata even more awesome. 🤪  https://vika.cn/developers
 * [xjh22222228/awesome-web-editor](https://github.com/xjh22222228/awesome-web-editor): 🔨  Open source WEB editor summary
@@ -923,6 +924,7 @@
 * [symfony/symfony](https://github.com/symfony/symfony): The Symfony PHP framework
 * [jas0ncn/szushudong](https://github.com/jas0ncn/szushudong): 微信小程序 - 深大的树洞 2.0 - 基于 WePY
 * [codota/TabNine](https://github.com/codota/TabNine): AI Code Completions
+* [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com): The Tailwind CSS documentation website.
 * [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey): Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox. 
 * [yujinpan/tampermonkey-extension](https://github.com/yujinpan/tampermonkey-extension): 自制油猴日常插件。
 * [alanchenyan/taobaoke-server](https://github.com/alanchenyan/taobaoke-server): 淘宝客PHP服务器端
@@ -1083,6 +1085,7 @@
 * [nslogx/weapp-poem](https://github.com/nslogx/weapp-poem): 诗词墨客 - 最全中华古诗词小程序
 * [phodal/weapp-quick](https://github.com/phodal/weapp-quick): 微信小应用示例代码
 * [byk04712/weapp-swiper3D](https://github.com/byk04712/weapp-swiper3D): 微信小程序3D滑动
+* [sonofmagic/weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin): take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
 * [phodal/weapp-webdemo](https://github.com/phodal/weapp-webdemo): A Hack of Weapp Framework
 * [RebeccaHanjw/weapp-wechat-zhihu](https://github.com/RebeccaHanjw/weapp-wechat-zhihu): 微信中的知乎--微信小程序 demo // Zhihu in Wechat
 * [szy0syz/weapp-wedding-photo](https://github.com/szy0syz/weapp-wedding-photo): 使用wepy框架写的婚纱摄影微信小程序
