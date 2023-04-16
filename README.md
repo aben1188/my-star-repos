@@ -262,6 +262,7 @@
 * [eugeneching/consolas-powerline-vim](https://github.com/eugeneching/consolas-powerline-vim): Fixed Consolas font for use with Vim Powerline. Font has all variants: regular, bold, italic, bold-italic.
 * [ssborbis/ContextSearch-web-ext](https://github.com/ssborbis/ContextSearch-web-ext): Search engine manager for modern browsers
 * [easychen/CookieCloud](https://github.com/easychen/CookieCloud): CookieCloud是一个和自架服务器同步Cookie的小工具，可以将浏览器的Cookie及Local storage同步到手机和云端，它支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。
+* [BlackGlory/copycat](https://github.com/BlackGlory/copycat): 🌳 Copy content from web powerful than ever before.
 * [mlzxy/cordova-plugin-leanpush](https://github.com/mlzxy/cordova-plugin-leanpush): Cordova plugin for LeanCloud push notification and analytics
 * [ghboke/CorePressWPTheme](https://github.com/ghboke/CorePressWPTheme): CorePress 主题，一款高性能，高颜值的WordPress主题
 * [WPPlugins/cosign-sso](https://github.com/WPPlugins/cosign-sso): This is a mirror of the svn repo: https://plugins.svn.wordpress.org/cosign-sso/, the master is always the latest release.
@@ -395,10 +396,12 @@
 * [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
 * [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim): fzf :heart: vim
 * [Kingfish404/game-make-wut](https://github.com/Kingfish404/game-make-wut): 合成大西瓜cocos版再开发-合成武汉理工
+* [BlackGlory/garland](https://github.com/BlackGlory/garland): 🌲 A folder hierarchy builder based on tags and symbolic links.
 * [wechaty/getting-started](https://github.com/wechaty/getting-started): A Starter Project Template for Wechaty works out-of-the-box
 * [breakwa11/GFWList2PAC](https://github.com/breakwa11/GFWList2PAC): GFWList2PAC
 * [zfl9/gfwlist2privoxy](https://github.com/zfl9/gfwlist2privoxy): 将 gfwlist.txt（Adblock Plus 规则）转换为 privoxy.action
 * [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules): Flight rules for git
+* [BlackGlory/git-list](https://github.com/BlackGlory/git-list): 🌲 git-list is a tool for batch operation of git repositories
 * [zixia/git-scripts](https://github.com/zixia/git-scripts): Git hooks integration for Node.js projects
 * [yihong0618/gitblog](https://github.com/yihong0618/gitblog): People Die, but Long Live GitHub
 * [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet): A list of cool features of Git and GitHub.
