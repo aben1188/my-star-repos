@@ -196,7 +196,7 @@
 * [CentOS/CentOS-Dockerfiles](https://github.com/CentOS/CentOS-Dockerfiles): Dockerfiles for various common implementations
 * [jas0ncn/cet](https://github.com/jas0ncn/cet): CET4/6 score query website based on Vue.js and Node
 * [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT): Reverse engineered ChatGPT API
-* [dirk1983/chatgpt](https://github.com/dirk1983/chatgpt): 本项目是最易部署的ChatGPT环境，想做点事情的创业者欢迎加群参与讨论！PHP版调用OpenAI最新接口和模型gpt-3.5-turbo进行问答的Demo，采用Stream流模式通信，一边生成一边输出，响应速度超过官网。前端采用JS的EventSource，支持Markdown格式解析，代码有着色处理。页面UI简洁，支持上下文连续会话。源码只有两三个文件，没用任何框架，支持所有PHP版本。只需要修改stream.php中的API_KEY即可使用，也可让浏览者使用自定义API_KEY。
+* [dirk1983/chatgpt](https://github.com/dirk1983/chatgpt): 全网最易部署，响应速度最快的ChatGPT环境。PHP版调用OpenAI接口进行问答，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本。保姆级教程，全部周边资源，欢迎进群交流。
 * [lencx/ChatGPT](https://github.com/lencx/ChatGPT): 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 * [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced): WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 * [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api): Node.js client for the official ChatGPT API. 🔥
