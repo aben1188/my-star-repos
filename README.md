@@ -122,6 +122,7 @@
 * [clowwindy/Awesome-Networking](https://github.com/clowwindy/Awesome-Networking): A curated list of awesome networking libraries, resources and shiny things
 * [debarshibasak/awesome-paas](https://github.com/debarshibasak/awesome-paas): A curated list of PaaS, developer platforms, Self hosted PaaS, Cloud IDEs and ADNs.
 * [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php): A curated list of amazingly awesome PHP libraries, resources and shiny things.
+* [PicGo/Awesome-PicGo](https://github.com/PicGo/Awesome-PicGo): A collection of awesome projects using PicGo.
 * [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets): A topic-centric list of HQ open datasets.
 * [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn): Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。
 * [zhouxinkai/awesome-python3-webapp](https://github.com/zhouxinkai/awesome-python3-webapp): None
@@ -408,6 +409,7 @@
 * [harshjv/github-repo-size](https://github.com/harshjv/github-repo-size): 🚀 Chrome extension to display repository size on GitHub
 * [jstrieb/github-stats](https://github.com/jstrieb/github-stats): Better GitHub statistics images for your profile, with stats from private repos too
 * [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily): 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+* [zhuowenli/githuber](https://github.com/zhuowenli/githuber): :octocat:  Display Github Trending repositories on Chrome New Tab Extensions
 * [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster): Make everything a GitHub svg poster and Skyline!
 * [github/gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
 * [kaedei/gitignore](https://github.com/kaedei/gitignore): A collection of useful .gitignore templates
@@ -766,6 +768,7 @@
 * [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet): A pure PHP library for reading and writing spreadsheet files
 * [LarryUllman/phpvqs-5ed](https://github.com/LarryUllman/phpvqs-5ed): PHP for the Web: Visual QuickStart Guide (Fifth Edition)
 * [PHPOffice/PHPWord](https://github.com/PHPOffice/PHPWord): A pure PHP library for reading and writing word processing documents
+* [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo): :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 * [xiebruce/PicUploader](https://github.com/xiebruce/PicUploader): 一个还不错的图床工具，支持Mac/Win/Linux服务器、支持压缩后上传、添加图片或文字水印、多文件同时上传、同时上传到多个云、右击任意文件上传、快捷键上传剪贴板截图、Web版上传、支持作为Mweb/Typora发布图片接口、作为PicGo/ShareX/uPic等的自定义图床，支持在服务器上部署作为图床接口，支持上传任意格式文件。
 * [sxei/pinyinjs](https://github.com/sxei/pinyinjs): 一个实现汉字与拼音互转的小巧web工具库，演示地址：
 * [wechaty/plugin-contrib](https://github.com/wechaty/plugin-contrib): Wechaty Plugin Ecosystem Contrib Package
