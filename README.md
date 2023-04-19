@@ -201,7 +201,7 @@
 * [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced): WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 * [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api): Node.js client for the official ChatGPT API. 🔥
 * [Hello-SimpleAI/chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection): Human ChatGPT Comparison Corpus (HC3), Detectors, and more! 🔥
-* [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo): A demo repo based on OpenAI API.
+* [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo): Optimized UI for ChatGPT, DALL-E and Stable Diffusion. 
 * [zhuzilin/chatgpt-desktop](https://github.com/zhuzilin/chatgpt-desktop): Desktop version of ChatGPT, support manually set cookie
 * [bestony/ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu): 给飞书准备的 ChatGPT 机器人
 * [UNICKCHENG/ChatGPT-For-Wechat](https://github.com/UNICKCHENG/ChatGPT-For-Wechat): A wechat bot using Wechaty and ChatGPT
