@@ -810,7 +810,7 @@
 * [alixandru/q2a-open-login](https://github.com/alixandru/q2a-open-login): Question2Answer Open Login plugin
 * [pjkui/q2a-open-login](https://github.com/pjkui/q2a-open-login): Question2Answer Open Login plugin
 * [q2apro/q2apro-on-site-notifications](https://github.com/q2apro/q2apro-on-site-notifications): Question2Answer Plugin: Facebook-like / Stackoverflow-like notifications that can replace all email-notifications of your forum.
-* [indiff/qttabbar](https://github.com/indiff/qttabbar): Qttabbar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/indiff/qttabbar
+* [indiff/qttabbar](https://github.com/indiff/qttabbar): QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/indiff/qttabbar
 * [larrykluger/Question-2-Answer-Proxy-SSO-Plugin](https://github.com/larrykluger/Question-2-Answer-Proxy-SSO-Plugin): Easily enable your main app to serve as an SSO authentication system for the Question 2 Answer forum system. See http://www.question2answer.org
 * [q2a/question2answer](https://github.com/q2a/question2answer): Question2Answer is a free and open source platform for Q&A sites, running on PHP/MySQL.
 * [cuiliang/Quicker](https://github.com/cuiliang/Quicker): Quicker软件反馈repo
