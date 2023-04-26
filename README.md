@@ -266,6 +266,7 @@
 * [easychen/CookieCloud](https://github.com/easychen/CookieCloud): CookieCloud是一个和自架服务器同步Cookie的小工具，可以将浏览器的Cookie及Local storage同步到手机和云端，它支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。
 * [BlackGlory/copycat](https://github.com/BlackGlory/copycat): 🌳 Copy content from web powerful than ever before.
 * [mlzxy/cordova-plugin-leanpush](https://github.com/mlzxy/cordova-plugin-leanpush): Cordova plugin for LeanCloud push notification and analytics
+* [stackblitz/core](https://github.com/stackblitz/core): Online IDE powered by Visual Studio Code ⚡️
 * [ghboke/CorePressWPTheme](https://github.com/ghboke/CorePressWPTheme): CorePress 主题，一款高性能，高颜值的WordPress主题
 * [WPPlugins/cosign-sso](https://github.com/WPPlugins/cosign-sso): This is a mirror of the svn repo: https://plugins.svn.wordpress.org/cosign-sso/, the master is always the latest release.
 * [silently9527/coupons](https://github.com/silently9527/coupons): 淘宝客项目，支持App，微信小程序，QQ小程序
