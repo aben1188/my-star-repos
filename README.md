@@ -215,7 +215,7 @@
 * [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel): Elegant and Powerfull. Powered by OpenAI and Vercel.
 * [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web): 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 * [yi-ge/chatgpt-web](https://github.com/yi-ge/chatgpt-web): Multi-user h5 version, 3rd party ChatGPT web page. Uses OpenAPI official web API.
-* [whyiyhw/chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat): 可在微信 安全使用的 ChatGPT 个人助手应用
+* [whyiyhw/chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat): 可在 微信/企业微信 安全使用的 ChatGPT 个人助手应用
 * [AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot): ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot
 * [TankNee/chatgpt-wechaty](https://github.com/TankNee/chatgpt-wechaty): GPTChat wechat robot based on wechaty and padlocal.
 * [chathub-dev/chathub](https://github.com/chathub-dev/chathub): All-in-one chatbot client
