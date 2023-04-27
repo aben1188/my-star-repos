@@ -1016,6 +1016,7 @@
 * [2dust/v2rayN](https://github.com/2dust/v2rayN): A GUI client for Windows, support Xray core and v2fly core and others
 * [yanue/V2rayU](https://github.com/yanue/V2rayU): V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
 * [Cenmrev/V2RayW](https://github.com/Cenmrev/V2RayW): GUI for v2ray-core on Windows
+* [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite): ☀️ A vue3 admin template | vue3 admin/element plus admin/vite admin/vue3 template/vue3 后台/vue3 模板/vue3 后台管理系统
 * [v8/v8](https://github.com/v8/v8): The official mirror of the V8 Git repository
 * [youzan/vant](https://github.com/youzan/vant): A lightweight, customizable Vue UI library for mobile web apps.
 * [youzan/vant-weapp](https://github.com/youzan/vant-weapp): 轻量、可靠的小程序 UI 组件库
@@ -1068,13 +1069,16 @@
 * [vue-bulma/vue-admin](https://github.com/vue-bulma/vue-admin): We are refactoring it, using the latest Vue and Bulma. WIP
 * [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template): a vue2.0 minimal admin template 
 * [harsima/vue-backend](https://github.com/harsima/vue-backend): 简单的后台管理框架
+* [1esse/vue-clownfish-admin](https://github.com/1esse/vue-clownfish-admin): 🐋vite vue3 antd admin
 * [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin): :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 * [herozhou/vue-framework-wz](https://github.com/herozhou/vue-framework-wz): 👏vue后台管理框架👏
+* [zclzone/vue-naive-admin](https://github.com/zclzone/vue-naive-admin): ⚡️基于 Vue3 + Vite3 + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
 * [vuejs/vue-rx](https://github.com/vuejs/vue-rx): 👁️ RxJS integration for Vue.js.
 * [yuche/vue-strap](https://github.com/yuche/vue-strap): Bootstrap components built with Vue.js
 * [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm): Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
 * [bailicangdu/vue2-manage](https://github.com/bailicangdu/vue2-manage): A admin template based on vue + element-ui. 基于vue + element-ui的后台管理系统基于 vue + element-ui 的后台管理系统
 * [newbee-ltd/vue3-admin](https://github.com/newbee-ltd/vue3-admin): 🔥 🎉Vue 3 + Vite 2 + Vue-Router 4 + Element-Plus + Echarts 5 + Axios 开发的后台管理系统
+* [zhihuifanqiechaodan/vue3-admin-template](https://github.com/zhihuifanqiechaodan/vue3-admin-template): About 🎉 A magical vue3 admin https://zhihuifanqiechaodan.github.io/vue3-admin-template
 * [vuejs/vuepress](https://github.com/vuejs/vuepress): 📝 Minimalistic Vue-powered static site generator
 * [vuepress-reco/vuepress-theme-reco-1.x](https://github.com/vuepress-reco/vuepress-theme-reco-1.x): 🎨 This is the repo for vuepress-theme-reco 1.
 * [crlang/VueWPress](https://github.com/crlang/VueWPress): use vue and vuex create wordpress frontend page | 通过 Vue 实现前端驱动数据、后台使用的是WordPress 实现前后端分离
