@@ -851,7 +851,7 @@
 * [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher): :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 * [geesondog/rhaphp](https://github.com/geesondog/rhaphp): RhaPHP是微信第三方管理平台，微信公众号管理系统，支持多公众号管理，CRM会员管理，小程序开发，APP接口开发、几乎集合微信功能，简洁、快速上手、快速开发微信各种各样应用。简洁、好用、快速、项目开发快几倍 。
 * [functoreality/rime-flypy-zrmfast](https://github.com/functoreality/rime-flypy-zrmfast): Rime 输入法配置文件，小鹤双拼+自然快手/小鹤双形辅助码
-* [rokstrnisa/Robo-GPT](https://github.com/rokstrnisa/Robo-GPT): A simple and extensible program that helps you run GPT-4 model autonomously.
+* [rokstrnisa/RoboGPT](https://github.com/rokstrnisa/RoboGPT): A simple and extensible program that helps you run GPT-4 model autonomously.
 * [rocboss/ROCBOSS-OLD](https://github.com/rocboss/ROCBOSS-OLD): High load, simple micro community software
 * [rocboss/rocphp](https://github.com/rocboss/rocphp): A fast, simple, extensible framework for PHP which is the concrete realization of flight
 * [roncoo/roncoo-adminLTE](https://github.com/roncoo/roncoo-adminLTE): RonCoo AdminLTE --是一个完全响应式的免费开源后台管理模板。基于 AdminLTE 框架（后续会随着版本更新而更新）;使用jQuery 2.2.3版本，并引入很多优秀的第三方jQuery插件，开发者也可以改用自己熟悉的第三方插件,易于使用，并高度可定制，适合许多屏幕分辨率从小型移动设备到大型台式机，这是国内的开源模板未支持的。
