@@ -878,7 +878,7 @@
 * [sydkj/shopping_api](https://github.com/sydkj/shopping_api): 购物指南接口集成淘宝客、拼多多、京东联盟等平台接口，适合thinkphp5.1版本
 * [leixiaokou/short-video](https://github.com/leixiaokou/short-video): 简单易用的获取无水印短视频播放地址，比如抖音无水印，快手无水印，微视无水印接口服务
 * [mozillazg/ShortURL](https://github.com/mozillazg/ShortURL): A URL  Shortener Site 短网址生成网站（web.py）
-* [tomatocuke/sieve](https://github.com/tomatocuke/sieve): 使用DFA算法实现关键词/敏感词检测，支持通配符和标签分类
+* [tomatocuke/sieve](https://github.com/tomatocuke/sieve): 关键词/敏感词检测，支持通配符和标签分类 。( AC自动机、tried树 、DFA算法 )
 * [Lixucheng/Simple-Calendar](https://github.com/Lixucheng/Simple-Calendar): 一个简单的日历插件
 * [dufu1991/simple-cloud-music](https://github.com/dufu1991/simple-cloud-music): 简洁的的第三方网易云音乐播放器
 * [Kerinlin/simple-electron-vue-template](https://github.com/Kerinlin/simple-electron-vue-template): A start template with the latest electron and vue-cli4
