@@ -633,7 +633,7 @@
 * [Seldaek/monolog](https://github.com/Seldaek/monolog): Sends your logs to files, sockets, inboxes, databases and various web services
 * [waza-ari/monolog-mysql](https://github.com/waza-ari/monolog-mysql): MySQL Handler for Monolog, which allows to store log messages to a MySQL Table
 * [TencentCloudBase/mp-book](https://github.com/TencentCloudBase/mp-book): 小程序·云开发系列教程
-* [xuedingmiaojun/mp-unpack](https://github.com/xuedingmiaojun/mp-unpack): None
+* [xdmjun/mp-unpack](https://github.com/xdmjun/mp-unpack): None
 * [shawtung/mpvue-wepy-compare](https://github.com/shawtung/mpvue-wepy-compare): 从wepy迁移到mpvue的调研
 * [dcloudio/mui](https://github.com/dcloudio/mui): 最接近原生APP体验的高性能框架
 * [brizer/multi-repo-git](https://github.com/brizer/multi-repo-git): A very simple Git command line tool, to manage multiple git rspositories at once.
@@ -1264,7 +1264,7 @@
 * [jiangxy/wxapplet-canvas-demo](https://github.com/jiangxy/wxapplet-canvas-demo): 用微信小程序的canvas做的一个小游戏
 * [jschentt/wxappUnpacker](https://github.com/jschentt/wxappUnpacker): Wechat App(微信小程序,.wxapkg)解包及相关文件(.wxss,.json,.wxs,.wxml)还原工具
 * [larack8/wxappUnpacker](https://github.com/larack8/wxappUnpacker): Wechat App(微信小程序,.wxapkg)解包及相关文件(.wxss,.json,.wxs,.wxml)还原工具
-* [xuedingmiaojun/wxappUnpacker](https://github.com/xuedingmiaojun/wxappUnpacker): None
+* [xdmjun/wxappUnpacker](https://github.com/xdmjun/wxappUnpacker): None
 * [cluic/wxauto](https://github.com/cluic/wxauto): Windows版本微信客户端（非网页版）自动化，可实现简单的发送、接收微信消息，持续更新中
 * [beclass/wxbot](https://github.com/beclass/wxbot): 微信机器人，个人微信号小助手平台， nodejs+nuxt + wechaty 技术栈
 * [fudaoji/wxbot](https://github.com/fudaoji/wxbot): 多商户多微信号机器人web系统，目前支持了e小天、西瓜、可爱猫、我的（个微和企微）、Web微信。
