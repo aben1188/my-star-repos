@@ -885,6 +885,7 @@
 * [yujiandong/simpleforum](https://github.com/yujiandong/simpleforum): Simple Forum
 * [simplewebrtc/SimpleWebRTC](https://github.com/simplewebrtc/SimpleWebRTC): Simplest WebRTC ever
 * [flatlogic/sing-app-vue-dashboard](https://github.com/flatlogic/sing-app-vue-dashboard): Vue.js admin dashboard template built with Bootstrap 4.5
+* [sveltejs/sites](https://github.com/sveltejs/sites): Monorepo for the sites in the Svelte ecosystem
 * [jayZOU/skeleton](https://github.com/jayZOU/skeleton): miniprogram to generate the skeleton page automatically
 * [Justineo/slideshows](https://github.com/Justineo/slideshows): My slideshows about techical stuff.
 * [slimphp/Slim](https://github.com/slimphp/Slim): Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
