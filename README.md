@@ -675,7 +675,7 @@
 * [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api): A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
 * [bda-research/node-crawler](https://github.com/bda-research/node-crawler): Web Crawler/Spider for NodeJS + server-side jQuery ;-)
 * [snowdream/node-gitm](https://github.com/snowdream/node-gitm): A simple but useful tool to manage multiple git repositories.
-* [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache): None
+* [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache): A fast cache that automatically deletes the least recently used items
 * [node-red/node-red](https://github.com/node-red/node-red): Low-code programming for event-driven applications
 * [nswbmw/node-wechat](https://github.com/nswbmw/node-wechat): Node.js 微信公众平台 API
 * [node-weixin/node-weixin-api](https://github.com/node-weixin/node-weixin-api): 一个结构更加清晰，功能调用更加方便，代码更加优雅，测试更加全面的微信API。也可能是目前接口最丰富，集成最方便的node weixin sdk。欢迎您的使用，反馈，建议。
