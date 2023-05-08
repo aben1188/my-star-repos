@@ -96,6 +96,7 @@
 * [hchbaw/auto-fu.zsh](https://github.com/hchbaw/auto-fu.zsh): #zsh automatic complete-word and list-choices. Originally incr-0.2.zsh  by y.fujii <y-fujii at mimosa-pudica.net>
 * [KaneCohen/Auto-GPT](https://github.com/KaneCohen/Auto-GPT): An experimental open-source attempt to make GPT-4 fully autonomous.
 * [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT): An experimental open-source attempt to make GPT-4 fully autonomous.
+* [atongrun/Auto-GPT](https://github.com/atongrun/Auto-GPT): An experimental open-source attempt to make GPT-4 fully autonomous.
 * [no5ix/auto-toc](https://github.com/no5ix/auto-toc): A userscript that adds a table of contents to any website. 一个自动生成网站目录大纲的油猴脚本
 * [clearw5/Auto.js](https://github.com/clearw5/Auto.js): Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
 * [mli/autocut](https://github.com/mli/autocut): 用文本编辑器剪视频
