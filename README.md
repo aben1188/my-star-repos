@@ -386,6 +386,7 @@
 * [rolyatmax/fireworks](https://github.com/rolyatmax/fireworks): experimenting with algorithms for creating curves on a canvas
 * [jeromeetienne/fireworks.js](https://github.com/jeromeetienne/fireworks.js): Particles engine in javascript
 * [flarum/flarum](https://github.com/flarum/flarum): Simple forum software for building great communities.
+* [themesberg/flowbite-svelte](https://github.com/themesberg/flowbite-svelte): Official Svelte components built for Flowbite and Tailwind CSS
 * [fltenwall/flten-utils](https://github.com/fltenwall/flten-utils): javascript常用函数工具库
 * [bilibili/flv.js](https://github.com/bilibili/flv.js): HTML5 FLV Player
 * [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome): The iconic SVG, font, and CSS toolkit
