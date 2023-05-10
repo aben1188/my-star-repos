@@ -199,6 +199,7 @@
 * [CentOS/CentOS-Dockerfiles](https://github.com/CentOS/CentOS-Dockerfiles): Dockerfiles for various common implementations
 * [jas0ncn/cet](https://github.com/jas0ncn/cet): CET4/6 score query website based on Vue.js and Node
 * [haibbo/cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy): A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service
+* [choogoo/chatflow](https://github.com/choogoo/chatflow): 一个使用wechaty构建的机器人业务管理平台
 * [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT): Reverse engineered ChatGPT API
 * [dirk1983/chatgpt](https://github.com/dirk1983/chatgpt): 全网最易部署，响应速度最快的ChatGPT环境。PHP版调用OpenAI接口进行问答，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开。保姆级教程，全部周边资源，欢迎进群交流，一切全免费。
 * [lencx/ChatGPT](https://github.com/lencx/ChatGPT): 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -1148,7 +1149,6 @@
 * [unmagic/wechat-im](https://github.com/unmagic/wechat-im): 微信小程序即时通讯模板，使用WebSocket通信
 * [gefeixun01/wechat-linux](https://github.com/gefeixun01/wechat-linux): linux微信协议，稳定挂机不掉线
 * [mojisrc/wechat-mini-shop](https://github.com/mojisrc/wechat-mini-shop): 微信小程序商城，微信小程序微店，接口基于FaShop
-* [choogoo/wechat-openai-qa-bot](https://github.com/choogoo/wechat-openai-qa-bot): 一个使用wechaty构建的机器人业务管理平台
 * [rixingyike/wechat-operation-assistant](https://github.com/rixingyike/wechat-operation-assistant): 一个使用小微商户+微信聊天机器人构建的可付费私域运营助手
 * [ligboy/Wechat-php](https://github.com/ligboy/Wechat-php): 本微信sdk实现了被动响应的官方api已经主动发送消息给订阅用户，主动批量发送消息给订阅用户。
 * [dodgepudding/wechat-php-sdk](https://github.com/dodgepudding/wechat-php-sdk): 微信公众平台php开发包, weixin developer SDK.
