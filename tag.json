@@ -3374,6 +3374,9 @@
     "vue-bulma/vue-admin": [
         "Other"
     ],
+    "vuejs/core": [
+        "Other"
+    ],
     "vuejs/vue": [
         "Other"
     ],
