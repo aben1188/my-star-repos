@@ -2603,6 +2603,9 @@
     "ooowennn/toolbox": [
         "Other"
     ],
+    "openai-translator/bob-plugin-openai-translator": [
+        "Other"
+    ],
     "openai-translator/openai-translator": [
         "Other"
     ],
@@ -3684,9 +3687,6 @@
         "Other"
     ],
     "yeszao/dnmp": [
-        "Other"
-    ],
-    "yetone/bob-plugin-openai-translator": [
         "Other"
     ],
     "yi-ge/chatgpt-web": [
