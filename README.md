@@ -157,6 +157,7 @@
 * [anaclumos/bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers): Enable Bing ChatGPT on Chrome and Firefox
 * [benf2004/Bing-Chat-History](https://github.com/benf2004/Bing-Chat-History): Bing AI Chat history
 * [gantrol/Bing-Chat-Saver](https://github.com/gantrol/Bing-Chat-Saver): Save Bing chat with PNG，JPG、JSON and Markdown
+* [bsdayo/BingChat](https://github.com/bsdayo/BingChat): .NET API wrapper, and an amazing interactive CLI for Microsoft's new AI-powered Bing Chat.
 * [dice2o/BingGPT](https://github.com/dice2o/BingGPT): Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 * [teambit/bit](https://github.com/teambit/bit): A tool for composable software development.
 * [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin): Bitcoin Core integration/staging tree
@@ -716,6 +717,7 @@
 * [OpenBazaar/OpenBazaar-Client](https://github.com/OpenBazaar/OpenBazaar-Client): (DEPRECATED) Front-end Electron application for talking with the OpenBazaar-Server daemon
 * [OpenBazaar/openbazaar-desktop](https://github.com/OpenBazaar/openbazaar-desktop): OpenBazaar 2.0 Desktop Client (talks to openbazaar-go server daemon)
 * [OpenBazaar/OpenBazaar-Server](https://github.com/OpenBazaar/OpenBazaar-Server): (Deprecated) OpenBazaar 1.0 Server daemon for communication with OpenBazaar-Client
+* [vernesong/OpenClash](https://github.com/vernesong/OpenClash): A Clash Client For OpenWrt
 * [leidenglai/opencv-js-qrcode](https://github.com/leidenglai/opencv-js-qrcode): 基于opencv与wechat_qrcode编译的纯前端二维码识别demo
 * [yulingchen/openMina](https://github.com/yulingchen/openMina): 一个开放的、运行微信小程序的Web MINA框架
 * [openresty/openresty](https://github.com/openresty/openresty): High Performance Web Platform Based on Nginx and LuaJIT
