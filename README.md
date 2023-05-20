@@ -238,6 +238,7 @@
 * [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5): Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 * [josephschmitt/Clamp.js](https://github.com/josephschmitt/Clamp.js): Clamps an HTML element by adding ellipsis to it if the content inside is too long.
 * [NSHipster/clangwarnings.com](https://github.com/NSHipster/clangwarnings.com): A list of Clang warnings and their descriptions.
+* [Z-Siqi/Clash-for-Windows_Rule](https://github.com/Z-Siqi/Clash-for-Windows_Rule): Clash流媒体等策略组规则整合. Clash proxy rules. Make a website/media be proxied by a specific country server.
 * [Fndroid/clash-win-docs-new](https://github.com/Fndroid/clash-win-docs-new): None
 * [BoyceLig/Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch): Clash For Windows 汉化补丁和汉化脚本
 * [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg): A Windows/macOS GUI based on Clash
