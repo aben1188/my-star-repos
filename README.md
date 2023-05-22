@@ -427,7 +427,7 @@
 * [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster): Make everything a GitHub svg poster and Skyline!
 * [github/gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
 * [kaedei/gitignore](https://github.com/kaedei/gitignore): A collection of useful .gitignore templates
-* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod): Gitpod automates the provisioning of ready-to-code cloud development environments.
+* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod): The developer platform for on-demand cloud development environments to create software faster and more securely.
 * [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum): Official Go implementation of the Ethereum protocol
 * [aehyok/go-openai](https://github.com/aehyok/go-openai): go 对接OpenAI ChatGPT接口，同时 azure openai接口已支持gpt-35-turbo和gpt-4模型
 * [xitu/gold-miner](https://github.com/xitu/gold-miner): 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
