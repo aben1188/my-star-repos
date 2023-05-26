@@ -484,6 +484,7 @@
 * [JetBrains/ideavim](https://github.com/JetBrains/ideavim): IdeaVim – A Vim engine for JetBrains IDEs
 * [kaHaleMaKai/ideavim-settings](https://github.com/kaHaleMaKai/ideavim-settings): settingsfile and .ideavimrc for intellij 15
 * [saaguero/ideavimrc](https://github.com/saaguero/ideavimrc): My ideavimrc settings
+* [deep-floyd/IF](https://github.com/deep-floyd/IF): None
 * [kg/ilwasm](https://github.com/kg/ilwasm): CIL to WebAssembly compiler
 * [wechaty/im-aggregation](https://github.com/wechaty/im-aggregation): Aggregate WeCom, WeChat, and WhatsApp together.
 * [Intervention/image](https://github.com/Intervention/image): PHP Image Manipulation
@@ -580,7 +581,7 @@
 * [LiskHQ/lisk-sdk](https://github.com/LiskHQ/lisk-sdk): 🔩 Lisk software development kit
 * [listen1/listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension): one for all free music in china (chrome extension, also works for firefox)
 * [blocklistproject/Lists](https://github.com/blocklistproject/Lists): Primary Block Lists
-* [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index): LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
+* [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index): LlamaIndex (GPT Index) is a data framework for your LLM applications
 * [Kerinlin/localMusicPlayer](https://github.com/Kerinlin/localMusicPlayer): Audio player that play local audio files and show audio spectrum.
 * [localsend/localsend](https://github.com/localsend/localsend): An open source cross-platform alternative to AirDrop
 * [apache/logging-log4net](https://github.com/apache/logging-log4net): Mirror of This is the Apache log4net logging project git repository.
