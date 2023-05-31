@@ -975,6 +975,7 @@
 * [emadehsan/thal](https://github.com/emadehsan/thal): Getting started with Puppeteer and Chrome Headless for Data Mining
 * [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
 * [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher): A code-searching tool similar to ack, but faster.
+* [saadeghi/theme-change](https://github.com/saadeghi/theme-change): Change CSS theme with toggle, buttons or select using CSS custom properties and localStorage
 * [top-think/thinkphp](https://github.com/top-think/thinkphp): ThinkPHP3.2 ——基于PHP5的简单快速的面向对象的PHP框架
 * [thinksaas/ThinkSAAS](https://github.com/thinksaas/ThinkSAAS): ThinkSAAS开源社区
 * [zenus/ThinkStorm](https://github.com/zenus/ThinkStorm): ThinkStorm is Thinkphp framework  plugin for PhpStorm
