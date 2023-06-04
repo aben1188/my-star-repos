@@ -86,6 +86,9 @@
     "AutumnWhj/ChatGPT-wechat-bot": [
         "Other"
     ],
+    "Awesome-Open-AI/Awesome-ChatGPT-Plugins": [
+        "Other"
+    ],
     "Awesome-Windows/Awesome": [
         "Other"
     ],
@@ -164,6 +167,9 @@
     "ConnectAI-E/Feishu-OpenAI": [
         "Other"
     ],
+    "Correia-jpv/fucking-awesome-chatgpt": [
+        "Other"
+    ],
     "D-xuanmo/Nuxtjs-Wordpress": [
         "Other"
     ],
@@ -176,7 +182,13 @@
     "Damao/Intellij-IDEA-F2E": [
         "Other"
     ],
+    "DavidOrtsac/gpt3-writer-updated": [
+        "Other"
+    ],
     "DeKabilan/zlib_module": [
+        "Other"
+    ],
+    "DeepTecher/awesome-ChatGPT-resource-zh": [
         "Other"
     ],
     "DeviceFarmer/stf": [
@@ -194,6 +206,12 @@
     "Ebookcoin/ebookcoin": [
         "Other"
     ],
+    "EdisonTKPcom/Awesome_GPT": [
+        "Other"
+    ],
+    "EgoAlpha/prompt-in-context-learning": [
+        "Other"
+    ],
     "EhsanTang/ApiManager": [
         "Other"
     ],
@@ -206,10 +224,16 @@
     "ElemeFE/mint-ui": [
         "Other"
     ],
+    "EmbraceAGI/Awesome-AGI": [
+        "Other"
+    ],
     "EthereumCN/dev": [
         "Other"
     ],
     "Ewall1106/miniprogram-demo": [
+        "Other"
+    ],
+    "EwingYangs/awesome-open-gpt": [
         "Other"
     ],
     "FallenMax/smart-toc": [
@@ -278,6 +302,9 @@
     "IBM-Blockchain-Archive/marbles": [
         "Other"
     ],
+    "ICTMCG/Awesome-Machine-Generated-Text": [
+        "Other"
+    ],
     "Ice-Hazymoon/openai-scf-proxy": [
         "Other"
     ],
@@ -341,6 +368,12 @@
     "KeJunMao/ai-anything": [
         "Other"
     ],
+    "KennethanCeyer/awesome-llm": [
+        "Other"
+    ],
+    "KennethanCeyer/awesome-llmops": [
+        "Other"
+    ],
     "Kerinlin/CSS-Function": [
         "Other"
     ],
@@ -348,6 +381,9 @@
         "Other"
     ],
     "Kerinlin/simple-electron-vue-template": [
+        "Other"
+    ],
+    "KeyToLove/awesome-gpt": [
         "Other"
     ],
     "KingJeason/wepy-books": [
@@ -360,6 +396,9 @@
         "Other"
     ],
     "Kotlin/anko": [
+        "Other"
+    ],
+    "L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN": [
         "Other"
     ],
     "LarryUllman/phpvqs-5ed": [
@@ -383,7 +422,13 @@
     "Loyalsoldier/v2ray-rules-dat": [
         "Other"
     ],
+    "Luna-OSS/awesome-free-chatgpt": [
+        "Other"
+    ],
     "LunaYJ/wxss-emoji": [
+        "Other"
+    ],
+    "Lupin1998/Awesome-MIM": [
         "Other"
     ],
     "MetacoSA/NBitcoin": [
@@ -476,6 +521,9 @@
     "PizzaLiu/PHP-FIG": [
         "Other"
     ],
+    "PlexPt/awesome-chatgpt-prompts-zh": [
+        "Other"
+    ],
     "ProgrammingBlockchain/ProgrammingBlockchain": [
         "Other"
     ],
@@ -509,6 +557,9 @@
     "SaltyLeo/i-book.in_Archive": [
         "Other"
     ],
+    "ScarletPan/awesome-autonomous-gpt": [
+        "Other"
+    ],
     "SeasX/SeasLog": [
         "Other"
     ],
@@ -537,6 +588,9 @@
         "Other"
     ],
     "Snipaste/feedback": [
+        "Other"
+    ],
+    "Soul-Master/awesome-gpt-answer": [
         "Other"
     ],
     "SpaceVim/SpaceVim": [
@@ -803,6 +857,9 @@
     "anaclumos/bing-chat-for-all-browsers": [
         "Other"
     ],
+    "anaximanderin/awesome-chatgpt-prompts": [
+        "Other"
+    ],
     "anchel/weixin-admin": [
         "Other"
     ],
@@ -825,6 +882,9 @@
         "Other"
     ],
     "aoao-eth/eth-self-token-example": [
+        "Other"
+    ],
+    "aorumbayev/awesome-algorand": [
         "Other"
     ],
     "apache/incubator-pagespeed-mod": [
@@ -867,6 +927,9 @@
         "Other"
     ],
     "asins/vim": [
+        "Other"
+    ],
+    "asiyoua/awesome-gpt-tutorials": [
         "Other"
     ],
     "assimon/dujiaoka": [
@@ -1064,6 +1127,12 @@
     "catfan/Medoo": [
         "Other"
     ],
+    "cckuailong/awesome-gpt-security": [
+        "Other"
+    ],
+    "cedrickchee/awesome-transformer-nlp": [
+        "Other"
+    ],
     "changyuheng/zsh-interactive-cd": [
         "Other"
     ],
@@ -1193,6 +1262,9 @@
     "cuiliang/Quicker": [
         "Other"
     ],
+    "dalinvip/Awesome-ChatGPT": [
+        "Other"
+    ],
     "dani-garcia/vaultwarden": [
         "Other"
     ],
@@ -1206,6 +1278,9 @@
         "Other"
     ],
     "dbcli/mycli": [
+        "Other"
+    ],
+    "dbgee/gptchat": [
         "Other"
     ],
     "dcloudio/mui": [
@@ -1233,6 +1308,9 @@
         "Other"
     ],
     "derekhe/ProxyPool": [
+        "Other"
+    ],
+    "developGPT/AwesomeGPT": [
         "Other"
     ],
     "diamont1001/jrQrcode": [
@@ -1382,6 +1460,9 @@
     "elvenyh/yh": [
         "Other"
     ],
+    "elyase/awesome-gpt3": [
+        "Other"
+    ],
     "emadehsan/thal": [
         "Other"
     ],
@@ -1389,6 +1470,9 @@
         "Other"
     ],
     "ericelliott/rtype": [
+        "Other"
+    ],
+    "ericpd/awesome_ChatGPT4-WebLinks": [
         "Other"
     ],
     "eslint/eslint": [
@@ -1445,6 +1529,9 @@
     "feiskyer/kubernetes-handbook": [
         "Other"
     ],
+    "fighting41love/funNLP": [
+        "Other"
+    ],
     "finogeeks/finclip-ios-demo": [
         "Other"
     ],
@@ -1467,6 +1554,9 @@
         "Other"
     ],
     "flutterbest/easytbk": [
+        "Other"
+    ],
+    "formulahendry/awesome-gpt": [
         "Other"
     ],
     "fudaoji/wxbot": [
@@ -1548,6 +1638,9 @@
         "Other"
     ],
     "goldendict/goldendict": [
+        "Other"
+    ],
+    "goodbest/Awesome-ChatGPT-Plugins": [
         "Other"
     ],
     "goodrain/rainbond": [
@@ -1647,6 +1740,9 @@
         "Other"
     ],
     "hijiangtao/weapp-newsapp": [
+        "Other"
+    ],
+    "hiro086/chatgpt-web-awesome": [
         "Other"
     ],
     "hjkcai/cardiovascular-tracker": [
@@ -1772,6 +1868,9 @@
     "ifui/baota": [
         "Other"
     ],
+    "ikaijua/Awesome-AITools": [
+        "Other"
+    ],
     "illuSioN4ng/making-up": [
         "Other"
     ],
@@ -1844,6 +1943,9 @@
     "itmad/Tpay_Svr": [
         "Other"
     ],
+    "itsuka-dev/awesome-chatgpt-ui": [
+        "Other"
+    ],
     "itwanger/daxigua": [
         "Other"
     ],
@@ -1910,6 +2012,9 @@
     "jianyan74/rageframe2": [
         "Other"
     ],
+    "jiji262/awesome-AIGC-tools": [
+        "Other"
+    ],
     "jiji262/xiaoetong-video-downloader": [
         "Other"
     ],
@@ -1940,6 +2045,9 @@
     "jonas/tig": [
         "Other"
     ],
+    "jondot/awesome-rust-llm": [
+        "Other"
+    ],
     "josStorer/chatGPTBox": [
         "Other"
     ],
@@ -1956,6 +2064,9 @@
         "Other"
     ],
     "jquery/jquery-migrate": [
+        "Other"
+    ],
+    "jqueryscript/ChatGPT-Resources": [
         "Other"
     ],
     "jschentt/wxappUnpacker": [
@@ -2001,6 +2112,9 @@
         "Other"
     ],
     "justjavac/free-programming-books-zh_CN": [
+        "Other"
+    ],
+    "jvelilla/awesome-ChatGPT": [
         "Other"
     ],
     "k-takata/Onigmo": [
@@ -2096,6 +2210,9 @@
     "koahubjs/koahub": [
         "Other"
     ],
+    "koji/ChatGPT-LLM-PromptEngineering_repos": [
+        "Other"
+    ],
     "komuw/sewer": [
         "Other"
     ],
@@ -2103,6 +2220,9 @@
         "Other"
     ],
     "krahets/hello-algo": [
+        "Other"
+    ],
+    "kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes": [
         "Other"
     ],
     "labring/laf": [
@@ -2169,6 +2289,9 @@
         "Other"
     ],
     "lencx/ChatGPT": [
+        "Other"
+    ],
+    "lencx/awesome-ai": [
         "Other"
     ],
     "lencx/nofwl": [
@@ -2294,6 +2417,9 @@
     "loicminghetti/touchpdf": [
         "Other"
     ],
+    "lonePatient/awesome-pretrained-chinese-nlp-models": [
+        "Other"
+    ],
     "lonely1215225/wechat-gpt-3": [
         "Other"
     ],
@@ -2411,6 +2537,9 @@
     "meteoric/meteor-ionic": [
         "Other"
     ],
+    "michelpereira/awesome-gpt": [
+        "Other"
+    ],
     "microsoft/AI-For-Beginners": [
         "Other"
     ],
@@ -2435,6 +2564,9 @@
     "mikewubox/V2Ray3": [
         "Other"
     ],
+    "mikhail-bot/awesome-gpt3": [
+        "Other"
+    ],
     "mileszs/ack.vim": [
         "Other"
     ],
@@ -2442,6 +2574,9 @@
         "Other"
     ],
     "mix-php/mix": [
+        "Other"
+    ],
+    "ml-tooling/best-of-ml-python": [
         "Other"
     ],
     "mli/autocut": [
@@ -2480,6 +2615,9 @@
     "mosn/layotto": [
         "Other"
     ],
+    "mountaineerbr/shellChatGPT": [
+        "Other"
+    ],
     "mozilla/Fira": [
         "Other"
     ],
@@ -2499,6 +2637,9 @@
         "Other"
     ],
     "nathanreyes/v-calendar": [
+        "Other"
+    ],
+    "natnew/Awesome-Prompt-Engineering": [
         "Other"
     ],
     "ncjoes/office-converter": [
@@ -2666,7 +2807,16 @@
     "owner888/phpspider": [
         "Other"
     ],
+    "p2kalita/Awesome_ChatGPT": [
+        "Other"
+    ],
     "pachico/slim-swoole": [
+        "Other"
+    ],
+    "pacholoamit/chatgpt-prompts": [
+        "Other"
+    ],
+    "padigar210/GPT3": [
         "Other"
     ],
     "padlocal/padlocal-client-ts": [
@@ -2789,6 +2939,9 @@
     "programthink/zhao": [
         "Other"
     ],
+    "promptslab/Awesome-Prompt-Engineering": [
+        "Other"
+    ],
     "pug-php/pug": [
         "Other"
     ],
@@ -2843,6 +2996,12 @@
     "qq547057827/apijson-php": [
         "Other"
     ],
+    "radi-cho/awesome-gpt4": [
+        "Other"
+    ],
+    "radi-cho/awesome-gpt4-wbesite": [
+        "Other"
+    ],
     "ranger/ranger": [
         "Other"
     ],
@@ -2865,6 +3024,9 @@
         "Other"
     ],
     "reworkd/AgentGPT": [
+        "Other"
+    ],
+    "richzw/awesome-chatgpt-summary": [
         "Other"
     ],
     "rikouu/wordpress": [
@@ -2927,6 +3089,9 @@
     "rubickCenter/rubick": [
         "Other"
     ],
+    "runningcheese/Awesome-ChatGPT": [
+        "Other"
+    ],
     "runsisi/consolas-font-for-powerline": [
         "Other"
     ],
@@ -2949,6 +3114,9 @@
         "Other"
     ],
     "saharmor/awesome-chatgpt": [
+        "Other"
+    ],
+    "sarat9/awesome-ai-saas": [
         "Other"
     ],
     "scriptscat/scriptcat": [
@@ -2978,6 +3146,9 @@
     "shawtung/mpvue-wepy-compare": [
         "Other"
     ],
+    "sherlock1987/Awesome-ChatGPT-AIGC-Lesson": [
+        "Other"
+    ],
     "shionphan/Donut-theme-admin-Simplified-Chinese": [
         "Other"
     ],
@@ -2999,6 +3170,12 @@
     "sindresorhus/awesome": [
         "Other"
     ],
+    "sindresorhus/awesome-chatgpt": [
+        "Other"
+    ],
+    "sindresorhus/awesome-whisper": [
+        "Other"
+    ],
     "sindresorhus/guides": [
         "Other"
     ],
@@ -3006,6 +3183,9 @@
         "Other"
     ],
     "sindresorhus/trash-cli": [
+        "Other"
+    ],
+    "sjinzh/awesome-llm-and-aigc": [
         "Other"
     ],
     "skeletonlabs/skeleton": [
@@ -3030,6 +3210,9 @@
         "Other"
     ],
     "snowdream/node-gitm": [
+        "Other"
+    ],
+    "snwfdhmp/awesome-gpt-prompt-engineering": [
         "Other"
     ],
     "socketio/socket.io": [
@@ -3156,6 +3339,9 @@
         "Other"
     ],
     "tailwindlabs/tailwindcss.com": [
+        "Other"
+    ],
+    "taishi-i/awesome-ChatGPT-repositories": [
         "Other"
     ],
     "taizilongxu/dotfiles": [
@@ -3341,6 +3527,9 @@
     "un-pany/v3-admin-vite": [
         "Other"
     ],
+    "underlines/awesome-marketing-datascience": [
+        "Other"
+    ],
     "unixorn/awesome-zsh-plugins": [
         "Other"
     ],
@@ -3402,6 +3591,9 @@
         "Other"
     ],
     "virskor/DiscuzQ": [
+        "Other"
+    ],
+    "vkiller/awesome-gpt": [
         "Other"
     ],
     "vlucas/phpdotenv": [
@@ -3579,6 +3771,9 @@
         "Other"
     ],
     "whyiyhw/chatgpt-wechat": [
+        "Other"
+    ],
+    "wikieden/Awesome-ChatGPT-Prompts-CN": [
         "Other"
     ],
     "wildfirechat/android-chat": [
