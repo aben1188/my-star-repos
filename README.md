@@ -443,7 +443,7 @@
 * [fastdlabs/fastD](https://github.com/fastdlabs/fastD): :rocket: A high performance PHP API framework.
 * [dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub): github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
 * [Snipaste/feedback](https://github.com/Snipaste/feedback): Feedback & wiki for Snipaste https://snipaste.com
-* [ConnectAI-E/Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI): 🎒飞书  ×（GPT-4 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
+* [ConnectAI-E/Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI): 🎒 飞书  ×（GPT-4 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 * [icindy/fenda](https://github.com/icindy/fenda): 微信小程序－7天写分答微信小程序
 * [php-fig/fig-standards](https://github.com/php-fig/fig-standards): Standards either proposed or approved by the Framework Interop Group
 * [finogeeks/finclip-ios-demo](https://github.com/finogeeks/finclip-ios-demo): 小程序容器 FinClip 苹果运行环境，让小程序在苹果应用中无缝运行  / iOS DEMO for FinClip
