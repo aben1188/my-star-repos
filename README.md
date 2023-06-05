@@ -943,7 +943,7 @@
 * [hightman/scws](https://github.com/hightman/scws): 开源免费的简易中文分词系统，PHP分词的上乘之选！
 * [seajs/seajs](https://github.com/seajs/seajs): A Module Loader for the Web
 * [sealerio/sealer](https://github.com/sealerio/sealer): Build, Share and Run Both Your Kubernetes Cluster and Distributed Applications  (Project under CNCF)
-* [labring/sealos](https://github.com/labring/sealos): Sealos is a Kubernetes distribution, a Cloud Operating System designed for managing cloud-native applications. Demo: https://cloud.sealos.io
+* [labring/sealos](https://github.com/labring/sealos): Sealos is a Kubernetes distribution, a Cloud Operating System designed for managing cloud-native applications. https://cloud.sealos.io
 * [SeasX/SeasLog](https://github.com/SeasX/SeasLog): An effective,fast,stable log extension for PHP.http://pecl.php.net/package/SeasLog http://php.net/SeasLog
 * [luochen1990/select-and-search](https://github.com/luochen1990/select-and-search): an useful vim plugin: select text in v mode, then press n to search next one (N for prev one)
 * [Pitmairen/selection-search](https://github.com/Pitmairen/selection-search): Search extension for the chrome web browser
