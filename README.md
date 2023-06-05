@@ -145,7 +145,7 @@
 * [formulahendry/awesome-gpt](https://github.com/formulahendry/awesome-gpt): A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more.
 * [michelpereira/awesome-gpt](https://github.com/michelpereira/awesome-gpt): Awesome GPT tools and applications
 * [vkiller/awesome-gpt](https://github.com/vkiller/awesome-gpt): A list for GPT resources
-* [Soul-Master/awesome-gpt-answer](https://github.com/Soul-Master/awesome-gpt-answer): My personal collection of Q & A from Chat GPT4
+* [Soul-Master/awesome-gpt-answer](https://github.com/Soul-Master/awesome-gpt-answer): My personal Q & A collection from Chat GPT4
 * [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering): A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering.
 * [cckuailong/awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security): A curated list of awesome security tools, experimental case or other interesting things with LLM or GPT.
 * [asiyoua/awesome-gpt-tutorials](https://github.com/asiyoua/awesome-gpt-tutorials): 收录AI领域（ChatGPT为主）的各类教程。如有自荐，请提交pull request。
