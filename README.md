@@ -255,6 +255,7 @@
 * [jas0ncn/cet](https://github.com/jas0ncn/cet): CET4/6 score query website based on Vue.js and Node
 * [haibbo/cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy): A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service
 * [sunner/ChatALL](https://github.com/sunner/ChatALL):  Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
+* [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox): Your Ultimate Copilot on the Desktop. Chatbox is a desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux.
 * [choogoo/chatflow](https://github.com/choogoo/chatflow): 一个使用wechaty构建的机器人业务管理平台
 * [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT): Reverse engineered ChatGPT API
 * [dirk1983/chatgpt](https://github.com/dirk1983/chatgpt): 全网最易部署，响应速度最快的ChatGPT环境。PHP版调用OpenAI接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开。保姆级教程，全部周边资源，欢迎进群交流，一切全免费。
@@ -410,7 +411,9 @@
 * [w7corp/easywechat](https://github.com/w7corp/easywechat): 📦 一个 PHP 微信 SDK
 * [q409640976/Ebook-crawler](https://github.com/q409640976/Ebook-crawler): 一个定向爬取电子书网站的爬虫库
 * [Ebookcoin/ebookcoin](https://github.com/Ebookcoin/ebookcoin): Ebookcoin has been updated to DDN Blockchain，please get it from https://github.com/ddnlink/ddn
+* [hzvwsrexw15/echo](https://github.com/hzvwsrexw15/echo): Chat GPT chrome extension Copilot
 * [tc39/ecma262](https://github.com/tc39/ecma262): Status, process, and documents for ECMA-262
+* [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT): Reverse engineered API of Microsoft's Bing Chat AI
 * [ElderDrivers/EdXposed](https://github.com/ElderDrivers/EdXposed): Elder driver Xposed Framework.
 * [eggjs/egg](https://github.com/eggjs/egg): 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
 * [egret-labs/egret-core](https://github.com/egret-labs/egret-core): Egret is a brand new open mobile game and application engine which allows you to quickly build mobile games and apps on Android,iOS and Windows.
