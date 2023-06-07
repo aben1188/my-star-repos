@@ -1227,7 +1227,6 @@
 * [tomallv/wechat-group-chat-monitoring-robot](https://github.com/tomallv/wechat-group-chat-monitoring-robot): 微信群聊天监控机器人
 * [aixed/WeChat-Hook](https://github.com/aixed/WeChat-Hook): PC wechat robot interface [wechat Hook] / PC微信3.9.2.23接口 微信Hook 微信机器人 微信Hook源码 PC微信协议算法 
 * [unmagic/wechat-im](https://github.com/unmagic/wechat-im): 微信小程序即时通讯模板，使用WebSocket通信
-* [gefeixun01/wechat-linux](https://github.com/gefeixun01/wechat-linux): linux微信协议，稳定挂机不掉线
 * [mojisrc/wechat-mini-shop](https://github.com/mojisrc/wechat-mini-shop): 微信小程序商城，微信小程序微店，接口基于FaShop
 * [rixingyike/wechat-operation-assistant](https://github.com/rixingyike/wechat-operation-assistant): 一个使用小微商户+微信聊天机器人构建的可付费私域运营助手
 * [ligboy/Wechat-php](https://github.com/ligboy/Wechat-php): 本微信sdk实现了被动响应的官方api已经主动发送消息给订阅用户，主动批量发送消息给订阅用户。
