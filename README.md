@@ -136,7 +136,6 @@
 * [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories): A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
 * [DeepTecher/awesome-ChatGPT-resource-zh](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh): 精选 OpenAI 的 [ChatGPT](https://chat.openai.com) 资源清单, 跟随最新资源并添加中文相关Work
 * [richzw/awesome-chatgpt-summary](https://github.com/richzw/awesome-chatgpt-summary): Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
-* [itsuka-dev/awesome-chatgpt-ui](https://github.com/itsuka-dev/awesome-chatgpt-ui): A cornucopia of open source UIs built with ChatGPT API.
 * [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh): ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
 * [caiyongmin/awesome-coding-javascript](https://github.com/caiyongmin/awesome-coding-javascript): 📌 持续构建个人的源码库（JavaScript 原生、常用库、数据结构、算法）
 * [Luna-OSS/awesome-free-chatgpt](https://github.com/Luna-OSS/awesome-free-chatgpt): 🤖 Several awesome unofficial websites (reverse proxies) for using OpenAI's ChatGPT for free 🔥! 
@@ -856,6 +855,7 @@
 * [xiebruce/PicUploader](https://github.com/xiebruce/PicUploader): 一个还不错的图床工具，支持Mac/Win/Linux服务器、支持压缩后上传、添加图片或文字水印、多文件同时上传、同时上传到多个云、右击任意文件上传、快捷键上传剪贴板截图、Web版上传、支持作为Mweb/Typora发布图片接口、作为PicGo/ShareX/uPic等的自定义图床，支持在服务器上部署作为图床接口，支持上传任意格式文件。
 * [sxei/pinyinjs](https://github.com/sxei/pinyinjs): 一个实现汉字与拼音互转的小巧web工具库，演示地址：
 * [wechaty/plugin-contrib](https://github.com/wechaty/plugin-contrib): Wechaty Plugin Ecosystem Contrib Package
+* [itsuka-dev/plurality](https://github.com/itsuka-dev/plurality): A cornucopia of open source UIs built with ChatGPT API.
 * [pnpm/pnpm](https://github.com/pnpm/pnpm): Fast, disk space efficient package manager
 * [ambition-hb/Pool_Proxy](https://github.com/ambition-hb/Pool_Proxy): IP Agent Pool (IP代理池)
 * [postcss/postcss](https://github.com/postcss/postcss): Transforming styles with JS plugins
