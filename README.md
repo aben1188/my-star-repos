@@ -253,7 +253,7 @@
 * [CentOS/CentOS-Dockerfiles](https://github.com/CentOS/CentOS-Dockerfiles): Dockerfiles for various common implementations
 * [jas0ncn/cet](https://github.com/jas0ncn/cet): CET4/6 score query website based on Vue.js and Node
 * [haibbo/cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy): A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service
-* [sunner/ChatALL](https://github.com/sunner/ChatALL):  Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
+* [sunner/ChatALL](https://github.com/sunner/ChatALL):  Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 * [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox): Your Ultimate Copilot on the Desktop. Chatbox is a desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux.
 * [choogoo/chatflow](https://github.com/choogoo/chatflow): 一个使用wechaty构建的机器人业务管理平台
 * [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT): Reverse engineered ChatGPT API
