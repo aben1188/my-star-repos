@@ -291,6 +291,7 @@
 * [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua): :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
 * [caifeng123/chrome-extension](https://github.com/caifeng123/chrome-extension): chrome-extension 研究demos
 * [QiYuOr2/chrome-extension-getimage](https://github.com/QiYuOr2/chrome-extension-getimage): 获取当前页面图片的插件
+* [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples): Chrome Extensions Samples
 * [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo): 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
 * [zhupengfeivip/chrome-plugin-demo](https://github.com/zhupengfeivip/chrome-plugin-demo): 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
 * [bigemon/ChuanhuChatGPT](https://github.com/bigemon/ChuanhuChatGPT): GUI for ChatGPT API (with  NSFW option)
