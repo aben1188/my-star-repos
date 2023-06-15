@@ -136,7 +136,7 @@
 * [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories): A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
 * [DeepTecher/awesome-ChatGPT-resource-zh](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh): 精选 OpenAI 的 [ChatGPT](https://chat.openai.com) 资源清单, 跟随最新资源并添加中文相关Work
 * [richzw/awesome-chatgpt-summary](https://github.com/richzw/awesome-chatgpt-summary): Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
-* [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh): ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
+* [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh): ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
 * [caiyongmin/awesome-coding-javascript](https://github.com/caiyongmin/awesome-coding-javascript): 📌 持续构建个人的源码库（JavaScript 原生、常用库、数据结构、算法）
 * [Luna-OSS/awesome-free-chatgpt](https://github.com/Luna-OSS/awesome-free-chatgpt): 🤖 Several awesome unofficial websites (reverse proxies) for using OpenAI's ChatGPT for free 🔥! 
 * [opendigg/awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp): 微信小程序开源项目库汇总
