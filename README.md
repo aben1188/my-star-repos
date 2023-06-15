@@ -494,7 +494,7 @@
 * [kaedei/gitignore](https://github.com/kaedei/gitignore): A collection of useful .gitignore templates
 * [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod): The developer platform for on-demand cloud development environments to create software faster and more securely.
 * [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum): Official Go implementation of the Ethereum protocol
-* [aehyok/go-openai](https://github.com/aehyok/go-openai): go 对接OpenAI ChatGPT接口，同时 azure openai接口已支持gpt-35-turbo和gpt-4模型
+* [aehyok/go-openai](https://github.com/aehyok/go-openai): go 对接OpenAI ChatGPT接口，同时 azure openai接口已调通最新的functions call
 * [xitu/gold-miner](https://github.com/xitu/gold-miner): 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 * [goldendict/goldendict](https://github.com/goldendict/goldendict): A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, illustrations and other content retained, and allowing you to type in words without any accents or correct case.
 * [guyigenius/Google-Baidu-Bing-360-Sogou-Weibo-Twitter](https://github.com/guyigenius/Google-Baidu-Bing-360-Sogou-Weibo-Twitter): Show results from Baidu, Bing, 360, Sogou, Weibo and Twitter in Google web search. | 在Google网页搜索显示百度、必应、360、搜狗、微博和Twitter的搜索结果。
