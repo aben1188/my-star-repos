@@ -559,7 +559,7 @@
 * [TencentCloudBase/image-node-sdk](https://github.com/TencentCloudBase/image-node-sdk): 智能图像服务 node sdk
 * [Imagick/imagick](https://github.com/Imagick/imagick): 🌈 The Imagick PHP extension 🌈
 * [44886/imgBridge](https://github.com/44886/imgBridge): 图片跳板、图片中转，包括php、nodejs源码。（You can use this file to visite the images which your website can't visited.）
-* [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate): Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展 
+* [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate): 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension 
 * [lyoe/incr.zsh](https://github.com/lyoe/incr.zsh): None
 * [haya14busa/incsearch.vim](https://github.com/haya14busa/incsearch.vim): :flashlight: Improved incremental searching for Vim
 * [apache/incubator-pagespeed-mod](https://github.com/apache/incubator-pagespeed-mod): Apache module for rewriting web pages to reduce latency and bandwidth.
