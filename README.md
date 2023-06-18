@@ -525,7 +525,7 @@
 * [pandecheng36/hcdkp](https://github.com/pandecheng36/hcdkp): 最简单的魔改发布『 合成大西瓜 』，不用改代码，修改配置即可！
 * [ilovexjp/health-code-index](https://github.com/ilovexjp/health-code-index): 健康码模拟 - 索引
 * [idontlovexjp/health-code-index.bak](https://github.com/idontlovexjp/health-code-index.bak): 健康码模拟；变态清零，祸国殃民。（备份自 https://github.com/ilovexjp/health-code-index ）新家在此：👇
-* [krahets/hello-algo](https://github.com/krahets/hello-algo): 《Hello 算法》是一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。
+* [krahets/hello-algo](https://github.com/krahets/hello-algo): 《Hello 算法》是一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Dart, Zig 等语言。
 * [zbezj/HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator): None
 * [hexojs/hexo](https://github.com/hexojs/hexo): A fast, simple & powerful blog framework, powered by Node.js.
 * [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid): :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
@@ -957,7 +957,7 @@
 * [komuw/sewer](https://github.com/komuw/sewer): Let's Encrypt(ACME) client. Python library &  CLI app.
 * [teddysun/shadowsocks_install](https://github.com/teddysun/shadowsocks_install): Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu
 * [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt): Easily share permanent links to ChatGPT conversations with your friends
-* [mountaineerbr/shellChatGPT](https://github.com/mountaineerbr/shellChatGPT): Shell wrapper for ChatGPT, DALL-E, Whisper, and awesome-chatgpt-prompts(-zh).
+* [mountaineerbr/shellChatGPT](https://github.com/mountaineerbr/shellChatGPT): Shell wrapper for text and chat completions, DALL-E, Whisper, and awesome-chatgpt-prompts(-zh).
 * [sydkj/shopping_api](https://github.com/sydkj/shopping_api): 购物指南接口集成淘宝客、拼多多、京东联盟等平台接口，适合thinkphp5.1版本
 * [leixiaokou/short-video](https://github.com/leixiaokou/short-video): 简单易用的获取无水印短视频播放地址，比如抖音无水印，快手无水印，微视无水印接口服务
 * [mozillazg/ShortURL](https://github.com/mozillazg/ShortURL): A URL  Shortener Site 短网址生成网站（web.py）
