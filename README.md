@@ -797,7 +797,7 @@
 * [eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat): golang微信SDK
 * [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db): Peer-to-Peer Databases for the Decentralized Web
 * [kaiyuanshe/osschat](https://github.com/kaiyuanshe/osschat): Apache Open Source Software Chat BOT
-* [pingcap/ossinsight](https://github.com/pingcap/ossinsight): Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 5 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/ossinsight
+* [pingcap/ossinsight](https://github.com/pingcap/ossinsight): Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 6 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/ossinsight
 * [haixin1225/otld](https://github.com/haixin1225/otld): simple tempermonkey script to open the link directly
 * [proYang/outils](https://github.com/proYang/outils): :rocket: 前端业务代码工具库
 * [yeaha/owl-orm](https://github.com/yeaha/owl-orm): None
