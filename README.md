@@ -827,7 +827,7 @@
 * [codecasts/php-alpine](https://github.com/codecasts/php-alpine): PHP APK Repository for Alpine Linux
 * [liexusong/php-beast](https://github.com/liexusong/php-beast): PHP source code encrypt module (PHP源码加密扩展)
 * [Mingyangzu/PHP-carbon-forum](https://github.com/Mingyangzu/PHP-carbon-forum):   一个没有用第三方框架的简易论坛，类似知乎的，基于话题讨论的无版块论坛。结构简单、高度封装鉴权、请求、数据库、错误页等等，一个页面的后端一般就几十行。作为学习的话我觉得是不错的，包含的XSS过滤、SQL注入、低版本PHP兼容(例如魔术引号、ArrayColumn)、正则、移动端自适应（DOING）、IIS下ISAPI_Rewrite兼容、全自动安装脚本、较为复杂的字符串&数组操作等常见的点都有涉及。阅读起来也比较方便，因为没用框架、代码量也比较少。同时数据库结构设计和脚本执行效率也是较为高效的，每个页面响应时间一般在1~5ms之间。
-* [ares333/php-curl](https://github.com/ares333/php-curl): The best php curl library.
+* [ares333/php-curl](https://github.com/ares333/php-curl): php curl library
 * [mente/php-docker-jit](https://github.com/mente/php-docker-jit): PHP docker image with experimental jit support
 * [PizzaLiu/PHP-FIG](https://github.com/PizzaLiu/PHP-FIG): PHP-FIG PSR中文版
 * [php/php-langspec](https://github.com/php/php-langspec): PHP Language Specification
