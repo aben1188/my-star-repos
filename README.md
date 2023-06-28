@@ -138,7 +138,6 @@
 * [richzw/awesome-chatgpt-summary](https://github.com/richzw/awesome-chatgpt-summary): Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 * [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh): ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
 * [caiyongmin/awesome-coding-javascript](https://github.com/caiyongmin/awesome-coding-javascript): 📌 持续构建个人的源码库（JavaScript 原生、常用库、数据结构、算法）
-* [Luna-OSS/awesome-free-chatgpt](https://github.com/Luna-OSS/awesome-free-chatgpt): 🤖 Several awesome unofficial websites (reverse proxies) for using OpenAI's ChatGPT for free 🔥! 
 * [opendigg/awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp): 微信小程序开源项目库汇总
 * [KeyToLove/awesome-gpt](https://github.com/KeyToLove/awesome-gpt): Awesome-gpt, 基于 OpenAI 定制化的 “Chatgpt” Web 应用
 * [formulahendry/awesome-gpt](https://github.com/formulahendry/awesome-gpt): A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more.
@@ -192,6 +191,7 @@
 * [ericpd/awesome_ChatGPT4-WebLinks](https://github.com/ericpd/awesome_ChatGPT4-WebLinks): The main purpose of Awesome_ChatGPT4_WebLinks repository is to gather links to websites that are using ChatGPT4 artificial intelligence technology to achieve their goals. By sharing links that demonstrate the use of AI and ChatGPT4 in various applications, you can help developers and enthusiasts in this field to learn and grow.
 * [EdisonTKPcom/Awesome_GPT](https://github.com/EdisonTKPcom/Awesome_GPT): None
 * [developGPT/AwesomeGPT](https://github.com/developGPT/AwesomeGPT): 资源智库
+* [Luna-OSS/awful-free-chat----](https://github.com/Luna-OSS/awful-free-chat----): 🤖 Several "awful" unofficial websites/mirrors for using "Closed"AI's Chat*** for free 🔥! 
 * [babun/babun](https://github.com/babun/babun): Babun - a Windows shell you will love!
 * [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi): None
 * [cloudroc/baidu-nolimit](https://github.com/cloudroc/baidu-nolimit): 百度云大文件下载破解,chrome插件
