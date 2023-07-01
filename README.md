@@ -279,7 +279,6 @@
 * [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel): Elegant and Powerfull. Powered by OpenAI and Vercel.
 * [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web): 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 * [yi-ge/chatgpt-web](https://github.com/yi-ge/chatgpt-web): Multi-user h5 version, 3rd party ChatGPT web page. Uses OpenAPI official web API.
-* [hiro086/chatgpt-web-awesome](https://github.com/hiro086/chatgpt-web-awesome): 基于web(如vue)搭建GPT镜像站的导航大全，每天收集10+ChatGPT国内镜像站点，免搭建，快速实现ChatGPT打开即用。还有Midjourney和Stable Diffusion镜像
 * [whyiyhw/chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat): 企业微信/微信 安全使用的 ChatGPT 个人助手应用
 * [AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot): ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot
 * [TankNee/chatgpt-wechaty](https://github.com/TankNee/chatgpt-wechaty): GPTChat wechat robot based on wechaty and padlocal.
@@ -507,6 +506,7 @@
 * [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter): Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
 * [mymusise/gpt2-quickly](https://github.com/mymusise/gpt2-quickly): None
 * [padigar210/GPT3](https://github.com/padigar210/GPT3): This is a project made for the purpose of learning React JS referring some of the awesome YouTube channels
+* [hiro086/GPT3-4-Midjourney-StableDiffusion-Mirrors-awesome](https://github.com/hiro086/GPT3-4-Midjourney-StableDiffusion-Mirrors-awesome): 国内AI镜像站的导航大全，每天收集公开的GPT3.5+GPT4受限试用+Midjourney+StableDiffusion站点
 * [DavidOrtsac/gpt3-writer-updated](https://github.com/DavidOrtsac/gpt3-writer-updated): Awesome GPT3 tech
 * [dbgee/gptchat](https://github.com/dbgee/gptchat): An awesome project to simplify the chatgpt integration with wechat official account.
 * [cryptonomex/graphene](https://github.com/cryptonomex/graphene): None
