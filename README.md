@@ -1403,7 +1403,6 @@
 * [zhengkai/zebra](https://github.com/zhengkai/zebra): 基于 Book Searcher 的 Web 界面
 * [zendframework/ZendPdf](https://github.com/zendframework/ZendPdf): None
 * [Baiyuetribe/zfaka](https://github.com/Baiyuetribe/zfaka): 免费、安全、稳定、高效的发卡系统，值得拥有!
-* [zfaka-plus/zfaka](https://github.com/zfaka-plus/zfaka): 免费、安全、稳定、高效的发卡系统，值得拥有!
 * [tarjoilija/zgen](https://github.com/tarjoilija/zgen): A lightweight and simple plugin manager for ZSH
 * [programthink/zhao](https://github.com/programthink/zhao): 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵
 * [gdtool/zhaopp](https://github.com/gdtool/zhaopp): 一个Google Drive搜索引擎 https://GeZhong.vip
