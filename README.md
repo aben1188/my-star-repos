@@ -872,6 +872,7 @@
 * [reshinto/programming_language_syntax_comparison](https://github.com/reshinto/programming_language_syntax_comparison): Compare syntax differences between programming languages (python, javascript, ruby, java, c#, c/c++). This would be deprecated soon. Moving to https://www.terencekong.net/docs/documentation
 * [ProgrammingBlockchain/ProgrammingBlockchain](https://github.com/ProgrammingBlockchain/ProgrammingBlockchain): None
 * [ThomasWhyne/projects](https://github.com/ThomasWhyne/projects): None
+* [yunwei37/Prompt-Engineering-Guide-zh-CN](https://github.com/yunwei37/Prompt-Engineering-Guide-zh-CN): 🐙 关于提示词工程（prompt）的指南、论文、讲座、笔记本和资源大全（自动持续更新）
 * [EgoAlpha/prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning): Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.
 * [derekhe/ProxyPool](https://github.com/derekhe/ProxyPool): 高质量免费代理池——每日1w+代理资源滚动更新
 * [lanhebe/proxypool](https://github.com/lanhebe/proxypool): 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表，每小时更新
