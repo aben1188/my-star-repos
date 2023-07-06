@@ -271,6 +271,7 @@
 * [sparticleinc/chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension): Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.
 * [koji/ChatGPT-LLM-PromptEngineering_repos](https://github.com/koji/ChatGPT-LLM-PromptEngineering_repos): ChatGPT, related application + prompt engineering list
 * [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web): A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+* [GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese): 《面向开发者的 ChatGPT 提示词工程》非官方版中英双语字幕 Unofficial subtitles of "ChatGPT Prompt Engineering for Developers"
 * [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts): A NodeJS ChatGPT prompts library that contains more than 140+ awesome prompts
 * [labteral/chatgpt-python](https://github.com/labteral/chatgpt-python): Unofficial Python SDK for OpenAI's ChatGPT
 * [jqueryscript/ChatGPT-Resources](https://github.com/jqueryscript/ChatGPT-Resources): Curated list of awesome libraries, extensions, tools, apps for ChatGPT. 
@@ -625,6 +626,7 @@
 * [maichong/labrador-cli](https://github.com/maichong/labrador-cli): 拉布拉多命令工具，微信小程序模块化开发框架
 * [labring/laf](https://github.com/labring/laf): 🤖 Laf is a cloud development platform offering ready-to-use resources like cloud functions, databases, and storage. It empowers developers to quickly unleash their creativity. ChatGPT generates functions and deploys them in seconds. There are two types of serverless: 30-second deployment or 30-second discouragement!
 * [lixuancn/LaneWeChat](https://github.com/lixuancn/LaneWeChat): 微信PHP快速开发框架！将微信的各个功能进行了封装，只需要简单的调用方法和传递参数即可。
+* [yzfly/LangGPT](https://github.com/yzfly/LangGPT): LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，结构化提示词。
 * [laravel/laravel](https://github.com/laravel/laravel): Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 * [laravel-china/laravel-docs](https://github.com/laravel-china/laravel-docs): Laravel 中文文档
 * [hhxsv5/laravel-s](https://github.com/hhxsv5/laravel-s): LaravelS is an out-of-the-box adapter between Laravel/Lumen and Swoole.
@@ -794,6 +796,7 @@
 * [vernesong/OpenClash](https://github.com/vernesong/OpenClash): A Clash Client For OpenWrt
 * [leidenglai/opencv-js-qrcode](https://github.com/leidenglai/opencv-js-qrcode): 基于opencv与wechat_qrcode编译的纯前端二维码识别demo
 * [yulingchen/openMina](https://github.com/yulingchen/openMina): 一个开放的、运行微信小程序的Web MINA框架
+* [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio): 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
 * [openresty/openresty](https://github.com/openresty/openresty): High Performance Web Platform Based on Nginx and LuaJIT
 * [openresty/openresty.org](https://github.com/openresty/openresty.org): Code and data for the openresty.org site
 * [eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat): golang微信SDK
