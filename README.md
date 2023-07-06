@@ -776,7 +776,7 @@
 * [ncjoes/office-converter](https://github.com/ncjoes/office-converter): PHP Wrapper for LibreOffice
 * [YowFung/officetopdf](https://github.com/YowFung/officetopdf): This is a PHP Laravel library, which uses LibreOffice built-in command to convert Office documents(such as doc, docx, xls, xlsx, ppt, pptx, wps, dwg and so on) to PDF files.
 * [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-* [OneQuick/OneQuick.AHK-legacy](https://github.com/OneQuick/OneQuick.AHK-legacy): windows快捷键工具（屏幕边缘操作, 剪贴板增强）.  Autohotkey tool (screen border operation, clipboard manager). 
+* [XUJINKAI/OneQuick.AHK-legacy](https://github.com/XUJINKAI/OneQuick.AHK-legacy): windows快捷键工具（屏幕边缘操作, 剪贴板增强）.  Autohotkey tool (screen border operation, clipboard manager). 
 * [onivim/oni](https://github.com/onivim/oni): Oni: Modern Modal Editing - powered by Neovim
 * [k-takata/Onigmo](https://github.com/k-takata/Onigmo): Onigmo is a regular expressions library forked from Oniguruma.
 * [nladuo/online_office_viewer](https://github.com/nladuo/online_office_viewer): preview doc/ppt/xls online via unoconv.

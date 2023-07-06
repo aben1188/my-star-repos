@@ -485,9 +485,6 @@
     "Olshansk/interview": [
         "Other"
     ],
-    "OneQuick/OneQuick.AHK-legacy": [
-        "Other"
-    ],
     "OpenBazaar/OpenBazaar-Client": [
         "Other"
     ],
@@ -726,6 +723,9 @@
         "Other"
     ],
     "XTLS/Xray-core": [
+        "Other"
+    ],
+    "XUJINKAI/OneQuick.AHK-legacy": [
         "Other"
     ],
     "YMFE/yapi": [
