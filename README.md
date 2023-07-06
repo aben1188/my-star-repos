@@ -202,6 +202,7 @@
 * [pch18-docker/baota](https://github.com/pch18-docker/baota): 宝塔面板docker部署
 * [aristocratos/bashtop](https://github.com/aristocratos/bashtop): Linux/OSX/FreeBSD resource monitor
 * [biosan-frontEnd/BeeUi](https://github.com/biosan-frontEnd/BeeUi): BeeUi是基于wepy的一套小程序开发组件库
+* [K-Render/best-chinese-prompt](https://github.com/K-Render/best-chinese-prompt): AI中文提示词秘籍ChatGPT中文提示词秘籍（Prompt圣经）K-Render整理
 * [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python): 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 * [bullhe4d/bigwatermelon](https://github.com/bullhe4d/bigwatermelon): 合成大西瓜源码,修改版
 * [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved): 强大的哔哩哔哩增强脚本
@@ -496,6 +497,7 @@
 * [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod): The developer platform for on-demand cloud development environments to create software faster and more securely.
 * [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum): Official Go implementation of the Ethereum protocol
 * [aehyok/go-openai](https://github.com/aehyok/go-openai): go 对接OpenAI ChatGPT接口，同时 azure openai接口已调通最新的functions call
+* [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai): 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
 * [xitu/gold-miner](https://github.com/xitu/gold-miner): 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 * [goldendict/goldendict](https://github.com/goldendict/goldendict): A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, illustrations and other content retained, and allowing you to type in words without any accents or correct case.
 * [guyigenius/Google-Baidu-Bing-360-Sogou-Weibo-Twitter](https://github.com/guyigenius/Google-Baidu-Bing-360-Sogou-Weibo-Twitter): Show results from Baidu, Bing, 360, Sogou, Weibo and Twitter in Google web search. | 在Google网页搜索显示百度、必应、360、搜狗、微博和Twitter的搜索结果。
