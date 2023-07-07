@@ -191,7 +191,6 @@
 * [ericpd/awesome_ChatGPT4-WebLinks](https://github.com/ericpd/awesome_ChatGPT4-WebLinks): The main purpose of Awesome_ChatGPT4_WebLinks repository is to gather links to websites that are using ChatGPT4 artificial intelligence technology to achieve their goals. By sharing links that demonstrate the use of AI and ChatGPT4 in various applications, you can help developers and enthusiasts in this field to learn and grow.
 * [EdisonTKPcom/Awesome_GPT](https://github.com/EdisonTKPcom/Awesome_GPT): None
 * [developGPT/AwesomeGPT](https://github.com/developGPT/AwesomeGPT): 资源智库
-* [Luna-OSS/awful-free-chat----](https://github.com/Luna-OSS/awful-free-chat----): 🤖 Several "awful" unofficial websites/mirrors for using "Closed"AI's Chat*** for free 🔥! 
 * [babun/babun](https://github.com/babun/babun): Babun - a Windows shell you will love!
 * [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi): None
 * [cloudroc/baidu-nolimit](https://github.com/cloudroc/baidu-nolimit): 百度云大文件下载破解,chrome插件
@@ -469,6 +468,7 @@
 * [liancheng/found](https://github.com/liancheng/found): A dead-simple wrapper over locate and xdg-open to search and open files
 * [Setasign/FPDF](https://github.com/Setasign/FPDF): FPDF is a PHP class which allows to generate PDF files with pure PHP. F from FPDF stands for Free: you may use it for any kind of usage and modify it to suit your needs.
 * [Setasign/FPDI](https://github.com/Setasign/FPDI): FPDI is a collection of PHP classes facilitating developers to read pages from existing PDF documents and use them as templates in FPDF.
+* [Luna-OSS/free-ai-chat-sites](https://github.com/Luna-OSS/free-ai-chat-sites): 🤖 Several unofficial websites/mirrors for using "Closed"AI's Chat*** for free.  We are not endorsing any of the listed services.
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
 * [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN): :books: 免费的计算机编程类中文书籍，欢迎投稿
 * [jectychen/Front-End-Develop-Guide](https://github.com/jectychen/Front-End-Develop-Guide): 这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成。
