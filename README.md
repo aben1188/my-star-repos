@@ -967,7 +967,7 @@
 * [sydkj/shopping_api](https://github.com/sydkj/shopping_api): 购物指南接口集成淘宝客、拼多多、京东联盟等平台接口，适合thinkphp5.1版本
 * [leixiaokou/short-video](https://github.com/leixiaokou/short-video): 简单易用的获取无水印短视频播放地址，比如抖音无水印，快手无水印，微视无水印接口服务
 * [mozillazg/ShortURL](https://github.com/mozillazg/ShortURL): A URL  Shortener Site 短网址生成网站（web.py）
-* [tomatocuke/sieve](https://github.com/tomatocuke/sieve): 关键词/敏感词检测，支持通配符和标签分类 。( AC自动机、tried树 、DFA算法 )
+* [tomatocuke/sieve](https://github.com/tomatocuke/sieve): 关键词/敏感词检测，支持通配符和标签分类 。( AC自动机、trie树 、DFA算法 )
 * [Lixucheng/Simple-Calendar](https://github.com/Lixucheng/Simple-Calendar): 一个简单的日历插件
 * [dufu1991/simple-cloud-music](https://github.com/dufu1991/simple-cloud-music): 简洁的的第三方网易云音乐播放器
 * [Kerinlin/simple-electron-vue-template](https://github.com/Kerinlin/simple-electron-vue-template): A start template with the latest electron and vue-cli4
@@ -1362,7 +1362,7 @@
 * [beclass/wxbot](https://github.com/beclass/wxbot): 微信机器人，个人微信号小助手平台， nodejs+nuxt + wechaty 技术栈
 * [fudaoji/wxbot](https://github.com/fudaoji/wxbot): 多商户多微信号机器人web系统，目前支持了e小天、西瓜、可爱猫、我的（个微和企微）、Web微信。
 * [wux-weapp/wxbot](https://github.com/wux-weapp/wxbot): 微信机器人，个人微信号小助手平台， nodejs + nuxt + wechaty 技术栈
-* [yqchilde/wxbot](https://github.com/yqchilde/wxbot): ☝🏻 一个好玩的个人微信机器人程序(DeanDLL、千寻、VLW)，插件开发，查天气，ChatGPT聊天，设置定时任务，公众号监控转发...
+* [yqchilde/wxbot](https://github.com/yqchilde/wxbot): ☝🏻 一个好玩的个人微信机器人程序(DeanDLL、VLW)，插件开发，查天气，ChatGPT聊天，设置定时任务，公众号监控转发...
 * [WeixinCloud/wxcloudrun-wxcomponent](https://github.com/WeixinCloud/wxcloudrun-wxcomponent): 微信云托管 微信第三方平台模版
 * [icindy/WxEmojiView](https://github.com/icindy/WxEmojiView): WxEmojiView
 * [wxext/wxext](https://github.com/wxext/wxext): e小天·微信机器人管理界面,PC微信接口扩展开发,自适应微信版本,收发消息获取群昵称等,集成常用功能快速开发插件
