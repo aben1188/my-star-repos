@@ -911,7 +911,7 @@
 * [zhangxinxu/quickLayout](https://github.com/zhangxinxu/quickLayout): quickLayout
 * [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook): Bring macOS “Quick Look” feature to Windows
 * [jianyan74/rageframe2](https://github.com/jianyan74/rageframe2): 一个基于Yii2高级框架的快速开发应用引擎
-* [goodrain/rainbond](https://github.com/goodrain/rainbond): Cloud native multi cloud application management platform that make application management and delivery easier
+* [goodrain/rainbond](https://github.com/goodrain/rainbond): No need to know Kubernetes' cloud native application management platform | 不用懂 Kubernetes 的云原生应用管理平台
 * [luochen1990/rainbow](https://github.com/luochen1990/rainbow): Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.
 * [ranger/ranger](https://github.com/ranger/ranger): A VIM-inspired filemanager for the console
 * [Clouda-team/rapid-core](https://github.com/Clouda-team/rapid-core): core of rapid cloud framework
