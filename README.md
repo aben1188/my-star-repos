@@ -955,6 +955,7 @@
 * [rmax/scrapy-redis](https://github.com/rmax/scrapy-redis): Redis-based components for Scrapy.
 * [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat): 脚本猫,一个可以执行用户脚本的浏览器扩展,万物皆可脚本化,让你的浏览器可以做更多的事情!
 * [hightman/scws](https://github.com/hightman/scws): 开源免费的简易中文分词系统，PHP分词的上乘之选！
+* [Monibrand/se-scraper](https://github.com/Monibrand/se-scraper): Javascript scraping module based on puppeteer for many different search engines...
 * [seajs/seajs](https://github.com/seajs/seajs): A Module Loader for the Web
 * [sealerio/sealer](https://github.com/sealerio/sealer): Build, Share and Run Both Your Kubernetes Cluster and Distributed Applications  (Project under CNCF)
 * [labring/sealos](https://github.com/labring/sealos): Sealos is a Kubernetes distribution, one-stop solution for your public&private cloud. 
