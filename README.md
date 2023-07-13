@@ -547,6 +547,7 @@
 * [httpwg/http2-spec](https://github.com/httpwg/http2-spec): Working copy of the HTTP/2 Specification
 * [hightman/httpclient](https://github.com/hightman/httpclient): A parallel HTTP client written in pure PHP
 * [huankemao/huankemao-php](https://github.com/huankemao/huankemao-php): 企业微信私域流量裂变引流SCRM系统，开源PHP版官方Git
+* [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub): All the open source things related to the Hugging Face Hub.
 * [huhamhire/huhamhire-hosts](https://github.com/huhamhire/huhamhire-hosts): hosts for Internet Freedom
 * [vercel/hyper](https://github.com/vercel/hyper): A terminal built on web technologies
 * [waylybaye/HyperApp-Guide](https://github.com/waylybaye/HyperApp-Guide): HyperApp user's manual 
@@ -628,6 +629,9 @@
 * [maichong/labrador-cli](https://github.com/maichong/labrador-cli): 拉布拉多命令工具，微信小程序模块化开发框架
 * [labring/laf](https://github.com/labring/laf): Laf is a cloud development platform offering ready-to-use resources like cloud functions, databases, and storage. It empowers developers to quickly unleash their creativity. 
 * [lixuancn/LaneWeChat](https://github.com/lixuancn/LaneWeChat): 微信PHP快速开发框架！将微信的各个功能进行了封装，只需要简单的调用方法和传递参数即可。
+* [hwchase17/langchain](https://github.com/hwchase17/langchain): ⚡ Building applications with LLMs through composability ⚡
+* [hwchase17/langchain-hub](https://github.com/hwchase17/langchain-hub): None
+* [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs): None
 * [yzfly/LangGPT](https://github.com/yzfly/LangGPT): LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，结构化提示词。
 * [laravel/laravel](https://github.com/laravel/laravel): Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 * [laravel-china/laravel-docs](https://github.com/laravel-china/laravel-docs): Laravel 中文文档

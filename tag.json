@@ -1823,6 +1823,9 @@
     "huankemao/huankemao-php": [
         "Other"
     ],
+    "huggingface/huggingface_hub": [
+        "Other"
+    ],
     "huggingface/transformers": [
         "Other"
     ],
@@ -1848,6 +1851,15 @@
         "Other"
     ],
     "huruji/rpn.js": [
+        "Other"
+    ],
+    "hwchase17/langchain": [
+        "Other"
+    ],
+    "hwchase17/langchain-hub": [
+        "Other"
+    ],
+    "hwchase17/langchainjs": [
         "Other"
     ],
     "hyperf/hyperf": [
