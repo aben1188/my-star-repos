@@ -2561,6 +2561,9 @@
     "maxbrunsfeld/vim-yankstack": [
         "Other"
     ],
+    "mckaywrigley/chatbot-ui": [
+        "Other"
+    ],
     "mckaywrigley/naval-gpt": [
         "Other"
     ],
@@ -3885,6 +3888,9 @@
         "Other"
     ],
     "x64architecture/wnmp": [
+        "Other"
+    ],
+    "xbzstudio/BingAI-Client": [
         "Other"
     ],
     "xdebug/xdebug": [
