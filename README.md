@@ -1034,6 +1034,8 @@
 * [staticfile/static](https://github.com/staticfile/static): 开放静态文件 - 为开源库提供稳定、快速的免费 CDN 服务
 * [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf): Control and manage Android devices from your browser.
 * [BlackGlory/subtitle-translate-tmt](https://github.com/BlackGlory/subtitle-translate-tmt): 🌲 使用腾讯机器翻译 API 为 PotPlayer 翻译实时字幕.
+* [antony/sveltekit-adapter-browser-extension](https://github.com/antony/sveltekit-adapter-browser-extension): Build browser extensions with Svelte (early prototype)
+* [Matyanson/SvelteKit-browser-extension-template](https://github.com/Matyanson/SvelteKit-browser-extension-template): template for developing browser extensions with SvelteKit. Popup window and options page set.
 * [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui): Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 * [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts): Switch hosts quickly!
 * [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega): Manage and switch between multiple proxies quickly & easily.
