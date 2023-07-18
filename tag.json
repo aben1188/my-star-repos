@@ -626,6 +626,9 @@
     "SporeUI/spore-wepy-tipbox": [
         "Other"
     ],
+    "SvelteKitApp/sveltekitapp-chrome-extension-template": [
+        "Other"
+    ],
     "TBXark/ChatGPT-Telegram-Workers": [
         "Other"
     ],
@@ -3531,6 +3534,9 @@
         "Other"
     ],
     "tiimgreen/github-cheat-sheet": [
+        "Other"
+    ],
+    "tiodot/my-chrome-extension": [
         "Other"
     ],
     "tioncico/easyES": [

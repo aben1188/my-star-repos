@@ -734,6 +734,7 @@
 * [kevinfu1717/multimediaChatbot](https://github.com/kevinfu1717/multimediaChatbot): 构建了可用于多个对话框架的场景型对话的聊天机器人。支持吐槽类情景及情感倾诉型情景。使用wechaty，结合Paddlehub的人脸特征点、动漫人脸生成、对联生成、情感分类，ernie迁移，人脸变胖
 * [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree): 插件化、定制化、无广告的免费音乐播放器
 * [janl/mustache.js](https://github.com/janl/mustache.js): Minimal templating with {{mustaches}} in JavaScript
+* [tiodot/my-chrome-extension](https://github.com/tiodot/my-chrome-extension): chrome extension v3 made with sveltekit
 * [xirong/my-git](https://github.com/xirong/my-git): Individual collecting material of learning git（有关 git 的学习资料）
 * [venaissance/myBlog](https://github.com/venaissance/myBlog): 💡 致力于提升技术学习效率的博客
 * [dbcli/mycli](https://github.com/dbcli/mycli): A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
@@ -1039,6 +1040,7 @@
 * [Matyanson/SvelteKit-browser-extension-template](https://github.com/Matyanson/SvelteKit-browser-extension-template): template for developing browser extensions with SvelteKit. Popup window and options page set.
 * [shaoml/sveltekit-crxjs-boilerplate](https://github.com/shaoml/sveltekit-crxjs-boilerplate): A boilerplate of chrome extension built on sveltekit prerender pages.
 * [LukeHagar/sveltekit-extension-template](https://github.com/LukeHagar/sveltekit-extension-template): SvelteKit Chrome extension template built with Skeleton
+* [SvelteKitApp/sveltekitapp-chrome-extension-template](https://github.com/SvelteKitApp/sveltekitapp-chrome-extension-template): SvelteKit Chrome Extension Template
 * [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui): Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 * [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts): Switch hosts quickly!
 * [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega): Manage and switch between multiple proxies quickly & easily.
