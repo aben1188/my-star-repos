@@ -200,6 +200,9 @@
     "DeviceFarmer/stf": [
         "Other"
     ],
+    "DevonCash/sveltekit-adapter-webext": [
+        "Other"
+    ],
     "DocsHome/nginx-docs": [
         "Other"
     ],
@@ -435,6 +438,9 @@
         "Other"
     ],
     "Loyalsoldier/v2ray-rules-dat": [
+        "Other"
+    ],
+    "LukeHagar/sveltekit-extension-template": [
         "Other"
     ],
     "LunaYJ/wxss-emoji": [
@@ -3211,6 +3217,9 @@
     ],
     "shadowsocksr-backup/shadowsocksr": [
         "GFW"
+    ],
+    "shaoml/sveltekit-crxjs-boilerplate": [
+        "Other"
     ],
     "shawtung/mpvue-wepy-compare": [
         "Other"
