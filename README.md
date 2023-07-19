@@ -1036,6 +1036,7 @@
 * [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf): Control and manage Android devices from your browser.
 * [BlackGlory/subtitle-translate-tmt](https://github.com/BlackGlory/subtitle-translate-tmt): 🌲 使用腾讯机器翻译 API 为 PotPlayer 翻译实时字幕.
 * [antony/sveltekit-adapter-browser-extension](https://github.com/antony/sveltekit-adapter-browser-extension): Build browser extensions with Svelte (early prototype)
+* [michmich112/sveltekit-adapter-chrome-extension](https://github.com/michmich112/sveltekit-adapter-chrome-extension): Sveltekit adapter for making chrome extensions
 * [DevonCash/sveltekit-adapter-webext](https://github.com/DevonCash/sveltekit-adapter-webext): Build browser extensions with Sveltekit (early prototype)
 * [Matyanson/SvelteKit-browser-extension-template](https://github.com/Matyanson/SvelteKit-browser-extension-template): template for developing browser extensions with SvelteKit. Popup window and options page set.
 * [shaoml/sveltekit-crxjs-boilerplate](https://github.com/shaoml/sveltekit-crxjs-boilerplate): A boilerplate of chrome extension built on sveltekit prerender pages.
