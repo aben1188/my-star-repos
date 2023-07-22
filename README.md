@@ -813,7 +813,7 @@
 * [openresty/openresty](https://github.com/openresty/openresty): High Performance Web Platform Based on Nginx and LuaJIT
 * [openresty/openresty.org](https://github.com/openresty/openresty.org): Code and data for the openresty.org site
 * [eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat): golang微信SDK
-* [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db): Peer-to-Peer Databases for the Decentralized Web
+* [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb): Peer-to-Peer Databases for the Decentralized Web
 * [kaiyuanshe/osschat](https://github.com/kaiyuanshe/osschat): Apache Open Source Software Chat BOT
 * [pingcap/ossinsight](https://github.com/pingcap/ossinsight): Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 6 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/ossinsight
 * [haixin1225/otld](https://github.com/haixin1225/otld): simple tempermonkey script to open the link directly
