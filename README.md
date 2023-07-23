@@ -823,7 +823,7 @@
 * [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub): Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)
 * [mawenjie8731/paddlenlp-wechaty-demo](https://github.com/mawenjie8731/paddlenlp-wechaty-demo): None
 * [padlocal/padlocal-client-ts](https://github.com/padlocal/padlocal-client-ts): None
-* [tw93/Pake](https://github.com/tw93/Pake): 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级跨端桌面应用
+* [tw93/Pake](https://github.com/tw93/Pake): 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 * [syhyz1990/panAI](https://github.com/syhyz1990/panAI): 油猴脚本 - 智能识别网页中网盘链接和提取码并自动填写
 * [openethereum/parity-ethereum](https://github.com/openethereum/parity-ethereum): The fast, light, and robust client for Ethereum-like networks.
 * [mckaywrigley/paul-graham-gpt](https://github.com/mckaywrigley/paul-graham-gpt): AI search & chat for all of Paul Graham’s essays.
