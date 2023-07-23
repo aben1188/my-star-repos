@@ -635,7 +635,7 @@
 * [maichong/labrador-cli](https://github.com/maichong/labrador-cli): 拉布拉多命令工具，微信小程序模块化开发框架
 * [labring/laf](https://github.com/labring/laf): Laf is a cloud development platform offering ready-to-use resources like cloud functions, databases, and storage. It empowers developers to quickly unleash their creativity. 
 * [lixuancn/LaneWeChat](https://github.com/lixuancn/LaneWeChat): 微信PHP快速开发框架！将微信的各个功能进行了封装，只需要简单的调用方法和传递参数即可。
-* [hwchase17/langchain](https://github.com/hwchase17/langchain): ⚡ Building applications with LLMs through composability ⚡
+* [langchain-ai/langchain](https://github.com/langchain-ai/langchain): ⚡ Building applications with LLMs through composability ⚡
 * [hwchase17/langchain-hub](https://github.com/hwchase17/langchain-hub): None
 * [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs): None
 * [yzfly/LangGPT](https://github.com/yzfly/LangGPT): LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，结构化提示词。

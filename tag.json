@@ -1871,9 +1871,6 @@
     "huruji/rpn.js": [
         "Other"
     ],
-    "hwchase17/langchain": [
-        "Other"
-    ],
     "hwchase17/langchain-hub": [
         "Other"
     ],
@@ -2304,6 +2301,9 @@
         "Other"
     ],
     "laihaibo/weapp-bmscore": [
+        "Other"
+    ],
+    "langchain-ai/langchain": [
         "Other"
     ],
     "lanhebe/proxypool": [
