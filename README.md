@@ -981,7 +981,6 @@
 * [komuw/sewer](https://github.com/komuw/sewer): Let's Encrypt(ACME) client. Python library &  CLI app.
 * [teddysun/shadowsocks_install](https://github.com/teddysun/shadowsocks_install): Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu
 * [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt): Easily share permanent links to ChatGPT conversations with your friends
-* [mountaineerbr/shellChatGPT](https://github.com/mountaineerbr/shellChatGPT): Shell wrapper for text and chat completions, DALL-E, Whisper, and awesome-chatgpt-prompts(-zh).
 * [akl7777777/ShellGPT](https://github.com/akl7777777/ShellGPT): **ShellGPT is a free chatgpt client, now Supported online search.no need for a key, no need to log in.Multi-node automatic speed measurement switch,Long text translation with no word limit, AI graphics.免费的chatgpt客户端，已支持联网搜索,无需密钥，无需登录,多节点自动测速切换,长文翻译不限字数,AI出图**
 * [sydkj/shopping_api](https://github.com/sydkj/shopping_api): 购物指南接口集成淘宝客、拼多多、京东联盟等平台接口，适合thinkphp5.1版本
 * [leixiaokou/short-video](https://github.com/leixiaokou/short-video): 简单易用的获取无水印短视频播放地址，比如抖音无水印，快手无水印，微视无水印接口服务
