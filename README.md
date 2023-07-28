@@ -1111,6 +1111,7 @@
 * [sindresorhus/trash-cli](https://github.com/sindresorhus/trash-cli): Move files and folders to the trash
 * [huqi-pr/trending-in-one](https://github.com/huqi-pr/trending-in-one): 今日头条热搜,知乎热门视频，知乎热搜榜，知乎热门话题，微博热搜榜；记录从 2020-11-29 日开始的热搜。每小时抓取一次数据，按天归档。
 * [doyoe/trip](https://github.com/doyoe/trip): 移动前端开发经验指南
+* [microsoft/TypeChat](https://github.com/microsoft/TypeChat): TypeChat is a library that makes it easy to build natural language interfaces using types.
 * [typecho/typecho](https://github.com/typecho/typecho): A PHP Blogging Platform. Simple and Powerful.
 * [microsoft/TypeScript](https://github.com/microsoft/TypeScript): TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 * [jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese): TypeScript Deep Dive 中文版 
