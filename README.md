@@ -335,6 +335,7 @@
 * [runsisi/consolas-font-for-powerline](https://github.com/runsisi/consolas-font-for-powerline): Powerline is a nice vim plugin, consolas is a nice font under windows, in order to use consolas in putty or securecrt to work with powerline, the font must be patched.
 * [eugeneching/consolas-powerline-vim](https://github.com/eugeneching/consolas-powerline-vim): Fixed Consolas font for use with Vim Powerline. Font has all variants: regular, bold, italic, bold-italic.
 * [ssborbis/ContextSearch-web-ext](https://github.com/ssborbis/ContextSearch-web-ext): Search engine manager for modern browsers
+* [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog): Generate changelogs and release notes from a project's commit messages and metadata.
 * [easychen/CookieCloud](https://github.com/easychen/CookieCloud): CookieCloud是一个和自架服务器同步Cookie的小工具，可以将浏览器的Cookie及Local storage同步到手机和云端，它支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。
 * [BlackGlory/copycat](https://github.com/BlackGlory/copycat): 🌳 Copy content from web powerful than ever before.
 * [mlzxy/cordova-plugin-leanpush](https://github.com/mlzxy/cordova-plugin-leanpush): Cordova plugin for LeanCloud push notification and analytics
@@ -1032,6 +1033,7 @@
 * [stacktracejs/stacktrace-gps](https://github.com/stacktracejs/stacktrace-gps): Turns partial code location into precise code location
 * [stacktracejs/stacktrace.js](https://github.com/stacktracejs/stacktrace.js): Generate, parse, and enhance JavaScript stack traces in all web browsers
 * [standard/standard](https://github.com/standard/standard): 🌟 JavaScript Style Guide, with linter & automatic code fixer
+* [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version): :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 * [startbbs/startbbs](https://github.com/startbbs/startbbs): startbbs is a free, open-source, light weight forum software package built with PHP and MySQL
 * [staticfile/static](https://github.com/staticfile/static): 开放静态文件 - 为开源库提供稳定、快速的免费 CDN 服务
 * [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf): Control and manage Android devices from your browser.
