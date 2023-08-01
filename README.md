@@ -130,7 +130,6 @@
 * [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api): Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 * [Awesome-Open-AI/Awesome-ChatGPT-Plugins](https://github.com/Awesome-Open-AI/Awesome-ChatGPT-Plugins): A curated list of awesome ChatGPT Plugins, guides, blogs, and other resources.
 * [goodbest/Awesome-ChatGPT-Plugins](https://github.com/goodbest/Awesome-ChatGPT-Plugins): None
-* [anaximanderin/awesome-chatgpt-prompts](https://github.com/anaximanderin/awesome-chatgpt-prompts): A curated collection of ChatGPT prompt templates to make you more productive
 * [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT prompt curation to use ChatGPT better.
 * [wikieden/Awesome-ChatGPT-Prompts-CN](https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN): ChatGPT调教指南|咒语指南|聊天提示词指南|学习指南
 * [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh): ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
@@ -258,7 +257,7 @@
 * [haibbo/cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy): A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service
 * [sunner/ChatALL](https://github.com/sunner/ChatALL):  Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 * [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui): An open source ChatGPT UI.
-* [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox): Chatbox is a desktop app for GPT/LLM that supports Windows, Mac, Linux & Web Online
+* [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox): Chatbox is a desktop app for multiple cutting-edge LLM models that available on Windows, Mac, Linux
 * [choogoo/chatflow](https://github.com/choogoo/chatflow): 一个使用wechaty构建的机器人业务管理平台
 * [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT): Reverse engineered ChatGPT API
 * [dirk1983/chatgpt](https://github.com/dirk1983/chatgpt): 全网最易部署，响应速度最快的ChatGPT环境。PHP版调用OpenAI接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开。保姆级教程，全部周边资源，欢迎进群交流，一切全免费。
