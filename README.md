@@ -317,7 +317,7 @@
 * [Tencent/cloudbase-framework](https://github.com/Tencent/cloudbase-framework):  腾讯云开发云原生一体化部署工具 🚀  CloudBase Framework：一键部署，不限框架语言，云端一体化开发，基于Serverless 架构。A front-end and back-end integrated deployment tool. One-click deploy to serverless architecture. https://docs.cloudbase.net/framework/index
 * [cmderdev/cmder](https://github.com/cmderdev/cmder): Lovely console emulator package for Windows
 * [tangxiangmin/cocos-big-watermelon](https://github.com/tangxiangmin/cocos-big-watermelon): big watermelon by cocos
-* [cocos/cocos-engine](https://github.com/cocos/cocos-engine): Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Millions of developers have built 2D / 3D experiences, from hardcore games to web instant entertainment.
+* [cocos/cocos-engine](https://github.com/cocos/cocos-engine): Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.
 * [liyupi/code-nav](https://github.com/liyupi/code-nav): 💎 专业的编程导航，帮你找到优质的编程学习资源！公众号【编程导航】 ☁️ 前后端均开源，励志成为最好的全栈云开发项目！
 * [AlloyTeam/CodeGuide](https://github.com/AlloyTeam/CodeGuide): Alloyteam代码规范
 * [bcit-ci/CodeIgniter](https://github.com/bcit-ci/CodeIgniter): Open Source PHP Framework (originally from EllisLab)
