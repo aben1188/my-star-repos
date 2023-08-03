@@ -926,7 +926,7 @@
 * [cuiliang/Quicker](https://github.com/cuiliang/Quicker): Quicker软件反馈repo
 * [zhangxinxu/quickLayout](https://github.com/zhangxinxu/quickLayout): quickLayout
 * [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook): Bring macOS “Quick Look” feature to Windows
-* [jianyan74/rageframe2](https://github.com/jianyan74/rageframe2): 一个基于Yii2高级框架的快速开发应用引擎
+* [jianyan74/rageframe2](https://github.com/jianyan74/rageframe2): 一个基于 Yii2 高级框架的快速开发应用引擎
 * [goodrain/rainbond](https://github.com/goodrain/rainbond): No need to know Kubernetes' cloud native application management platform | 不用懂 Kubernetes 的云原生应用管理平台
 * [luochen1990/rainbow](https://github.com/luochen1990/rainbow): Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.
 * [ranger/ranger](https://github.com/ranger/ranger): A VIM-inspired filemanager for the console
@@ -1091,7 +1091,7 @@
 * [tiddly-gittly/TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop): TidGi is an privatcy-in-mind, automated, auto-git-backup, freely-deployed Tiddlywiki knowledge management Desktop note app, with local REST API. 「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。（迭代开发中欢迎试用，开发进度见下方链接）(Under active development, see website below for details) 
 * [jonas/tig](https://github.com/jonas/tig): Text-mode interface for git
 * [ruanyf/tiny-browser-require](https://github.com/ruanyf/tiny-browser-require): A tiny, simple CommonJS require() implemetation in browser-side
-* [jianyan74/TinyShop](https://github.com/jianyan74/TinyShop): 一款基于 RageFrame2 的免费开源的基础销售功能的商城
+* [jianyan74/TinyShop](https://github.com/jianyan74/TinyShop): 一款基于 RageFrame3 的免费开源的基础销售功能的商城
 * [stavyan/TinyShop-UniApp](https://github.com/stavyan/TinyShop-UniApp): 基于 RageFrame2 的一款免费开源的基础商城销售功能的开源微商城。
 * [sdfsky/tipask](https://github.com/sdfsky/tipask): Tipask是一款开放源码的PHP问答系统，基于Laravel框架开发，容易扩展，具有强大的负载能力和稳定性。
 * [hexiyou/tipask-dev2](https://github.com/hexiyou/tipask-dev2): tipask二次开发，医疗问答系统
