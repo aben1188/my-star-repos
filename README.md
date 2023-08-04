@@ -827,6 +827,7 @@
 * [tw93/Pake](https://github.com/tw93/Pake): 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 * [syhyz1990/panAI](https://github.com/syhyz1990/panAI): 油猴脚本 - 智能识别网页中网盘链接和提取码并自动填写
 * [openethereum/parity-ethereum](https://github.com/openethereum/parity-ethereum): The fast, light, and robust client for Ethereum-like networks.
+* [jaredhanson/passport](https://github.com/jaredhanson/passport): Simple, unobtrusive authentication for Node.js.
 * [mckaywrigley/paul-graham-gpt](https://github.com/mckaywrigley/paul-graham-gpt): AI search & chat for all of Paul Graham’s essays.
 * [kongzhidea/pay](https://github.com/kongzhidea/pay): 微信支付，支付宝支付
 * [yansongda/pay](https://github.com/yansongda/pay): 可能是我用过的最优雅的 Alipay/WeChat/Unipay 的支付 SDK 扩展包了
