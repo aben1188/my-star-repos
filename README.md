@@ -204,6 +204,7 @@
 * [biosan-frontEnd/BeeUi](https://github.com/biosan-frontEnd/BeeUi): BeeUi是基于wepy的一套小程序开发组件库
 * [K-Render/best-chinese-prompt](https://github.com/K-Render/best-chinese-prompt): AI中文提示词秘籍ChatGPT中文提示词秘籍（Prompt圣经）K-Render整理
 * [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python): 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
+* [JimmyLv/BibiGPT](https://github.com/JimmyLv/BibiGPT): BibiGPT · 1-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & 课代表)
 * [bullhe4d/bigwatermelon](https://github.com/bullhe4d/bigwatermelon): 合成大西瓜源码,修改版
 * [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved): 强大的哔哩哔哩增强脚本
 * [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen): Optimizer and compiler/toolchain library for WebAssembly
@@ -1038,12 +1039,14 @@
 * [staticfile/static](https://github.com/staticfile/static): 开放静态文件 - 为开源库提供稳定、快速的免费 CDN 服务
 * [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf): Control and manage Android devices from your browser.
 * [BlackGlory/subtitle-translate-tmt](https://github.com/BlackGlory/subtitle-translate-tmt): 🌲 使用腾讯机器翻译 API 为 PotPlayer 翻译实时字幕.
+* [chunghha/svelte-daisy](https://github.com/chunghha/svelte-daisy): SvelteKit Starter with DaisyUI
 * [antony/sveltekit-adapter-browser-extension](https://github.com/antony/sveltekit-adapter-browser-extension): Build browser extensions with Svelte (early prototype)
 * [michmich112/sveltekit-adapter-chrome-extension](https://github.com/michmich112/sveltekit-adapter-chrome-extension): Sveltekit adapter for making chrome extensions
 * [DevonCash/sveltekit-adapter-webext](https://github.com/DevonCash/sveltekit-adapter-webext): Build browser extensions with Sveltekit (early prototype)
 * [Matyanson/SvelteKit-browser-extension-template](https://github.com/Matyanson/SvelteKit-browser-extension-template): template for developing browser extensions with SvelteKit. Popup window and options page set.
 * [shaoml/sveltekit-crxjs-boilerplate](https://github.com/shaoml/sveltekit-crxjs-boilerplate): A boilerplate of chrome extension built on sveltekit prerender pages.
 * [LukeHagar/sveltekit-extension-template](https://github.com/LukeHagar/sveltekit-extension-template): SvelteKit Chrome extension template built with Skeleton
+* [engageintellect/sveltekit-landing-daisy](https://github.com/engageintellect/sveltekit-landing-daisy): A landing page template with various persistent themes using SvelteKit, TailwindCSS, and DaisyUI.
 * [SvelteKitApp/sveltekitapp-chrome-extension-template](https://github.com/SvelteKitApp/sveltekitapp-chrome-extension-template): SvelteKit Chrome Extension Template
 * [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui): Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 * [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts): Switch hosts quickly!
