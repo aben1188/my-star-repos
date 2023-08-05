@@ -762,6 +762,7 @@
 * [preservim/nerdtree](https://github.com/preservim/nerdtree): A tree explorer plugin for vim.
 * [sqaiyan/NeteaseMusicWxMiniApp](https://github.com/sqaiyan/NeteaseMusicWxMiniApp): 仿网易云音乐APP的微信小程序
 * [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac): 翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
+* [jianjianai/NewBingGoGo-Web](https://github.com/jianjianai/NewBingGoGo-Web): 一个基于微软OpenAI ChatGPT GPT4的New Bing接口的Web服务。 提供了好看的对话页面。 实现了微软New Bing的大多数功能，还添加了一些自己的特色功能。 开源免费。
 * [lipeng0820/newBingHelper](https://github.com/lipeng0820/newBingHelper): None
 * [echosoar/news](https://github.com/echosoar/news): 热点聚合排序，基于SimHash算法聚合相似内容
 * [RunnerLee/nezha-cashier](https://github.com/RunnerLee/nezha-cashier): 简单的支付 sdk
@@ -1082,7 +1083,7 @@
 * [jikexueyuanwiki/tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh): 谷歌全新开源人工智能系统TensorFlow官方文档中文版
 * [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract): Tesseract Open Source OCR Engine (main repository)
 * [exvim/test-loading](https://github.com/exvim/test-loading): Test loading order for Vim plugins
-* [emadehsan/thal](https://github.com/emadehsan/thal): Getting started with Puppeteer and Chrome Headless for Data Mining
+* [emadehsan/thal](https://github.com/emadehsan/thal): Getting started with Puppeteer and Chrome Headless for Web Scraping
 * [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
 * [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher): A code-searching tool similar to ack, but faster.
 * [saadeghi/theme-change](https://github.com/saadeghi/theme-change): Change CSS theme with toggle, buttons or select using CSS custom properties and localStorage
