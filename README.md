@@ -651,6 +651,7 @@
 * [mosn/layotto](https://github.com/mosn/layotto): A fast and efficient cloud native application runtime
 * [layui/layui](https://github.com/layui/layui): 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
 * [xiaosier/lazyfans](https://github.com/xiaosier/lazyfans): 微博粉丝服务平台开发框架
+* [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim): Neovim config for the lazy
 * [Yggdroot/LeaderF](https://github.com/Yggdroot/LeaderF): An efficient fuzzy finder that helps to locate files, buffers, mrus, gtags, etc. on the fly for both vim and neovim.
 * [bluetechsky/Leaflet.DynamicMarker](https://github.com/bluetechsky/Leaflet.DynamicMarker): Plugin for Leaflet to add dynamic color and text to map markers
 * [kevinyan815/Learning_Laravel_Kernel](https://github.com/kevinyan815/Learning_Laravel_Kernel): Laravel核心代码学习
