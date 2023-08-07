@@ -110,6 +110,7 @@
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
 * [EmbraceAGI/Awesome-AGI](https://github.com/EmbraceAGI/Awesome-AGI): A curated list of awesome AGI frameworks, software and resources
 * [lencx/awesome-ai](https://github.com/lencx/awesome-ai): 🤖 Awesome AI
+* [runningcheese/Awesome-AI](https://github.com/runningcheese/Awesome-AI): Awesome AI，你的《人工智能指南》！
 * [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting): AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform
 * [sarat9/awesome-ai-saas](https://github.com/sarat9/awesome-ai-saas): List of handy AI gpt tools and apps for every day life
 * [jiji262/awesome-AIGC-tools](https://github.com/jiji262/awesome-AIGC-tools): AIGC information including ChatGPT , GPT-4 and others.
@@ -123,7 +124,6 @@
 * [dalinvip/Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT): ChatGPT资料汇总学习，持续更新......
 * [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt): Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 * [jvelilla/awesome-ChatGPT](https://github.com/jvelilla/awesome-ChatGPT): source of interesting articles about ChatGPT
-* [runningcheese/Awesome-ChatGPT](https://github.com/runningcheese/Awesome-ChatGPT): 你的《人工智能指南》- 奶酪清单！
 * [saharmor/awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt): Selected ChatGPT demos, tools, articles, and more ✨
 * [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt): 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 * [sherlock1987/Awesome-ChatGPT-AIGC-Lesson](https://github.com/sherlock1987/Awesome-ChatGPT-AIGC-Lesson): 关于ChatGPT，以及AIGC的学习道路，里面包含的内容很多，有语言模型，还有RLHF，多模态论文等等，本人的公众号是船长尼莫，感兴趣可以关注一下~
