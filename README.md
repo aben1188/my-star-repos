@@ -168,7 +168,7 @@
 * [debarshibasak/awesome-paas](https://github.com/debarshibasak/awesome-paas): A curated list of PaaS, developer platforms, Self hosted PaaS, Cloud IDEs and ADNs.
 * [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php): A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PicGo/Awesome-PicGo](https://github.com/PicGo/Awesome-PicGo): A collection of awesome projects using PicGo.
-* [lonePatient/awesome-pretrained-chinese-nlp-models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models): Awesome Pretrained Chinese NLP Models，高质量中文预训练模型集合
+* [lonePatient/awesome-pretrained-chinese-nlp-models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models): Awesome Pretrained Chinese NLP Models，高质量中文预训练模型&大模型&多模态模型&大语言模型集合
 * [natnew/Awesome-Prompt-Engineering](https://github.com/natnew/Awesome-Prompt-Engineering): Awesome-Prompt-Engineering - This repository includes resources for prompt engineering. 
 * [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering): This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc 
 * [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets): A topic-centric list of HQ open datasets.
