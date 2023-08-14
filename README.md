@@ -564,6 +564,7 @@
 * [hyperf/hyperf-docker](https://github.com/hyperf/hyperf-docker): 🐳 The docker image offered by Hyperf.
 * [hyperledger/hyperledger](https://github.com/hyperledger/hyperledger): Hyperledger is a Collaborative Project at The Linux Foundation.
 * [SaltyLeo/i-book.in_Archive](https://github.com/SaltyLeo/i-book.in_Archive): None
+* [i18next/i18next](https://github.com/i18next/i18next):  i18next: learn once - translate everywhere
 * [bytedance/IconPark](https://github.com/bytedance/IconPark): 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 * [phodal/ideabook](https://github.com/phodal/ideabook): 一个全栈增长工程师的练手项目集. A Growth Engineering Idea in Action.
 * [JetBrains/ideavim](https://github.com/JetBrains/ideavim): IdeaVim – A Vim engine for JetBrains IDEs
@@ -1047,6 +1048,7 @@
 * [BlackGlory/subtitle-translate-tmt](https://github.com/BlackGlory/subtitle-translate-tmt): 🌲 使用腾讯机器翻译 API 为 PotPlayer 翻译实时字幕.
 * [chunghha/svelte-daisy](https://github.com/chunghha/svelte-daisy): SvelteKit Starter with DaisyUI
 * [kaisermann/svelte-i18n](https://github.com/kaisermann/svelte-i18n): Internationalization library for Svelte
+* [NishuGoel/svelte-i18next](https://github.com/NishuGoel/svelte-i18next): Internationalization for svelte framework. Based on i18next ecosystem
 * [antony/sveltekit-adapter-browser-extension](https://github.com/antony/sveltekit-adapter-browser-extension): Build browser extensions with Svelte (early prototype)
 * [michmich112/sveltekit-adapter-chrome-extension](https://github.com/michmich112/sveltekit-adapter-chrome-extension): Sveltekit adapter for making chrome extensions
 * [DevonCash/sveltekit-adapter-webext](https://github.com/DevonCash/sveltekit-adapter-webext): Build browser extensions with Sveltekit (early prototype)
@@ -1126,6 +1128,7 @@
 * [doyoe/trip](https://github.com/doyoe/trip): 移动前端开发经验指南
 * [microsoft/TypeChat](https://github.com/microsoft/TypeChat): TypeChat is a library that makes it easy to build natural language interfaces using types.
 * [typecho/typecho](https://github.com/typecho/typecho): A PHP Blogging Platform. Simple and Powerful.
+* [ivanhofer/typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n): A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects.
 * [microsoft/TypeScript](https://github.com/microsoft/TypeScript): TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 * [jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese): TypeScript Deep Dive 中文版 
 * [rmolinamir/typescript-cheatsheet](https://github.com/rmolinamir/typescript-cheatsheet): A set of TypeScript related notes used for quick reference. The cheatsheet contains references to types, classes, decorators, and many other TypeScript related subjects.
