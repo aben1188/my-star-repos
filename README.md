@@ -213,7 +213,6 @@
 * [anaclumos/bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers): Enable Bing ChatGPT on Chrome and Firefox
 * [benf2004/Bing-Chat-History](https://github.com/benf2004/Bing-Chat-History): Bing AI Chat history
 * [gantrol/Bing-Chat-Saver](https://github.com/gantrol/Bing-Chat-Saver): Save Bing chat with PNG，JPG、JSON and Markdown
-* [xbzstudio/BingAI-Client](https://github.com/xbzstudio/BingAI-Client): 可以直连、唤醒Sydney、突破20消息限制的New Bing客户端/服务端。
 * [bsdayo/BingChat](https://github.com/bsdayo/BingChat): .NET API wrapper, and an amazing interactive CLI for Microsoft's new AI-powered Bing Chat.
 * [dice2o/BingGPT](https://github.com/dice2o/BingGPT): Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 * [teambit/bit](https://github.com/teambit/bit): A tool for composable software development.
@@ -1103,6 +1102,7 @@
 * [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5): A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 * [tiddly-gittly/TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop): TidGi is an privatcy-in-mind, automated, auto-git-backup, freely-deployed Tiddlywiki knowledge management Desktop note app, with local REST API. 「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。（迭代开发中欢迎试用，开发进度见下方链接）(Under active development, see website below for details) 
 * [jonas/tig](https://github.com/jonas/tig): Text-mode interface for git
+* [xbzstudio/Timeless-Sydney](https://github.com/xbzstudio/Timeless-Sydney): 好用的New Bing web客户端，功能众多~
 * [ruanyf/tiny-browser-require](https://github.com/ruanyf/tiny-browser-require): A tiny, simple CommonJS require() implemetation in browser-side
 * [jianyan74/TinyShop](https://github.com/jianyan74/TinyShop): 一款基于 RageFrame3 的免费开源的基础销售功能的商城
 * [stavyan/TinyShop-UniApp](https://github.com/stavyan/TinyShop-UniApp): 基于 RageFrame2 的一款免费开源的基础商城销售功能的开源微商城。
