@@ -641,9 +641,6 @@
     "SvelteKitApp/sveltekitapp-chrome-extension-template": [
         "Other"
     ],
-    "TBXark/ChatGPT-Telegram-Workers": [
-        "Other"
-    ],
     "TCloudBase/WXSEVER-SMS": [
         "Other"
     ],
@@ -3507,6 +3504,9 @@
         "Other"
     ],
     "taylorchen709/vue-admin": [
+        "Other"
+    ],
+    "tbxark/ChatGPT-Telegram-Workers": [
         "Other"
     ],
     "tc39/ecma262": [

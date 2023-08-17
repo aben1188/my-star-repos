@@ -278,7 +278,7 @@
 * [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts): A NodeJS ChatGPT prompts library that contains more than 140+ awesome prompts
 * [labteral/chatgpt-python](https://github.com/labteral/chatgpt-python): Unofficial Python SDK for OpenAI's ChatGPT
 * [jqueryscript/ChatGPT-Resources](https://github.com/jqueryscript/ChatGPT-Resources): Curated list of awesome libraries, extensions, tools, apps for ChatGPT. 
-* [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers): Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
+* [tbxark/ChatGPT-Telegram-Workers](https://github.com/tbxark/ChatGPT-Telegram-Workers): Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
 * [bigemon/ChatGPT-ToolBox](https://github.com/bigemon/ChatGPT-ToolBox): 由ChatGPT自己编写的ChatGPT工具箱。 当前功能: 1. 绕过高负载禁止登录 2.关闭数据监管 3.链路维持(减少网络错误) 4.API混合接入  5.会话导入导出  6.聊天记录下载 7.解锁GPT4-Mobile
 * [transitive-bullshit/chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot): Twitter bot powered by OpenAI's ChatGPT API. It's aliveeeee 🤖
 * [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel): Elegant and Powerfull. Powered by OpenAI and Vercel.
@@ -900,7 +900,7 @@
 * [reshinto/programming_language_syntax_comparison](https://github.com/reshinto/programming_language_syntax_comparison): Compare syntax differences between programming languages (python, javascript, ruby, java, c#, c/c++). This would be deprecated soon. Moving to https://www.terencekong.net/docs/documentation
 * [ProgrammingBlockchain/ProgrammingBlockchain](https://github.com/ProgrammingBlockchain/ProgrammingBlockchain): None
 * [ThomasWhyne/projects](https://github.com/ThomasWhyne/projects): None
-* [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers): 吴恩达大模型系列课程中文版，包括《Prompt Engineering》、《Building System》和《LangChain》
+* [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers): 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
 * [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 * [yunwei37/Prompt-Engineering-Guide-zh-CN](https://github.com/yunwei37/Prompt-Engineering-Guide-zh-CN): 🐙 关于提示词工程（prompt）的指南、论文、讲座、笔记本和资源大全（自动持续更新）
 * [EgoAlpha/prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning): Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.
