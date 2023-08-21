@@ -659,6 +659,7 @@
 * [phodal/ledge](https://github.com/phodal/ledge): Ledge —— DevOps knowledge learning platform. DevOps、研发效能知识和工具平台，是我们基于在 ThoughtWorks 进行的一系列 DevOps 实践、敏捷实践、软件开发与测试、精益实践提炼出来的知识体系。它包含了各种最佳实践、操作手册、原则与模式、度量、工具，用于帮助您的企业在数字化时代更好地前进，还有 DevOps 转型。
 * [j178/leetgo](https://github.com/j178/leetgo): Best LeetCode friend for geek. :snowboarder:
 * [lmsqueezy/lemonsqueezy.js](https://github.com/lmsqueezy/lemonsqueezy.js): Official JavaScript SDK for Lemon Squeezy.
+* [NuroDev/lemonsqueezy.ts](https://github.com/NuroDev/lemonsqueezy.ts): 🍋  JavaScript / TypeScript SDK for the Lemon Squeezy API
 * [cmiscm/leonsans](https://github.com/cmiscm/leonsans): Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
 * [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton): 💻     Democratizing Snippet Management (macOS/Win/Linux)
 * [coolhwm/leshare-map-weapp](https://github.com/coolhwm/leshare-map-weapp): 基于微信小程序的地图展现工具，使用wepy框架及weui样式开发
