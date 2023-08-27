@@ -83,6 +83,7 @@
 * [angular/angular](https://github.com/angular/angular): The modern web developer’s platform
 * [Kotlin/anko](https://github.com/Kotlin/anko): Pleasant Android application development
 * [zsh-users/antigen](https://github.com/zsh-users/antigen): The plugin manager for zsh.
+* [any86/any-rule](https://github.com/any86/any-rule): 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
 * [Tencent/APIJSON](https://github.com/Tencent/APIJSON): 🏆 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🏆 A JSON Transmission Protocol and an ORM Library 🚀  provides APIs and Docs without writing any code.
 * [testsla/apijson](https://github.com/testsla/apijson): ts版的apijson
 * [qq547057827/apijson-php](https://github.com/qq547057827/apijson-php): apijson的PHP版   目前只有  根据id  增删改查  和  根据字段查   而且没有递归
