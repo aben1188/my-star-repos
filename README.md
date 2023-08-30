@@ -89,6 +89,7 @@
 * [qq547057827/apijson-php](https://github.com/qq547057827/apijson-php): apijson的PHP版   目前只有  根据id  增删改查  和  根据字段查   而且没有递归
 * [liaozb/APIJSON.NET](https://github.com/liaozb/APIJSON.NET): 后端接口自动化 .NET CORE版本
 * [EhsanTang/ApiManager](https://github.com/EhsanTang/ApiManager): CRAP - 开源API接口管理平台 | 完全开源、免费使用的API接口管理系统、BUG管理系统：API接口管理、文档管理、数据库表管理、接口调试、浏览器调试插件、导出word&pdf接口…..，采用SpringMVC + MyBatis + Lucene + Bootstrap + Angularjs + Iconfont + Guava Cache ，线上使用地址：http://api.crap.cn
+* [lencx/app](https://github.com/lencx/app):  🏖️ No Free Work Life
 * [appium/appium](https://github.com/appium/appium): Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
 * [MichaelMure/Arbore](https://github.com/MichaelMure/Arbore): Friend-to-friend filesharing app to save the world from dystopia 
 * [solstice23/argon-theme](https://github.com/solstice23/argon-theme): 📖 Argon - 一个轻盈、简洁的 WordPress 主题
