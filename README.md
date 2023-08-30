@@ -273,6 +273,7 @@
 * [UNICKCHENG/ChatGPT-For-Wechat](https://github.com/UNICKCHENG/ChatGPT-For-Wechat): A wechat bot using Wechaty and ChatGPT
 * [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension): This project is deprecated. Check my new project ChatHub:
 * [sparticleinc/chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension): Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.
+* [ObservedObserver/chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n): Localize your websites with AI assistance.
 * [koji/ChatGPT-LLM-PromptEngineering_repos](https://github.com/koji/ChatGPT-LLM-PromptEngineering_repos): ChatGPT, related application + prompt engineering list
 * [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web): A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 * [GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese): 《面向开发者的 ChatGPT 提示词工程》非官方版中英双语字幕 Unofficial subtitles of "ChatGPT Prompt Engineering for Developers"
@@ -1124,6 +1125,7 @@
 * [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection): 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 * [ambition-hb/Trancefer](https://github.com/ambition-hb/Trancefer): 知乎爬虫——Mongo数据→MySQL数据
 * [huggingface/transformers](https://github.com/huggingface/transformers): 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+* [Quilljou/transmart](https://github.com/Quilljou/transmart): Automate your i18n localization with AI
 * [sindresorhus/trash](https://github.com/sindresorhus/trash): Move files and directories to the trash
 * [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli): Command line interface to the freedesktop.org trashcan.
 * [sindresorhus/trash-cli](https://github.com/sindresorhus/trash-cli): Move files and folders to the trash
