@@ -448,6 +448,7 @@
 * [arv/ExplorerCanvas](https://github.com/arv/ExplorerCanvas): Canvas for IE8 and older
 * [crimx/ext-saladict](https://github.com/crimx/ext-saladict): 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 * [altryne/extensionizr](https://github.com/altryne/extensionizr): Extensionizr! Create a chrome extension in 15 seconds!
+* [Glench/ExtPay](https://github.com/Glench/ExtPay): The JavaScript library for ExtensionPay.com — payments for your browser extensions, no server needed.
 * [ZZUTK/Face-Aging-CAAE](https://github.com/ZZUTK/Face-Aging-CAAE): Age Progression/Regression by Conditional Adversarial Autoencoder
 * [Jooong/Face-Aging-CAAE-Pytorch](https://github.com/Jooong/Face-Aging-CAAE-Pytorch): Age Progression/Regression by Conditional Adversarial Autoencoder
 * [moklick/face-mask-browser-extension](https://github.com/moklick/face-mask-browser-extension): 😷 A browser extension that puts masks on faces on the internet
