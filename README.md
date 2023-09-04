@@ -1303,8 +1303,8 @@
 * [ByboyCn/wechat7016](https://github.com/ByboyCn/wechat7016): None
 * [wnma3mz/wechat_articles_spider](https://github.com/wnma3mz/wechat_articles_spider): 微信公众号文章的爬虫
 * [xiangchuwang/Wechat_IDE_For_Crack](https://github.com/xiangchuwang/Wechat_IDE_For_Crack): This document is Wechat's Cracked IDE
+* [expzhizhuo/WechatBot](https://github.com/expzhizhuo/WechatBot): 一个基于PC版的微信机器人，采用hook的形式进行消息拦截，内存信息读取的形式，实现安全工具，安全资讯，安全客，freebuf等安全论坛自动推送以及每日早报，晚报和娱乐功能，并且还加入当前最火的openai对话功能
 * [leochen-g/wechatBot](https://github.com/leochen-g/wechatBot): 微信每日说，三步教你用Node做一个微信哄女友(基友)神器！还能帮女朋友解决垃圾分类难题
-* [zhizhuoshuma/WechatBot](https://github.com/zhizhuoshuma/WechatBot): 一个基于PC版的微信机器人，采用hook的形式进行消息拦截，内存信息读取的形式，实现安全工具，安全资讯，安全客，freebuf等安全论坛自动推送以及每日早报，晚报和娱乐功能，并且还加入当前最火的openai对话功能
 * [HyechoLee/wechatbot-chatgpt](https://github.com/HyechoLee/wechatbot-chatgpt): None
 * [KingsleyYau/WeChatChannelsDownloader](https://github.com/KingsleyYau/WeChatChannelsDownloader): 微信视频号下载器
 * [qbright/wechatCode-complete](https://github.com/qbright/wechatCode-complete): 微信小程序 代码提示插件
