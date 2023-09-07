@@ -676,7 +676,7 @@
 * [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim): A light and configurable statusline/tabline plugin for Vim
 * [unmagic/lightning-load-project](https://github.com/unmagic/lightning-load-project): 小程序页面预加载框架
 * [likeshop-github/likeshop](https://github.com/likeshop-github/likeshop): 🔥🔥🔥 likeshop开源免费商用电商系统，PC商城、H5商城、小程序商城、安卓APP商城、苹果APP商城，免费商用。场景：B2C商城，新零售商城，社交电商商城，分销系统商城，分销电商商城，小程序商城，商城源码，商城系统，单商户，多商户，电商系统，直播，uniapp，uni-app，B2B2C，B2B，O2O，ERP，Wechat，交易系统，内容系统，雷达，crm
-* [joelseq/linkshelf-extension](https://github.com/joelseq/linkshelf-extension): None
+* [joelseq/linkstowr-extension](https://github.com/joelseq/linkstowr-extension): None
 * [LiskHQ/lisk-sdk](https://github.com/LiskHQ/lisk-sdk): 🔩 Lisk software development kit
 * [listen1/listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension): one for all free music in china (chrome extension, also works for firefox)
 * [blocklistproject/Lists](https://github.com/blocklistproject/Lists): Primary Block Lists
@@ -983,7 +983,7 @@
 * [mashirozx/sakura](https://github.com/mashirozx/sakura): A Wonderful WordPress Theme: 樱花庄的白猫博客主题
 * [henson/Scraper](https://github.com/henson/Scraper): Tracking the most popular Github repos, updated daily.
 * [rmax/scrapy-redis](https://github.com/rmax/scrapy-redis): Redis-based components for Scrapy.
-* [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat): 脚本猫,一个可以执行用户脚本的浏览器扩展,万物皆可脚本化,让你的浏览器可以做更多的事情!
+* [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat): 脚本猫，一个可以执行用户脚本的浏览器扩展
 * [hightman/scws](https://github.com/hightman/scws): 开源免费的简易中文分词系统，PHP分词的上乘之选！
 * [Monibrand/se-scraper](https://github.com/Monibrand/se-scraper): Javascript scraping module based on puppeteer for many different search engines...
 * [seajs/seajs](https://github.com/seajs/seajs): A Module Loader for the Web
