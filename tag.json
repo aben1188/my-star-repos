@@ -1910,9 +1910,6 @@
     "hwchase17/langchain-hub": [
         "Other"
     ],
-    "hwchase17/langchainjs": [
-        "Other"
-    ],
     "hyperf/hyperf": [
         "Other"
     ],
@@ -2361,6 +2358,9 @@
         "Other"
     ],
     "langchain-ai/langchain": [
+        "Other"
+    ],
+    "langchain-ai/langchainjs": [
         "Other"
     ],
     "lanhebe/proxypool": [

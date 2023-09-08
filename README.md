@@ -646,7 +646,7 @@
 * [lixuancn/LaneWeChat](https://github.com/lixuancn/LaneWeChat): 微信PHP快速开发框架！将微信的各个功能进行了封装，只需要简单的调用方法和传递参数即可。
 * [langchain-ai/langchain](https://github.com/langchain-ai/langchain): ⚡ Building applications with LLMs through composability ⚡
 * [hwchase17/langchain-hub](https://github.com/hwchase17/langchain-hub): None
-* [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs): None
+* [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs): None
 * [yzfly/LangGPT](https://github.com/yzfly/LangGPT): LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，结构化提示词。
 * [laravel/laravel](https://github.com/laravel/laravel): Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 * [laravel-china/laravel-docs](https://github.com/laravel-china/laravel-docs): Laravel 中文文档
