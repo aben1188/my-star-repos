@@ -1071,7 +1071,7 @@
 * [zhaohehe/swoole-tadpole](https://github.com/zhaohehe/swoole-tadpole): tadpole chatroom (maybe spermium) powered by swoole and slim framework
 * [LinkedDestiny/swoole-yaf](https://github.com/LinkedDestiny/swoole-yaf): 结合swoole扩展和Yaf框架，使用swoole的内置http_server
 * [bingcool/swoolefy](https://github.com/bingcool/swoolefy): swoolefy是一个基于swoole实现的协程级、轻量级、高性能、开放性的API应用服务框架
-* [zhaojianhui129/swooleWechat](https://github.com/zhaojianhui129/swooleWechat): 使用swoole framework搭建一个微信服务号接口开发项目，其中使用了EasyWeChat微信开源项目
+* [zjh129/swooleWechat](https://github.com/zjh129/swooleWechat): 使用swoole framework搭建一个微信服务号接口开发项目，其中使用了EasyWeChat微信开源项目
 * [a07061625/swooleyaf](https://github.com/a07061625/swooleyaf): PHP High Performance Micro Service Framework,高性能分布式微服务框架
 * [swow/swow](https://github.com/swow/swow): Coroutine-based cross-platform concurrent I/O engine.
 * [symfony/symfony](https://github.com/symfony/symfony): The Symfony PHP framework
