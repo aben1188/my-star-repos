@@ -205,7 +205,7 @@
 * [ifui/baota](https://github.com/ifui/baota): DOCKER 宝塔面板 一键部署脚本
 * [pch18-docker/baota](https://github.com/pch18-docker/baota): 宝塔面板docker部署
 * [aristocratos/bashtop](https://github.com/aristocratos/bashtop): Linux/OSX/FreeBSD resource monitor
-* [biosan-frontEnd/BeeUi](https://github.com/biosan-frontEnd/BeeUi): BeeUi是基于wepy的一套小程序开发组件库
+* [history-frontEnd/BeeUi](https://github.com/history-frontEnd/BeeUi): BeeUi是基于wepy的一套小程序开发组件库
 * [K-Render/best-chinese-prompt](https://github.com/K-Render/best-chinese-prompt): AI中文提示词秘籍ChatGPT中文提示词秘籍（Prompt圣经）K-Render整理
 * [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python): 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 * [JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1): BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表)
