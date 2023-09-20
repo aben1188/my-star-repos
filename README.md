@@ -479,7 +479,6 @@
 * [liancheng/found](https://github.com/liancheng/found): A dead-simple wrapper over locate and xdg-open to search and open files
 * [Setasign/FPDF](https://github.com/Setasign/FPDF): FPDF is a PHP class which allows to generate PDF files with pure PHP. F from FPDF stands for Free: you may use it for any kind of usage and modify it to suit your needs.
 * [Setasign/FPDI](https://github.com/Setasign/FPDI): FPDI is a collection of PHP classes facilitating developers to read pages from existing PDF documents and use them as templates in FPDF.
-* [NovaOSS/free-ai-chat-sites](https://github.com/NovaOSS/free-ai-chat-sites): 🤖 Several unofficial websites/mirrors for using "Closed"AI's Chat*** for free.  We are not endorsing any of the listed services.
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
 * [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN): :books: 免费的计算机编程类中文书籍，欢迎投稿
 * [jectychen/Front-End-Develop-Guide](https://github.com/jectychen/Front-End-Develop-Guide): 这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成。
