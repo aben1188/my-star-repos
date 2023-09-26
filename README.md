@@ -279,6 +279,7 @@
 * [koji/ChatGPT-LLM-PromptEngineering_repos](https://github.com/koji/ChatGPT-LLM-PromptEngineering_repos): ChatGPT, related application + prompt engineering list
 * [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web): A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 * [GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese): 《面向开发者的 ChatGPT 提示词工程》非官方版中英双语字幕 Unofficial subtitles of "ChatGPT Prompt Engineering for Developers"
+* [aben1188/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/aben1188/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese): 《面向开发者的 ChatGPT 提示词工程》非官方版中英双语字幕 Unofficial subtitles of "ChatGPT Prompt Engineering for Developers"
 * [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts): A NodeJS ChatGPT prompts library that contains more than 140+ awesome prompts
 * [labteral/chatgpt-python](https://github.com/labteral/chatgpt-python): Unofficial Python SDK for OpenAI's ChatGPT
 * [jqueryscript/ChatGPT-Resources](https://github.com/jqueryscript/ChatGPT-Resources): Curated list of awesome libraries, extensions, tools, apps for ChatGPT. 
