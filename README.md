@@ -1394,7 +1394,7 @@
 * [liangsonghua/wordpressTheme](https://github.com/liangsonghua/wordpressTheme): wordpress博客主题，高仿微信公众号图文消息
 * [walkor/workerman](https://github.com/walkor/workerman): An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols. 
 * [gallonyin/worktool](https://github.com/gallonyin/worktool): 【企业微信】企业微信机器人 聊天机器人、自动加好友、自动拉群、自动群发机器人 免Root零封号 集成ChatGPT
-* [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity): 我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy
+* [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity): 我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。Now supports English! 官网: https://wtf.academy
 * [wux-weapp/wux-weapp](https://github.com/wux-weapp/wux-weapp): :dog: 一套组件化、可复用、易扩展的微信小程序 UI 组件库
 * [baoshan/wx](https://github.com/baoshan/wx): (minimalist) WeChat Middleware for Express.js
 * [wuomzfx/wx-chatgpt](https://github.com/wuomzfx/wx-chatgpt): 公众号微信云托管接入 chatgpt 模板
