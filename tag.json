@@ -3722,6 +3722,9 @@
     "v2ray/v2ray-core": [
         "GFW"
     ],
+    "v3ucn/sse_tornado6_vuejs3": [
+        "Other"
+    ],
     "v8/v8": [
         "Other"
     ],
@@ -4185,9 +4188,6 @@
         "Other"
     ],
     "zclzone/vue-naive-admin": [
-        "Other"
-    ],
-    "zcxey2911/sse_tornado6_vuejs3": [
         "Other"
     ],
     "zendframework/ZendPdf": [
