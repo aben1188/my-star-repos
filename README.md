@@ -56,6 +56,7 @@
 * [gpakosz/.tmux](https://github.com/gpakosz/.tmux): 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 * [phuocng/1loc](https://github.com/phuocng/1loc): What's your favorite JavaScript single LOC (line of code)?
 * [hzheng/1pass4all](https://github.com/hzheng/1pass4all): a bookmarklet to create passwords easily and securely
+* [GAIR-NLP/abel](https://github.com/GAIR-NLP/abel): SOTA Math Opensource LLM
 * [acejump/AceJump](https://github.com/acejump/AceJump): 🅰️ single character search, select, and jump
 * [mileszs/ack.vim](https://github.com/mileszs/ack.vim): Vim plugin for the Perl module / CLI script 'ack'
 * [beyondgrep/ack2](https://github.com/beyondgrep/ack2): **ack 2 is no longer being maintained.  ack 3 is the latest version.**
