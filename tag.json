@@ -1298,6 +1298,9 @@
     "colinmollenhour/credis": [
         "Other"
     ],
+    "compat-table/compat-table": [
+        "Other"
+    ],
     "conventional-changelog/conventional-changelog": [
         "Other"
     ],
@@ -2262,9 +2265,6 @@
         "Other"
     ],
     "kamranahmedse/developer-roadmap": [
-        "Other"
-    ],
-    "kangax/compat-table": [
         "Other"
     ],
     "kangleyunju/nodejs_vue3_uniapp": [
