@@ -3014,6 +3014,9 @@
     "phodal/ledge": [
         "Other"
     ],
+    "phodal/prompt-patterns": [
+        "Other"
+    ],
     "phodal/weapp-quick": [
         "Other"
     ],
@@ -3084,9 +3087,6 @@
         "Other"
     ],
     "programthink/zhao": [
-        "Other"
-    ],
-    "prompt-engineering/prompt-patterns": [
         "Other"
     ],
     "promptslab/Awesome-Prompt-Engineering": [
