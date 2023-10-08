@@ -219,7 +219,7 @@
 * [gantrol/Bing-Chat-Saver](https://github.com/gantrol/Bing-Chat-Saver): Save Bing chat with PNG，JPG、JSON and Markdown
 * [bsdayo/BingChat](https://github.com/bsdayo/BingChat): .NET API wrapper, and an amazing interactive CLI for Microsoft's new AI-powered Bing Chat.
 * [dice2o/BingGPT](https://github.com/dice2o/BingGPT): Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
-* [teambit/bit](https://github.com/teambit/bit): A tool for composable software development.
+* [teambit/bit](https://github.com/teambit/bit): A toolchain for development of composable software.
 * [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin): Bitcoin Core integration/staging tree
 * [imfly/bitcoin-on-nodejs](https://github.com/imfly/bitcoin-on-nodejs): 《Node.js区块链开发》，注：新版代码已开源！请star支持哦-^-：
 * [vbuterin/bitcoinjs-lib](https://github.com/vbuterin/bitcoinjs-lib): Bitcoin-related functions implemented in pure JavaScript
