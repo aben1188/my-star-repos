@@ -1122,7 +1122,6 @@
 * [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator): Manage complex tmux sessions easily
 * [tastejs/todomvc](https://github.com/tastejs/todomvc): Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
 * [lihancong/tonyenc](https://github.com/lihancong/tonyenc): 高性能、跨平台的 PHP7 代码加密扩展 (A high performance and cross-platform encrypt extension for PHP source code)
-* [ooowennn/toolbox](https://github.com/ooowennn/toolbox): 企业微信 ChatGPT 机器人
 * [svelte-plugins/tooltips](https://github.com/svelte-plugins/tooltips): A simple tooltip action and component designed for Svelte.
 * [tophubs/TopList](https://github.com/tophubs/TopList): 今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://mo.fish
 * [loicminghetti/touchpdf](https://github.com/loicminghetti/touchpdf): PDF viewer supporting touch gestures for jQuery
