@@ -780,7 +780,6 @@
 * [RunnerLee/nezha-cashier](https://github.com/RunnerLee/nezha-cashier): 简单的支付 sdk
 * [chenxianshuang/nezha-cashier](https://github.com/chenxianshuang/nezha-cashier): 简单的支付 sdk
 * [DocsHome/nginx-docs](https://github.com/DocsHome/nginx-docs): Nginx 中文文档. Chinese translation of Nginx documentation.
-* [arquivei/nginx-vts](https://github.com/arquivei/nginx-vts): Nginx with VTS module and Prometheus exporter
 * [nhost/nhost](https://github.com/nhost/nhost): The Open Source Firebase Alternative with GraphQL.
 * [tumobi/nideshop](https://github.com/tumobi/nideshop): NideShop 开源微信小程序商城服务端 API（Node.js + ThinkJS）
 * [liuxing/node-abc](https://github.com/liuxing/node-abc): 《Node.js入门教程》
