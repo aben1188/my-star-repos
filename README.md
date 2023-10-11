@@ -420,7 +420,7 @@
 * [easy-swoole/easyswoole](https://github.com/easy-swoole/easyswoole): swoole,easyswoole,swoole framework
 * [ZYallers/easyswoole3](https://github.com/ZYallers/easyswoole3): 基于EasySwoole框架，专为API开发而设计的一个高并发，多进程，可异步，高可用，多版本控制的API框架。
 * [flutterbest/easytbk](https://github.com/flutterbest/easytbk): 淘客5合一SDK，支持淘宝联盟、京东联盟、多多进宝、唯品会、苏宁
-* [zhaozhaoxiao/easytbk](https://github.com/zhaozhaoxiao/easytbk): 淘宝客、京东联盟、拼多多
+* [sxlfhtdyy/easytbk](https://github.com/sxlfhtdyy/easytbk): 淘宝客、京东联盟、拼多多
 * [w7corp/easywechat](https://github.com/w7corp/easywechat): 📦 一个 PHP 微信 SDK
 * [q409640976/Ebook-crawler](https://github.com/q409640976/Ebook-crawler): 一个定向爬取电子书网站的爬虫库
 * [Ebookcoin/ebookcoin](https://github.com/Ebookcoin/ebookcoin): Ebookcoin has been updated to DDN Blockchain，please get it from https://github.com/ddnlink/ddn
