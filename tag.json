@@ -2699,6 +2699,9 @@
     "microsoft/VS-PPT": [
         "Other"
     ],
+    "microsoft/autogen": [
+        "Other"
+    ],
     "microsoft/playwright": [
         "Other"
     ],
