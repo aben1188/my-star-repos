@@ -711,6 +711,7 @@
 * [joschuck/matrix-webcam](https://github.com/joschuck/matrix-webcam): Take your video conference from within the matrix.
 * [catfan/Medoo](https://github.com/catfan/Medoo): The lightweight PHP database framework to accelerate the development.
 * [easychen/MemberPrism2](https://github.com/easychen/MemberPrism2): open source alternative to memberstack / memberspace , but with both front and backend member-only content protection
+* [yaleh/meta-prompt](https://github.com/yaleh/meta-prompt): Meta Prompt, which involves generating a language model prompt using another language model.
 * [meteor/meteor](https://github.com/meteor/meteor): Meteor, the JavaScript App Platform
 * [meteoric/meteor-ionic](https://github.com/meteoric/meteor-ionic): Ionic components for Meteor. No Angular!
 * [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts): A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
