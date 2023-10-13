@@ -1220,7 +1220,7 @@
 * [1esse/vue-clownfish-admin](https://github.com/1esse/vue-clownfish-admin): 🐋vite vue3 antd admin
 * [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin): :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 * [herozhou/vue-framework-wz](https://github.com/herozhou/vue-framework-wz): 👏vue后台管理框架👏
-* [zclzone/vue-naive-admin](https://github.com/zclzone/vue-naive-admin): ⚡️基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
+* [isme-admin/vue-naive-admin](https://github.com/isme-admin/vue-naive-admin): ⚡️基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
 * [vuejs/vue-rx](https://github.com/vuejs/vue-rx): 👁️ RxJS integration for Vue.js.
 * [yuche/vue-strap](https://github.com/yuche/vue-strap): Bootstrap components built with Vue.js
 * [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm): Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
