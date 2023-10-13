@@ -1055,6 +1055,7 @@
 * [staticfile/static](https://github.com/staticfile/static): 开放静态文件 - 为开源库提供稳定、快速的免费 CDN 服务
 * [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf): Control and manage Android devices from your browser.
 * [BlackGlory/subtitle-translate-tmt](https://github.com/BlackGlory/subtitle-translate-tmt): 🌲 使用腾讯机器翻译 API 为 PotPlayer 翻译实时字幕.
+* [limonte/subtitle-translator-electron](https://github.com/limonte/subtitle-translator-electron): ↔️ Translate subtitle using ChatGPT
 * [chunghha/svelte-daisy](https://github.com/chunghha/svelte-daisy): SvelteKit Starter with DaisyUI
 * [kaisermann/svelte-i18n](https://github.com/kaisermann/svelte-i18n): Internationalization library for Svelte
 * [NishuGoel/svelte-i18next](https://github.com/NishuGoel/svelte-i18next): Internationalization for svelte framework. Based on i18next ecosystem
