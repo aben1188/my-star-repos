@@ -2048,9 +2048,6 @@
     "ish-app/ish": [
         "Other"
     ],
-    "isme-admin/vue-naive-admin": [
-        "Other"
-    ],
     "itchyny/lightline.vim": [
         "Other"
     ],
@@ -4197,6 +4194,9 @@
         "Other"
     ],
     "zce/caz": [
+        "Other"
+    ],
+    "zclzone/vue-naive-admin": [
         "Other"
     ],
     "zendframework/ZendPdf": [

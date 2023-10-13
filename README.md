@@ -237,7 +237,7 @@
 * [bolasblack/BlogPosts](https://github.com/bolasblack/BlogPosts): None
 * [akl7777777/bob-plugin-akl-deepl-free-translate](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate): **DeepL免秘钥,免启服务**,双击使用,免费无限次使用,(**新增DeepL单词查询功能**)根据网页版JavaScript加密算法逆向开发的bobplugin;所以只要官网的算法不改,理论上就可以无限使用;(重大更新!!!回馈老用户,现已优化,频繁访问后仍然可以继续免费翻译!!) **apiKey is not required,No account password required**
 * [openai-translator/bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator): 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0
-* [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher): Easy and blazing-fast book searcher, create and search your private library.
+* [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher): Easy and blazing-fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute, and search in 30µs.
 * [hejinzhi/bookLibrary-wepy](https://github.com/hejinzhi/bookLibrary-wepy): None
 * [programthink/books](https://github.com/programthink/books): 【编程随想】收藏的电子书清单（多个学科，含下载链接）
 * [twbs/bootstrap](https://github.com/twbs/bootstrap): The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -1223,7 +1223,7 @@
 * [1esse/vue-clownfish-admin](https://github.com/1esse/vue-clownfish-admin): 🐋vite vue3 antd admin
 * [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin): :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 * [herozhou/vue-framework-wz](https://github.com/herozhou/vue-framework-wz): 👏vue后台管理框架👏
-* [isme-admin/vue-naive-admin](https://github.com/isme-admin/vue-naive-admin): ⚡️基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
+* [zclzone/vue-naive-admin](https://github.com/zclzone/vue-naive-admin): ⚡️基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
 * [vuejs/vue-rx](https://github.com/vuejs/vue-rx): 👁️ RxJS integration for Vue.js.
 * [yuche/vue-strap](https://github.com/yuche/vue-strap): Bootstrap components built with Vue.js
 * [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm): Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
