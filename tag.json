@@ -1013,6 +1013,9 @@
     "atongrun/Auto-GPT": [
         "Other"
     ],
+    "atorber/chatflow": [
+        "Other"
+    ],
     "awaluk/q2a-api": [
         "Other"
     ],
@@ -1224,9 +1227,6 @@
         "Other"
     ],
     "chokcoco/magicCss": [
-        "Other"
-    ],
-    "choogoo/chatflow": [
         "Other"
     ],
     "chrisboulton/php-resque": [
