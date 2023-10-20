@@ -250,6 +250,7 @@
 * [ywfwj2008/bt-panel](https://github.com/ywfwj2008/bt-panel): 本Docker基于宝塔Linux面板,集成环境包含 Nginx PHP5.6 PHP7 FTP等基本服务
 * [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator):  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 * [suulnnka/BullshitGenerator](https://github.com/suulnnka/BullshitGenerator): 文章生成器
+* [zzkcaesar/Caesar_prompt](https://github.com/zzkcaesar/Caesar_prompt): This is the collection of LLM prompt which collected by Caesar
 * [aamii/Candy](https://github.com/aamii/Candy): Candy:  A new tool for quick open files and fast search text
 * [Fyrd/caniuse](https://github.com/Fyrd/caniuse): Raw browser/feature support data from caniuse.com
 * [lincanbin/Carbon-Forum](https://github.com/lincanbin/Carbon-Forum): A high performance open-source forum software written in PHP. Discussions Tags based with Quora/StackOverflow style.
@@ -747,6 +748,7 @@
 * [TencentCloudBase/mp-book](https://github.com/TencentCloudBase/mp-book): 小程序·云开发系列教程
 * [xdmjun/mp-unpack](https://github.com/xdmjun/mp-unpack): None
 * [shawtung/mpvue-wepy-compare](https://github.com/shawtung/mpvue-wepy-compare): 从wepy迁移到mpvue的调研
+* [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor): A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 * [dcloudio/mui](https://github.com/dcloudio/mui): 最接近原生APP体验的高性能框架
 * [brizer/multi-repo-git](https://github.com/brizer/multi-repo-git): A very simple Git command line tool, to manage multiple git rspositories at once.
 * [kevinfu1717/multimediaChatbot](https://github.com/kevinfu1717/multimediaChatbot): 构建了可用于多个对话框架的场景型对话的聊天机器人。支持吐槽类情景及情感倾诉型情景。使用wechaty，结合Paddlehub的人脸特征点、动漫人脸生成、对联生成、情感分类，ernie迁移，人脸变胖
