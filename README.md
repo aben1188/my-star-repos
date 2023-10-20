@@ -1471,6 +1471,7 @@
 * [programthink/zhao](https://github.com/programthink/zhao): 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵
 * [gdtool/zhaopp](https://github.com/gdtool/zhaopp): 一个Google Drive搜索引擎 https://GeZhong.vip
 * [bohancen/ZhihuEditor](https://github.com/bohancen/ZhihuEditor): 知乎的Web编辑器，从iOS客户端搞出来的
+* [Jinjiang/zhlint](https://github.com/Jinjiang/zhlint): A linting tool for Chinese language.
 * [wuwenhan/zhongchou](https://github.com/wuwenhan/zhongchou): 基于yii2的微信众筹项目，已上线
 * [SeriaWei/ZKEACMS](https://github.com/SeriaWei/ZKEACMS): ZKEACMS build with .Net 7 (.Net CMS)可视化设计在线编辑内容管理系统
 * [puzzithinker/zlib-searcher](https://github.com/puzzithinker/zlib-searcher): None
