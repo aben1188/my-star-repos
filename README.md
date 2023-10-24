@@ -158,7 +158,7 @@
 * [mikhail-bot/awesome-gpt3](https://github.com/mikhail-bot/awesome-gpt3): Curating the best GPT3 tools and resources
 * [radi-cho/awesome-gpt4](https://github.com/radi-cho/awesome-gpt4): A curated list of prompts, tools, and resources regarding the GPT-4 language model.
 * [radi-cho/awesome-gpt4-wbesite](https://github.com/radi-cho/awesome-gpt4-wbesite): None
-* [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs): Useful resources for using IPFS and building things on top of it
+* [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs): Community list of awesome projects, apps, tools, and services related to IPFS.
 * [KennethanCeyer/awesome-llm](https://github.com/KennethanCeyer/awesome-llm): Awesome series for Large Language Model(LLM)s
 * [sjinzh/awesome-llm-and-aigc](https://github.com/sjinzh/awesome-llm-and-aigc): 🚀🚀🚀A collection of some awesome public projects about Large Language Model, Vision Foundation Model and AI Generated Content.
 * [kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes](https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes): What can I do with a LLM model?
@@ -1471,7 +1471,7 @@
 * [programthink/zhao](https://github.com/programthink/zhao): 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵
 * [gdtool/zhaopp](https://github.com/gdtool/zhaopp): 一个Google Drive搜索引擎 https://GeZhong.vip
 * [bohancen/ZhihuEditor](https://github.com/bohancen/ZhihuEditor): 知乎的Web编辑器，从iOS客户端搞出来的
-* [Jinjiang/zhlint](https://github.com/Jinjiang/zhlint): A linting tool for Chinese language.
+* [zhlint-project/zhlint](https://github.com/zhlint-project/zhlint): A linting tool for Chinese language.
 * [wuwenhan/zhongchou](https://github.com/wuwenhan/zhongchou): 基于yii2的微信众筹项目，已上线
 * [SeriaWei/ZKEACMS](https://github.com/SeriaWei/ZKEACMS): ZKEACMS build with .Net 7 (.Net CMS)可视化设计在线编辑内容管理系统
 * [puzzithinker/zlib-searcher](https://github.com/puzzithinker/zlib-searcher): None
