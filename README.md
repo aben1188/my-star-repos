@@ -1323,7 +1323,7 @@
 * [blikr/WeChatShareCard](https://github.com/blikr/WeChatShareCard): WeChatShareCard，一款微信卡片分享链接免费在线制作工具；
 * [lecepin/WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader): 超方便的微信视频号下载器
 * [xuncv/WechatVideoSniffer](https://github.com/xuncv/WechatVideoSniffer): 微信视频号PC版、微信看一看、微信公众号视频地址嗅探器
-* [wechaty/wechaty](https://github.com/wechaty/wechaty): Conversational RPA SDK for Chatbot Makers
+* [wechaty/wechaty](https://github.com/wechaty/wechaty): Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt
 * [x-dr/wechaty-bot](https://github.com/x-dr/wechaty-bot): 一个基于wechaty和openai智能回复、支持上下文回复、AI绘画的微信机器人
 * [sunshanpeng/wechaty-chatgpt](https://github.com/sunshanpeng/wechaty-chatgpt): 基于wechaty创建一个自己的ChatGPT微信机器人
 * [zscorpio/wechaty-client](https://github.com/zscorpio/wechaty-client): wechat web client on wechaty
