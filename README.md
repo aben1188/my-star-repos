@@ -1151,6 +1151,7 @@
 * [sksmatt/UItoTop-jQuery-Plugin](https://github.com/sksmatt/UItoTop-jQuery-Plugin): jQuery dynamic UI plugin.
 * [uiv-lib/uiv](https://github.com/uiv-lib/uiv): Bootstrap 3 components implemented by Vue.js.
 * [zhangchunlin/uliweb-apijson](https://github.com/zhangchunlin/uliweb-apijson): apijson implementation in uliweb
+* [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR): OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。
 * [dcloudio/uni-app](https://github.com/dcloudio/uni-app): A cross-platform framework using Vue.js
 * [dcloudio/uni-template-news](https://github.com/dcloudio/uni-template-news): 基于uni-app开发的新闻/资讯类App模板
 * [zhangfh-cq/uni-translator-backend](https://github.com/zhangfh-cq/uni-translator-backend): UNI Translator 后端，基于node.js+typescript+koa2+mysql+sequelize。
