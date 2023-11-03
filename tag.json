@@ -125,9 +125,6 @@
     "BooLeei/mini-program": [
         "Other"
     ],
-    "BoyceLig/Clash_Chinese_Patch": [
-        "Other"
-    ],
     "BrowserSync/browser-sync": [
         "Other"
     ],
@@ -3030,6 +3027,9 @@
         "Other"
     ],
     "phodal/weapp-webdemo": [
+        "Other"
+    ],
+    "php-fig/fig-standards": [
         "Other"
     ],
     "php/php-langspec": [

@@ -313,7 +313,6 @@
 * [NSHipster/clangwarnings.com](https://github.com/NSHipster/clangwarnings.com): A list of Clang warnings and their descriptions.
 * [Z-Siqi/Clash-for-Windows_Rule](https://github.com/Z-Siqi/Clash-for-Windows_Rule): Clash流媒体等策略组规则整合. Clash proxy rules. Make a website/media be proxied by a specific country server.
 * [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge): A Clash GUI based on tauri. Supports Windows, macOS and Linux.
-* [BoyceLig/Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch): Clash For Windows 汉化补丁和汉化脚本
 * [2dust/clashN](https://github.com/2dust/clashN): A clash client for Windows, support clash core and Clash.Meta core
 * [lzdnico/ClashWeb](https://github.com/lzdnico/ClashWeb): Another clash gui for windows with integrated API and  ultra-small memory consumption.
 * [yichengchen/clashX](https://github.com/yichengchen/clashX): None
@@ -465,6 +464,7 @@
 * [Snipaste/feedback](https://github.com/Snipaste/feedback): Feedback & wiki for Snipaste https://snipaste.com
 * [ConnectAI-E/Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI): 🎒 飞书  ×（GPT-4 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 * [icindy/fenda](https://github.com/icindy/fenda): 微信小程序－7天写分答微信小程序
+* [php-fig/fig-standards](https://github.com/php-fig/fig-standards): Standards either proposed or approved by the Framework Interop Group
 * [finogeeks/finclip-ios-demo](https://github.com/finogeeks/finclip-ios-demo): 小程序容器 FinClip 苹果运行环境，让小程序在苹果应用中无缝运行  / iOS DEMO for FinClip
 * [mozilla/Fira](https://github.com/mozilla/Fira): Mozilla's new typeface, used in Firefox OS
 * [rolyatmax/fireworks](https://github.com/rolyatmax/fireworks): experimenting with algorithms for creating curves on a canvas
