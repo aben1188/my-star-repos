@@ -314,7 +314,6 @@
 * [Z-Siqi/Clash-for-Windows_Rule](https://github.com/Z-Siqi/Clash-for-Windows_Rule): Clash流媒体等策略组规则整合. Clash proxy rules. Make a website/media be proxied by a specific country server.
 * [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge): A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 * [2dust/clashN](https://github.com/2dust/clashN): A clash client for Windows, support clash core and Clash.Meta core
-* [lzdnico/ClashWeb](https://github.com/lzdnico/ClashWeb): Another clash gui for windows with integrated API and  ultra-small memory consumption.
 * [npm/cli](https://github.com/npm/cli): the package manager for JavaScript
 * [google/closure-library](https://github.com/google/closure-library): Google's common JavaScript library
 * [TencentCloudBase/cloudbase-extension-cms](https://github.com/TencentCloudBase/cloudbase-extension-cms): 🚀 一站式云端内容管理系统 - An open source Node.js headless cms based on CloudBase
