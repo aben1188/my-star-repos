@@ -367,6 +367,7 @@
 * [Jackardios/css-to-tailwindcss](https://github.com/Jackardios/css-to-tailwindcss): Convert CSS to TailwindCSS 3.x
 * [jolaleye/cssfx](https://github.com/jolaleye/cssfx): ✨ Beautifully simple click-to-copy CSS effects
 * [CSSLint/csslint](https://github.com/CSSLint/csslint): Automated linting of Cascading Stylesheets
+* [liruifengv/daily-poetry-image](https://github.com/liruifengv/daily-poetry-image): 每天一句中国古诗词，生成 AI 图片 Powered by Bing DALL-E-3.
 * [walker-walks/daisy-svelte](https://github.com/walker-walks/daisy-svelte): Svelte components for Daisy UI
 * [saadeghi/daisyui](https://github.com/saadeghi/daisyui): 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 * [date-fns/date-fns](https://github.com/date-fns/date-fns): ⏳ Modern JavaScript date utility library ⌛️
@@ -461,7 +462,7 @@
 * [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang): 翻墙-科学上网
 * [mojisrc/fashop](https://github.com/mojisrc/fashop): php开源商城系统，基于swoole、easyswoole框架开发
 * [fastdlabs/fastD](https://github.com/fastdlabs/fastD): :rocket: A high performance PHP API framework.
-* [dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub): github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
+* [dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub): Make GitHub access faster
 * [Snipaste/feedback](https://github.com/Snipaste/feedback): Feedback & wiki for Snipaste https://snipaste.com
 * [ConnectAI-E/Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI): 🎒 飞书  ×（GPT-4 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 * [icindy/fenda](https://github.com/icindy/fenda): 微信小程序－7天写分答微信小程序
