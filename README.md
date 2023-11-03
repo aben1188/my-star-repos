@@ -316,7 +316,6 @@
 * [2dust/clashN](https://github.com/2dust/clashN): A clash client for Windows, support clash core and Clash.Meta core
 * [lzdnico/ClashWeb](https://github.com/lzdnico/ClashWeb): Another clash gui for windows with integrated API and  ultra-small memory consumption.
 * [yichengchen/clashX](https://github.com/yichengchen/clashX): None
-* [SpongeNobody/Clashy](https://github.com/SpongeNobody/Clashy): A GUI proxy client for Windows / Mac / Ubuntu Desktop based on Clash and Electron. Windows / Mac / Ubuntu 适用的Clash客户端.
 * [npm/cli](https://github.com/npm/cli): the package manager for JavaScript
 * [google/closure-library](https://github.com/google/closure-library): Google's common JavaScript library
 * [TencentCloudBase/cloudbase-extension-cms](https://github.com/TencentCloudBase/cloudbase-extension-cms): 🚀 一站式云端内容管理系统 - An open source Node.js headless cms based on CloudBase
