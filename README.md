@@ -1009,6 +1009,7 @@
 * [yujiandong/simpleforum](https://github.com/yujiandong/simpleforum): Simple Forum
 * [simplewebrtc/SimpleWebRTC](https://github.com/simplewebrtc/SimpleWebRTC): Simplest WebRTC ever
 * [flatlogic/sing-app-vue-dashboard](https://github.com/flatlogic/sing-app-vue-dashboard): Vue.js admin dashboard template built with Bootstrap 4.5
+* [SagerNet/sing-box](https://github.com/SagerNet/sing-box): The universal proxy platform
 * [sveltejs/sites](https://github.com/sveltejs/sites): Monorepo for the sites in the Svelte ecosystem
 * [jayZOU/skeleton](https://github.com/jayZOU/skeleton): miniprogram to generate the skeleton page automatically
 * [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton): The UI toolkit for Svelte and Tailwind.
