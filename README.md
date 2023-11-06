@@ -712,7 +712,7 @@
 * [yaleh/meta-prompt](https://github.com/yaleh/meta-prompt): Meta Prompt, which involves generating a language model prompt using another language model.
 * [meteor/meteor](https://github.com/meteor/meteor): Meteor, the JavaScript App Platform
 * [meteoric/meteor-ionic](https://github.com/meteoric/meteor-ionic): Ionic components for Meteor. No Angular!
-* [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts): A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+* [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts): A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 * [huorswords/Microsoft.Extensions.Logging.Log4Net.AspNetCore](https://github.com/huorswords/Microsoft.Extensions.Logging.Log4Net.AspNetCore): Allows to configure Log4net as Microsoft Extensions Logging handler on any ASP.NET Core application.  Original code proposal by @anuraj --> https://dotnetthoughts.net/how-to-use-log4net-with-aspnetcore-for-logging/
 * [maotoumao/midjourney-downloader](https://github.com/maotoumao/midjourney-downloader): A script to download ALL Midjourney Images🎇
 * [midwayjs/midway](https://github.com/midwayjs/midway): 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
