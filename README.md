@@ -1164,7 +1164,7 @@
 * [umicro/uView](https://github.com/umicro/uView): uView UI，是uni-app生态最优秀的UI框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水
 * [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar): An elegant calendar and datepicker plugin for Vue.
 * [livid/v2ex-gae](https://github.com/livid/v2ex-gae): Legacy code of V2EX running on Google App Engine
-* [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat): 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-windows, Trojan-Go and leaf.
+* [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat): 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go、leaf 和 hysteria。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-windows, Trojan-Go, leaf and hysteria.
 * [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss): None
 * [mikewubox/V2Ray3](https://github.com/mikewubox/V2Ray3): 相關配置文件
 * [2dust/v2rayN](https://github.com/2dust/v2rayN): A GUI client for Windows, support Xray core and v2fly core and others
