@@ -1477,7 +1477,7 @@
 * [Senkita/zLib-Web](https://github.com/Senkita/zLib-Web): 自写一个 Book-Searcher 的 Web UI。
 * [DeKabilan/zlib_module](https://github.com/DeKabilan/zlib_module): A Python module that can search and Download Books from the ZLib Archive
 * [zplug/zplug](https://github.com/zplug/zplug): :hibiscus: A next-generation plugin manager for zsh
-* [johannchangpro/zsh-interactive-cd](https://github.com/johannchangpro/zsh-interactive-cd): Fish like interactive tab completion for cd in zsh
+* [mrjohannchang/zsh-interactive-cd](https://github.com/mrjohannchang/zsh-interactive-cd): Fish like interactive tab completion for cd in zsh
 * [zhangxinxu/zxx.lib.css](https://github.com/zhangxinxu/zxx.lib.css): a css library for quick layout, especially for flow layout
 * [qieangel2013/zys](https://github.com/qieangel2013/zys): high performance service framework based on Yaf or Swoole
 
