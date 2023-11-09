@@ -2555,6 +2555,9 @@
     "lmsqueezy/lemonsqueezy.js": [
         "Other"
     ],
+    "lmsqueezy/nextjs-billing": [
+        "Other"
+    ],
     "localsend/localsend": [
         "Other"
     ],
@@ -2706,6 +2709,9 @@
         "Other"
     ],
     "microsoft/autogen": [
+        "Other"
+    ],
+    "microsoft/inshellisense": [
         "Other"
     ],
     "microsoft/playwright": [
