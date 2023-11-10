@@ -921,6 +921,7 @@
 * [lanhebe/proxypool](https://github.com/lanhebe/proxypool): 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表，每小时更新
 * [zu1k/proxypool](https://github.com/zu1k/proxypool): Automatically crawls proxy nodes on the public internet, de-duplicates and tests for usability and then provides a list of nodes
 * [bobthecow/psysh](https://github.com/bobthecow/psysh): A REPL for PHP
+* [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs
 * [pug-php/pug](https://github.com/pug-php/pug): Pug template engine for PHP
 * [pugjs/pug](https://github.com/pugjs/pug): Pug – robust, elegant, feature rich template engine for Node.js
 * [wechaty/puppet-official-account](https://github.com/wechaty/puppet-official-account): Wechaty Puppet for WeChat Official Account
