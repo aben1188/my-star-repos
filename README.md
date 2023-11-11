@@ -650,7 +650,7 @@
 * [langchain-ai/langchain](https://github.com/langchain-ai/langchain): ⚡ Building applications with LLMs through composability ⚡
 * [hwchase17/langchain-hub](https://github.com/hwchase17/langchain-hub): None
 * [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs): None
-* [EmbraceAGI/LangGPT](https://github.com/EmbraceAGI/LangGPT): LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，结构化提示词，结构化Prompt
+* [EmbraceAGI/LangGPT](https://github.com/EmbraceAGI/LangGPT): LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
 * [laravel/laravel](https://github.com/laravel/laravel): Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 * [laravel-china/laravel-docs](https://github.com/laravel-china/laravel-docs): Laravel 中文文档
 * [hhxsv5/laravel-s](https://github.com/hhxsv5/laravel-s): LaravelS is an out-of-the-box adapter between Laravel/Lumen and Swoole.
