@@ -918,6 +918,7 @@
 * [yunwei37/Prompt-Engineering-Guide-zh-CN](https://github.com/yunwei37/Prompt-Engineering-Guide-zh-CN): 🐙 关于提示词工程（prompt）的指南、论文、讲座、笔记本和资源大全（自动持续更新）
 * [EgoAlpha/prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning): Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.
 * [phodal/prompt-patterns](https://github.com/phodal/prompt-patterns): Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt
+* [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool): Python ProxyPool for web spider
 * [derekhe/ProxyPool](https://github.com/derekhe/ProxyPool): 高质量免费代理池——每日1w+代理资源滚动更新
 * [lanhebe/proxypool](https://github.com/lanhebe/proxypool): 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表，每小时更新
 * [zu1k/proxypool](https://github.com/zu1k/proxypool): Automatically crawls proxy nodes on the public internet, de-duplicates and tests for usability and then provides a list of nodes
