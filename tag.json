@@ -1289,6 +1289,9 @@
     "coderwhocode/wechaty-pay": [
         "Other"
     ],
+    "codingonion/awesome-llm-and-aigc": [
+        "Other"
+    ],
     "codius-deprecated/codius": [
         "Other"
     ],
@@ -3366,9 +3369,6 @@
         "Other"
     ],
     "sindresorhus/trash-cli": [
-        "Other"
-    ],
-    "sjinzh/awesome-llm-and-aigc": [
         "Other"
     ],
     "skeletonlabs/skeleton": [
