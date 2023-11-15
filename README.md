@@ -81,7 +81,7 @@
 * [kiwibrowser/android](https://github.com/kiwibrowser/android): This repository is archived, and is now transferred to https://github.com/kiwibrowser/src
 * [wildfirechat/android-chat](https://github.com/wildfirechat/android-chat): 开源即时通讯(野火IM)系统Android端，支持Android 4.x —— 最新
 * [JZ-Darkal/AndroidHttpCapture](https://github.com/JZ-Darkal/AndroidHttpCapture): AndroidHttpCapture网络诊断工具 是一款Android手机抓包软件 主要功能包括：手机端抓包、PING/DNS/TraceRoute诊断、抓包HAR数据上传分享。你也可以看成是Android版的"Fiddler" \(^o^)/~
-* [angular/angular](https://github.com/angular/angular): The modern web developer’s platform
+* [angular/angular](https://github.com/angular/angular): Deliver web apps with confidence 🚀
 * [Kotlin/anko](https://github.com/Kotlin/anko): Pleasant Android application development
 * [zsh-users/antigen](https://github.com/zsh-users/antigen): The plugin manager for zsh.
 * [any86/any-rule](https://github.com/any86/any-rule): 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
