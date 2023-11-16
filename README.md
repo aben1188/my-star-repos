@@ -334,6 +334,7 @@
 * [compat-table/compat-table](https://github.com/compat-table/compat-table): ECMAScript compatibility tables
 * [docker/compose-on-kubernetes](https://github.com/docker/compose-on-kubernetes): Deploy applications described in Compose onto Kubernetes clusters
 * [NingZhengsheng/ComposeGigWatermelon](https://github.com/NingZhengsheng/ComposeGigWatermelon): 合成大西瓜CocosCretor开发多平台（包括微信小程序）源码
+* [qiuwenxing/comps-weapp](https://github.com/qiuwenxing/comps-weapp): 小程序自定义组件:下拉刷新、上拉加载组件、搜索组件、省+市选择组件、年月区间选择等
 * [pengan1987/computer-museum-dnbwg](https://github.com/pengan1987/computer-museum-dnbwg): 电脑博物馆 - compumuseum.com
 * [kitian616/config](https://github.com/kitian616/config): Tian Qi's Configs. include zsh, vim, lint etc.
 * [runsisi/consolas-font-for-powerline](https://github.com/runsisi/consolas-font-for-powerline): Powerline is a nice vim plugin, consolas is a nice font under windows, in order to use consolas in putty or securecrt to work with powerline, the font must be patched.
@@ -729,7 +730,6 @@
 * [weolar/miniblink49](https://github.com/weolar/miniblink49): a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
 * [YuniorZen/minicode-debug](https://github.com/YuniorZen/minicode-debug): 微信小程序、公众号、H5等小的案例代码分享。
 * [wechat-miniprogram/minigame-demo](https://github.com/wechat-miniprogram/minigame-demo): 微信小游戏组件 / API / 云开发示例
-* [qiuwenxing/miniprogram-component](https://github.com/qiuwenxing/miniprogram-component): 小程序自定义组件:下拉刷新、上拉加载组件、搜索组件、省+市选择组件、年月区间选择等
 * [wechat-miniprogram/miniprogram-custom-component](https://github.com/wechat-miniprogram/miniprogram-custom-component): None
 * [Ewall1106/miniprogram-demo](https://github.com/Ewall1106/miniprogram-demo): 小程序的因难技巧
 * [yingouqlj/MiniProgram-lite](https://github.com/yingouqlj/MiniProgram-lite): 微信小程序php后端接口轻量版（wechat mini program sdk 项目名称不带wechat是不是不会被人发现的😆）
