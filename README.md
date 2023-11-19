@@ -595,6 +595,7 @@
 * [luochen1990/indent-detector.vim](https://github.com/luochen1990/indent-detector.vim): Keep indent consistent without any effort
 * [kaixin1995/InformationPush](https://github.com/kaixin1995/InformationPush): 小米系统级推送、个人微信模板信息推送，企业微信信息推送、PHP微信信息推送，钉钉机器人信息推送。
 * [kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider): INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
+* [lxfater/inpaint-web](https://github.com/lxfater/inpaint-web): A free and open-source inpainting tool powered by webgpu and wasm on the broswer.
 * [microsoft/inshellisense](https://github.com/microsoft/inshellisense): IDE style command line auto complete
 * [LiLittleCat/intellij-chatgpt](https://github.com/LiLittleCat/intellij-chatgpt): A plugin that integrates ChatGPT and other third-party mirror sites into JetBrains IDEs.一个将 ChatGPT 和其他第三方镜像网站整合到 JetBrains IDEs 的插件。
 * [Damao/Intellij-IDEA-F2E](https://github.com/Damao/Intellij-IDEA-F2E): Intellij IDEA / PHPStorm / WebStorm Front End Engineer Guide (中文)
