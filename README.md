@@ -807,7 +807,7 @@
 * [cnodejs/nodeclub](https://github.com/cnodejs/nodeclub): :baby_chick:Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统
 * [yanyiwu/nodejieba](https://github.com/yanyiwu/nodejieba): "结巴"中文分词的Node.js版本
 * [kangleyunju/nodejs_vue3_uniapp](https://github.com/kangleyunju/nodejs_vue3_uniapp): nodejs操作数据库写接口，vue3后台，uniapp移动端，三合一，node_api接口，node_vue后台，node_uni移动端。
-* [nullivex/nodist](https://github.com/nullivex/nodist): Natural node.js and npm version manager for windows.
+* [nodists/nodist](https://github.com/nodists/nodist): Natural node.js and npm version manager for windows.
 * [lencx/nofwl](https://github.com/lencx/nofwl): NoFWL Desktop Application
 * [nonebot/nonebot2](https://github.com/nonebot/nonebot2): 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
 * [noobnooc/noobnooc](https://github.com/noobnooc/noobnooc): The content of my profile, blog, and homepage (https://www.nooc.ink) .

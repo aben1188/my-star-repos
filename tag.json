@@ -2888,6 +2888,9 @@
     "nodeWechat/wechat4u": [
         "Other"
     ],
+    "nodists/nodist": [
+        "Other"
+    ],
     "nonebot/nonebot2": [
         "Other"
     ],
@@ -2907,9 +2910,6 @@
         "Other"
     ],
     "nswbmw/node-wechat": [
-        "Other"
-    ],
-    "nullivex/nodist": [
         "Other"
     ],
     "nuysoft/Mock": [
