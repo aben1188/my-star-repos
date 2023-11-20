@@ -706,7 +706,7 @@
 * [chokcoco/magicCss](https://github.com/chokcoco/magicCss): CSS3奇思妙想，单标签实现各类图形
 * [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk): The Magic Mask for Android
 * [exvim/main](https://github.com/exvim/main): This is the main repository for exVim!
-* [tldraw/make-real](https://github.com/tldraw/make-real): Draw a mockup and generate html for it
+* [tldraw/make-real](https://github.com/tldraw/make-real): Draw a ui and make it real
 * [tldraw/make-real-starter](https://github.com/tldraw/make-real-starter): Make it real
 * [illuSioN4ng/making-up](https://github.com/illuSioN4ng/making-up): 微信小程序-拼单神器
 * [IBM-Blockchain-Archive/marbles](https://github.com/IBM-Blockchain-Archive/marbles): WARNING: This repository is no longer maintained ⚠️ This repository will not be updated. The repository will be kept available in read-only mode.
