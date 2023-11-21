@@ -319,6 +319,7 @@
 * [google/closure-library](https://github.com/google/closure-library): Google's common JavaScript library
 * [TencentCloudBase/cloudbase-extension-cms](https://github.com/TencentCloudBase/cloudbase-extension-cms): 🚀 一站式云端内容管理系统 - An open source Node.js headless cms based on CloudBase
 * [Tencent/cloudbase-framework](https://github.com/Tencent/cloudbase-framework):  腾讯云开发云原生一体化部署工具 🚀  CloudBase Framework：一键部署，不限框架语言，云端一体化开发，基于Serverless 架构。A front-end and back-end integrated deployment tool. One-click deploy to serverless architecture. https://docs.cloudbase.net/framework/index
+* [barretlee/cloudflare-proxy](https://github.com/barretlee/cloudflare-proxy): Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
 * [CLUEbenchmark/CLUE](https://github.com/CLUEbenchmark/CLUE): 中文语言理解测评基准 Chinese Language Understanding Evaluation Benchmark: datasets, baselines, pre-trained models, corpus and leaderboard  
 * [cmderdev/cmder](https://github.com/cmderdev/cmder): Lovely console emulator package for Windows
 * [tangxiangmin/cocos-big-watermelon](https://github.com/tangxiangmin/cocos-big-watermelon): big watermelon by cocos
@@ -523,6 +524,7 @@
 * [EasyGolang/goTools](https://github.com/EasyGolang/goTools): 一个 go 语言工具库, 让你在编写go应用程序时可以更加得心应手
 * [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte): Goutte, a simple PHP Web Scraper
 * [1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition): 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台
+* [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler): Crawl a site to generate knowledge files to create your own custom GPT from a URL
 * [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter): Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
 * [mymusise/gpt2-quickly](https://github.com/mymusise/gpt2-quickly): None
 * [padigar210/GPT3](https://github.com/padigar210/GPT3): This is a project made for the purpose of learning React JS referring some of the awesome YouTube channels

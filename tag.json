@@ -128,6 +128,9 @@
     "BrowserSync/browser-sync": [
         "Other"
     ],
+    "BuilderIO/gpt-crawler": [
+        "Other"
+    ],
     "ByboyCn/wechat7016": [
         "Other"
     ],
@@ -1056,6 +1059,9 @@
         "Other"
     ],
     "baoshan/wx": [
+        "Other"
+    ],
+    "barretlee/cloudflare-proxy": [
         "Other"
     ],
     "bayandin/awesome-awesomeness": [
