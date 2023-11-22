@@ -480,6 +480,7 @@
 * [ecomfe/fontmin](https://github.com/ecomfe/fontmin): Minify font seamlessly
 * [powerline/fontpatcher](https://github.com/powerline/fontpatcher): Script to patch arrow and symbol glyphs into fonts for usage with  Powerline and other compatible plugins.
 * [powerline/fonts](https://github.com/powerline/fonts): Patched fonts for Powerline users.
+* [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus): Focus on prompting and generating
 * [wechats/forum](https://github.com/wechats/forum): 微信 小程序 论坛
 * [liancheng/found](https://github.com/liancheng/found): A dead-simple wrapper over locate and xdg-open to search and open files
 * [Setasign/FPDF](https://github.com/Setasign/FPDF): FPDF is a PHP class which allows to generate PDF files with pure PHP. F from FPDF stands for Free: you may use it for any kind of usage and modify it to suit your needs.
