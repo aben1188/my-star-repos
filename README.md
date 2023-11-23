@@ -105,7 +105,7 @@
 * [clearw5/Auto.js](https://github.com/clearw5/Auto.js): Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
 * [mli/autocut](https://github.com/mli/autocut): 用文本编辑器剪视频
 * [microsoft/autogen](https://github.com/microsoft/autogen): Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
-* [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT): An experimental open-source attempt to make GPT-4 fully autonomous.
+* [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT): AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 * [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey): AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 * [AutomaApp/automa](https://github.com/AutomaApp/automa): A browser extension for automating your browser by connecting blocks
 * [postcss/autoprefixer](https://github.com/postcss/autoprefixer):  Parse CSS and add vendor prefixes to rules by Can I Use
