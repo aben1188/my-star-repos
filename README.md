@@ -1248,7 +1248,7 @@
 * [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm): Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
 * [bailicangdu/vue2-manage](https://github.com/bailicangdu/vue2-manage): A admin template based on vue + element-ui. 基于vue + element-ui的后台管理系统基于 vue + element-ui 的后台管理系统
 * [newbee-ltd/vue3-admin](https://github.com/newbee-ltd/vue3-admin): 🔥 🎉Vue 3 + Vite 2 + Vue-Router 4 + Element-Plus + Echarts 5 + Axios 开发的后台管理系统
-* [zhihuifanqiechaodan/vue3-admin-template](https://github.com/zhihuifanqiechaodan/vue3-admin-template): About 🎉 A magical vue3 admin https://zhihuifanqiechaodan.github.io/vue3-admin-template
+* [zhihuifanqiechaodan/vue3-admin-template](https://github.com/zhihuifanqiechaodan/vue3-admin-template): About 🎉 A magical vue3 admin http://vue3.zhihuifanqiechaodan.com
 * [vuejs/vuepress](https://github.com/vuejs/vuepress): 📝 Minimalistic Vue-powered static site generator
 * [vuepress-reco/vuepress-theme-reco-1.x](https://github.com/vuepress-reco/vuepress-theme-reco-1.x): 🎨 This is the repo for vuepress-theme-reco 1.
 * [crlang/VueWPress](https://github.com/crlang/VueWPress): use vue and vuex create wordpress frontend page | 通过 Vue 实现前端驱动数据、后台使用的是WordPress 实现前后端分离
