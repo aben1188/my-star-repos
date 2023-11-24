@@ -218,6 +218,7 @@
 * [anaclumos/bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers): Enable Bing ChatGPT on Chrome and Firefox
 * [benf2004/Bing-Chat-History](https://github.com/benf2004/Bing-Chat-History): Bing AI Chat history
 * [gantrol/Bing-Chat-Saver](https://github.com/gantrol/Bing-Chat-Saver): Save Bing chat with PNG，JPG、JSON and Markdown
+* [elder-plinius/Bing-Prompt-Leak](https://github.com/elder-plinius/Bing-Prompt-Leak): Prompt leak technique for Bing Chat
 * [bsdayo/BingChat](https://github.com/bsdayo/BingChat): .NET API wrapper, and an amazing interactive CLI for Microsoft's new AI-powered Bing Chat.
 * [dice2o/BingGPT](https://github.com/dice2o/BingGPT): Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 * [teambit/bit](https://github.com/teambit/bit): A build system for development of composable software.
