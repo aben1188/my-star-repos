@@ -743,6 +743,7 @@
 * [Ewall1106/miniprogram-demo](https://github.com/Ewall1106/miniprogram-demo): 小程序的因难技巧
 * [yingouqlj/MiniProgram-lite](https://github.com/yingouqlj/MiniProgram-lite): 微信小程序php后端接口轻量版（wechat mini program sdk 项目名称不带wechat是不是不会被人发现的😆）
 * [zhangdaren/miniprogram-to-uniapp](https://github.com/zhangdaren/miniprogram-to-uniapp): 轻松将各种小程序转换为uni-app项目
+* [lucaong/minisearch](https://github.com/lucaong/minisearch): Tiny and powerful JavaScript full-text search engine for browser and Node
 * [ElemeFE/mint-ui](https://github.com/ElemeFE/mint-ui): Mobile UI elements for Vue.js
 * [mipengine/mip2](https://github.com/mipengine/mip2): MIP (移动网页加速器)通过优化网页JS、控制资源加载顺序，达到加速网页的效果。
 * [mamoe/mirai](https://github.com/mamoe/mirai): 高效率 QQ 机器人支持库
