@@ -527,6 +527,7 @@
 * [1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition): 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台
 * [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler): Crawl a site to generate knowledge files to create your own custom GPT from a URL
 * [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter): Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
+* [1mrat/gpt-stats](https://github.com/1mrat/gpt-stats): Stats for Custom Chat GPTs not created by OpenAI
 * [mymusise/gpt2-quickly](https://github.com/mymusise/gpt2-quickly): None
 * [padigar210/GPT3](https://github.com/padigar210/GPT3): This is a project made for the purpose of learning React JS referring some of the awesome YouTube channels
 * [hiro086/GPT3-4-Midjourney-StableDiffusion-Mirrors-awesome](https://github.com/hiro086/GPT3-4-Midjourney-StableDiffusion-Mirrors-awesome): 国内AI镜像站的导航大全，每天收集公开的GPT3.5+GPT4受限试用+Midjourney+StableDiffusion站点
@@ -1008,7 +1009,7 @@
 * [Monibrand/se-scraper](https://github.com/Monibrand/se-scraper): Javascript scraping module based on puppeteer for many different search engines...
 * [seajs/seajs](https://github.com/seajs/seajs): A Module Loader for the Web
 * [sealerio/sealer](https://github.com/sealerio/sealer): Build, Share and Run Both Your Kubernetes Cluster and Distributed Applications  (Project under CNCF)
-* [labring/sealos](https://github.com/labring/sealos): Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.run
+* [labring/sealos](https://github.com/labring/sealos): Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.run  https://sealos.io
 * [SeasX/SeasLog](https://github.com/SeasX/SeasLog): An effective,fast,stable log extension for PHP.http://pecl.php.net/package/SeasLog http://php.net/SeasLog
 * [luochen1990/select-and-search](https://github.com/luochen1990/select-and-search): an useful vim plugin: select text in v mode, then press n to search next one (N for prev one)
 * [Pitmairen/selection-search](https://github.com/Pitmairen/selection-search): Search extension for the chrome web browser
