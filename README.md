@@ -1487,6 +1487,7 @@
 * [yangchunaijtt/yueDu](https://github.com/yangchunaijtt/yueDu): 悦读-小程序项目 uni-app编码
 * [Yurunsoft/YurunOAuthLogin](https://github.com/Yurunsoft/YurunOAuthLogin): PHP 第三方登录授权 SDK，集成了QQ、微信、微博、Github等常用接口。支持 php-fpm 和 Swoole，所有框架通用。QQ群：17916227
 * [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot): 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
+* [sands321/zagi](https://github.com/sands321/zagi): Release the power of GPT
 * [zhengkai/zebra](https://github.com/zhengkai/zebra): 基于 Book Searcher 的 Web 界面
 * [zendframework/ZendPdf](https://github.com/zendframework/ZendPdf): None
 * [Baiyuetribe/zfaka](https://github.com/Baiyuetribe/zfaka): 免费、安全、稳定、高效的发卡系统，值得拥有!
