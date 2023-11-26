@@ -297,7 +297,7 @@
 * [whyiyhw/chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat): 企业微信/微信 安全使用的 ChatGPT 个人助手应用
 * [AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot): ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot
 * [TankNee/chatgpt-wechaty](https://github.com/TankNee/chatgpt-wechaty): GPTChat wechat robot based on wechaty and padlocal.
-* [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt): store all chatgpt's system prompt
+* [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt): store all agent's system prompt
 * [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox): Integrating ChatGPT into your browser deeply, everything you need is here
 * [chathub-dev/chathub](https://github.com/chathub-dev/chathub): All-in-one chatbot client
 * [yangg/check-cert](https://github.com/yangg/check-cert):  检查 https 证书是否临近过期时间，并通过 Server酱 通知
