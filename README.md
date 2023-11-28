@@ -981,7 +981,7 @@
 * [afeiship/react-inline-edit](https://github.com/afeiship/react-inline-edit): Inline editing for react.
 * [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride): Create guided tours in your apps
 * [facebook/react-native](https://github.com/facebook/react-native): A framework for building native applications using React
-* [obaniu2006/react-native-RealRecyclerView](https://github.com/obaniu2006/react-native-RealRecyclerView): [DEPRECATED]react-native-RealRecyclerView on android.
+* [hahaha88888888/react-native-RealRecyclerView](https://github.com/hahaha88888888/react-native-RealRecyclerView): [DEPRECATED]react-native-RealRecyclerView on android.
 * [yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat): 🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)
 * [microsoft/reactxp](https://github.com/microsoft/reactxp): Library for cross-platform app development.
 * [ken107/read-aloud](https://github.com/ken107/read-aloud): An awesome browser extension that reads aloud webpage content with one click
