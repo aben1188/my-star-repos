@@ -389,6 +389,7 @@
 * [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar): 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
 * [docmirror/dev-sidecar-doc](https://github.com/docmirror/dev-sidecar-doc): None
 * [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+* [devv-ai/devv](https://github.com/devv-ai/devv): An AI-powered search engine for developers.
 * [langgenius/dify](https://github.com/langgenius/dify): An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine.
 * [Miserlou/DirtyShare](https://github.com/Miserlou/DirtyShare): Peer to Peer Filesharing in Pure Javascript With Node.js and Socket.io
 * [virskor/DiscuzQ](https://github.com/virskor/DiscuzQ): Flutter open source application for DiscuzQ
