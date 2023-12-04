@@ -995,6 +995,7 @@
 * [hezhizheng/repo-storage](https://github.com/hezhizheng/repo-storage): 使用代码托管平台( github | coding | gitee )做自己 '私有' 的 '对象存储'
 * [arielsalminen/ResponsiveSlides.js](https://github.com/arielsalminen/ResponsiveSlides.js): Simple & lightweight responsive slider plugin (in 1kb)
 * [resque/resque-web](https://github.com/resque/resque-web): a Rails-based web interface to Resque
+* [Yifan-Song793/RestGPT](https://github.com/Yifan-Song793/RestGPT): An LLM-based autonomous agent controlling real-world applications via RESTful APIs
 * [billyct/resume](https://github.com/billyct/resume): 解析简历：智联招聘
 * [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher): :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 * [geesondog/rhaphp](https://github.com/geesondog/rhaphp): RhaPHP是微信第三方管理平台，微信公众号管理系统，支持多公众号管理，CRM会员管理，小程序开发，APP接口开发、几乎集合微信功能，简洁、快速上手、快速开发微信各种各样应用。简洁、好用、快速、项目开发快几倍 。
