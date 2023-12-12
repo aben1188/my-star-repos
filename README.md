@@ -57,6 +57,7 @@
 * [phuocng/1loc](https://github.com/phuocng/1loc): What's your favorite JavaScript single LOC (line of code)?
 * [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel): 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
 * [hzheng/1pass4all](https://github.com/hzheng/1pass4all): a bookmarklet to create passwords easily and securely
+* [nv-tlabs/3DiffTection](https://github.com/nv-tlabs/3DiffTection): None
 * [GAIR-NLP/abel](https://github.com/GAIR-NLP/abel): SOTA Math Opensource LLM
 * [acejump/AceJump](https://github.com/acejump/AceJump): 🅰️ single character search, select, and jump
 * [mileszs/ack.vim](https://github.com/mileszs/ack.vim): Vim plugin for the Perl module / CLI script 'ack'
@@ -1083,6 +1084,7 @@
 * [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version): :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 * [startbbs/startbbs](https://github.com/startbbs/startbbs): startbbs is a free, open-source, light weight forum software package built with PHP and MySQL
 * [staticfile/static](https://github.com/staticfile/static): 开放静态文件 - 为开源库提供稳定、快速的免费 CDN 服务
+* [banodoco/Steerable-Motion](https://github.com/banodoco/Steerable-Motion): None
 * [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf): Control and manage Android devices from your browser.
 * [BlackGlory/subtitle-translate-tmt](https://github.com/BlackGlory/subtitle-translate-tmt): 🌲 使用腾讯机器翻译 API 为 PotPlayer 翻译实时字幕.
 * [limonte/subtitle-translator-electron](https://github.com/limonte/subtitle-translator-electron): ↔️ Translate subtitle using ChatGPT
