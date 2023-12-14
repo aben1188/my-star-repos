@@ -579,7 +579,7 @@
 * [httpwg/http2-spec](https://github.com/httpwg/http2-spec): Working copy of the HTTP/2 Specification
 * [hightman/httpclient](https://github.com/hightman/httpclient): A parallel HTTP client written in pure PHP
 * [huankemao/huankemao-php](https://github.com/huankemao/huankemao-php): 企业微信私域流量裂变引流SCRM系统，开源PHP版官方Git
-* [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub): All the open source things related to the Hugging Face Hub.
+* [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub): The official Python client for the Huggingface Hub.
 * [huhamhire/huhamhire-hosts](https://github.com/huhamhire/huhamhire-hosts): hosts for Internet Freedom
 * [vercel/hyper](https://github.com/vercel/hyper): A terminal built on web technologies
 * [waylybaye/HyperApp-Guide](https://github.com/waylybaye/HyperApp-Guide): HyperApp user's manual 
