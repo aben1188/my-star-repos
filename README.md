@@ -138,7 +138,6 @@
 * [sherlock1987/Awesome-ChatGPT-AIGC-Lesson](https://github.com/sherlock1987/Awesome-ChatGPT-AIGC-Lesson): 关于ChatGPT，以及AIGC的学习道路，里面包含的内容很多，有语言模型，还有RLHF，多模态论文等等，本人的公众号是船长尼莫，感兴趣可以关注一下~
 * [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api): Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 * [Awesome-Open-AI/Awesome-ChatGPT-Plugins](https://github.com/Awesome-Open-AI/Awesome-ChatGPT-Plugins): A curated list of awesome ChatGPT Plugins, guides, blogs, and other resources.
-* [goodbest/Awesome-ChatGPT-Plugins](https://github.com/goodbest/Awesome-ChatGPT-Plugins): None
 * [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT prompt curation to use ChatGPT better.
 * [wikieden/Awesome-ChatGPT-Prompts-CN](https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN): ChatGPT调教指南|咒语指南|聊天提示词指南|学习指南
 * [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh): ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
