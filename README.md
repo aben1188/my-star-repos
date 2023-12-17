@@ -203,6 +203,7 @@
 * [ericpd/awesome_ChatGPT4-WebLinks](https://github.com/ericpd/awesome_ChatGPT4-WebLinks): The main purpose of Awesome_ChatGPT4_WebLinks repository is to gather links to websites that are using ChatGPT4 artificial intelligence technology to achieve their goals. By sharing links that demonstrate the use of AI and ChatGPT4 in various applications, you can help developers and enthusiasts in this field to learn and grow.
 * [EdisonTKPcom/Awesome_GPT](https://github.com/EdisonTKPcom/Awesome_GPT): None
 * [developGPT/AwesomeGPT](https://github.com/developGPT/AwesomeGPT): 资源智库
+* [ezshine/AwesomeSites](https://github.com/ezshine/AwesomeSites): every websites have been tested and fixed, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server such as live-server to run the website offline.
 * [babun/babun](https://github.com/babun/babun): Babun - a Windows shell you will love!
 * [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi): None
 * [cloudroc/baidu-nolimit](https://github.com/cloudroc/baidu-nolimit): 百度云大文件下载破解,chrome插件
