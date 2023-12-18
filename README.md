@@ -164,7 +164,7 @@
 * [radi-cho/awesome-gpt4-wbesite](https://github.com/radi-cho/awesome-gpt4-wbesite): None
 * [lxfater/Awesome-GPTs](https://github.com/lxfater/Awesome-GPTs): 1000+ GPTs and 10 categories. 80+ Leaked Prompt，Awesome，chatgpt，Ai，prompt
 * [friuns2/Awesome-GPTs-Big-List](https://github.com/friuns2/Awesome-GPTs-Big-List): Use OpenAI GPTs for Free: https://gptcall.net/ 
-* [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs): Community list of awesome projects, apps, tools, and services related to IPFS.
+* [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs): Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
 * [KennethanCeyer/awesome-llm](https://github.com/KennethanCeyer/awesome-llm): Awesome series for Large Language Model(LLM)s
 * [codingonion/awesome-llm-and-aigc](https://github.com/codingonion/awesome-llm-and-aigc): 🚀🚀🚀A collection of some awesome public projects about Large Language Model, Vision Foundation Model and AI Generated Content.
 * [kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes](https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes): What can I do with a LLM model?
