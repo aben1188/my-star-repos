@@ -828,7 +828,7 @@
 * [nodists/nodist](https://github.com/nodists/nodist): Natural node.js and npm version manager for windows.
 * [lencx/nofwl](https://github.com/lencx/nofwl): NoFWL Desktop Application
 * [nonebot/nonebot2](https://github.com/nonebot/nonebot2): 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
-* [noobnooc/noobnooc](https://github.com/noobnooc/noobnooc): The content of my profile, blog, and homepage (https://www.nooc.ink) .
+* [noobnooc/noobnooc](https://github.com/noobnooc/noobnooc): The content of my profile, blog, and homepage (https://www.nooc.me) .
 * [necolas/normalize.css](https://github.com/necolas/normalize.css): A modern alternative to CSS resets
 * [novuhq/novu](https://github.com/novuhq/novu): 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 * [nissl-lab/npoi](https://github.com/nissl-lab/npoi): a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
