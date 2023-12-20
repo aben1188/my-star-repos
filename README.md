@@ -1020,7 +1020,7 @@
 * [mashirozx/sakura](https://github.com/mashirozx/sakura): A Wonderful WordPress Theme: 樱花庄的白猫博客主题
 * [henson/Scraper](https://github.com/henson/Scraper): Tracking the most popular Github repos, updated daily.
 * [rmax/scrapy-redis](https://github.com/rmax/scrapy-redis): Redis-based components for Scrapy.
-* [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code): Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+* [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code): Drop in a screenshot and convert it to clean code (HTML/Tailwind/React)
 * [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat): 脚本猫，一个可以执行用户脚本的浏览器扩展
 * [hightman/scws](https://github.com/hightman/scws): 开源免费的简易中文分词系统，PHP分词的上乘之选！
 * [Monibrand/se-scraper](https://github.com/Monibrand/se-scraper): Javascript scraping module based on puppeteer for many different search engines...
