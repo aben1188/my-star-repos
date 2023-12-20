@@ -238,7 +238,6 @@
 * [w3c/blockchain](https://github.com/w3c/blockchain): Discussion of blockchains for the Blockchain Community Group and workshops
 * [CallMeJake/BlockCrawler](https://github.com/CallMeJake/BlockCrawler): Portable BitCoin Block Chain Explorer
 * [lin-xin/blog](https://github.com/lin-xin/blog): 林鑫的个人博客，用于总结平时工作和学习中的经验。
-* [lin-xin/blog](https://github.com/lin-xin/blog): 林鑫的个人博客，用于总结平时工作和学习中的经验。
 * [techird/blog](https://github.com/techird/blog): Where my blog posts
 * [xufei/blog](https://github.com/xufei/blog): my personal blog
 * [D-xuanmo/blog-miniprogram-wordpress](https://github.com/D-xuanmo/blog-miniprogram-wordpress): 博客小程序版
@@ -1196,6 +1195,7 @@
 * [unoconv/unoconv](https://github.com/unoconv/unoconv): Universal Office Converter - Convert between any document format supported by LibreOffice/OpenOffice.
 * [upscayl/upscayl](https://github.com/upscayl/upscayl): 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 * [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma): A fancy self-hosted monitoring tool
+* [suofiya/url_Shortny](https://github.com/suofiya/url_Shortny): 简单短链接,短链接生成，短链接加密，短链接二维码，短链接API，短链接自定义后缀，二维码API
 * [chen835481245/usale_chat](https://github.com/chen835481245/usale_chat): None
 * [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts): 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 * [umicro/uView](https://github.com/umicro/uView): uView UI，是uni-app生态最优秀的UI框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水
