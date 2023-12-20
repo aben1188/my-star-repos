@@ -238,6 +238,7 @@
 * [w3c/blockchain](https://github.com/w3c/blockchain): Discussion of blockchains for the Blockchain Community Group and workshops
 * [CallMeJake/BlockCrawler](https://github.com/CallMeJake/BlockCrawler): Portable BitCoin Block Chain Explorer
 * [lin-xin/blog](https://github.com/lin-xin/blog): 林鑫的个人博客，用于总结平时工作和学习中的经验。
+* [lin-xin/blog](https://github.com/lin-xin/blog): 林鑫的个人博客，用于总结平时工作和学习中的经验。
 * [techird/blog](https://github.com/techird/blog): Where my blog posts
 * [xufei/blog](https://github.com/xufei/blog): my personal blog
 * [D-xuanmo/blog-miniprogram-wordpress](https://github.com/D-xuanmo/blog-miniprogram-wordpress): 博客小程序版
@@ -544,6 +545,7 @@
 * [DavidOrtsac/gpt3-writer-updated](https://github.com/DavidOrtsac/gpt3-writer-updated): Awesome GPT3 tech
 * [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all): gpt4all: open-source LLM chatbots that you can run anywhere
 * [xtekky/gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models
+* [vdutts7/gpt4V-scraper](https://github.com/vdutts7/gpt4V-scraper): AI agent that can SEE 👁️, control, navigate, & do stuff for you on your browser.
 * [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free): Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 * [nftblackmagic/GptAssist-starter](https://github.com/nftblackmagic/GptAssist-starter): None
 * [dbgee/gptchat](https://github.com/dbgee/gptchat): An awesome project to simplify the chatgpt integration with wechat official account.
@@ -1329,6 +1331,7 @@
 * [tomallv/wechat-group-chat-monitoring-robot](https://github.com/tomallv/wechat-group-chat-monitoring-robot): 微信群聊天监控机器人
 * [aixed/WeChat-Hook](https://github.com/aixed/WeChat-Hook): PC wechat robot interface [wechat Hook] / PC微信3.9.5.81/3.9.2.23接口 微信Hook 微信机器人 微信Hook源码 PC微信协议算法 
 * [unmagic/wechat-im](https://github.com/unmagic/wechat-im): 微信小程序即时通讯模板，使用WebSocket通信
+* [turkyden/wechat-link](https://github.com/turkyden/wechat-link): 🥕 微信公众号无法外链怎么办？一行代码搞定长按识别二维码。
 * [mojisrc/wechat-mini-shop](https://github.com/mojisrc/wechat-mini-shop): 微信小程序商城，微信小程序微店，接口基于FaShop
 * [rixingyike/wechat-operation-assistant](https://github.com/rixingyike/wechat-operation-assistant): 一个使用小微商户+微信聊天机器人构建的可付费私域运营助手
 * [ligboy/Wechat-php](https://github.com/ligboy/Wechat-php): 本微信sdk实现了被动响应的官方api已经主动发送消息给订阅用户，主动批量发送消息给订阅用户。
