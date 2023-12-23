@@ -254,6 +254,7 @@
 * [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync): Keep multiple browsers & devices in sync when building websites. http://browsersync.io
 * [4ae9b8/browserhacks](https://github.com/4ae9b8/browserhacks): An extensive list of CSS/JS browserhacks from all over the interwebs.
 * [browserslist/browserslist](https://github.com/browserslist/browserslist): 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
+* [usebruno/bruno](https://github.com/usebruno/bruno): Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 * [ywfwj2008/bt-panel](https://github.com/ywfwj2008/bt-panel): 本Docker基于宝塔Linux面板,集成环境包含 Nginx PHP5.6 PHP7 FTP等基本服务
 * [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator):  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 * [suulnnka/BullshitGenerator](https://github.com/suulnnka/BullshitGenerator): 文章生成器
@@ -615,6 +616,8 @@
 * [kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider): INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
 * [lxfater/inpaint-web](https://github.com/lxfater/inpaint-web): A free and open-source inpainting & image-upscaling tool powered by webgpu and wasm on the browser。|   基于 Webgpu 技术和 wasm 技术的免费开源 inpainting & image-upscaling 工具, 纯浏览器端实现。
 * [microsoft/inshellisense](https://github.com/microsoft/inshellisense): IDE style command line auto complete
+* [Kong/insomnia](https://github.com/Kong/insomnia): The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
+* [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium): Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
 * [LiLittleCat/intellij-chatgpt](https://github.com/LiLittleCat/intellij-chatgpt): A plugin that integrates ChatGPT and other third-party mirror sites into JetBrains IDEs.一个将 ChatGPT 和其他第三方镜像网站整合到 JetBrains IDEs 的插件。
 * [Damao/Intellij-IDEA-F2E](https://github.com/Damao/Intellij-IDEA-F2E): Intellij IDEA / PHPStorm / WebStorm Front End Engineer Guide (中文)
 * [izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets): 🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio
