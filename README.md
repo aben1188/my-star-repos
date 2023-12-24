@@ -1321,6 +1321,7 @@
 * [zhangkaitao/websocket-protocol](https://github.com/zhangkaitao/websocket-protocol): None
 * [joewalnes/websocketd](https://github.com/joewalnes/websocketd): Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets. 
 * [owen0o0/WebStack](https://github.com/owen0o0/WebStack): WordPress 版 WebStack 导航主题 https://nav.iowen.cn
+* [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io): ❤️静态响应式网址导航网站 - webstack.cc
 * [wecenter/wecenter](https://github.com/wecenter/wecenter): WeCenter 是一款知识型的社交化开源社区程序，专注于企业和行业社区内容的整理、归类、检索和再发行。
 * [node-webot/wechat](https://github.com/node-webot/wechat): 微信公共平台消息接口服务中间件
 * [ChinaVolvocars/WeChat-applet](https://github.com/ChinaVolvocars/WeChat-applet): 微信小应用，微信小程序资源汇总整理，涵括微信 Web 开发工具、开发框架、开发教程、以及官方文档和相关资源的整理
