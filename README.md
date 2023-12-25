@@ -473,6 +473,7 @@
 * [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang): 翻墙-科学上网
 * [mojisrc/fashop](https://github.com/mojisrc/fashop): php开源商城系统，基于swoole、easyswoole框架开发
 * [fastdlabs/fastD](https://github.com/fastdlabs/fastD): :rocket: A high performance PHP API framework.
+* [labring/FastGPT](https://github.com/labring/FastGPT): FastGPT is a knowledge-based QA system built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
 * [Snipaste/feedback](https://github.com/Snipaste/feedback): Feedback & wiki for Snipaste https://snipaste.com
 * [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai): 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 * [icindy/fenda](https://github.com/icindy/fenda): 微信小程序－7天写分答微信小程序
