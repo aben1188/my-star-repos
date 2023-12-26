@@ -998,6 +998,7 @@
 * [facebook/react-native](https://github.com/facebook/react-native): A framework for building native applications using React
 * [gold-duo/react-native-RealRecyclerView](https://github.com/gold-duo/react-native-RealRecyclerView): [DEPRECATED]react-native-RealRecyclerView on android.
 * [yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat): 🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)
+* [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume): A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 * [microsoft/reactxp](https://github.com/microsoft/reactxp): Library for cross-platform app development.
 * [ken107/read-aloud](https://github.com/ken107/read-aloud): An awesome browser extension that reads aloud webpage content with one click
 * [index-labs/readpilot](https://github.com/index-labs/readpilot): Read Pilot analyzes online articles and generate Q&A cards for you. Powered by OpenAI & Next.js.
