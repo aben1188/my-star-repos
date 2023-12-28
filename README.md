@@ -604,7 +604,7 @@
 * [deep-floyd/IF](https://github.com/deep-floyd/IF): None
 * [kg/ilwasm](https://github.com/kg/ilwasm): CIL to WebAssembly compiler
 * [wechaty/im-aggregation](https://github.com/wechaty/im-aggregation): Aggregate WeCom, WeChat, and WhatsApp together.
-* [Intervention/image](https://github.com/Intervention/image): PHP Image Manipulation
+* [Intervention/image](https://github.com/Intervention/image): PHP Image Processing
 * [TencentCloudBase/image-node-sdk](https://github.com/TencentCloudBase/image-node-sdk): 智能图像服务 node sdk
 * [Imagick/imagick](https://github.com/Imagick/imagick): 🌈 The Imagick PHP extension 🌈
 * [44886/imgBridge](https://github.com/44886/imgBridge): 图片跳板、图片中转，包括php、nodejs源码。（You can use this file to visite the images which your website can't visited.）
