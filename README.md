@@ -635,6 +635,7 @@
 * [ish-app/ish](https://github.com/ish-app/ish): Linux shell for iOS
 * [eatmoreapple/itchat-desktop](https://github.com/eatmoreapple/itchat-desktop): desktop login mode for itchat
 * [TalkingData/iview-weapp](https://github.com/TalkingData/iview-weapp): 一套高质量的微信小程序 UI 组件库
+* [janhq/jan](https://github.com/janhq/jan): Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 * [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript): Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 * [airbnb/javascript](https://github.com/airbnb/javascript): JavaScript Style Guide
 * [lin-123/javascript](https://github.com/lin-123/javascript): eslint-config-airbnb 中文版
