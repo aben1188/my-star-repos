@@ -173,7 +173,7 @@
 * [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 * [ICTMCG/Awesome-Machine-Generated-Text](https://github.com/ICTMCG/Awesome-Machine-Generated-Text): Continuously updated list of related resources for generative LLMs like GPT and their analysis and detection.
 * [parro-it/awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages): A curated list of small, focused npm packages.
-* [Lupin1998/Awesome-MIM](https://github.com/Lupin1998/Awesome-MIM): Awesome List of Masked Image Modeling (MIM) Papers for Self-supervised Visual Representation Learning
+* [Lupin1998/Awesome-MIM](https://github.com/Lupin1998/Awesome-MIM): [Survey] Masked Modeling for Self-supervised Representation Learning on Vision and Beyond
 * [underlines/awesome-ml](https://github.com/underlines/awesome-ml): Curated list of useful LLM / Analytics / Datascience resources
 * [clowwindy/Awesome-Networking](https://github.com/clowwindy/Awesome-Networking): A curated list of awesome networking libraries, resources and shiny things
 * [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt): Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
