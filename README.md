@@ -103,6 +103,7 @@
 * [astamuse/asta4d](https://github.com/astamuse/asta4d): View first web application framework
 * [arachnys/athenapdf](https://github.com/arachnys/athenapdf): Drop-in replacement for wkhtmltopdf built on Go, Electron and Docker
 * [Qihoo360/Atlas](https://github.com/Qihoo360/Atlas): A high-performance and stable proxy for MySQL, it is developed by Qihoo's DBA and infrastructure team
+* [VILA-Lab/ATLAS](https://github.com/VILA-Lab/ATLAS): A principled instruction benchmark on formulating effective queries and prompts for large language models (LLMs). Our paper: https://arxiv.org/abs/2312.16171
 * [PythonNut/auto-fu.zsh](https://github.com/PythonNut/auto-fu.zsh): zsh automatic complete-word and list-choices.
 * [hchbaw/auto-fu.zsh](https://github.com/hchbaw/auto-fu.zsh): #zsh automatic complete-word and list-choices. Originally incr-0.2.zsh  by y.fujii <y-fujii at mimosa-pudica.net>
 * [KaneCohen/Auto-GPT](https://github.com/KaneCohen/Auto-GPT): An experimental open-source attempt to make GPT-4 fully autonomous.
