@@ -337,6 +337,7 @@
 * [tangxiangmin/cocos-big-watermelon](https://github.com/tangxiangmin/cocos-big-watermelon): big watermelon by cocos
 * [cocos/cocos-engine](https://github.com/cocos/cocos-engine): Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.
 * [liyupi/code-nav](https://github.com/liyupi/code-nav): 💎 专业的编程导航，帮你找到优质的编程学习资源！公众号【编程导航】 ☁️ 前后端均开源，励志成为最好的全栈云开发项目！
+* [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer): [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
 * [AlloyTeam/CodeGuide](https://github.com/AlloyTeam/CodeGuide): Alloyteam代码规范
 * [bcit-ci/CodeIgniter](https://github.com/bcit-ci/CodeIgniter): Open Source PHP Framework (originally from EllisLab)
 * [jojoin/Codekart](https://github.com/jojoin/Codekart): Web application framework for Node.js
@@ -710,6 +711,7 @@
 * [coolhwm/leshare-shop-wepy](https://github.com/coolhwm/leshare-shop-wepy): 基于微信小程序的在线商城，采用wepy框架开发
 * [amfe/lib-flexible](https://github.com/amfe/lib-flexible): 可伸缩布局方案
 * [hanneskod/libmergepdf](https://github.com/hanneskod/libmergepdf): PHP library for merging multiple PDFs
+* [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
 * [rime/librime](https://github.com/rime/librime): Rime Input Method Engine, the core library
 * [creativetimofficial/light-bootstrap-dashboard](https://github.com/creativetimofficial/light-bootstrap-dashboard): Light Bootstrap Dashboard is an admin dashboard template designed to be beautiful and simple. 
 * [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim): A light and configurable statusline/tabline plugin for Vim
