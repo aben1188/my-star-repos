@@ -3914,6 +3914,9 @@
     "v8/v8": [
         "Other"
     ],
+    "valinet/ExplorerPatcher": [
+        "Other"
+    ],
     "vbuterin/bitcoinjs-lib": [
         "Other"
     ],

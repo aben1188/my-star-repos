@@ -469,6 +469,7 @@
 * [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english): 人人都能用英语
 * [circlestarzero/EX-chatGPT](https://github.com/circlestarzero/EX-chatGPT): Let ChatGPT truly learn how to go online and call APIs! 'EX-ChatGPT' can rival and even surpass NewBing
 * [arv/ExplorerCanvas](https://github.com/arv/ExplorerCanvas): Canvas for IE8 and older
+* [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher): This project aims to enhance the working environment on Windows
 * [crimx/ext-saladict](https://github.com/crimx/ext-saladict): 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 * [altryne/extensionizr](https://github.com/altryne/extensionizr): Extensionizr! Create a chrome extension in 15 seconds!
 * [Glench/ExtPay](https://github.com/Glench/ExtPay): The JavaScript library for ExtensionPay.com — payments for your browser extensions, no server needed.
