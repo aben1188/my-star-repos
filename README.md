@@ -122,7 +122,7 @@
 * [EmbraceAGI/Awesome-AGI](https://github.com/EmbraceAGI/Awesome-AGI): A curated list of awesome AGI frameworks, software and resources
 * [lencx/awesome-ai](https://github.com/lencx/awesome-ai): 🤖 Awesome AI
 * [runningcheese/Awesome-AI](https://github.com/runningcheese/Awesome-AI): Awesome AI，你的《人工智能指南》！
-* [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting): AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform
+* [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting): AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform  
 * [sarat9/awesome-ai-saas](https://github.com/sarat9/awesome-ai-saas): List of handy AI gpt tools and apps for every day life
 * [jiji262/awesome-AIGC-tools](https://github.com/jiji262/awesome-AIGC-tools): AIGC information including ChatGPT , GPT-4 and others.
 * [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools): Collection of AI-related utilities. Welcome to submit issues and pull requests /收藏AI相关的实用工具，欢迎提交issues 或者pull requests
