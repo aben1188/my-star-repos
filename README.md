@@ -1209,7 +1209,7 @@
 * [sksmatt/UItoTop-jQuery-Plugin](https://github.com/sksmatt/UItoTop-jQuery-Plugin): jQuery dynamic UI plugin.
 * [uiv-lib/uiv](https://github.com/uiv-lib/uiv): Bootstrap 3 components implemented by Vue.js.
 * [zhangchunlin/uliweb-apijson](https://github.com/zhangchunlin/uliweb-apijson): apijson implementation in uliweb
-* [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR): OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，段落排版/排除水印，扫描/生成二维码。内置多国语言库。
+* [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR): OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 * [dcloudio/uni-app](https://github.com/dcloudio/uni-app): A cross-platform framework using Vue.js
 * [dcloudio/uni-template-news](https://github.com/dcloudio/uni-template-news): 基于uni-app开发的新闻/资讯类App模板
 * [zhangfh-cq/uni-translator-backend](https://github.com/zhangfh-cq/uni-translator-backend): UNI Translator 后端，基于node.js+typescript+koa2+mysql+sequelize。
