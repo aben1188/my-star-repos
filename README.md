@@ -844,7 +844,7 @@
 * [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB): Node.js based forum software built for the modern web
 * [ParryQiu/nodeclub](https://github.com/ParryQiu/nodeclub): WXOPEN Club 社区为国内最专业的微信小程序技术社区，致力于微信小程序的技术研究。
 * [cnodejs/nodeclub](https://github.com/cnodejs/nodeclub): :baby_chick:Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统
-* [yanyiwu/nodejieba](https://github.com/yanyiwu/nodejieba): "结巴"中文分词的Node.js版本
+* [luckykaiyi/nodejieba](https://github.com/luckykaiyi/nodejieba): "结巴"中文分词的Node.js版本
 * [kangleyunju/nodejs_vue3_uniapp](https://github.com/kangleyunju/nodejs_vue3_uniapp): nodejs操作数据库写接口，vue3后台，uniapp移动端，三合一，node_api接口，node_vue后台，node_uni移动端。
 * [nodists/nodist](https://github.com/nodists/nodist): Natural node.js and npm version manager for windows.
 * [lencx/nofwl](https://github.com/lencx/nofwl): NoFWL Desktop Application
