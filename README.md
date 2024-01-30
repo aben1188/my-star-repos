@@ -1113,7 +1113,6 @@
 * [banodoco/Steerable-Motion](https://github.com/banodoco/Steerable-Motion): None
 * [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf): Control and manage Android devices from your browser.
 * [BlackGlory/subtitle-translate-tmt](https://github.com/BlackGlory/subtitle-translate-tmt): 🌳 使用腾讯机器翻译 API 为 PotPlayer 翻译实时字幕.
-* [limonte/subtitle-translator-electron](https://github.com/limonte/subtitle-translator-electron): ↔️ Translate subtitle using ChatGPT
 * [hylarucoder/svd-webui](https://github.com/hylarucoder/svd-webui): None
 * [chunghha/svelte-daisy](https://github.com/chunghha/svelte-daisy): SvelteKit Starter with DaisyUI
 * [kaisermann/svelte-i18n](https://github.com/kaisermann/svelte-i18n): Internationalization library for Svelte
