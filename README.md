@@ -799,7 +799,7 @@
 * [janl/mustache.js](https://github.com/janl/mustache.js): Minimal templating with {{mustaches}} in JavaScript
 * [tiodot/my-chrome-extension](https://github.com/tiodot/my-chrome-extension): chrome extension v3 made with sveltekit
 * [xirong/my-git](https://github.com/xirong/my-git): Individual collecting material of learning git（有关 git 的学习资料）
-* [lizongying/my-tv](https://github.com/lizongying/my-tv): 安卓电视直播软件，内置直播源
+* [lizongying/my-tv](https://github.com/lizongying/my-tv): 我的电视 电视直播软件，安装即可使用
 * [venaissance/myBlog](https://github.com/venaissance/myBlog): 💡 致力于提升技术学习效率的博客
 * [dbcli/mycli](https://github.com/dbcli/mycli): A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 * [neoclide/mycomment.vim](https://github.com/neoclide/mycomment.vim): one mapping for comment:  <leader>c
