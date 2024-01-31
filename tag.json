@@ -47,6 +47,9 @@
     "94cstyles/lottery": [
         "Other"
     ],
+    "AINativeLab/gptstore-data-backup": [
+        "Other"
+    ],
     "AirCodeLabs/aircode": [
         "Other"
     ],
@@ -3093,6 +3096,9 @@
         "Other"
     ],
     "openethereum/parity-ethereum": [
+        "Other"
+    ],
+    "opengpts/gpts-trending": [
         "Other"
     ],
     "openresty/openresty": [
