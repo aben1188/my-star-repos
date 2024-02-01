@@ -384,7 +384,7 @@
 * [jolaleye/cssfx](https://github.com/jolaleye/cssfx): ✨ Beautifully simple click-to-copy CSS effects
 * [CSSLint/csslint](https://github.com/CSSLint/csslint): Automated linting of Cascading Stylesheets
 * [liruifengv/daily-poetry-image](https://github.com/liruifengv/daily-poetry-image): 每天一句中国古诗词，生成 AI 图片 Powered by Bing DALL-E-3.
-* [Walker-PeD/daisy-svelte](https://github.com/Walker-PeD/daisy-svelte): Svelte components for Daisy UI
+* [WalkerPnD/daisy-svelte](https://github.com/WalkerPnD/daisy-svelte): Svelte components for Daisy UI
 * [saadeghi/daisyui](https://github.com/saadeghi/daisyui): 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 * [date-fns/date-fns](https://github.com/date-fns/date-fns): ⏳ Modern JavaScript date utility library ⌛️
 * [itwanger/daxigua](https://github.com/itwanger/daxigua): 合成大西瓜未修改版本源码，可直接在浏览器运行
