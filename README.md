@@ -731,7 +731,7 @@
 * [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤖 Lobe Chat - an open-source, high-performance chatbot framework. Support one-click free deployment of your private ChatGPT/Gemini/LLM application.
 * [Kerinlin/localMusicPlayer](https://github.com/Kerinlin/localMusicPlayer): Audio player that play local audio files and show audio spectrum.
 * [localsend/localsend](https://github.com/localsend/localsend): An open-source cross-platform alternative to AirDrop
-* [apache/logging-log4net](https://github.com/apache/logging-log4net): Mirror of This is the Apache log4net logging project git repository.
+* [apache/logging-log4net](https://github.com/apache/logging-log4net): Apache Log4net is a versatile, feature-rich, efficient logging API and backend for .NET
 * [apache/logging-log4php](https://github.com/apache/logging-log4php): Mirror of Apache log4php
 * [bmpi-dev/logseq.xyz](https://github.com/bmpi-dev/logseq.xyz): logseq self-host with github feature
 * [94cstyles/lottery](https://github.com/94cstyles/lottery): 移动端抽奖插件[大转盘，老虎机，刮刮卡]
