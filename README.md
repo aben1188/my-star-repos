@@ -547,6 +547,7 @@
 * [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte): Goutte, a simple PHP Web Scraper
 * [ddupont808/GPT-4V-Act](https://github.com/ddupont808/GPT-4V-Act): AI agent using GPT-4V(ision) capable of using a mouse/keyboard to interact with web UI
 * [1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition): 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台
+* [JimLiu/gpt-api](https://github.com/JimLiu/gpt-api): None
 * [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler): Crawl a site to generate knowledge files to create your own custom GPT from a URL
 * [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer): Specify what you want it to build, the AI asks for clarification, and then builds it.
 * [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter): Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
