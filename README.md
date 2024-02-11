@@ -358,7 +358,7 @@
 * [eugeneching/consolas-powerline-vim](https://github.com/eugeneching/consolas-powerline-vim): Fixed Consolas font for use with Vim Powerline. Font has all variants: regular, bold, italic, bold-italic.
 * [ssborbis/ContextSearch-web-ext](https://github.com/ssborbis/ContextSearch-web-ext): Search engine manager for modern browsers
 * [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog): Generate changelogs and release notes from a project's commit messages and metadata.
-* [easychen/CookieCloud](https://github.com/easychen/CookieCloud): CookieCloud是一个和自架服务器同步Cookie的小工具，可以将浏览器的Cookie及Local storage同步到手机和云端，它支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。
+* [easychen/CookieCloud](https://github.com/easychen/CookieCloud): CookieCloud是一个和自架服务器同步浏览器Cookie和LocalStorage的小工具，支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。CookieCloud is a small tool for synchronizing browser cookies and LocalStorage with a self-hosted server. It supports end-to-end encryption and allows for setting the synchronization interval. This repository contains both the plugin and the server-side source code
 * [BlackGlory/copycat](https://github.com/BlackGlory/copycat): 🌳 Copy content from web powerful than ever before.
 * [mlzxy/cordova-plugin-leanpush](https://github.com/mlzxy/cordova-plugin-leanpush): Cordova plugin for LeanCloud push notification and analytics
 * [stackblitz/core](https://github.com/stackblitz/core): Online IDE powered by Visual Studio Code ⚡️
