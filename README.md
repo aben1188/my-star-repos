@@ -635,7 +635,7 @@
 * [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium): Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
 * [LiLittleCat/intellij-chatgpt](https://github.com/LiLittleCat/intellij-chatgpt): A plugin that integrates ChatGPT and other third-party mirror sites into JetBrains IDEs.一个将 ChatGPT 和其他第三方镜像网站整合到 JetBrains IDEs 的插件。
 * [Damao/Intellij-IDEA-F2E](https://github.com/Damao/Intellij-IDEA-F2E): Intellij IDEA / PHPStorm / WebStorm Front End Engineer Guide (中文)
-* [izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets): 🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio
+* [izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets): 🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio/Fleet
 * [Olshansk/interview](https://github.com/Olshansk/interview): Everything you need to prepare for your technical interview
 * [loveuqian/iOS-Carbon-Forum](https://github.com/loveuqian/iOS-Carbon-Forum): iOS Client for Carbon Forum
 * [xiaosimao/IP_POOL](https://github.com/xiaosimao/IP_POOL): 免费的IP代理池
