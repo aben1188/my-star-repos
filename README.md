@@ -914,6 +914,7 @@
 * [peco/peco](https://github.com/peco/peco): Simplistic interactive filtering tool
 * [PeopleDao/people](https://github.com/PeopleDao/people): None
 * [luiscruzga/perplexityai](https://github.com/luiscruzga/perplexityai): Search information and summarized news using artificial intelligence from perplexity
+* [kangyu-california/PersistentWindows](https://github.com/kangyu-california/PersistentWindows): fork of http://www.ninjacrab.com/persistent-windows/ with windows 10 update
 * [docker-library/php](https://github.com/docker-library/php): Docker Official Image packaging for PHP
 * [codecasts/php-alpine](https://github.com/codecasts/php-alpine): PHP APK Repository for Alpine Linux
 * [liexusong/php-beast](https://github.com/liexusong/php-beast): PHP source code encrypt module (PHP源码加密扩展)
