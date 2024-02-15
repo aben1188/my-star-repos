@@ -362,6 +362,9 @@
     "JPressProjects/jpress": [
         "Other"
     ],
+    "JS-DevTools/version-bump-prompt": [
+        "Other"
+    ],
     "JZ-Darkal/AndroidHttpCapture": [
         "Other"
     ],
@@ -1023,6 +1026,9 @@
         "Other"
     ],
     "anse-app/chatgpt-demo": [
+        "Other"
+    ],
+    "antfu/bumpp": [
         "Other"
     ],
     "antony/sveltekit-adapter-browser-extension": [

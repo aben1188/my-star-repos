@@ -262,6 +262,7 @@
 * [ywfwj2008/bt-panel](https://github.com/ywfwj2008/bt-panel): 本Docker基于宝塔Linux面板,集成环境包含 Nginx PHP5.6 PHP7 FTP等基本服务
 * [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator):  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 * [suulnnka/BullshitGenerator](https://github.com/suulnnka/BullshitGenerator): 文章生成器
+* [antfu/bumpp](https://github.com/antfu/bumpp): Interactive CLI that bumps your version numbers and more
 * [zzkcaesar/Caesar_prompt](https://github.com/zzkcaesar/Caesar_prompt): This is the collection of LLM prompt which collected by Caesar
 * [aamii/Candy](https://github.com/aamii/Candy): Candy:  A new tool for quick open files and fast search text
 * [Fyrd/caniuse](https://github.com/Fyrd/caniuse): Raw browser/feature support data from caniuse.com
@@ -1245,6 +1246,7 @@
 * [Tencent/vConsole](https://github.com/Tencent/vConsole): A lightweight, extendable front-end developer tool for mobile web page.
 * [sinchang/vdonate](https://github.com/sinchang/vdonate): 💰 为你的网站增加个微信、支付宝二维码，方便读者打赏
 * [ventoy/Ventoy](https://github.com/ventoy/Ventoy): A new bootable USB solution.
+* [JS-DevTools/version-bump-prompt](https://github.com/JS-DevTools/version-bump-prompt): Interactive CLI that bumps your version numbers and more
 * [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim): :star: Vim for Visual Studio Code
 * [asins/vim](https://github.com/asins/vim): 我的VIM配置
 * [dracula/vim](https://github.com/dracula/vim): 🧛🏻‍♂️ Dark theme for Vim
