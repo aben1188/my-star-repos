@@ -1461,6 +1461,7 @@
 * [edxposedd/wework](https://github.com/edxposedd/wework): 【Xposed Hook 企业微信 微信】企业微信机器人 微信机器人 自动抢回复 会话 自动通过 好友列表 群管理 SDK
 * [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp): Port of OpenAI's Whisper model in C/C++
 * [bndw/wifi-card](https://github.com/bndw/wifi-card): 📶 Print a QR code for connecting to your WiFi (wificard.io)
+* [rprichard/winpty](https://github.com/rprichard/winpty): A Windows software package providing an interface similar to a Unix pty-master for communicating with Windows console programs.
 * [Greyh4t/WinXray](https://github.com/Greyh4t/WinXray): 支持Xray / V2Ray（vmess / vless），Shadowsocks，SSR，Trojan，NaïveProxy，Trojan-go通用客户端（Windows）！默认基于xray核心！本程序采用aardio设计与开发！
 * [TheMRLL/WinXray](https://github.com/TheMRLL/WinXray): 支持Xray / V2Ray（vmess / vless），Shadowsocks，SSR，Trojan，NaïveProxy，Trojan-go通用客户端（Windows）！默认基于xray核心！本程序采用aardio设计与开发！
 * [wj704/wj704.github.io](https://github.com/wj704/wj704.github.io): 个人博客
