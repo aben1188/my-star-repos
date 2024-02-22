@@ -1353,7 +1353,7 @@
 * [node-webot/wechat](https://github.com/node-webot/wechat): 微信公共平台消息接口服务中间件
 * [ChinaVolvocars/WeChat-applet](https://github.com/ChinaVolvocars/WeChat-applet): 微信小应用，微信小程序资源汇总整理，涵括微信 Web 开发工具、开发框架、开发教程、以及官方文档和相关资源的整理
 * [leochen-g/wechat-assistant-engine](https://github.com/leochen-g/wechat-assistant-engine): 智能微秘书engine版本
-* [leochen-g/wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro): 智能微秘书客户端，搭配
+* [leochen-g/wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro): 智能微秘书，一个全能的微信机器人管理平台，最简单的方式接入 ChatGPT，FastGPT，Dify知识库，支持绘图，联网查询，语音识别，各种定时任务，支持企微、个微、公众号、5G 消息、WhatsApp
 * [leochen-g/wechat-assistant-pro-ipad](https://github.com/leochen-g/wechat-assistant-pro-ipad): 智能微秘书ipad协议版本
 * [darknightlab/wechat-bot](https://github.com/darknightlab/wechat-bot): a wechat bot using wechaty, which can archive web pages, analyze pictures, and automatically reply.
 * [wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot): 🤖一个基于OpenAi  ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
