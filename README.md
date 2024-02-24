@@ -406,6 +406,7 @@
 * [langgenius/dify](https://github.com/langgenius/dify): An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine.
 * [Miserlou/DirtyShare](https://github.com/Miserlou/DirtyShare): Peer to Peer Filesharing in Pure Javascript With Node.js and Socket.io
 * [virskor/DiscuzQ](https://github.com/virskor/DiscuzQ): Flutter open source application for DiscuzQ
+* [DKJone/DKWechatHelper](https://github.com/DKJone/DKWechatHelper): 不止于抢红包，功能丰富的微信插件。
 * [839891627/dnmp](https://github.com/839891627/dnmp): 简单可理解的搭建 dnmp 环境。在此基础上由你自行定制！
 * [Tinywan/dnmp](https://github.com/Tinywan/dnmp): docker-compose部署LNMP环境 Nginx/Openresty、MySQL（5.7、8.0、8.1）、PHP7.4（8.0、5.6）、Redis5.0、PHPMyAdmin、Xdebug、RabbitMQ、Nacos
 * [chichoyi/dnmp](https://github.com/chichoyi/dnmp): php项目需要的lnmp环境docker化安装部署，不限制系统（mac、linux、windows专业版、虚拟机的linux等），可灵活定制和调整php + nginx + mysql + redis
