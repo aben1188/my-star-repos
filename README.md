@@ -833,7 +833,7 @@
 * [jianjianai/NewBingGoGo-Web](https://github.com/jianjianai/NewBingGoGo-Web): 一个基于微软OpenAI ChatGPT GPT4的New Bing接口的Web服务。 提供了好看的对话页面。 实现了微软New Bing的大多数功能，还添加了一些自己的特色功能。 开源免费。
 * [lipeng0820/newBingHelper](https://github.com/lipeng0820/newBingHelper): None
 * [echosoar/news](https://github.com/echosoar/news): 热点聚合排序，基于SimHash算法聚合相似内容
-* [lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing): A Next.js billing app with Lemon Squeezy
+* [lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing): Next.js billing app with Lemon Squeezy
 * [RunnerLee/nezha-cashier](https://github.com/RunnerLee/nezha-cashier): 简单的支付 sdk
 * [chenxianshuang/nezha-cashier](https://github.com/chenxianshuang/nezha-cashier): 简单的支付 sdk
 * [DocsHome/nginx-docs](https://github.com/DocsHome/nginx-docs): Nginx 中文文档. Chinese translation of Nginx documentation.
