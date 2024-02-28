@@ -832,7 +832,7 @@
 * [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac): 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
 * [jianjianai/NewBingGoGo-Web](https://github.com/jianjianai/NewBingGoGo-Web): 一个基于微软OpenAI ChatGPT GPT4的New Bing接口的Web服务。 提供了好看的对话页面。 实现了微软New Bing的大多数功能，还添加了一些自己的特色功能。 开源免费。
 * [lipeng0820/newBingHelper](https://github.com/lipeng0820/newBingHelper): None
-* [echosoar/news](https://github.com/echosoar/news): 热点聚合排序，基于SimHash算法聚合相似内容
+* [echosoar/news](https://github.com/echosoar/news): 基于SimHash算法聚合相似全网内容，根据来源数量进行排序，并对一些内容进行过滤
 * [lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing): Next.js billing app with Lemon Squeezy
 * [RunnerLee/nezha-cashier](https://github.com/RunnerLee/nezha-cashier): 简单的支付 sdk
 * [chenxianshuang/nezha-cashier](https://github.com/chenxianshuang/nezha-cashier): 简单的支付 sdk
