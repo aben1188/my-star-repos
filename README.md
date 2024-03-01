@@ -368,7 +368,7 @@
 * [WPPlugins/cosign-sso](https://github.com/WPPlugins/cosign-sso): This is a mirror of the svn repo: https://plugins.svn.wordpress.org/cosign-sso/, the master is always the latest release.
 * [silently9527/coupons](https://github.com/silently9527/coupons): 淘宝客项目，支持App，微信小程序，QQ小程序
 * [zwpro/coupons](https://github.com/zwpro/coupons): 美团饿了吗外卖红包外卖优惠券，先领红包再下单。外卖红包优惠券，cps分成，别人领红包下单，你拿佣金。
-* [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy): 代理Discord对话Coze-Bot，实现API形式请求GPT4对话模型/微调模型
+* [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy): 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
 * [industrialcoinmagic/crave](https://github.com/industrialcoinmagic/crave): None
 * [HiddenStrawberry/Crawler_Illegal_Cases_In_China](https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China): Collection of China illegal cases about web crawler 本项目用来整理所有中国大陆爬虫开发者涉诉与违规相关的新闻、资料与法律法规。致力于帮助在中国大陆工作的爬虫行业从业者了解我国相关法律，避免触碰数据合规红线。 [AD]中文知识图谱门户 
 * [pangxiaobin/CrawlerHot](https://github.com/pangxiaobin/CrawlerHot): 今日热榜   抓取网站热榜信息，并且前端进行展示 go 实现版本：https://github.com/pangxiaobin/goCrawlerHot
