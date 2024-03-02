@@ -1361,6 +1361,7 @@
 * [leochen-g/wechat-assistant-engine](https://github.com/leochen-g/wechat-assistant-engine): 智能微秘书engine版本
 * [leochen-g/wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro): 智能微秘书，一个全能的微信机器人管理平台，最简单的方式接入 ChatGPT，FastGPT，Dify知识库，支持绘图，联网查询，语音识别，各种定时任务，支持企微、个微、公众号、5G 消息、WhatsApp
 * [leochen-g/wechat-assistant-pro-ipad](https://github.com/leochen-g/wechat-assistant-pro-ipad): 智能微秘书ipad协议版本
+* [cixingguangming55555/wechat-bot](https://github.com/cixingguangming55555/wechat-bot): 带二次开发接口的PC微信聊天机器人
 * [darknightlab/wechat-bot](https://github.com/darknightlab/wechat-bot): a wechat bot using wechaty, which can archive web pages, analyze pictures, and automatically reply.
 * [wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot): 🤖一个基于OpenAi  ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
 * [zhouxiongking/wechat-calculator](https://github.com/zhouxiongking/wechat-calculator): 微信小程序之简易计算器
@@ -1377,6 +1378,7 @@
 * [ligboy/Wechat-php](https://github.com/ligboy/Wechat-php): 本微信sdk实现了被动响应的官方api已经主动发送消息给订阅用户，主动批量发送消息给订阅用户。
 * [dodgepudding/wechat-php-sdk](https://github.com/dodgepudding/wechat-php-sdk): 微信公众平台php开发包, weixin developer SDK.
 * [netputer/wechat-php-sdk](https://github.com/netputer/wechat-php-sdk): 微信公众平台 PHP SDK
+* [ChisBread/wechat-service](https://github.com/ChisBread/wechat-service): 🤖Let your WeChat run as a service
 * [byg/wechat-textinput](https://github.com/byg/wechat-textinput): 微信小程序 textinput 的 wepy 版本和 mpvue 版本性能对比
 * [jectychen/wechat-v2ex](https://github.com/jectychen/wechat-v2ex): 微信小程序-v2ex
 * [lypeer/wechat-weapp-gank](https://github.com/lypeer/wechat-weapp-gank): None
