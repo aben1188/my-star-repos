@@ -354,6 +354,7 @@
 * [NingZhengsheng/ComposeGigWatermelon](https://github.com/NingZhengsheng/ComposeGigWatermelon): 合成大西瓜CocosCretor开发多平台（包括微信小程序）源码
 * [qiuwenxing/comps-weapp](https://github.com/qiuwenxing/comps-weapp): 小程序自定义组件:下拉刷新、上拉加载组件、搜索组件、省+市选择组件、年月区间选择等
 * [pengan1987/computer-museum-dnbwg](https://github.com/pengan1987/computer-museum-dnbwg): 电脑博物馆 - compumuseum.com
+* [ljc545w/ComWeChatRobot](https://github.com/ljc545w/ComWeChatRobot): PC微信机器人，实现获取通讯录，发送文本、图片、文件等消息，封装COM接口供Python、C#调用
 * [kitian616/config](https://github.com/kitian616/config): Tian Qi's Configs. include zsh, vim, lint etc.
 * [runsisi/consolas-font-for-powerline](https://github.com/runsisi/consolas-font-for-powerline): Powerline is a nice vim plugin, consolas is a nice font under windows, in order to use consolas in putty or securecrt to work with powerline, the font must be patched.
 * [eugeneching/consolas-powerline-vim](https://github.com/eugeneching/consolas-powerline-vim): Fixed Consolas font for use with Vim Powerline. Font has all variants: regular, bold, italic, bold-italic.
@@ -758,7 +759,9 @@
 * [google/material-design-lite](https://github.com/google/material-design-lite): Material Design Components in HTML/CSS/JS
 * [1sters/material_design_zh_2](https://github.com/1sters/material_design_zh_2): Material Design 中文版 ( 2015 年 8 月更新)
 * [zhenghaoz/MaterialWeCenter](https://github.com/zhenghaoz/MaterialWeCenter): WeCenter Android app based on v3.1.9
+* [duo/matrix-qq](https://github.com/duo/matrix-qq): A Matrix-QQ puppeting bridge
 * [joschuck/matrix-webcam](https://github.com/joschuck/matrix-webcam): Take your video conference from within the matrix.
+* [duo/matrix-wechat](https://github.com/duo/matrix-wechat): A Matrix-WeChat puppeting bridge
 * [catfan/Medoo](https://github.com/catfan/Medoo): The lightweight PHP database framework to accelerate the development.
 * [easychen/MemberPrism2](https://github.com/easychen/MemberPrism2): open source alternative to memberstack / memberspace , but with both front and backend member-only content protection
 * [yaleh/meta-prompt](https://github.com/yaleh/meta-prompt): Meta Prompt, which involves generating a language model prompt using another language model.
@@ -1147,6 +1150,8 @@
 * [a07061625/swooleyaf](https://github.com/a07061625/swooleyaf): PHP High Performance Micro Service Framework,高性能分布式微服务框架
 * [swow/swow](https://github.com/swow/swow): Coroutine-based cross-platform concurrent I/O engine.
 * [symfony/symfony](https://github.com/symfony/symfony): The Symfony PHP framework
+* [element-hq/synapse](https://github.com/element-hq/synapse): Synapse: Matrix homeserver written in Python/Twisted.
+* [matrix-org/synapse](https://github.com/matrix-org/synapse): Synapse: Matrix homeserver written in Python/Twisted.
 * [ProfSynapse/Synapse_CoR](https://github.com/ProfSynapse/Synapse_CoR): None
 * [jas0ncn/szushudong](https://github.com/jas0ncn/szushudong): 微信小程序 - 深大的树洞 2.0 - 基于 WePY
 * [codota/TabNine](https://github.com/codota/TabNine): AI Code Completions

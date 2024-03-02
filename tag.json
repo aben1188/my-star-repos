@@ -1574,6 +1574,12 @@
     "dufu1991/simple-cloud-music": [
         "Other"
     ],
+    "duo/matrix-qq": [
+        "Other"
+    ],
+    "duo/matrix-wechat": [
+        "Other"
+    ],
     "dyq086/wepy-mall": [
         "Other"
     ],
@@ -1650,6 +1656,9 @@
         "Other"
     ],
     "electron/electron": [
+        "Other"
+    ],
+    "element-hq/synapse": [
         "Other"
     ],
     "elvenyh/yh": [
@@ -2708,6 +2717,9 @@
     "lizongying/my-tv": [
         "Other"
     ],
+    "ljc545w/ComWeChatRobot": [
+        "Other"
+    ],
     "lllyasviel/Fooocus": [
         "Other"
     ],
@@ -2820,6 +2832,9 @@
         "Other"
     ],
     "mathiasbynens/dotfiles": [
+        "Other"
+    ],
+    "matrix-org/synapse": [
         "Other"
     ],
     "mawenjie8731/paddlenlp-wechaty-demo": [
