@@ -86,9 +86,11 @@
 * [ampproject/amphtml](https://github.com/ampproject/amphtml): The AMP web component framework.
 * [kiwibrowser/android](https://github.com/kiwibrowser/android): This repository is archived, and is now transferred to https://github.com/kiwibrowser/src
 * [wildfirechat/android-chat](https://github.com/wildfirechat/android-chat): 开源即时通讯(野火IM)系统Android端，支持Android 4.x —— 最新
+* [kompasim/android-wechat-tool](https://github.com/kompasim/android-wechat-tool): a wechat tool for android
 * [JZ-Darkal/AndroidHttpCapture](https://github.com/JZ-Darkal/AndroidHttpCapture): AndroidHttpCapture网络诊断工具 是一款Android手机抓包软件 主要功能包括：手机端抓包、PING/DNS/TraceRoute诊断、抓包HAR数据上传分享。你也可以看成是Android版的"Fiddler" \(^o^)/~
 * [angular/angular](https://github.com/angular/angular): Deliver web apps with confidence 🚀
 * [Kotlin/anko](https://github.com/Kotlin/anko): Pleasant Android application development
+* [JasonQS/Anti-recall](https://github.com/JasonQS/Anti-recall): Android 免root 防撤回神器 !
 * [zsh-users/antigen](https://github.com/zsh-users/antigen): The plugin manager for zsh.
 * [any86/any-rule](https://github.com/any86/any-rule): 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
 * [Tencent/APIJSON](https://github.com/Tencent/APIJSON): 🏆 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🏆 A JSON Transmission Protocol and an ORM Library 🚀  provides APIs and Docs without writing any code.
@@ -1357,6 +1359,7 @@
 * [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io): ❤️静态响应式网址导航网站 - webstack.cc
 * [wecenter/wecenter](https://github.com/wecenter/wecenter): WeCenter 是一款知识型的社交化开源社区程序，专注于企业和行业社区内容的整理、归类、检索和再发行。
 * [node-webot/wechat](https://github.com/node-webot/wechat): 微信公共平台消息接口服务中间件
+* [hi-craft/Wechat-AccessibilityService](https://github.com/hi-craft/Wechat-AccessibilityService): 第三方WECHAT辅助服务 基于AccessibilityService实现 激活码IMEI码绑定，群组列表群发，好友列表群发，定时自动任务，发送间隔时间设定 更新至2.2版本，适配WECHAT7.0.3
 * [ChinaVolvocars/WeChat-applet](https://github.com/ChinaVolvocars/WeChat-applet): 微信小应用，微信小程序资源汇总整理，涵括微信 Web 开发工具、开发框架、开发教程、以及官方文档和相关资源的整理
 * [leochen-g/wechat-assistant-engine](https://github.com/leochen-g/wechat-assistant-engine): 智能微秘书engine版本
 * [leochen-g/wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro): 智能微秘书，一个全能的微信机器人管理平台，最简单的方式接入 ChatGPT，FastGPT，Dify知识库，支持绘图，联网查询，语音识别，各种定时任务，支持企微、个微、公众号、5G 消息、WhatsApp
