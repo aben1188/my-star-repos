@@ -1031,6 +1031,7 @@
 * [ken107/read-aloud](https://github.com/ken107/read-aloud): An awesome browser extension that reads aloud webpage content with one click
 * [index-labs/readpilot](https://github.com/index-labs/readpilot): Read Pilot analyzes online articles and generate Q&A cards for you. Powered by OpenAI & Next.js.
 * [Fechin/reference](https://github.com/Fechin/reference): ⭕ Share quick reference cheat sheet for developers.
+* [liuyi91/RegEx-tools-for-word-or-wps](https://github.com/liuyi91/RegEx-tools-for-word-or-wps): word正则工具
 * [garyhouston/regexp.old](https://github.com/garyhouston/regexp.old): Henry Spencer's old regular expression library, also known as the book regex library, circa 1986.
 * [vczh-libraries/Release](https://github.com/vczh-libraries/Release): Release folder of all projects.
 * [chuckcarpenter/REM-unit-polyfill](https://github.com/chuckcarpenter/REM-unit-polyfill): A polyfill to parse CSS links and rewrite pixel equivalents into head for non supporting browsers 
@@ -1479,7 +1480,6 @@
 * [TheMRLL/WinXray](https://github.com/TheMRLL/WinXray): 支持Xray / V2Ray（vmess / vless），Shadowsocks，SSR，Trojan，NaïveProxy，Trojan-go通用客户端（Windows）！默认基于xray核心！本程序采用aardio设计与开发！
 * [wj704/wj704.github.io](https://github.com/wj704/wj704.github.io): 个人博客
 * [x64architecture/wnmp](https://github.com/x64architecture/wnmp): An easy Nginx, MariaDB and PHP environment for Windows.
-* [liuyi91/word](https://github.com/liuyi91/word): word正则工具
 * [WordPress/WordPress](https://github.com/WordPress/WordPress): WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead.
 * [rikouu/wordpress](https://github.com/rikouu/wordpress): wordpress主题收集
 * [Licoy/wordpress-theme-puock](https://github.com/Licoy/wordpress-theme-puock): :art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh loading, etc.
