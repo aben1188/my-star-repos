@@ -1434,6 +1434,7 @@
 * [leochen-g/wechrome](https://github.com/leochen-g/wechrome): Chrome extension to unblock web wechat by uos
 * [easychen/wecomchan](https://github.com/easychen/wecomchan): 微信推送服务Server酱的开源替代。通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。 
 * [tencentyun/wecos](https://github.com/tencentyun/wecos): WeCOS——微信小程序 COS 瘦身解决方案
+* [ascoders/weekly](https://github.com/ascoders/weekly): 前端精读周刊。帮你理解最前沿、实用的技术。
 * [zbage/weengine](https://github.com/zbage/weengine): 微信公众平台自助开源引擎
 * [alibaba/weex](https://github.com/alibaba/weex): A framework for building Mobile cross-platform UI
 * [weifund/weifund](https://github.com/weifund/weifund): A decentralized, fully transparent, open-source crowdfunding platform built on Ethereum.
