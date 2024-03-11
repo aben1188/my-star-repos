@@ -1128,7 +1128,7 @@
 * [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version): :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 * [startbbs/startbbs](https://github.com/startbbs/startbbs): startbbs is a free, open-source, light weight forum software package built with PHP and MySQL
 * [staticfile/static](https://github.com/staticfile/static): 开放静态文件 - 为开源库提供稳定、快速的免费 CDN 服务
-* [banodoco/Steerable-Motion](https://github.com/banodoco/Steerable-Motion): None
+* [banodoco/Steerable-Motion](https://github.com/banodoco/Steerable-Motion): A ComfyUI node for driving videos using batches of images.
 * [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf): Control and manage Android devices from your browser.
 * [BlackGlory/subtitle-translate-tmt](https://github.com/BlackGlory/subtitle-translate-tmt): 🌳 使用腾讯机器翻译 API 为 PotPlayer 翻译实时字幕.
 * [hylarucoder/svd-webui](https://github.com/hylarucoder/svd-webui): None
