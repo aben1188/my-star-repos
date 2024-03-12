@@ -186,6 +186,7 @@
 * [lonePatient/awesome-pretrained-chinese-nlp-models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models): Awesome Pretrained Chinese NLP Models，高质量中文预训练模型&大模型&多模态模型&大语言模型集合
 * [natnew/Awesome-Prompt-Engineering](https://github.com/natnew/Awesome-Prompt-Engineering): Awesome-Prompt-Engineering - This repository includes resources for prompt engineering. 
 * [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering): This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc 
+* [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts): Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 * [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets): A topic-centric list of HQ open datasets.
 * [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn): Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。
 * [zhouxinkai/awesome-python3-webapp](https://github.com/zhouxinkai/awesome-python3-webapp): None
@@ -1184,6 +1185,7 @@
 * [emadehsan/thal](https://github.com/emadehsan/thal): Getting started with Puppeteer and Chrome Headless for Web Scraping
 * [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
 * [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher): A code-searching tool similar to ack, but faster.
+* [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary): A collection of prompts, system prompts and LLM instructions
 * [saadeghi/theme-change](https://github.com/saadeghi/theme-change): Change CSS theme with toggle, buttons or select using CSS custom properties and localStorage
 * [top-think/thinkphp](https://github.com/top-think/thinkphp): ThinkPHP3.2 ——基于PHP5的简单快速的面向对象的PHP框架
 * [thinksaas/ThinkSAAS](https://github.com/thinksaas/ThinkSAAS): ThinkSAAS open source community
