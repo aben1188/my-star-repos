@@ -1049,6 +1049,7 @@
 * [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher): :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 * [geesondog/rhaphp](https://github.com/geesondog/rhaphp): RhaPHP是微信第三方管理平台，微信公众号管理系统，支持多公众号管理，CRM会员管理，小程序开发，APP接口开发、几乎集合微信功能，简洁、快速上手、快速开发微信各种各样应用。简洁、好用、快速、项目开发快几倍 。
 * [functoreality/rime-flypy-zrmfast](https://github.com/functoreality/rime-flypy-zrmfast): Rime 输入法配置文件，小鹤双拼+自然快手/小鹤双形辅助码
+* [iDvel/rime-ice](https://github.com/iDvel/rime-ice): Rime 配置：雾凇拼音 | 长期维护的简体词库
 * [rokstrnisa/RoboGPT](https://github.com/rokstrnisa/RoboGPT): A simple and extensible program that helps you run GPT-4 model autonomously.
 * [rocboss/ROCBOSS-OLD](https://github.com/rocboss/ROCBOSS-OLD): High load, simple micro community software
 * [rocboss/rocphp](https://github.com/rocboss/rocphp): A fast, simple, extensible framework for PHP which is the concrete realization of flight
@@ -1116,6 +1117,7 @@
 * [charlenezell/sportee_wepy](https://github.com/charlenezell/sportee_wepy): sportee using wepy component base develop
 * [wuchangming/spy-debugger](https://github.com/wuchangming/spy-debugger): 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。
 * [yanyiwu/sqljieba](https://github.com/yanyiwu/sqljieba): Jieba Mysql Full-Text Parser Plugin
+* [rime/squirrel](https://github.com/rime/squirrel): 【鼠鬚管】Rime for macOS
 * [v3ucn/sse_tornado6_vuejs3](https://github.com/v3ucn/sse_tornado6_vuejs3): 基于Python3.10异步非阻塞框架Tornado6.0和前端Vue.js3框架实现ChatGPT的流式返回协议Server-sent events
 * [shionphan/sslzoo](https://github.com/shionphan/sslzoo): Question2Answer bootstrap theme
 * [evangui/sso](https://github.com/evangui/sso): PHP版单点登陆实现方案。可以跨多个主域名、跨多个应用（含网页与app客户端）的单点登录。已投入实际运营超过8年。

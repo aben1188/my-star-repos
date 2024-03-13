@@ -2120,6 +2120,9 @@
     "i18next/i18next": [
         "Other"
     ],
+    "iDvel/rime-ice": [
+        "Other"
+    ],
     "icindy/WxEmojiView": [
         "Other"
     ],
@@ -3450,6 +3453,9 @@
         "Other"
     ],
     "rime/librime": [
+        "Other"
+    ],
+    "rime/squirrel": [
         "Other"
     ],
     "rime/weasel": [
