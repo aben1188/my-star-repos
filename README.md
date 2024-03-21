@@ -575,6 +575,7 @@
 * [opengpts/gpts-trending](https://github.com/opengpts/gpts-trending): Record everyday Top GPTs in ChatGPT GPTs Store
 * [AINativeLab/gptstore-data-backup](https://github.com/AINativeLab/gptstore-data-backup): The daily archive of GPT Store's trending data
 * [cryptonomex/graphene](https://github.com/cryptonomex/graphene): None
+* [xai-org/grok-1](https://github.com/xai-org/grok-1): Grok open release
 * [phodal/growth-ebook](https://github.com/phodal/growth-ebook): Growth Engineering: The Definitive Guide。全栈增长工程师指南
 * [phodal/growth-in-action](https://github.com/phodal/growth-in-action): 全栈增长工程师实战
 * [phodal/growth-ionic](https://github.com/phodal/growth-ionic): [v2.0 DEPRECATED, please update to Growth 3.0] Growth - App to help you Be Awesome Developer & Awesome Hacker
