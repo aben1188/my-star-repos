@@ -446,6 +446,7 @@
 * [dracula/dracula-theme](https://github.com/dracula/dracula-theme): 🧛🏻‍♂️ One theme. All platforms.
 * [bevacqua/dragula](https://github.com/bevacqua/dragula): :ok_hand: Drag and drop so simple it hurts
 * [assimon/dujiaoka](https://github.com/assimon/dujiaoka): 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
+* [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm): Learning English through the method of constructing sentences with conjunctions
 * [easy-mock/easy-mock](https://github.com/easy-mock/easy-mock): A persistent service that generates mock data quickly and provids visualization view.
 * [tioncico/easyES](https://github.com/tioncico/easyES): 把easyswoole 文档中一些轮子全部装好,下载后可以直接开撸一个web网站
 * [easy-swoole/easyswoole](https://github.com/easy-swoole/easyswoole): swoole,easyswoole,swoole framework
