@@ -1564,6 +1564,7 @@
 * [why2lyj/youxiang-wechaty-web](https://github.com/why2lyj/youxiang-wechaty-web): 无视微信Web无法登录问题。获取淘宝优惠券、京东优惠券、拼多多（多多客）优惠券、苏宁易购优惠券、唯品会优惠券，通过接入淘宝联盟、京东联盟、拼多多（多多进宝）、苏宁联盟（苏宁推客）、唯品会及其对应的开放平台，获取优惠商品图片和对应商品信息，利用微信机器人推送到指定群聊。
 * [km3945/ysapi](https://github.com/km3945/ysapi): yaf swoole api socket servers
 * [iyangyuan/ystep](https://github.com/iyangyuan/ystep): ystep jQuery流程、步骤插件
+* [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): A feature-rich command-line audio/video downloader
 * [yangchunaijtt/yueDu](https://github.com/yangchunaijtt/yueDu): 悦读-小程序项目 uni-app编码
 * [Yurunsoft/YurunOAuthLogin](https://github.com/Yurunsoft/YurunOAuthLogin): PHP 第三方登录授权 SDK，集成了QQ、微信、微博、Github等常用接口。支持 php-fpm 和 Swoole，所有框架通用。QQ群：17916227
 * [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot): 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
