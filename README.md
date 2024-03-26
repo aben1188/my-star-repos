@@ -1377,7 +1377,7 @@
 * [hi-craft/Wechat-AccessibilityService](https://github.com/hi-craft/Wechat-AccessibilityService): 第三方WECHAT辅助服务 基于AccessibilityService实现 激活码IMEI码绑定，群组列表群发，好友列表群发，定时自动任务，发送间隔时间设定 更新至2.2版本，适配WECHAT7.0.3
 * [ChinaVolvocars/WeChat-applet](https://github.com/ChinaVolvocars/WeChat-applet): 微信小应用，微信小程序资源汇总整理，涵括微信 Web 开发工具、开发框架、开发教程、以及官方文档和相关资源的整理
 * [leochen-g/wechat-assistant-engine](https://github.com/leochen-g/wechat-assistant-engine): 智能微秘书engine版本
-* [leochen-g/wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro): 智能微秘书，一个全能的微信机器人管理平台，最简单的方式接入 ChatGPT，FastGPT，Dify知识库，支持绘图，联网查询，语音识别，各种定时任务，支持企微、个微、公众号、5G 消息、WhatsApp
+* [leochen-g/wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro): 智能微秘书，一个全能的微信机器人管理平台，最简单的方式接入 ChatGPT，FastGPT，Dify知识库，支持绘图，联网查询，语音识别，各种定时任务，支持企微、公众号、5G 消息、WhatsApp
 * [leochen-g/wechat-assistant-pro-ipad](https://github.com/leochen-g/wechat-assistant-pro-ipad): 智能微秘书ipad协议版本
 * [meteorOSS/wechat-bc](https://github.com/meteorOSS/wechat-bc): 类似开发公众号一样，开发个人微信号
 * [cixingguangming55555/wechat-bot](https://github.com/cixingguangming55555/wechat-bot): 带二次开发接口的PC微信聊天机器人
