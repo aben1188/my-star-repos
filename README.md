@@ -1515,7 +1515,6 @@
 * [weapp-socketio/wxapp-socket-io](https://github.com/weapp-socketio/wxapp-socket-io): 此项目已经迁移至：
 * [chemzqm/wxapp.vim](https://github.com/chemzqm/wxapp.vim): 提供微信小程序开发全方位支持的 vim 插件
 * [jiangxy/wxapplet-canvas-demo](https://github.com/jiangxy/wxapplet-canvas-demo): 用微信小程序的canvas做的一个小游戏
-* [jschentt/wxappUnpacker](https://github.com/jschentt/wxappUnpacker): Wechat App(微信小程序,.wxapkg)解包及相关文件(.wxss,.json,.wxs,.wxml)还原工具
 * [larack8/wxappUnpacker](https://github.com/larack8/wxappUnpacker): Wechat App(微信小程序,.wxapkg)解包及相关文件(.wxss,.json,.wxs,.wxml)还原工具
 * [xdmjun/wxappUnpacker](https://github.com/xdmjun/wxappUnpacker): None
 * [cluic/wxauto](https://github.com/cluic/wxauto): Windows版本微信客户端（非网页版）自动化，可实现简单的发送、接收微信消息，简单微信机器人
