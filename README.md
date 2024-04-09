@@ -410,7 +410,7 @@
 * [docmirror/dev-sidecar-doc](https://github.com/docmirror/dev-sidecar-doc): None
 * [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 * [devv-ai/devv](https://github.com/devv-ai/devv): An AI-powered search engine for developers.
-* [langgenius/dify](https://github.com/langgenius/dify): Dify is an open-source LLM app development platform. It has the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into one intuitive interface.
+* [langgenius/dify](https://github.com/langgenius/dify): Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 * [Miserlou/DirtyShare](https://github.com/Miserlou/DirtyShare): Peer to Peer Filesharing in Pure Javascript With Node.js and Socket.io
 * [virskor/DiscuzQ](https://github.com/virskor/DiscuzQ): Flutter open source application for DiscuzQ
 * [DKJone/DKWechatHelper](https://github.com/DKJone/DKWechatHelper): 不止于抢红包，功能丰富的微信插件。
