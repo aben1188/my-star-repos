@@ -261,7 +261,7 @@
 * [4ae9b8/browserhacks](https://github.com/4ae9b8/browserhacks): An extensive list of CSS/JS browserhacks from all over the interwebs.
 * [browserslist/browserslist](https://github.com/browserslist/browserslist): 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
 * [usebruno/bruno](https://github.com/usebruno/bruno): Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
-* [zu1k/bs-core](https://github.com/zu1k/bs-core): None
+* [zu1k/bs-core](https://github.com/zu1k/bs-core): Easy and blazing-fast book searcher, create and search your private library.
 * [ywfwj2008/bt-panel](https://github.com/ywfwj2008/bt-panel): 本Docker基于宝塔Linux面板,集成环境包含 Nginx PHP5.6 PHP7 FTP等基本服务
 * [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator):  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 * [suulnnka/BullshitGenerator](https://github.com/suulnnka/BullshitGenerator): 文章生成器
