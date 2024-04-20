@@ -265,7 +265,7 @@
 * [ywfwj2008/bt-panel](https://github.com/ywfwj2008/bt-panel): 本Docker基于宝塔Linux面板,集成环境包含 Nginx PHP5.6 PHP7 FTP等基本服务
 * [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator):  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 * [suulnnka/BullshitGenerator](https://github.com/suulnnka/BullshitGenerator): 文章生成器
-* [antfu/bumpp](https://github.com/antfu/bumpp): Interactive CLI that bumps your version numbers and more
+* [antfu-collective/bumpp](https://github.com/antfu-collective/bumpp): Interactive CLI that bumps your version numbers and more
 * [zzkcaesar/Caesar_prompt](https://github.com/zzkcaesar/Caesar_prompt): This is the collection of LLM prompt which collected by Caesar
 * [aamii/Candy](https://github.com/aamii/Candy): Candy:  A new tool for quick open files and fast search text
 * [Fyrd/caniuse](https://github.com/Fyrd/caniuse): Raw browser/feature support data from caniuse.com
