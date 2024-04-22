@@ -1248,7 +1248,7 @@
 * [zhangfh-cq/uni-translator-frontend](https://github.com/zhangfh-cq/uni-translator-frontend): UNI Translator 前端，基于uni-app和uni-ui。
 * [leixiaokou/uniapp-peiyin](https://github.com/leixiaokou/uniapp-peiyin): 文字转人声配音uniapp多端支持的小程序
 * [unoconv/unoconv](https://github.com/unoconv/unoconv): Universal Office Converter - Convert between any document format supported by LibreOffice/OpenOffice.
-* [upscayl/upscayl](https://github.com/upscayl/upscayl): 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
+* [upscayl/upscayl](https://github.com/upscayl/upscayl): 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 * [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma): A fancy self-hosted monitoring tool
 * [suofiya/url_Shortny](https://github.com/suofiya/url_Shortny): 简单短链接,短链接生成，短链接加密，短链接二维码，短链接API，短链接自定义后缀，二维码API
 * [chen835481245/usale_chat](https://github.com/chen835481245/usale_chat): None
