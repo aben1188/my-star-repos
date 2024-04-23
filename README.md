@@ -807,7 +807,6 @@
 * [Modernizr/Modernizr](https://github.com/Modernizr/Modernizr): Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 * [Seldaek/monolog](https://github.com/Seldaek/monolog): Sends your logs to files, sockets, inboxes, databases and various web services
 * [waza-ari/monolog-mysql](https://github.com/waza-ari/monolog-mysql): MySQL Handler for Monolog, which allows to store log messages to a MySQL Table
-* [movie-web/movie-web](https://github.com/movie-web/movie-web): A small web app for watching movies and shows easily
 * [TencentCloudBase/mp-book](https://github.com/TencentCloudBase/mp-book): 小程序·云开发系列教程
 * [xdmjun/mp-unpack](https://github.com/xdmjun/mp-unpack): None
 * [shawtung/mpvue-wepy-compare](https://github.com/shawtung/mpvue-wepy-compare): 从wepy迁移到mpvue的调研
