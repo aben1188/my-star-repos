@@ -949,7 +949,7 @@
 * [laruence/php7-internal](https://github.com/laruence/php7-internal): Understanding PHP7 Internal articles
 * [pangdahua/php7-wxwork-finance-sdk](https://github.com/pangdahua/php7-wxwork-finance-sdk): PHP企业微信会话存档扩展
 * [ieure/php_repl](https://github.com/ieure/php_repl): A REPL (Read-Eval-Print Loop) for PHP
-* [blogdaren/PHPCreeper](https://github.com/blogdaren/PHPCreeper): A new generation of multi-process asynchronous event-driven spider engine based on Workerman.    http://www.phpcreeper.com
+* [blogdaren/PHPCreeper](https://github.com/blogdaren/PHPCreeper): A new generation of multi-process async event-driven spider engine based on Workerman.  Support headless browser.  http://www.phpcreeper.com
 * [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv): Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 * [summerblue/phphub](https://github.com/summerblue/phphub): (Deprecated See - https://github.com/summerblue/phphub5 ) PHPHub is a Forum project written in Laravel 4.2, and it is also the project build up PHP & Laravel China community - http://phphub.org.
 * [easysoft/phplibreoffice](https://github.com/easysoft/phplibreoffice): A php extension for libreoffice.
