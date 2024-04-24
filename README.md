@@ -544,7 +544,7 @@
 * [github/gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
 * [kaedei/gitignore](https://github.com/kaedei/gitignore): A collection of useful .gitignore templates
 * [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod): The developer platform for on-demand cloud development environments to create software faster and more securely.
-* [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum): Official Go implementation of the Ethereum protocol
+* [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum): Go implementation of the Ethereum protocol
 * [aehyok/go-openai](https://github.com/aehyok/go-openai): go 对接OpenAI ChatGPT接口，最新的functions call、GPT Vision、TTS
 * [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai): 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
 * [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai): 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
@@ -949,7 +949,7 @@
 * [laruence/php7-internal](https://github.com/laruence/php7-internal): Understanding PHP7 Internal articles
 * [pangdahua/php7-wxwork-finance-sdk](https://github.com/pangdahua/php7-wxwork-finance-sdk): PHP企业微信会话存档扩展
 * [ieure/php_repl](https://github.com/ieure/php_repl): A REPL (Read-Eval-Print Loop) for PHP
-* [blogdaren/PHPCreeper](https://github.com/blogdaren/PHPCreeper): A new generation of multi-process async event-driven spider engine based on Workerman.  Support headless browser.  http://www.phpcreeper.com
+* [blogdaren/PHPCreeper](https://github.com/blogdaren/PHPCreeper): A new generation of multi-process async event-driven spider engine based on workerman.  Support headless browser.  http://www.phpcreeper.com
 * [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv): Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 * [summerblue/phphub](https://github.com/summerblue/phphub): (Deprecated See - https://github.com/summerblue/phphub5 ) PHPHub is a Forum project written in Laravel 4.2, and it is also the project build up PHP & Laravel China community - http://phphub.org.
 * [easysoft/phplibreoffice](https://github.com/easysoft/phplibreoffice): A php extension for libreoffice.
