@@ -1406,9 +1406,6 @@
     "codecasts/php-alpine": [
         "Other"
     ],
-    "coderwhocode/wechaty-pay": [
-        "Other"
-    ],
     "codingonion/awesome-llm-and-aigc": [
         "Other"
     ],
@@ -3585,6 +3582,9 @@
         "Other"
     ],
     "shaunchander/kit-ai": [
+        "Other"
+    ],
+    "shawnmuggle/wechaty-pay": [
         "Other"
     ],
     "shawtung/mpvue-wepy-compare": [

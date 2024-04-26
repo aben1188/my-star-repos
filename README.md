@@ -1428,7 +1428,7 @@
 * [zscorpio/wechaty-client](https://github.com/zscorpio/wechaty-client): wechat web client on wechaty
 * [isboyjc/wechaty-friend-pass](https://github.com/isboyjc/wechaty-friend-pass): Wechat friend application passes automatically
 * [panlina/wechaty-guess-song](https://github.com/panlina/wechaty-guess-song): A Wechaty plugin to play guess song game in a room
-* [coderwhocode/wechaty-pay](https://github.com/coderwhocode/wechaty-pay): Personal Payment Solution based on Wechaty
+* [shawnmuggle/wechaty-pay](https://github.com/shawnmuggle/wechaty-pay): Personal Payment Solution based on Wechaty
 * [isboyjc/wechaty-plugin-robot](https://github.com/isboyjc/wechaty-plugin-robot): wechaty plugin robot
 * [wechaty/wechaty-puppet-padpro](https://github.com/wechaty/wechaty-puppet-padpro): None
 * [isboyjc/wechaty-Robot](https://github.com/isboyjc/wechaty-Robot): 基于wechaty-puppet-padplus的微信机器人助手
