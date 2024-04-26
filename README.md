@@ -902,7 +902,7 @@
 * [eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat): golang微信SDK
 * [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb): Peer-to-Peer Databases for the Decentralized Web
 * [kaiyuanshe/osschat](https://github.com/kaiyuanshe/osschat): Apache Open Source Software Chat BOT
-* [pingcap/ossinsight](https://github.com/pingcap/ossinsight): Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 6 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/ossinsight
+* [pingcap/ossinsight](https://github.com/pingcap/ossinsight): Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/ossinsight
 * [haixinsong/otld](https://github.com/haixinsong/otld): simple tempermonkey script to open the link directly
 * [proYang/outils](https://github.com/proYang/outils): :rocket: 前端业务代码工具库
 * [outline/outline](https://github.com/outline/outline): The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
