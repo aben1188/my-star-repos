@@ -1337,7 +1337,7 @@
 * [leixiaokou/waimai-uniapp](https://github.com/leixiaokou/waimai-uniapp): 美团饿了么联盟CPS推广赚钱的uniapp小程序，支持微信小程序和H5，技术变现利器
 * [eficode/wait-for](https://github.com/eficode/wait-for): ./wait-for is a script to wait for another service to become available.
 * [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor): wangEditor —— 开源 Web 富文本编辑器
-* [liruifengv/we-drawing](https://github.com/liruifengv/we-drawing): 每天一句中国古诗词，生成 AI 图片 Powered by Bing DALL-E-3.
+* [liruifengv/we-drawing](https://github.com/liruifengv/we-drawing): AI画图。每天一句中国古诗词，生成 AI 图片 Powered by Bing DALL-E-3.
 * [liujians/WeApp](https://github.com/liujians/WeApp): :clock3:基于微信小程序开发的仿微信demo
 * [laihaibo/weapp-bmscore](https://github.com/laihaibo/weapp-bmscore): a weapp to count badminton game score
 * [GeoffreyQiao/weapp-cloud-schedule-manager](https://github.com/GeoffreyQiao/weapp-cloud-schedule-manager): None
