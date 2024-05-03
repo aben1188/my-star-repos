@@ -269,7 +269,7 @@
     "EmbraceAGI/Awesome-AGI": [
         "Other"
     ],
-    "EmbraceAGI/LangGPT": [
+    "EmbraceAGI/awesome-chatgpt-zh": [
         "Other"
     ],
     "EthereumCN/dev": [
@@ -2573,6 +2573,9 @@
     "langgenius/dify": [
         "Other"
     ],
+    "langgptai/LangGPT": [
+        "Other"
+    ],
     "lanhebe/proxypool": [
         "Other"
     ],
@@ -4485,9 +4488,6 @@
         "Other"
     ],
     "ywfwj2008/bt-panel": [
-        "Other"
-    ],
-    "yzfly/awesome-chatgpt-zh": [
         "Other"
     ],
     "zarocknz/javascript-skyrocket": [
