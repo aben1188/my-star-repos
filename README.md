@@ -79,6 +79,7 @@
 * [aliceui/aliceui.github.io](https://github.com/aliceui/aliceui.github.io): 写样式的一种方式
 * [dedemao/alipay](https://github.com/dedemao/alipay): 一个PHP文件搞定支付宝支付系列，包括电脑网站支付，手机网站支付，现金红包、消费红包、扫码支付，JSAPI支付、单笔转账到支付宝账户、交易结算（分账、分润）、网页授权获取用户信息等
 * [alist-org/alist](https://github.com/alist-org/alist): 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+* [chatgptmm/alist.io](https://github.com/chatgptmm/alist.io): 在线1000万+电影、电视剧、记录片、书籍、动漫、综艺、软件，学习资料分享百度，阿里，夸克，迅雷等网盘分享链接可直接挂Alist网盘管理
 * [AlloyTeam/AlloyDesigner](https://github.com/AlloyTeam/AlloyDesigner): AlloyDesigner是一款致力于提高前端生产效率的浏览器内运行工具，AlloyDesigner + Chrome F12(Especially with WorkSpace)  打造前端新的开发和测试模式
 * [AlloyTeam/AlloyFinger](https://github.com/AlloyTeam/AlloyFinger): Super tiny size multi-touch gestures library for the web. 　　　You can touch this →
 * [AlloyTeam/AlloyImage](https://github.com/AlloyTeam/AlloyImage): 基于HTML5的专业级图像处理开源引擎。An image processing lib based on html5.
@@ -869,7 +870,7 @@
 * [nonebot/nonebot2](https://github.com/nonebot/nonebot2): 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
 * [noobnooc/noobnooc](https://github.com/noobnooc/noobnooc): My profile
 * [necolas/normalize.css](https://github.com/necolas/normalize.css): A modern alternative to CSS resets
-* [novuhq/novu](https://github.com/novuhq/novu): 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+* [novuhq/novu](https://github.com/novuhq/novu): The Code-First Notification Infrastructure. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 * [nissl-lab/npoi](https://github.com/nissl-lab/npoi): a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
 * [bruderstein/nppPluginManager](https://github.com/bruderstein/nppPluginManager): Notepad++ Plugin Manager
 * [D-xuanmo/Nuxtjs-Wordpress](https://github.com/D-xuanmo/Nuxtjs-Wordpress): 🎉 Nuxtjs + Wordpress REST API 主题；支持企业微信通知功能；全站前后端分离，自适应，白日、黑夜两种主题切换
