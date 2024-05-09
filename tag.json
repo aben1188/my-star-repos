@@ -53,9 +53,6 @@
     "AINativeLab/gptstore-data-backup": [
         "Other"
     ],
-    "AirCodeLabs/aircode": [
-        "Other"
-    ],
     "AlexZhangji/Twitter-Insight-LLM": [
         "Other"
     ],
@@ -969,6 +966,9 @@
         "Other"
     ],
     "airbnb/javascript": [
+        "Other"
+    ],
+    "aircodelabs/aircode": [
         "Other"
     ],
     "airyland/vux": [
