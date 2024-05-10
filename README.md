@@ -74,7 +74,7 @@
 * [phodal/aigc](https://github.com/phodal/aigc): 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。
 * [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter): ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.
 * [aircodelabs/aircode](https://github.com/aircodelabs/aircode): Build and ship Node.js serverless functions in a coffee break.
-* [superiorlu/AiTreasureBox](https://github.com/superiorlu/AiTreasureBox): 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎 
+* [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox): 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎 
 * [ethereum/aleth](https://github.com/ethereum/aleth): Aleth – Ethereum C++ client, tools and libraries
 * [aliceui/aliceui.github.io](https://github.com/aliceui/aliceui.github.io): 写样式的一种方式
 * [dedemao/alipay](https://github.com/dedemao/alipay): 一个PHP文件搞定支付宝支付系列，包括电脑网站支付，手机网站支付，现金红包、消费红包、扫码支付，JSAPI支付、单笔转账到支付宝账户、交易结算（分账、分润）、网页授权获取用户信息等
