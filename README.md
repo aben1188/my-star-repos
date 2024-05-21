@@ -1096,7 +1096,7 @@
 * [SagerNet/sing-box](https://github.com/SagerNet/sing-box): The universal proxy platform
 * [sveltejs/sites](https://github.com/sveltejs/sites): Monorepo for the sites in the Svelte ecosystem
 * [jayZOU/skeleton](https://github.com/jayZOU/skeleton): miniprogram to generate the skeleton page automatically
-* [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton): A complete design system and component library solution for Svelte (and soon React!)
+* [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton): A complete design system and component solution, built on Tailwind.
 * [Justineo/slideshows](https://github.com/Justineo/slideshows): My slideshows about techical stuff.
 * [slimphp/Slim](https://github.com/slimphp/Slim): Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
 * [kcloze/slim-swoole](https://github.com/kcloze/slim-swoole): Slim 3 MVC Skeleton With Swoole
