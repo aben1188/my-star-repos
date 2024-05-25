@@ -1361,7 +1361,7 @@
 * [dongweiming/weapp-zhihulive](https://github.com/dongweiming/weapp-zhihulive): 知乎Live微信小程序 & asyncio爬虫
 * [tolerance-go/weappx](https://github.com/tolerance-go/weappx): 🌱基于 redux 的轻量级小程序状态管理框架，适配原生小程序，wepy，taro
 * [rime/weasel](https://github.com/rime/weasel): 【小狼毫】Rime for Windows
-* [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm): Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
+* [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm): High-performance In-browser LLM Inference Engine 
 * [walkor/web-msg-sender](https://github.com/walkor/web-msg-sender): Web message pusher  written in PHP based on workerman.
 * [joewalnes/web-vmstats](https://github.com/joewalnes/web-vmstats): Prettify vmstats in your browser
 * [lixh00/web-wechat](https://github.com/lixh00/web-wechat): 基于`Golang`语言和`Gin`框架的个人微信系统，支持ChatGPT
