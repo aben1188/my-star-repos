@@ -236,9 +236,6 @@
     "DocsHome/nginx-docs": [
         "Other"
     ],
-    "EasyGolang/goTools": [
-        "Other"
-    ],
     "EbookFoundation/free-programming-books": [
         "Other"
     ],
@@ -1893,6 +1890,9 @@
         "Other"
     ],
     "gnpok/yafApi": [
+        "Other"
+    ],
+    "golang-easy/goTools": [
         "Other"
     ],
     "gold-duo/react-native-RealRecyclerView": [
