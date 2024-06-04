@@ -479,6 +479,9 @@
     "LC044/WeChatMsg": [
         "Other"
     ],
+    "LangbaseInc/langui": [
+        "Other"
+    ],
     "LarryUllman/phpvqs-5ed": [
         "Other"
     ],
@@ -957,9 +960,6 @@
         "Other"
     ],
     "agileago/agileTheme": [
-        "Other"
-    ],
-    "ahmadbilaldev/langui": [
         "Other"
     ],
     "ai-boost/awesome-prompts": [

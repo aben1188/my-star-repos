@@ -707,7 +707,7 @@
 * [hwchase17/langchain-hub](https://github.com/hwchase17/langchain-hub): None
 * [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs): 🦜🔗 Build context-aware reasoning applications 🦜🔗
 * [langgptai/LangGPT](https://github.com/langgptai/LangGPT): LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
-* [ahmadbilaldev/langui](https://github.com/ahmadbilaldev/langui): UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
+* [LangbaseInc/langui](https://github.com/LangbaseInc/langui): UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
 * [laravel/laravel](https://github.com/laravel/laravel): Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 * [laravel-china/laravel-docs](https://github.com/laravel-china/laravel-docs): Laravel 中文文档
 * [hhxsv5/laravel-s](https://github.com/hhxsv5/laravel-s): LaravelS is an out-of-the-box adapter between Laravel/Lumen and Swoole.
