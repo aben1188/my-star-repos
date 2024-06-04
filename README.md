@@ -273,6 +273,7 @@
 * [lincanbin/Carbon-Forum](https://github.com/lincanbin/Carbon-Forum): A high performance open-source forum software written in PHP. Discussions Tags based with Quora/StackOverflow style.
 * [Tai7sy/card-system](https://github.com/Tai7sy/card-system): 卡密商城系统，高效安全的在线卡密商城
 * [hjkcai/cardiovascular-tracker](https://github.com/hjkcai/cardiovascular-tracker): 心血管健康助理小程序代码仓库
+* [aehyok/Catizen-Auto-bot](https://github.com/aehyok/Catizen-Auto-bot): Today we presented you our bot for Catizen, with which you will get maximum automation in all processes of the gameToday we presented you our bot for Catizen, with which you will get maximum automation in all processes of the game
 * [dntzhang/cax](https://github.com/dntzhang/cax): Canvas 渲染引擎，支持 SVG，兼容了小程序、小游戏和 Web 
 * [zce/caz](https://github.com/zce/caz): A simple yet powerful template-based Scaffolding tools.
 * [CentOS/CentOS-Dockerfiles](https://github.com/CentOS/CentOS-Dockerfiles): Dockerfiles for various common implementations
@@ -546,7 +547,6 @@
 * [kaedei/gitignore](https://github.com/kaedei/gitignore): A collection of useful .gitignore templates
 * [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod): The developer platform for on-demand cloud development environments to create software faster and more securely.
 * [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum): Go implementation of the Ethereum protocol
-* [aehyok/go-openai](https://github.com/aehyok/go-openai): go 对接OpenAI ChatGPT接口，最新的functions call、GPT Vision、TTS
 * [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai): 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
 * [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai): 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
 * [xitu/gold-miner](https://github.com/xitu/gold-miner): 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
