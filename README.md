@@ -1046,6 +1046,7 @@
 * [remotion-dev/remotion](https://github.com/remotion-dev/remotion): 🎥      Make videos programmatically with React
 * [hezhizheng/repo-image-hosting](https://github.com/hezhizheng/repo-image-hosting): github | coding | gitee 图床 ，使用golang（Gin）实现
 * [hezhizheng/repo-storage](https://github.com/hezhizheng/repo-storage): 使用代码托管平台( github | coding | gitee )做自己 '私有' 的 '对象存储'
+* [putyy/res-downloader](https://github.com/putyy/res-downloader): 微信视频号、小程序、抖音、快手、小红书、酷狗音乐、qq音乐等网络资源下载!
 * [arielsalminen/ResponsiveSlides.js](https://github.com/arielsalminen/ResponsiveSlides.js): Simple & lightweight responsive slider plugin (in 1kb)
 * [resque/resque-web](https://github.com/resque/resque-web): a Rails-based web interface to Resque
 * [Yifan-Song793/RestGPT](https://github.com/Yifan-Song793/RestGPT): An LLM-based autonomous agent controlling real-world applications via RESTful APIs
@@ -1341,6 +1342,7 @@
 * [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor): wangEditor —— 开源 Web 富文本编辑器
 * [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API): 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
 * [yuchanns/warpflare](https://github.com/yuchanns/warpflare): Keep your WARP+ traffic topped up with Cloudflare Workers.
+* [Lannamokia/We](https://github.com/Lannamokia/We): None
 * [liruifengv/we-drawing](https://github.com/liruifengv/we-drawing): AI画图。每天一句中国古诗词，生成 AI 图片 Powered by Bing DALL-E-3.
 * [liujians/WeApp](https://github.com/liujians/WeApp): :clock3:基于微信小程序开发的仿微信demo
 * [laihaibo/weapp-bmscore](https://github.com/laihaibo/weapp-bmscore): a weapp to count badminton game score
@@ -1425,6 +1427,7 @@
 * [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg): 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
 * [blikr/WeChatShareCard](https://github.com/blikr/WeChatShareCard): WeChatShareCard，一款微信卡片分享链接免费在线制作工具；
 * [lecepin/WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader): 超方便的微信视频号下载器
+* [upupQo/WeChatVideoDownloader](https://github.com/upupQo/WeChatVideoDownloader): 超方便的微信视频号下载器
 * [xuncv/WechatVideoSniffer](https://github.com/xuncv/WechatVideoSniffer): 微信视频号PC版、微信看一看、微信公众号视频地址嗅探器
 * [wechaty/wechaty](https://github.com/wechaty/wechaty): Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt
 * [x-dr/wechaty-bot](https://github.com/x-dr/wechaty-bot): 一个基于wechaty和openai智能回复、支持上下文回复、AI绘画的微信机器人
