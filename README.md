@@ -67,6 +67,7 @@
 * [activepieces/activepieces](https://github.com/activepieces/activepieces): Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
 * [justboil/admin-one-vue-tailwind](https://github.com/justboil/admin-one-vue-tailwind): Free Vue.js 3.x Tailwind 3.x admin dashboard template with dark mode. Vite builds. Pinia state. Laravel integration available
 * [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+* [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic): AI agent stdlib that works with any LLM and TypeScript AI SDK
 * [agileago/agileTheme](https://github.com/agileago/agileTheme): a very beautiful theme for webstorm
 * [KeJunMao/ai-anything](https://github.com/KeJunMao/ai-anything): 💞 Anyone can create GPT tools 人人都能创建 GPT 工具
 * [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners): 12 Weeks, 24 Lessons, AI for All!
@@ -289,7 +290,6 @@
 * [dirk1983/chatgpt](https://github.com/dirk1983/chatgpt): 演示站现在可以免费使用ChatGPT对话和画图了。全网最易部署，响应速度最快的ChatGPT环境。PHP版调用OpenAI接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开。保姆级教程，账号等周边资源，欢迎进群交流，一切全免费。
 * [lencx/ChatGPT](https://github.com/lencx/ChatGPT): 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 * [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced): WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
-* [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api): Node.js client for the official ChatGPT API. 🔥
 * [Hello-SimpleAI/chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection): Human ChatGPT Comparison Corpus (HC3), Detectors, and more! 🔥
 * [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo): Minimal web UI for ChatGPT. 
 * [zhuzilin/chatgpt-desktop](https://github.com/zhuzilin/chatgpt-desktop): Desktop version of ChatGPT, support manually set cookie
