@@ -503,6 +503,9 @@
     "LinkedDestiny/swoole-yaf": [
         "Other"
     ],
+    "LiskArchive/lisk-sdk": [
+        "Other"
+    ],
     "Lixucheng/Simple-Calendar": [
         "Other"
     ],
@@ -3612,9 +3615,6 @@
         "Other"
     ],
     "shionphan/sslzoo": [
-        "Other"
-    ],
-    "shuse2/lisk-sdk": [
         "Other"
     ],
     "silently9527/coupons": [
