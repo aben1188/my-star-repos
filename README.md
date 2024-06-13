@@ -1220,7 +1220,6 @@
 * [loicminghetti/touchpdf](https://github.com/loicminghetti/touchpdf): PDF viewer supporting touch gestures for jQuery
 * [itmad/Tpay_Svr](https://github.com/itmad/Tpay_Svr): Tpay_Svr是微信和支付宝的个人免签 24小时全自动回调支付系统的php服务端程序
 * [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection): 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
-* [crlang/Trad-vieww-crck](https://github.com/crlang/Trad-vieww-crck): use vue and vuex create wordpress frontend page | 通过 Vue 实现前端驱动数据、后台使用的是WordPress 实现前后端分离
 * [ambition-hb/Trancefer](https://github.com/ambition-hb/Trancefer): 知乎爬虫——Mongo数据→MySQL数据
 * [hundredblocks/transcription_demo](https://github.com/hundredblocks/transcription_demo): None
 * [huggingface/transformers](https://github.com/huggingface/transformers): 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -1329,6 +1328,7 @@
 * [zhihuifanqiechaodan/vue3-admin-template](https://github.com/zhihuifanqiechaodan/vue3-admin-template): About 🎉 A magical vue3 admin http://vue3.zhihuifanqiechaodan.com
 * [vuejs/vuepress](https://github.com/vuejs/vuepress): 📝 Minimalistic Vue-powered static site generator
 * [vuepress-reco/vuepress-theme-reco-1.x](https://github.com/vuepress-reco/vuepress-theme-reco-1.x): 🎨 This is the repo for vuepress-theme-reco 1.
+* [crlang/VueWordPress](https://github.com/crlang/VueWordPress): use vue and vuex create wordpress frontend page | 通过 Vue 实现前端驱动数据、后台使用的是WordPress 实现前后端分离
 * [vum-team/vum](https://github.com/vum-team/vum): An UI Framework build with Vue.js for mobile webapp 
 * [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim): Vundle, the plug-in manager for Vim
 * [airyland/vux](https://github.com/airyland/vux): Mobile UI Components based on Vue & WeUI
