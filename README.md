@@ -1505,7 +1505,7 @@
 * [Licoy/wordpress-theme-puock](https://github.com/Licoy/wordpress-theme-puock): :art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh loading, etc.
 * [liangsonghua/wordpressTheme](https://github.com/liangsonghua/wordpressTheme): wordpress博客主题，高仿微信公众号图文消息
 * [walkor/workerman](https://github.com/walkor/workerman): An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols. 
-* [gallonyin/worktool](https://github.com/gallonyin/worktool): 【企业微信】企业微信机器人 聊天机器人、自动加好友、自动拉群、自动群发机器人 免Root零封号 集成ChatGPT
+* [gallonyin/worktool](https://github.com/gallonyin/worktool): Android无障碍服务工具
 * [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity): 我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。Now supports English! 官网: https://wtf.academy
 * [wux-weapp/wux-weapp](https://github.com/wux-weapp/wux-weapp): :dog: 一套组件化、可复用、易扩展的微信小程序 UI 组件库
 * [baoshan/wx](https://github.com/baoshan/wx): (minimalist) WeChat Middleware for Express.js
