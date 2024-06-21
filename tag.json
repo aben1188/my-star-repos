@@ -1898,9 +1898,6 @@
     "gnpok/yafApi": [
         "Other"
     ],
-    "golang-easy/goTools": [
-        "Other"
-    ],
     "gold-duo/react-native-RealRecyclerView": [
         "Other"
     ],
@@ -1950,6 +1947,9 @@
         "Other"
     ],
     "haixinsong/otld": [
+        "Other"
+    ],
+    "handy-golang/goTools": [
         "Other"
     ],
     "hanneskod/libmergepdf": [
