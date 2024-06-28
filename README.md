@@ -478,7 +478,7 @@
 * [espanso/espanso](https://github.com/espanso/espanso): Cross-platform Text Expander written in Rust
 * [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website): Ethereum.org is a primary online resource for the Ethereum community.
 * [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat): 微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）
-* [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english): 人人都能用英语
+* [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english): 人人都能用英语
 * [circlestarzero/EX-chatGPT](https://github.com/circlestarzero/EX-chatGPT): Let ChatGPT truly learn how to go online and call APIs! 'EX-ChatGPT' can rival and even surpass NewBing
 * [arv/ExplorerCanvas](https://github.com/arv/ExplorerCanvas): Canvas for IE8 and older
 * [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher): This project aims to enhance the working environment on Windows
