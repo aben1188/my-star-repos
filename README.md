@@ -701,7 +701,7 @@
 * [meta-magic/kubernetes_workshop](https://github.com/meta-magic/kubernetes_workshop): Kubernetes is an open source Container Orchestration System for automatic deployment, scaling, and management of Containerized application. Kubernetes gives you the freedom to take advantage of on-premise, hybrid or public cloud infrastructure. Kubernetes helps you to scale both horizontally and vertically depends on the load.
 * [maichong/labrador](https://github.com/maichong/labrador): 微信小程序模块化开发框架
 * [maichong/labrador-cli](https://github.com/maichong/labrador-cli): 拉布拉多命令工具，微信小程序模块化开发框架
-* [labring/laf](https://github.com/labring/laf): Laf is a cloud development platform offering ready-to-use resources like cloud functions, databases, and storage. It empowers developers to quickly unleash their creativity. 
+* [labring/laf](https://github.com/labring/laf): Laf is a vibrant cloud development platform that provides essential tools like cloud functions, databases, and storage solutions. It enables developers to quickly unleash their creativity and bring innovative ideas to life with ease.
 * [lixuancn/LaneWeChat](https://github.com/lixuancn/LaneWeChat): 微信PHP快速开发框架！将微信的各个功能进行了封装，只需要简单的调用方法和传递参数即可。
 * [langchain-ai/langchain](https://github.com/langchain-ai/langchain): 🦜🔗 Build context-aware reasoning applications
 * [hwchase17/langchain-hub](https://github.com/hwchase17/langchain-hub): None
