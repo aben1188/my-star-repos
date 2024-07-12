@@ -130,7 +130,7 @@
 * [sarat9/awesome-ai-saas](https://github.com/sarat9/awesome-ai-saas): List of handy AI gpt tools and apps for every day life
 * [jiji262/awesome-AIGC-tools](https://github.com/jiji262/awesome-AIGC-tools): AIGC information including ChatGPT , GPT-4 and others.
 * [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools): Collection of AI-related utilities. Welcome to submit issues and pull requests /收藏AI相关的实用工具，欢迎提交issues 或者pull requests
-* [aorumbayev/awesome-algorand](https://github.com/aorumbayev/awesome-algorand): ⚡A curated list of awesome resources related to the Ⱥlgorand Blockchain ⛓
+* [awesome-algorand/awesome-algorand](https://github.com/awesome-algorand/awesome-algorand): ⚡A curated list of awesome resources related to the Ⱥlgorand Blockchain ⛓
 * [snowdream/awesome-android](https://github.com/snowdream/awesome-android): android libs from github or other websites
 * [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence): A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 * [ScarletPan/awesome-autonomous-gpt](https://github.com/ScarletPan/awesome-autonomous-gpt): A curated list of awesome projects and resources related to autonomous AI agents.
