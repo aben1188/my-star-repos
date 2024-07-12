@@ -381,7 +381,7 @@
 * [HiddenStrawberry/Crawler_Illegal_Cases_In_China](https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China): Collection of China illegal cases about web crawler 本项目用来整理所有中国大陆爬虫开发者涉诉与违规相关的新闻、资料与法律法规。致力于帮助在中国大陆工作的爬虫行业从业者了解我国相关法律，避免触碰数据合规红线。 [AD]中文知识图谱门户 
 * [pangxiaobin/CrawlerHot](https://github.com/pangxiaobin/CrawlerHot): 今日热榜   抓取网站热榜信息，并且前端进行展示 go 实现版本：https://github.com/pangxiaobin/goCrawlerHot
 * [colinmollenhour/credis](https://github.com/colinmollenhour/credis): Lightweight PHP Redis client that can run standalone or wrap phpredis.
-* [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI): Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+* [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI): Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 * [crosswalk-project/crosswalk](https://github.com/crosswalk-project/crosswalk): A web runtime built on Chrome. This project is currently unmaintained. 
 * [cssdream/css-creating](https://github.com/cssdream/css-creating): CSS创作指南
 * [Kerinlin/CSS-Function](https://github.com/Kerinlin/CSS-Function): The detail of the css function
