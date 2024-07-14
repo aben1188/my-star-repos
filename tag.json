@@ -2822,9 +2822,6 @@
     "lucaong/minisearch": [
         "Other"
     ],
-    "luckykaiyi/nodejieba": [
-        "Other"
-    ],
     "luiscruzga/perplexityai": [
         "Other"
     ],
@@ -4422,6 +4419,9 @@
         "Other"
     ],
     "yanue/V2rayU": [
+        "Other"
+    ],
+    "yanyiwu/nodejieba": [
         "Other"
     ],
     "yanyiwu/sqljieba": [
