@@ -200,6 +200,7 @@
 * [facert/awesome-spider](https://github.com/facert/awesome-spider): 爬虫集合
 * [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss): 😎 Awesome things related to Tailwind CSS
 * [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri): 🚀 Awesome Tauri Apps, Plugins and Resources
+* [tradingview/awesome-tradingview](https://github.com/tradingview/awesome-tradingview): 🎉 A curated list of awesome things related to TradingView (widgets, charting library, lightweight-charts, etc)
 * [cedrickchee/awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp): A curated list of NLP resources focused on Transformer networks, attention mechanism, GPT, BERT, ChatGPT, LLMs, and transfer learning.
 * [vikadata/awesome-vikadata](https://github.com/vikadata/awesome-vikadata): 🙀 A list of awesome projects / resources / SDKs / frameworks that make Vikadata even more awesome. 🤪  https://vika.cn/developers
 * [xjh22222228/awesome-web-editor](https://github.com/xjh22222228/awesome-web-editor): 🔨  Open source WEB editor summary
