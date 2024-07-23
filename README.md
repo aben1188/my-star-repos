@@ -1050,7 +1050,7 @@
 * [remotion-dev/remotion](https://github.com/remotion-dev/remotion): 🎥      Make videos programmatically with React
 * [hezhizheng/repo-image-hosting](https://github.com/hezhizheng/repo-image-hosting): github | coding | gitee 图床 ，使用golang（Gin）实现
 * [hezhizheng/repo-storage](https://github.com/hezhizheng/repo-storage): 使用代码托管平台( github | coding | gitee )做自己 '私有' 的 '对象存储'
-* [putyy/res-downloader](https://github.com/putyy/res-downloader): 微信视频号、小程序、抖音、快手、小红书、酷狗音乐、qq音乐等网络资源下载!
+* [putyy/res-downloader](https://github.com/putyy/res-downloader): 视频号、小程序、抖音、快手、小红书、酷狗音乐、qq音乐等网络资源下载!
 * [arielsalminen/ResponsiveSlides.js](https://github.com/arielsalminen/ResponsiveSlides.js): Simple & lightweight responsive slider plugin (in 1kb)
 * [resque/resque-web](https://github.com/resque/resque-web): a Rails-based web interface to Resque
 * [Yifan-Song793/RestGPT](https://github.com/Yifan-Song793/RestGPT): An LLM-based autonomous agent controlling real-world applications via RESTful APIs
