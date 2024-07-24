@@ -1205,7 +1205,7 @@
 * [kazaff/third-part-auth](https://github.com/kazaff/third-part-auth): qq和微信的第三方登录中间件
 * [wechat-miniprogram/threejs-miniprogram](https://github.com/wechat-miniprogram/threejs-miniprogram): WeChat MiniProgram adapted version of Three.js
 * [tiddly-gittly/Tiddlywiki-NodeJS-Github-Template](https://github.com/tiddly-gittly/Tiddlywiki-NodeJS-Github-Template): Template to generate a auto-sync-to-github, privatcy-in-mind, freely-deployed TiddlyWiki.
-* [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5): A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
+* [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5): A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 * [tiddly-gittly/TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop): TidGi is an privatcy-in-mind, automated, auto-git-backup, freely-deployed Tiddlywiki knowledge management Desktop note app, with local REST API. 「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。（迭代开发中欢迎试用，开发进度见下方链接）(Under active development, see website below for details) 
 * [jonas/tig](https://github.com/jonas/tig): Text-mode interface for git
 * [xbzstudio/Timeless-Sydney](https://github.com/xbzstudio/Timeless-Sydney): 好用的New Bing web客户端，功能众多~
