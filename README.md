@@ -400,6 +400,7 @@
 * [date-fns/date-fns](https://github.com/date-fns/date-fns): ⏳ Modern JavaScript date utility library ⌛️
 * [itwanger/daxigua](https://github.com/itwanger/daxigua): 合成大西瓜未修改版本源码，可直接在浏览器运行
 * [liyupi/daxigua](https://github.com/liyupi/daxigua): 最简单的魔改发布『 合成大西瓜 』，配套改图工具，不用改代码，修改配置即可！
+* [iamkun/dayjs](https://github.com/iamkun/dayjs): ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 * [tisfeng/deepl-cli](https://github.com/tisfeng/deepl-cli): A simple DeepL Translation command line program written in Python that does not require key.  一个使用 Python 编写、无需 auth_key 的 DeepL 翻译命令行工具。
 * [Shougo/defx.nvim](https://github.com/Shougo/defx.nvim): :file_folder: The dark powered file explorer implementation for neovim/Vim8
 * [spipm/Depix](https://github.com/spipm/Depix): Recovers passwords from pixelized screenshots
