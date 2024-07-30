@@ -1088,6 +1088,9 @@
     "apache/logging-log4php": [
         "Other"
     ],
+    "apify/crawlee-python": [
+        "Other"
+    ],
     "appium/appium": [
         "Other"
     ],
