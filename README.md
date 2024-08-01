@@ -64,7 +64,7 @@
 * [beyondgrep/ack2](https://github.com/beyondgrep/ack2): **ack 2 is no longer being maintained.  ack 3 is the latest version.**
 * [kaienkira/acme-client](https://github.com/kaienkira/acme-client): a small tool to get and renew tls certs from let's encrypt
 * [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh): A pure Unix shell script implementing ACME client protocol
-* [activepieces/activepieces](https://github.com/activepieces/activepieces): Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
+* [activepieces/activepieces](https://github.com/activepieces/activepieces): Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 * [justboil/admin-one-vue-tailwind](https://github.com/justboil/admin-one-vue-tailwind): Free Vue.js 3.x Tailwind 3.x admin dashboard template with dark mode. Vite builds. Pinia state. Laravel integration available
 * [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 * [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic): AI agent stdlib that works with any LLM and TypeScript AI SDK.
