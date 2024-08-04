@@ -925,7 +925,7 @@
 * [jaredhanson/passport](https://github.com/jaredhanson/passport): Simple, unobtrusive authentication for Node.js.
 * [mckaywrigley/paul-graham-gpt](https://github.com/mckaywrigley/paul-graham-gpt): AI search & chat for all of Paul Graham’s essays.
 * [kongzhidea/pay](https://github.com/kongzhidea/pay): 微信支付，支付宝支付
-* [yansongda/pay](https://github.com/yansongda/pay): 可能是我用过的最优雅的 Alipay/WeChat/Unipay/江苏银行 的支付 SDK 扩展包了
+* [yansongda/pay](https://github.com/yansongda/pay): 可能是我用过的最优雅的 Alipay/WeChat/Douyin/Unipay/江苏银行 的支付 SDK 扩展包了
 * [helei112g/payment](https://github.com/helei112g/payment): Payment是php版本的支付聚合第三方sdk，集成了微信支付、支付宝支付、招商一网通支付。提供统一的调用接口，方便快速接入各种支付、查询、退款、转账能力。服务端接入支付功能，方便、快捷。
 * [Yurunsoft/PaySDK](https://github.com/Yurunsoft/PaySDK): PHP 集成支付 SDK ，集成了支付宝、微信支付的支付接口和其它相关接口的操作。支持 php-fpm 和 Swoole，所有框架通用。宇润PHP全家桶技术支持群：17916227
 * [BlackTrace/pc_wxapkg_decrypt](https://github.com/BlackTrace/pc_wxapkg_decrypt): windows pc端wxpkg文件解密（非解包）
