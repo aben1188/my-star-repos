@@ -392,7 +392,7 @@
 * [MicheleBertoli/css-in-js](https://github.com/MicheleBertoli/css-in-js): React: CSS in JS techniques comparison
 * [css-modules/css-modules](https://github.com/css-modules/css-modules): Documentation about css-modules
 * [Iwouldliketobeapig/css-properties-sorting](https://github.com/Iwouldliketobeapig/css-properties-sorting): this is a plugin for css properies order,
-* [cssmagic/CSS-Secrets](https://github.com/cssmagic/CSS-Secrets): 《CSS 揭秘》这本书的大本营
+* [cssmagic/CSS-Secrets](https://github.com/cssmagic/CSS-Secrets): 📖 《CSS 揭秘》这本书的大本营。
 * [Jackardios/css-to-tailwindcss](https://github.com/Jackardios/css-to-tailwindcss): Convert CSS to TailwindCSS 3.x
 * [jolaleye/cssfx](https://github.com/jolaleye/cssfx): ✨ Beautifully simple click-to-copy CSS effects
 * [CSSLint/csslint](https://github.com/CSSLint/csslint): Automated linting of Cascading Stylesheets
