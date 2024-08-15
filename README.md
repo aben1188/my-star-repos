@@ -1081,7 +1081,7 @@
 * [Monibrand/se-scraper](https://github.com/Monibrand/se-scraper): Javascript scraping module based on puppeteer for many different search engines...
 * [seajs/seajs](https://github.com/seajs/seajs): A Module Loader for the Web
 * [sealerio/sealer](https://github.com/sealerio/sealer): Build, Share and Run Both Your Kubernetes Cluster and Distributed Applications  (Project under CNCF)
-* [labring/sealos](https://github.com/labring/sealos): Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. You can run any Docker image on sealos, start high availability databases like mysql/pgsql/redis/mongo, develop backend applications using any Programming language
+* [labring/sealos](https://github.com/labring/sealos): Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. You can run any Docker image on sealos, start high availability databases like mysql/pgsql/redis/mongo, develop applications using any Programming language
 * [SeasX/SeasLog](https://github.com/SeasX/SeasLog): An effective,fast,stable log extension for PHP.http://pecl.php.net/package/SeasLog http://php.net/SeasLog
 * [luochen1990/select-and-search](https://github.com/luochen1990/select-and-search): an useful vim plugin: select text in v mode, then press n to search next one (N for prev one)
 * [Pitmairen/selection-search](https://github.com/Pitmairen/selection-search): Search extension for the chrome web browser
