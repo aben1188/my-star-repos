@@ -738,7 +738,7 @@
 * [coolhwm/leshare-shop-wepy](https://github.com/coolhwm/leshare-shop-wepy): 基于微信小程序的在线商城，采用wepy框架开发
 * [amfe/lib-flexible](https://github.com/amfe/lib-flexible): 可伸缩布局方案
 * [hanneskod/libmergepdf](https://github.com/hanneskod/libmergepdf): PHP library for merging multiple PDFs
-* [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
+* [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. Actively in public development.
 * [rime/librime](https://github.com/rime/librime): Rime Input Method Engine, the core library
 * [creativetimofficial/light-bootstrap-dashboard](https://github.com/creativetimofficial/light-bootstrap-dashboard): Light Bootstrap Dashboard is an admin dashboard template designed to be beautiful and simple. 
 * [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim): A light and configurable statusline/tabline plugin for Vim
@@ -1362,7 +1362,7 @@
 * [nslogx/weapp-poem](https://github.com/nslogx/weapp-poem): 诗词墨客 - 最全中华古诗词小程序
 * [phodal/weapp-quick](https://github.com/phodal/weapp-quick): 微信小应用示例代码
 * [byk04712/weapp-swiper3D](https://github.com/byk04712/weapp-swiper3D): 微信小程序3D滑动
-* [sonofmagic/weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss): bring tailwindcss to weapp ! 把 `tailwindcss` 原子化思想带入小程序开发吧 ! 原 `weapp-tailwindcss-webpack-plugin`
+* [sonofmagic/weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss): bring tailwindcss to weapp ! 把 `tailwindcss` 原子化思想带入小程序开发吧 ! 
 * [phodal/weapp-webdemo](https://github.com/phodal/weapp-webdemo): A Hack of Weapp Framework
 * [RebeccaHanjw/weapp-wechat-zhihu](https://github.com/RebeccaHanjw/weapp-wechat-zhihu): 微信中的知乎--微信小程序 demo // Zhihu in Wechat
 * [szy0syz/weapp-wedding-photo](https://github.com/szy0syz/weapp-wedding-photo): 使用wepy框架写的婚纱摄影微信小程序
