@@ -901,6 +901,7 @@
 * [OpenBazaar/OpenBazaar-Client](https://github.com/OpenBazaar/OpenBazaar-Client): (DEPRECATED) Front-end Electron application for talking with the OpenBazaar-Server daemon
 * [OpenBazaar/openbazaar-desktop](https://github.com/OpenBazaar/openbazaar-desktop): OpenBazaar 2.0 Desktop Client (talks to openbazaar-go server daemon)
 * [OpenBazaar/OpenBazaar-Server](https://github.com/OpenBazaar/OpenBazaar-Server): (Deprecated) OpenBazaar 1.0 Server daemon for communication with OpenBazaar-Client
+* [PetoiCamp/OpenCat](https://github.com/PetoiCamp/OpenCat): An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development. 
 * [vernesong/OpenClash](https://github.com/vernesong/OpenClash): A Clash Client For OpenWrt
 * [leidenglai/opencv-js-qrcode](https://github.com/leidenglai/opencv-js-qrcode): 基于opencv与wechat_qrcode实现的JS版二维码图像识别库
 * [yulingchen/openMina](https://github.com/yulingchen/openMina): 一个开放的、运行微信小程序的Web MINA框架
