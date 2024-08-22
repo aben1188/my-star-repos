@@ -1026,6 +1026,7 @@
 * [cuiliang/Quicker](https://github.com/cuiliang/Quicker): Quicker软件反馈repo
 * [zhangxinxu/quickLayout](https://github.com/zhangxinxu/quickLayout): quickLayout
 * [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook): Bring macOS “Quick Look” feature to Windows
+* [LLM-Red-Team/qwen-free-api](https://github.com/LLM-Red-Team/qwen-free-api): 🚀 阿里通义千问2.5大模型逆向API白嫖测试【特长：六边形战士】，支持高速流式输出、无水印AI绘图、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 * [jianyan74/rageframe2](https://github.com/jianyan74/rageframe2): 一个基于 Yii2 高级框架的快速开发应用引擎
 * [goodrain/rainbond](https://github.com/goodrain/rainbond): No need to know Kubernetes' cloud native application management platform | 不用懂 Kubernetes 的云原生应用管理平台
 * [luochen1990/rainbow](https://github.com/luochen1990/rainbow): Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.
