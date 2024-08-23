@@ -1371,6 +1371,7 @@
 * [dongweiming/weapp-zhihulive](https://github.com/dongweiming/weapp-zhihulive): 知乎Live微信小程序 & asyncio爬虫
 * [tolerance-go/weappx](https://github.com/tolerance-go/weappx): 🌱基于 redux 的轻量级小程序状态管理框架，适配原生小程序，wepy，taro
 * [rime/weasel](https://github.com/rime/weasel): 【小狼毫】Rime for Windows
+* [webclipper/web-clipper](https://github.com/webclipper/web-clipper): For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 * [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm): High-performance In-browser LLM Inference Engine 
 * [walkor/web-msg-sender](https://github.com/walkor/web-msg-sender): Web message pusher  written in PHP based on workerman.
 * [joewalnes/web-vmstats](https://github.com/joewalnes/web-vmstats): Prettify vmstats in your browser
