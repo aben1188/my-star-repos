@@ -414,6 +414,7 @@
 * [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar): 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
 * [docmirror/dev-sidecar-doc](https://github.com/docmirror/dev-sidecar-doc): None
 * [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+* [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys): A Swiss Army knife for developers.
 * [devv-ai/devv](https://github.com/devv-ai/devv): An AI-powered search engine for developers.
 * [langgenius/dify](https://github.com/langgenius/dify): Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 * [Miserlou/DirtyShare](https://github.com/Miserlou/DirtyShare): Peer to Peer Filesharing in Pure Javascript With Node.js and Socket.io
