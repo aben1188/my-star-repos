@@ -1106,6 +1106,7 @@
 * [flatlogic/sing-app-vue-dashboard](https://github.com/flatlogic/sing-app-vue-dashboard): Vue.js admin dashboard template built with Bootstrap 4.5
 * [SagerNet/sing-box](https://github.com/SagerNet/sing-box): The universal proxy platform
 * [sveltejs/sites](https://github.com/sveltejs/sites): Monorepo for the sites in the Svelte ecosystem
+* [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan): A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 * [jayZOU/skeleton](https://github.com/jayZOU/skeleton): miniprogram to generate the skeleton page automatically
 * [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton): A complete design system and component solution, built on Tailwind.
 * [Justineo/slideshows](https://github.com/Justineo/slideshows): My slideshows about techical stuff.
