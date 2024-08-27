@@ -1107,6 +1107,7 @@
 * [SagerNet/sing-box](https://github.com/SagerNet/sing-box): The universal proxy platform
 * [sveltejs/sites](https://github.com/sveltejs/sites): Monorepo for the sites in the Svelte ecosystem
 * [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan): A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+* [terwer/siyuan-plugin-publisher](https://github.com/terwer/siyuan-plugin-publisher): ✈️ Publish articles from siyuan-note to platforms such as Yuque, etc.Free and open source. 将思源笔记的文章发布到语雀等平台，开源免费。
 * [jayZOU/skeleton](https://github.com/jayZOU/skeleton): miniprogram to generate the skeleton page automatically
 * [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton): A complete design system and component solution, built on Tailwind.
 * [Justineo/slideshows](https://github.com/Justineo/slideshows): My slideshows about techical stuff.
