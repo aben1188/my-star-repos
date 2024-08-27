@@ -1026,6 +1026,7 @@
 * [larrykluger/Question-2-Answer-Proxy-SSO-Plugin](https://github.com/larrykluger/Question-2-Answer-Proxy-SSO-Plugin): Easily enable your main app to serve as an SSO authentication system for the Question 2 Answer forum system. See http://www.question2answer.org
 * [q2a/question2answer](https://github.com/q2a/question2answer): Question2Answer is a free and open source platform for Q&A sites, running on PHP/MySQL.
 * [cuiliang/Quicker](https://github.com/cuiliang/Quicker): Quicker软件反馈repo
+* [cuiliang/QuickerConnectorExtension](https://github.com/cuiliang/QuickerConnectorExtension): Chrome extension for Quicker (Quicker的浏览器扩展)
 * [zhangxinxu/quickLayout](https://github.com/zhangxinxu/quickLayout): quickLayout
 * [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook): Bring macOS “Quick Look” feature to Windows
 * [LLM-Red-Team/qwen-free-api](https://github.com/LLM-Red-Team/qwen-free-api): 🚀 阿里通义千问2.5大模型逆向API白嫖测试【特长：六边形战士】，支持高速流式输出、无水印AI绘图、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
