@@ -852,7 +852,7 @@
 * [preservim/nerdtree](https://github.com/preservim/nerdtree): A tree explorer plugin for vim.
 * [sqaiyan/NeteaseMusicWxMiniApp](https://github.com/sqaiyan/NeteaseMusicWxMiniApp): 仿网易云音乐APP的微信小程序
 * [Neuronicx/Neuronicx-Duck-](https://github.com/Neuronicx/Neuronicx-Duck-): 优质稳定的OpenAI的API接口-For企业和开发者。openai的国内代理，国内接口请求转发，api proxy，提供ChatGPT的API调用，支持openai的API接口，支持：gpt-4，gpt-3.5。不需要openai Key, 不需要买openai的账号，不需要科学上网，不需要美元的银行卡，通通不用的，直接调用就行，稳定好用！！新加坡Neuronicx&DuckAGI
-* [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac): 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载
+* [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac): 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、美区apple id共享账号
 * [jianjianai/NewBingGoGo-Web](https://github.com/jianjianai/NewBingGoGo-Web): 一个基于微软OpenAI ChatGPT GPT4的New Bing接口的Web服务。 提供了好看的对话页面。 实现了微软New Bing的大多数功能，还添加了一些自己的特色功能。 开源免费。
 * [lipeng0820/newBingHelper](https://github.com/lipeng0820/newBingHelper): None
 * [echosoar/news](https://github.com/echosoar/news): 基于SimHash算法聚合相似全网内容，根据来源数量进行排序，并对一些内容进行过滤
