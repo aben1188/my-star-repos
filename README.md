@@ -570,7 +570,7 @@
 * [1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition): 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台
 * [JimLiu/gpt-api](https://github.com/JimLiu/gpt-api): None
 * [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler): Crawl a site to generate knowledge files to create your own custom GPT from a URL
-* [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer): Specify what you want it to build, the AI asks for clarification, and then builds it. Completely separate team and codebase from the AI Web App builder https://gptengineer.app
+* [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer): NOTE: This is different from https://gptengineer.app                                                        Experimental playground for a terminal based AI Software Engineer
 * [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter): Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
 * [1mrat/gpt-stats](https://github.com/1mrat/gpt-stats): Stats for Custom Chat GPTs not created by OpenAI
 * [mymusise/gpt2-quickly](https://github.com/mymusise/gpt2-quickly): None
