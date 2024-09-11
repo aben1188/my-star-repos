@@ -154,6 +154,7 @@
 * [EmbraceAGI/awesome-chatgpt-zh](https://github.com/EmbraceAGI/awesome-chatgpt-zh): ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
 * [caiyongmin/awesome-coding-javascript](https://github.com/caiyongmin/awesome-coding-javascript): 📌 持续构建个人的源码库（JavaScript 原生、常用库、数据结构、算法）
 * [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography): A curated list of cryptography resources and links.
+* [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow): 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
 * [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt): 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
 * [opendigg/awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp): 微信小程序开源项目库汇总
 * [KeyToLove/awesome-gpt](https://github.com/KeyToLove/awesome-gpt): Awesome-gpt, 基于 OpenAI 定制化的 Chatgpt Web 应用
@@ -414,6 +415,7 @@
 * [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar): 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
 * [docmirror/dev-sidecar-doc](https://github.com/docmirror/dev-sidecar-doc): None
 * [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+* [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub): A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
 * [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys): A Swiss Army knife for developers.
 * [devv-ai/devv](https://github.com/devv-ai/devv): An AI-powered search engine for developers.
 * [langgenius/dify](https://github.com/langgenius/dify): Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
