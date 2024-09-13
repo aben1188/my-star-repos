@@ -986,6 +986,7 @@
 * [ambition-hb/Pool_Proxy](https://github.com/ambition-hb/Pool_Proxy): IP Agent Pool (IP代理池)
 * [postcss/postcss](https://github.com/postcss/postcss): Transforming styles with JS plugins
 * [crimx/postcss-safe-important](https://github.com/crimx/postcss-safe-important): PostCSS plugin that adds !important to style declarations safely.
+* [palxiao/poster-design](https://github.com/palxiao/poster-design): 一款漂亮且功能强大的在线海报设计器，图片编辑器，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!
 * [supermarin/powerline-fonts](https://github.com/supermarin/powerline-fonts): Patched fonts for Powerline users.
 * [microsoft/PowerToys](https://github.com/microsoft/PowerToys): Windows system utilities to maximize productivity
 * [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto): The configuration framework for Zsh
