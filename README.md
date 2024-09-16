@@ -285,7 +285,7 @@
 * [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge): An open-source visual programming environment for battle-testing prompts to LLMs.
 * [sugarforever/chat-ollama](https://github.com/sugarforever/chat-ollama): ChatOllama is an open source chatbot based on LLMs. It supports a wide range of language models, and knowledge base management.
 * [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL):  Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
-* [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui): AI chat for every model.
+* [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui): Come join the best place on the internet to learn AI skills. Use code "chatbotui" for an extra 20% off.
 * [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox): User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 * [atorber/chatflow](https://github.com/atorber/chatflow): 一个使用wechaty构建的机器人业务管理平台
 * [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT): Reverse engineered ChatGPT API
