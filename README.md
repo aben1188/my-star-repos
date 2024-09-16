@@ -1159,6 +1159,8 @@
 * [banodoco/Steerable-Motion](https://github.com/banodoco/Steerable-Motion): A ComfyUI node for driving videos using batches of images.
 * [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf): Control and manage Android devices from your browser.
 * [BlackGlory/subtitle-translate-tmt](https://github.com/BlackGlory/subtitle-translate-tmt): 🌳 使用腾讯机器翻译 API 为 PotPlayer 翻译实时字幕.
+* [NeoVertex1/SuperPrompt](https://github.com/NeoVertex1/SuperPrompt): SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.
+* [umaplehurst/SuperPrompt.gemini](https://github.com/umaplehurst/SuperPrompt.gemini): SuperPrompt for Gemini
 * [hylarucoder/svd-webui](https://github.com/hylarucoder/svd-webui): None
 * [chunghha/svelte-daisy](https://github.com/chunghha/svelte-daisy): SvelteKit Starter with DaisyUI
 * [kaisermann/svelte-i18n](https://github.com/kaisermann/svelte-i18n): Internationalization library for Svelte
