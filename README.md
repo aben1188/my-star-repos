@@ -340,6 +340,7 @@
 * [Z-Siqi/Clash-for-Windows_Rule](https://github.com/Z-Siqi/Clash-for-Windows_Rule): Clash流媒体等策略组规则整合. Clash proxy rules. Make a website/media be proxied by a specific country server.
 * [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge): A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 * [2dust/clashN](https://github.com/2dust/clashN): A clash client for Windows, support Mihomo
+* [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev): Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
 * [nakkag/CLCL](https://github.com/nakkag/CLCL): None
 * [npm/cli](https://github.com/npm/cli): the package manager for JavaScript
 * [google/closure-library](https://github.com/google/closure-library): Google's common JavaScript library
