@@ -510,6 +510,7 @@
 * [php-fig/fig-standards](https://github.com/php-fig/fig-standards): Standards either proposed or approved by the Framework Interop Group
 * [finogeeks/finclip-ios-demo](https://github.com/finogeeks/finclip-ios-demo): 小程序容器 FinClip 苹果运行环境，让小程序在苹果应用中无缝运行  / iOS DEMO for FinClip
 * [mozilla/Fira](https://github.com/mozilla/Fira): Mozilla's new typeface, used in Firefox OS
+* [mendableai/firecrawl](https://github.com/mendableai/firecrawl): 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 * [rolyatmax/fireworks](https://github.com/rolyatmax/fireworks): experimenting with algorithms for creating curves on a canvas
 * [jeromeetienne/fireworks.js](https://github.com/jeromeetienne/fireworks.js): Particles engine in javascript
 * [flarum/flarum](https://github.com/flarum/flarum): Simple forum software for building great communities.
