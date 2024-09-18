@@ -705,6 +705,7 @@
 * [justauth/justauth-php](https://github.com/justauth/justauth-php): PHP 版 JustAuth，目前已支持 GITEE 、GITHUB 、OSChina、StackOverflow 、百度、微博、抖音、QQ 、钉钉平台。
 * [dong-sir/jutils](https://github.com/dong-sir/jutils): JavaScript常用函数库，提升前端开发效率。
 * [AlloyTeam/JX](https://github.com/AlloyTeam/JX): JX(Javascript eXtension tools) 是腾讯AlloyTeam推出的模块化、非侵入式Web前端框架，适合构建和组织工业级大规模、高效率的 Web App
+* [k3s-io/k3s](https://github.com/k3s-io/k3s): Lightweight Kubernetes
 * [BennyWang/KBinding](https://github.com/BennyWang/KBinding): Android MVVM framework write in kotlin, develop Android has never been so fun.
 * [Tencent/kbone](https://github.com/Tencent/kbone): 一个致力于微信小程序和 Web 端同构的解决方案
 * [kikiakikia/keyword](https://github.com/kikiakikia/keyword): 敏感词整理
@@ -1219,6 +1220,7 @@
 * [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
 * [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher): A code-searching tool similar to ack, but faster.
 * [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary): A collection of prompts, system prompts and LLM instructions
+* [lucasmrdt/TheBigPromptLibrary](https://github.com/lucasmrdt/TheBigPromptLibrary): A collection of prompts, system prompts and LLM instructions
 * [saadeghi/theme-change](https://github.com/saadeghi/theme-change): Change CSS theme with toggle, buttons or select using CSS custom properties and localStorage
 * [top-think/thinkphp](https://github.com/top-think/thinkphp): ThinkPHP3.2 ——基于PHP5的简单快速的面向对象的PHP框架
 * [thinksaas/ThinkSAAS](https://github.com/thinksaas/ThinkSAAS): ThinkSAAS open source community
