@@ -1383,7 +1383,7 @@
 * [nslogx/weapp-poem](https://github.com/nslogx/weapp-poem): 诗词墨客 - 最全中华古诗词小程序
 * [phodal/weapp-quick](https://github.com/phodal/weapp-quick): 微信小应用示例代码
 * [byk04712/weapp-swiper3D](https://github.com/byk04712/weapp-swiper3D): 微信小程序3D滑动
-* [sonofmagic/weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss): weapp-tailwindcss - bring tailwindcss to weapp ! 把 tailwindcss 原子化思想带入小程序开发吧 !  weapp-vite 把现代化的开发模式带入小程序开发
+* [sonofmagic/weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss): weapp-tailwindcss - bring tailwindcss to weapp ! 把 tailwindcss 原子化思想带入小程序开发吧 !  
 * [phodal/weapp-webdemo](https://github.com/phodal/weapp-webdemo): A Hack of Weapp Framework
 * [RebeccaHanjw/weapp-wechat-zhihu](https://github.com/RebeccaHanjw/weapp-wechat-zhihu): 微信中的知乎--微信小程序 demo // Zhihu in Wechat
 * [szy0syz/weapp-wedding-photo](https://github.com/szy0syz/weapp-wedding-photo): 使用wepy框架写的婚纱摄影微信小程序
