@@ -1076,7 +1076,7 @@
 * [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher): :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 * [geesondog/rhaphp](https://github.com/geesondog/rhaphp): RhaPHP是微信第三方管理平台，微信公众号管理系统，支持多公众号管理，CRM会员管理，小程序开发，APP接口开发、几乎集合微信功能，简洁、快速上手、快速开发微信各种各样应用。简洁、好用、快速、项目开发快几倍 。
 * [Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy): Rime输入法安装脚本，让一切更轻松。Make using Rime easy. 
-* [functoreality/rime-flypy-zrmfast](https://github.com/functoreality/rime-flypy-zrmfast): Rime 输入法配置文件，小鹤双拼+自然快手/小鹤双形辅助码
+* [functoreality/rime-flypy-zrmfast](https://github.com/functoreality/rime-flypy-zrmfast): 打字不翻页——Rime 输入法 双拼+辅助码方案
 * [iDvel/rime-ice](https://github.com/iDvel/rime-ice): Rime 配置：雾凇拼音 | 长期维护的简体词库
 * [rokstrnisa/RoboGPT](https://github.com/rokstrnisa/RoboGPT): A simple and extensible program that helps you run GPT-4 model autonomously.
 * [rocboss/ROCBOSS-OLD](https://github.com/rocboss/ROCBOSS-OLD): High load, simple micro community software
