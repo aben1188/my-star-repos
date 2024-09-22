@@ -477,6 +477,7 @@
 * [egret-labs/egret-game-library](https://github.com/egret-labs/egret-game-library): Egret Game Library
 * [ambition-hb/EL_2018](https://github.com/ambition-hb/EL_2018): 知乎爬虫（从问题出发）——英语学习话题
 * [electron/electron](https://github.com/electron/electron): :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+* [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue): 🥳 Really simple Electron + Vite + Vue boilerplate.
 * [ElemeFE/element](https://github.com/ElemeFE/element): A Vue.js 2.0 UI Toolkit for Web
 * [purcell/emacs.d](https://github.com/purcell/emacs.d): An Emacs configuration bundle with batteries included
 * [redguardtoo/emacs.d](https://github.com/redguardtoo/emacs.d): Fast and robust Emacs setup.
