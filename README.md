@@ -790,6 +790,7 @@
 * [duo/matrix-qq](https://github.com/duo/matrix-qq): A Matrix-QQ puppeting bridge
 * [joschuck/matrix-webcam](https://github.com/joschuck/matrix-webcam): Take your video conference from within the matrix.
 * [duo/matrix-wechat](https://github.com/duo/matrix-wechat): A Matrix-WeChat puppeting bridge
+* [whistyun/MdXaml](https://github.com/whistyun/MdXaml): Markdown for WPF - alternate version of Markdown.Xaml
 * [catfan/Medoo](https://github.com/catfan/Medoo): The lightweight PHP database framework to accelerate the development.
 * [easychen/MemberPrism2](https://github.com/easychen/MemberPrism2): open source alternative to memberstack / memberspace , but with both front and backend member-only content protection
 * [yaleh/meta-prompt](https://github.com/yaleh/meta-prompt): Meta Prompt, which involves generating a language model prompt using another language model.
