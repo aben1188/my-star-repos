@@ -231,6 +231,7 @@
 * [JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1): BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表)
 * [bullhe4d/bigwatermelon](https://github.com/bullhe4d/bigwatermelon): 合成大西瓜源码,修改版
 * [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved): 强大的哔哩哔哩增强脚本
+* [linyiLYi/bilibot](https://github.com/linyiLYi/bilibot): A local chatbot fine-tuned by bilibili user comments.
 * [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen): Optimizer and compiler/toolchain library for WebAssembly
 * [transitive-bullshit/bing-chat](https://github.com/transitive-bullshit/bing-chat): Node.js client for Bing's new AI-powered search. It's like ChatGPT on steroids 🔥
 * [anaclumos/bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers): Enable Bing ChatGPT on Chrome and Firefox
