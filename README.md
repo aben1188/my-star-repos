@@ -688,6 +688,7 @@
 * [lijialong1314/JDUnionAPIV2](https://github.com/lijialong1314/JDUnionAPIV2): 京东联盟新版接口PHPSDK
 * [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin): The Free Software Media System
 * [fxsjy/jieba](https://github.com/fxsjy/jieba): 结巴中文分词
+* [sebastienros/jint](https://github.com/sebastienros/jint): Javascript Interpreter for .NET
 * [JPressProjects/jpress](https://github.com/JPressProjects/jpress): JPress，一个使用 Java 开发的建站神器，目前已经有 10w+ 网站使用 JPress 进行驱动，其中包括多个政府机构，200+上市公司，中科院、红+字会等。
 * [jquery/jquery](https://github.com/jquery/jquery): jQuery JavaScript Library
 * [jquery/jquery-migrate](https://github.com/jquery/jquery-migrate): A development tool to help migrate away from APIs and features that have been or will be removed from jQuery core
