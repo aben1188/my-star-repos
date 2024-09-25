@@ -908,7 +908,7 @@
 * [nladuo/online_office_viewer](https://github.com/nladuo/online_office_viewer): preview doc/ppt/xls online via unoconv.
 * [stubbornella/oocss](https://github.com/stubbornella/oocss): Object Oriented CSS Framework
 * [OldPanda/Open-the-F-king-URL-Right-Now](https://github.com/OldPanda/Open-the-F-king-URL-Right-Now): 自动跳转某些网站不希望用户直达的外链
-* [open-webui/open-webui](https://github.com/open-webui/open-webui): User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+* [open-webui/open-webui](https://github.com/open-webui/open-webui): User-friendly WebUI for AI (Formerly Ollama WebUI)
 * [easychen/openai-api-proxy](https://github.com/easychen/openai-api-proxy): 一行Docker命令部署的 OpenAI/GPT API代理，支持SSE流式返回、腾讯云函数 。Simple proxy for OpenAi api via a one-line docker command
 * [admineral/OpenAI-Assistant-API-Chat](https://github.com/admineral/OpenAI-Assistant-API-Chat): OpenAI Assistant API Template: Customize your Assistant and chat with your files.
 * [openai/openai-node](https://github.com/openai/openai-node): The official Node.js / Typescript library for the OpenAI API
@@ -1011,6 +1011,7 @@
 * [EgoAlpha/prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning): Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.
 * [TakSec/Prompt-Injection-Everywhere](https://github.com/TakSec/Prompt-Injection-Everywhere): Prompt Injections Everywhere
 * [phodal/prompt-patterns](https://github.com/phodal/prompt-patterns): Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt
+* [pyronn/prompt-studio](https://github.com/pyronn/prompt-studio): Prompt Studio MidJourney提示词可视化编辑与管理工具
 * [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool): Python ProxyPool for web spider
 * [derekhe/ProxyPool](https://github.com/derekhe/ProxyPool): 高质量免费代理池——每日1w+代理资源滚动更新
 * [lanhebe/proxypool](https://github.com/lanhebe/proxypool): 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表，每小时更新
