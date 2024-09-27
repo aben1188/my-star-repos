@@ -432,6 +432,7 @@
 * [yeszao/dnmp](https://github.com/yeszao/dnmp): Docker LNMP (Nginx, PHP7/PHP5, MySQL, Redis)
 * [guanguans/dnmp-plus](https://github.com/guanguans/dnmp-plus): 🐳 Docker 的 LNMP 一键安装开发环境 + PHP 非侵入式监控平台 xhgui。
 * [mochat-cloud/docker-compose](https://github.com/mochat-cloud/docker-compose): 🐳 The docker compose offered by MoChat.
+* [mochat-cloud/docker-compose](https://github.com/mochat-cloud/docker-compose): 🐳 The docker compose offered by MoChat.
 * [eternity-wdd/docker-env](https://github.com/eternity-wdd/docker-env): This project includes using docker to build the environment automatically
 * [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer): Easily install PHP extensions in Docker containers
 * [afeiship/docker-sequenceserver](https://github.com/afeiship/docker-sequenceserver): Docker for sequenceserver.
@@ -1579,6 +1580,7 @@
 * [icindy/wxSearch](https://github.com/icindy/wxSearch): wxSearch-微信小程序优雅的搜索框
 * [TCloudBase/WXSEVER-SMS](https://github.com/TCloudBase/WXSEVER-SMS): 发送短信，并在外部浏览器拉起微信小程序的能力教程
 * [LunaYJ/wxss-emoji](https://github.com/LunaYJ/wxss-emoji): 纯微信小程序 emoji解析组件
+* [hzeyuan/x-cards](https://github.com/hzeyuan/x-cards): Easy share X anywhere,in any format
 * [liu673cn/xbb](https://github.com/liu673cn/xbb): biubiu播放器
 * [xuebingwang/xbw-swoole-yaf](https://github.com/xuebingwang/xbw-swoole-yaf): yaf+swoole实现基于http+json的API Server
 * [xdebug/xdebug](https://github.com/xdebug/xdebug): Xdebug — Step Debugger and Debugging Aid for PHP
