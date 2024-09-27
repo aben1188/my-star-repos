@@ -1174,6 +1174,7 @@
 * [staticfile/static](https://github.com/staticfile/static): 开放静态文件 - 为开源库提供稳定、快速的免费 CDN 服务
 * [banodoco/Steerable-Motion](https://github.com/banodoco/Steerable-Motion): A ComfyUI node for driving videos using batches of images.
 * [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf): Control and manage Android devices from your browser.
+* [ygh3279799773/streamer-card](https://github.com/ygh3279799773/streamer-card): 流光卡片API
 * [BlackGlory/subtitle-translate-tmt](https://github.com/BlackGlory/subtitle-translate-tmt): 🌳 使用腾讯机器翻译 API 为 PotPlayer 翻译实时字幕.
 * [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory): Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
 * [NeoVertex1/SuperPrompt](https://github.com/NeoVertex1/SuperPrompt): SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.
