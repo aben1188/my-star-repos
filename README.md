@@ -432,7 +432,6 @@
 * [yeszao/dnmp](https://github.com/yeszao/dnmp): Docker LNMP (Nginx, PHP7/PHP5, MySQL, Redis)
 * [guanguans/dnmp-plus](https://github.com/guanguans/dnmp-plus): 🐳 Docker 的 LNMP 一键安装开发环境 + PHP 非侵入式监控平台 xhgui。
 * [mochat-cloud/docker-compose](https://github.com/mochat-cloud/docker-compose): 🐳 The docker compose offered by MoChat.
-* [mochat-cloud/docker-compose](https://github.com/mochat-cloud/docker-compose): 🐳 The docker compose offered by MoChat.
 * [eternity-wdd/docker-env](https://github.com/eternity-wdd/docker-env): This project includes using docker to build the environment automatically
 * [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer): Easily install PHP extensions in Docker containers
 * [afeiship/docker-sequenceserver](https://github.com/afeiship/docker-sequenceserver): Docker for sequenceserver.
@@ -481,6 +480,7 @@
 * [egret-labs/egret-game-library](https://github.com/egret-labs/egret-game-library): Egret Game Library
 * [ambition-hb/EL_2018](https://github.com/ambition-hb/EL_2018): 知乎爬虫（从问题出发）——英语学习话题
 * [electron/electron](https://github.com/electron/electron): :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+* [LuanRoger/electron-shadcn](https://github.com/LuanRoger/electron-shadcn): :electron: Electron Forge with shadcn-ui (Vite + Typescript)
 * [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue): 🥳 Really simple Electron + Vite + Vue boilerplate.
 * [ElemeFE/element](https://github.com/ElemeFE/element): A Vue.js 2.0 UI Toolkit for Web
 * [purcell/emacs.d](https://github.com/purcell/emacs.d): An Emacs configuration bundle with batteries included
