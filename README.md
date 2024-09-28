@@ -1382,7 +1382,7 @@
 * [CoderOpen/waimai-cps](https://github.com/CoderOpen/waimai-cps): 美团红包饿了么红包CPS小程序+H5+后端外卖红包应用，带有后台代码，安装超级简单
 * [leixiaokou/waimai-uniapp](https://github.com/leixiaokou/waimai-uniapp): 美团饿了么联盟CPS推广赚钱的uniapp小程序，支持微信小程序和H5，技术变现利器
 * [eficode/wait-for](https://github.com/eficode/wait-for): ./wait-for is a script to wait for another service to become available.
-* [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor): wangEditor —— 开源 Web 富文本编辑器
+* [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor): wangEditor, open-source Web rich text editor 开源 Web 富文本编辑器
 * [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API): 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
 * [yuchanns/warpflare](https://github.com/yuchanns/warpflare): Keep your WARP+ traffic topped up with Cloudflare Workers.
 * [Lannamokia/We](https://github.com/Lannamokia/We): None
