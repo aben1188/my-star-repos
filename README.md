@@ -175,7 +175,7 @@
 * [friuns2/Awesome-GPTs-Big-List](https://github.com/friuns2/Awesome-GPTs-Big-List): Use OpenAI GPTs for Free: https://gptcall.net/ 
 * [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs): Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
 * [KennethanCeyer/awesome-llm](https://github.com/KennethanCeyer/awesome-llm): Awesome series for Large Language Model(LLM)s
-* [codingonion/awesome-llm-and-aigc](https://github.com/codingonion/awesome-llm-and-aigc): 🚀🚀🚀A collection of some awesome public projects about Large Language Model, Vision Foundation Model and AI Generated Content.
+* [coderonion/awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc): 🚀🚀🚀A collection of some awesome public projects about Large Language Model, Vision Foundation Model and AI Generated Content.
 * [kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes](https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes): What can I do with a LLM model?
 * [KennethanCeyer/awesome-llmops](https://github.com/KennethanCeyer/awesome-llmops): Awesome series for LLMOps
 * [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
