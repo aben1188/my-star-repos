@@ -73,6 +73,7 @@
 * [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners): 12 Weeks, 24 Lessons, AI for All!
 * [MichaelYuhe/ai-group-tabs](https://github.com/MichaelYuhe/ai-group-tabs): Organize and group your Chrome tabs with AI
 * [phodal/aigc](https://github.com/phodal/aigc): 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。
+* [myshell-ai/AIlice](https://github.com/myshell-ai/AIlice): AIlice is a fully autonomous, general-purpose AI agent.
 * [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter): ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.
 * [aircodelabs/aircode](https://github.com/aircodelabs/aircode): Build and ship Node.js serverless functions in a coffee break.
 * [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox): 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎 
@@ -520,6 +521,7 @@
 * [finogeeks/finclip-ios-demo](https://github.com/finogeeks/finclip-ios-demo): 小程序容器 FinClip 苹果运行环境，让小程序在苹果应用中无缝运行  / iOS DEMO for FinClip
 * [mozilla/Fira](https://github.com/mozilla/Fira): Mozilla's new typeface, used in Firefox OS
 * [mendableai/firecrawl](https://github.com/mendableai/firecrawl): 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+* [nickscamara/firecrawl-openai-realtime](https://github.com/nickscamara/firecrawl-openai-realtime): Realtime API with Firecrawl Tool - Forked from the OpenAI Realtime Console
 * [someone1128/firefly_card_google](https://github.com/someone1128/firefly_card_google): 流光卡片：优雅的文字美化Chrome插件，将普通文字转化为视觉艺术品的开源工具。支持Markdown、自定义背景和无水印分享
 * [benzBrake/FirefoxCustomize](https://github.com/benzBrake/FirefoxCustomize): Ryan 收集的 Firefox 个性化相关资源
 * [rolyatmax/fireworks](https://github.com/rolyatmax/fireworks): experimenting with algorithms for creating curves on a canvas
