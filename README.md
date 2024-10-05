@@ -868,6 +868,7 @@
 * [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter): Vim plugin for intensely nerdy commenting powers
 * [preservim/nerdtree](https://github.com/preservim/nerdtree): A tree explorer plugin for vim.
 * [sqaiyan/NeteaseMusicWxMiniApp](https://github.com/sqaiyan/NeteaseMusicWxMiniApp): 仿网易云音乐APP的微信小程序
+* [adamgiebl/neumorphism](https://github.com/adamgiebl/neumorphism): 🎉 Generate CSS for your Neumorphism designs
 * [Neuronicx/Neuronicx-Duck-](https://github.com/Neuronicx/Neuronicx-Duck-): 优质稳定的OpenAI的API接口-For企业和开发者。openai的国内代理，国内接口请求转发，api proxy，提供ChatGPT的API调用，支持openai的API接口，支持：gpt-4，gpt-3.5。不需要openai Key, 不需要买openai的账号，不需要科学上网，不需要美元的银行卡，通通不用的，直接调用就行，稳定好用！！新加坡Neuronicx&DuckAGI
 * [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac): 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、美区apple id共享账号
 * [jianjianai/NewBingGoGo-Web](https://github.com/jianjianai/NewBingGoGo-Web): 一个基于微软OpenAI ChatGPT GPT4的New Bing接口的Web服务。 提供了好看的对话页面。 实现了微软New Bing的大多数功能，还添加了一些自己的特色功能。 开源免费。
@@ -1546,6 +1547,7 @@
 * [rprichard/winpty](https://github.com/rprichard/winpty): A Windows software package providing an interface similar to a Unix pty-master for communicating with Windows console programs.
 * [Greyh4t/WinXray](https://github.com/Greyh4t/WinXray): 支持Xray / V2Ray（vmess / vless），Shadowsocks，SSR，Trojan，NaïveProxy，Trojan-go通用客户端（Windows）！默认基于xray核心！本程序采用aardio设计与开发！
 * [TheMRLL/WinXray](https://github.com/TheMRLL/WinXray): 支持Xray / V2Ray（vmess / vless），Shadowsocks，SSR，Trojan，NaïveProxy，Trojan-go通用客户端（Windows）！默认基于xray核心！本程序采用aardio设计与开发！
+* [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements): Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 * [wj704/wj704.github.io](https://github.com/wj704/wj704.github.io): 个人博客
 * [x64architecture/wnmp](https://github.com/x64architecture/wnmp): An easy Nginx, MariaDB and PHP environment for Windows.
 * [WordPress/WordPress](https://github.com/WordPress/WordPress): WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead.
