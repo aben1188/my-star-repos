@@ -520,6 +520,7 @@
 * [mozilla/Fira](https://github.com/mozilla/Fira): Mozilla's new typeface, used in Firefox OS
 * [mendableai/firecrawl](https://github.com/mendableai/firecrawl): 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 * [someone1128/firefly_card_google](https://github.com/someone1128/firefly_card_google): 流光卡片：优雅的文字美化Chrome插件，将普通文字转化为视觉艺术品的开源工具。支持Markdown、自定义背景和无水印分享
+* [benzBrake/FirefoxCustomize](https://github.com/benzBrake/FirefoxCustomize): Ryan 收集的 Firefox 个性化相关资源
 * [rolyatmax/fireworks](https://github.com/rolyatmax/fireworks): experimenting with algorithms for creating curves on a canvas
 * [jeromeetienne/fireworks.js](https://github.com/jeromeetienne/fireworks.js): Particles engine in javascript
 * [flarum/flarum](https://github.com/flarum/flarum): Simple forum software for building great communities.
