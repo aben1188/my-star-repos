@@ -471,6 +471,7 @@
 * [sxlfhtdyy/easytbk](https://github.com/sxlfhtdyy/easytbk): 淘宝客、京东联盟、拼多多
 * [w7corp/easywechat](https://github.com/w7corp/easywechat): 📦 一个 PHP 微信 SDK
 * [q409640976/Ebook-crawler](https://github.com/q409640976/Ebook-crawler): 一个定向爬取电子书网站的爬虫库
+* [DrewThomasson/ebook2audiobookXTTS](https://github.com/DrewThomasson/ebook2audiobookXTTS): Generates an audiobook with chapters and ebook metadata using Calibre and Xtts from Coqui tts, and with optional voice cloning, and supports multiple languages
 * [Ebookcoin/ebookcoin](https://github.com/Ebookcoin/ebookcoin): Ebookcoin has been updated to DDN Blockchain，please get it from https://github.com/ddnlink/ddn
 * [hzvwsrexw15/echo](https://github.com/hzvwsrexw15/echo): Chat GPT chrome extension Copilot
 * [tc39/ecma262](https://github.com/tc39/ecma262): Status, process, and documents for ECMA-262
@@ -837,6 +838,7 @@
 * [Modernizr/Modernizr](https://github.com/Modernizr/Modernizr): Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 * [Seldaek/monolog](https://github.com/Seldaek/monolog): Sends your logs to files, sockets, inboxes, databases and various web services
 * [waza-ari/monolog-mysql](https://github.com/waza-ari/monolog-mysql): MySQL Handler for Monolog, which allows to store log messages to a MySQL Table
+* [barvian/motion-number](https://github.com/barvian/motion-number): A Framer Motion component that transitions, formats, and localizes numbers.
 * [TencentCloudBase/mp-book](https://github.com/TencentCloudBase/mp-book): 小程序·云开发系列教程
 * [xdmjun/mp-unpack](https://github.com/xdmjun/mp-unpack): None
 * [shawtung/mpvue-wepy-compare](https://github.com/shawtung/mpvue-wepy-compare): 从wepy迁移到mpvue的调研
@@ -906,6 +908,7 @@
 * [nissl-lab/npoi](https://github.com/nissl-lab/npoi): a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
 * [bruderstein/nppPluginManager](https://github.com/bruderstein/nppPluginManager): Notepad++ Plugin Manager
 * [D-xuanmo/Nuxtjs-Wordpress](https://github.com/D-xuanmo/Nuxtjs-Wordpress): 🎉 Nuxtjs + Wordpress REST API 主题；支持企业微信通知功能；全站前后端分离，自适应，白日、黑夜两种主题切换
+* [ZacharyZhang-NY/O1-For-Claude](https://github.com/ZacharyZhang-NY/O1-For-Claude): None
 * [ncjoes/office-converter](https://github.com/ncjoes/office-converter): PHP Wrapper for LibreOffice
 * [YowFung/officetopdf](https://github.com/YowFung/officetopdf): This is a PHP Laravel library, which uses LibreOffice built-in command to convert Office documents(such as doc, docx, xls, xlsx, ppt, pptx, wps, dwg and so on) to PDF files.
 * [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
