@@ -553,6 +553,7 @@
 * [Kingfish404/game-make-wut](https://github.com/Kingfish404/game-make-wut): 合成大西瓜cocos版再开发-合成武汉理工
 * [BlackGlory/garland](https://github.com/BlackGlory/garland): 🌲 A folder hierarchy builder based on tags and symbolic links.
 * [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books): :books: 极客时间电子书
+* [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents): Generative Agents: Interactive Simulacra of Human Behavior
 * [wechaty/getting-started](https://github.com/wechaty/getting-started): A Starter Project Template for Wechaty works out-of-the-box
 * [breakwa11/GFWList2PAC](https://github.com/breakwa11/GFWList2PAC): GFWList2PAC
 * [zfl9/gfwlist2privoxy](https://github.com/zfl9/gfwlist2privoxy): 将 gfwlist.txt（Adblock Plus 规则）转换为 privoxy.action
