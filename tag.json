@@ -41,6 +41,9 @@
     "54xingzhe/weixin_crawler": [
         "Other"
     ],
+    "6677-ai/tap4-ai-crawler": [
+        "Other"
+    ],
     "6tail/lunar-javascript": [
         "Other"
     ],
@@ -713,6 +716,9 @@
     "ScarletPan/awesome-autonomous-gpt": [
         "Other"
     ],
+    "ScrapeGraphAI/Scrapegraph-ai": [
+        "Other"
+    ],
     "SeasX/SeasLog": [
         "Other"
     ],
@@ -741,6 +747,9 @@
         "Other"
     ],
     "Significant-Gravitas/AutoGPT": [
+        "Other"
+    ],
+    "SkywalkerDarren/chatWeb": [
         "Other"
     ],
     "Snipaste/feedback": [
@@ -1049,10 +1058,16 @@
     "alebcay/awesome-shell": [
         "Other"
     ],
+    "alexfazio/devdocs-to-llm": [
+        "Other"
+    ],
     "alibaba/weex": [
         "Other"
     ],
     "aliceui/aliceui.github.io": [
+        "Other"
+    ],
+    "alirezamika/autoscraper": [
         "Other"
     ],
     "alist-org/alist": [
@@ -1134,6 +1149,9 @@
         "Other"
     ],
     "apache/logging-log4php": [
+        "Other"
+    ],
+    "apify/crawlee": [
         "Other"
     ],
     "apify/crawlee-python": [
@@ -1454,6 +1472,9 @@
     "clearw5/Auto.js": [
         "Other"
     ],
+    "clemlesne/scrape-it-now": [
+        "Other"
+    ],
     "cloudroc/baidu-nolimit": [
         "Other"
     ],
@@ -1476,6 +1497,9 @@
         "Other"
     ],
     "codecasts/php-alpine": [
+        "Other"
+    ],
+    "coder-hxl/x-crawl": [
         "Other"
     ],
     "coderonion/awesome-llm-and-aigc": [
@@ -1949,6 +1973,9 @@
     "geesondog/rhaphp": [
         "Other"
     ],
+    "getcursor/crawler": [
+        "Other"
+    ],
     "gfwlist/gfwlist": [
         "GFW"
     ],
@@ -1998,6 +2025,9 @@
         "Other"
     ],
     "google/re2": [
+        "Other"
+    ],
+    "gopiashokan/AI-Powered-Resume-Analyzer-and-LinkedIn-Scraper-with-Selenium": [
         "Other"
     ],
     "goreliu/vimdesktop": [
@@ -3098,6 +3128,9 @@
     "mipengine/mip2": [
         "Other"
     ],
+    "mishushakov/llm-scraper": [
+        "Other"
+    ],
     "mix-php/mix": [
         "Other"
     ],
@@ -4016,6 +4049,9 @@
     "techird/blog": [
         "Other"
     ],
+    "techwithtim/AI-Web-Scraper": [
+        "Other"
+    ],
     "tecnickcom/TCPDF": [
         "Other"
     ],
@@ -4188,6 +4224,9 @@
         "Other"
     ],
     "un-pany/v3-admin-vite": [
+        "Other"
+    ],
+    "unclecode/crawl4ai": [
         "Other"
     ],
     "underlines/awesome-ml": [

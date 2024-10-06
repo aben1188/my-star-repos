@@ -72,7 +72,9 @@
 * [KeJunMao/ai-anything](https://github.com/KeJunMao/ai-anything): 💞 Anyone can create GPT tools 人人都能创建 GPT 工具
 * [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners): 12 Weeks, 24 Lessons, AI for All!
 * [MichaelYuhe/ai-group-tabs](https://github.com/MichaelYuhe/ai-group-tabs): Organize and group your Chrome tabs with AI
+* [gopiashokan/AI-Powered-Resume-Analyzer-and-LinkedIn-Scraper-with-Selenium](https://github.com/gopiashokan/AI-Powered-Resume-Analyzer-and-LinkedIn-Scraper-with-Selenium): Developed an AI application using LLM to analyze user resumes and provided the summarization, strengths, weaknesses, suggestions, suitable job titles, and also scraping job details from LinkedIn using Selenium. This application reduces time by 30% and helps candidates tailor their resumes effectively.
 * [a16z-infra/ai-town](https://github.com/a16z-infra/ai-town): A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
+* [techwithtim/AI-Web-Scraper](https://github.com/techwithtim/AI-Web-Scraper): An AI web scraper using ollama, brightdata, selenium and other libraries.
 * [phodal/aigc](https://github.com/phodal/aigc): 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。
 * [myshell-ai/AIlice](https://github.com/myshell-ai/AIlice): AIlice is a fully autonomous, general-purpose AI agent.
 * [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter): ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.
@@ -123,6 +125,7 @@
 * [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey): AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 * [AutomaApp/automa](https://github.com/AutomaApp/automa): A browser extension for automating your browser by connecting blocks
 * [postcss/autoprefixer](https://github.com/postcss/autoprefixer):  Parse CSS and add vendor prefixes to rules by Can I Use
+* [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper): A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 * [bneijt/autotrash](https://github.com/bneijt/autotrash): Tool to automatically purge old trashed files
 * [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome): :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
@@ -326,6 +329,7 @@
 * [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt): A collection of GPT system prompts and various prompt injection/leaking knowledge.
 * [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox): Integrating ChatGPT into your browser deeply, everything you need is here
 * [chathub-dev/chathub](https://github.com/chathub-dev/chathub): All-in-one chatbot client
+* [SkywalkerDarren/chatWeb](https://github.com/SkywalkerDarren/chatWeb): ChatWeb can crawl web pages, read PDF, DOCX, TXT, and extract the main content, then answer your questions based on the content, or summarize the key points.
 * [yangg/check-cert](https://github.com/yangg/check-cert):  检查 https 证书是否临近过期时间，并通过 Server酱 通知
 * [easychen/checkchan-dist](https://github.com/easychen/checkchan-dist): Check酱：监测网页内容变化，并发送异动到微信。亦支持http status、json和rss监测。配合自架云端，关电脑后也能运行。
 * [w3c/chinese-ig](https://github.com/w3c/chinese-ig): Web中文兴趣组
@@ -389,7 +393,10 @@
 * [zwpro/coupons](https://github.com/zwpro/coupons): 美团饿了吗外卖红包外卖优惠券，先领红包再下单。外卖红包优惠券，cps分成，别人领红包下单，你拿佣金。
 * [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy): 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
 * [industrialcoinmagic/crave](https://github.com/industrialcoinmagic/crave): None
+* [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai): 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
+* [apify/crawlee](https://github.com/apify/crawlee): Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
 * [apify/crawlee-python](https://github.com/apify/crawlee-python): Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.
+* [getcursor/crawler](https://github.com/getcursor/crawler): Easily show documentation to Cursor's coding AI
 * [HiddenStrawberry/Crawler_Illegal_Cases_In_China](https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China): Collection of China illegal cases about web crawler 本项目用来整理所有中国大陆爬虫开发者涉诉与违规相关的新闻、资料与法律法规。致力于帮助在中国大陆工作的爬虫行业从业者了解我国相关法律，避免触碰数据合规红线。 [AD]中文知识图谱门户 
 * [pangxiaobin/CrawlerHot](https://github.com/pangxiaobin/CrawlerHot): 今日热榜   抓取网站热榜信息，并且前端进行展示 go 实现版本：https://github.com/pangxiaobin/goCrawlerHot
 * [colinmollenhour/credis](https://github.com/colinmollenhour/credis): Lightweight PHP Redis client that can run standalone or wrap phpredis.
@@ -422,6 +429,7 @@
 * [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup): macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
 * [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar): 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
 * [docmirror/dev-sidecar-doc](https://github.com/docmirror/dev-sidecar-doc): None
+* [alexfazio/devdocs-to-llm](https://github.com/alexfazio/devdocs-to-llm): Turn any developer documentation into a GPT
 * [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 * [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub): A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
 * [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys): A Swiss Army knife for developers.
@@ -776,6 +784,7 @@
 * [blocklistproject/Lists](https://github.com/blocklistproject/Lists): Primary Block Lists
 * [run-llama/llama_index](https://github.com/run-llama/llama_index): LlamaIndex is a data framework for your LLM applications
 * [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook): 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
+* [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper): Turn any webpage into structured data using LLMs
 * [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.
 * [Kerinlin/localMusicPlayer](https://github.com/Kerinlin/localMusicPlayer): Audio player that play local audio files and show audio spectrum.
 * [localsend/localsend](https://github.com/localsend/localsend): An open-source cross-platform alternative to AirDrop
@@ -1112,6 +1121,8 @@
 * [rubickCenter/rubick](https://github.com/rubickCenter/rubick): 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 * [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run): 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
 * [mashirozx/sakura](https://github.com/mashirozx/sakura): A Wonderful WordPress Theme: 樱花庄的白猫博客主题
+* [clemlesne/scrape-it-now](https://github.com/clemlesne/scrape-it-now): Web scraper made for AI and simplicity in mind. It runs as a CLI that can be parallelized and outputs high-quality markdown content.
+* [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai): Python scraper based on AI
 * [henson/Scraper](https://github.com/henson/Scraper): Tracking the most popular Github repos, updated daily.
 * [rmax/scrapy-redis](https://github.com/rmax/scrapy-redis): Redis-based components for Scrapy.
 * [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code): Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
@@ -1230,6 +1241,7 @@
 * [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey): Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox. 
 * [yujinpan/tampermonkey-extension](https://github.com/yujinpan/tampermonkey-extension): 自制油猴日常插件。
 * [alanchenyan/taobaoke-server](https://github.com/alanchenyan/taobaoke-server): 淘宝客PHP服务器端
+* [6677-ai/tap4-ai-crawler](https://github.com/6677-ai/tap4-ai-crawler): The crawler opened source by tap4.ai
 * [TarsCloud/Tars](https://github.com/TarsCloud/Tars): Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
 * [tauri-apps/tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 * [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs): The source for all Tauri project documentation.
@@ -1600,6 +1612,7 @@
 * [TCloudBase/WXSEVER-SMS](https://github.com/TCloudBase/WXSEVER-SMS): 发送短信，并在外部浏览器拉起微信小程序的能力教程
 * [LunaYJ/wxss-emoji](https://github.com/LunaYJ/wxss-emoji): 纯微信小程序 emoji解析组件
 * [hzeyuan/x-cards](https://github.com/hzeyuan/x-cards): Easy share X anywhere,in any format
+* [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl): Flexible Node.js AI-assisted crawler library
 * [liu673cn/xbb](https://github.com/liu673cn/xbb): biubiu播放器
 * [xuebingwang/xbw-swoole-yaf](https://github.com/xuebingwang/xbw-swoole-yaf): yaf+swoole实现基于http+json的API Server
 * [xdebug/xdebug](https://github.com/xdebug/xdebug): Xdebug — Step Debugger and Debugging Aid for PHP
