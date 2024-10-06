@@ -397,6 +397,7 @@
 * [apify/crawlee](https://github.com/apify/crawlee): Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
 * [apify/crawlee-python](https://github.com/apify/crawlee-python): Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.
 * [getcursor/crawler](https://github.com/getcursor/crawler): Easily show documentation to Cursor's coding AI
+* [joe-stifler/crawler](https://github.com/joe-stifler/crawler): Crawler is a Python package that crawls web pages and converts their content into Markdown format, making it easy to create documentation, notes, or other text-based representations. It features domain restrictions, flexible output options, and graph visualization.
 * [HiddenStrawberry/Crawler_Illegal_Cases_In_China](https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China): Collection of China illegal cases about web crawler 本项目用来整理所有中国大陆爬虫开发者涉诉与违规相关的新闻、资料与法律法规。致力于帮助在中国大陆工作的爬虫行业从业者了解我国相关法律，避免触碰数据合规红线。 [AD]中文知识图谱门户 
 * [pangxiaobin/CrawlerHot](https://github.com/pangxiaobin/CrawlerHot): 今日热榜   抓取网站热榜信息，并且前端进行展示 go 实现版本：https://github.com/pangxiaobin/goCrawlerHot
 * [colinmollenhour/credis](https://github.com/colinmollenhour/credis): Lightweight PHP Redis client that can run standalone or wrap phpredis.
@@ -509,6 +510,7 @@
 * [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat): 微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）
 * [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english): 人人都能用英语
 * [circlestarzero/EX-chatGPT](https://github.com/circlestarzero/EX-chatGPT): Let ChatGPT truly learn how to go online and call APIs! 'EX-ChatGPT' can rival and even surpass NewBing
+* [exo-explore/exo](https://github.com/exo-explore/exo): Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 * [arv/ExplorerCanvas](https://github.com/arv/ExplorerCanvas): Canvas for IE8 and older
 * [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher): This project aims to enhance the working environment on Windows
 * [crimx/ext-saladict](https://github.com/crimx/ext-saladict): 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
@@ -531,6 +533,7 @@
 * [mozilla/Fira](https://github.com/mozilla/Fira): Mozilla's new typeface, used in Firefox OS
 * [mendableai/firecrawl](https://github.com/mendableai/firecrawl): 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 * [nickscamara/firecrawl-openai-realtime](https://github.com/nickscamara/firecrawl-openai-realtime): Realtime API with Firecrawl Tool - Forked from the OpenAI Realtime Console
+* [mendableai/firecrawl-py](https://github.com/mendableai/firecrawl-py): Crawl and convert any website into clean markdown
 * [someone1128/firefly_card_google](https://github.com/someone1128/firefly_card_google): 流光卡片：优雅的文字美化Chrome插件，将普通文字转化为视觉艺术品的开源工具。支持Markdown、自定义背景和无水印分享
 * [benzBrake/FirefoxCustomize](https://github.com/benzBrake/FirefoxCustomize): Ryan 收集的 Firefox 个性化相关资源
 * [rolyatmax/fireworks](https://github.com/rolyatmax/fireworks): experimenting with algorithms for creating curves on a canvas
@@ -783,8 +786,10 @@
 * [listen1/listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension): one for all free music in china (chrome extension, also works for firefox)
 * [blocklistproject/Lists](https://github.com/blocklistproject/Lists): Primary Block Lists
 * [run-llama/llama_index](https://github.com/run-llama/llama_index): LlamaIndex is a data framework for your LLM applications
+* [ZubinGou/llm-agent-web-tools](https://github.com/ZubinGou/llm-agent-web-tools): A simple Google Search Engine Crawler.
 * [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook): 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
 * [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper): Turn any webpage into structured data using LLMs
+* [rowyio/LLM-Web-Crawler](https://github.com/rowyio/LLM-Web-Crawler): Web Scraper and Crawler for LLM Apps and AI Workflows with NoCode / LowCode. Plug and play with your own logic and customize it flexibly and scalably on BuildShip.
 * [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.
 * [Kerinlin/localMusicPlayer](https://github.com/Kerinlin/localMusicPlayer): Audio player that play local audio files and show audio spectrum.
 * [localsend/localsend](https://github.com/localsend/localsend): An open-source cross-platform alternative to AirDrop
@@ -805,6 +810,7 @@
 * [tldraw/make-real-starter](https://github.com/tldraw/make-real-starter): Make it real
 * [illuSioN4ng/making-up](https://github.com/illuSioN4ng/making-up): 微信小程序-拼单神器
 * [IBM-Blockchain-Archive/marbles](https://github.com/IBM-Blockchain-Archive/marbles): WARNING: This repository is no longer maintained ⚠️ This repository will not be updated. The repository will be kept available in read-only mode.
+* [paulpierre/markdown-crawler](https://github.com/paulpierre/markdown-crawler): A multithreaded 🕸️ web crawler that recursively crawls a website and creates a 🔽 markdown file for each page, designed for LLM RAG
 * [mdnice/markdown-nice](https://github.com/mdnice/markdown-nice): 支持主题设计的 Markdown 编辑器，让排版变 Nice
 * [AlloyTeam/Mars](https://github.com/AlloyTeam/Mars): 腾讯移动 Web 前端知识库
 * [redguardtoo/mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide): Be great at emacs in one year
@@ -941,6 +947,7 @@
 * [OpenBazaar/OpenBazaar-Client](https://github.com/OpenBazaar/OpenBazaar-Client): (DEPRECATED) Front-end Electron application for talking with the OpenBazaar-Server daemon
 * [OpenBazaar/openbazaar-desktop](https://github.com/OpenBazaar/openbazaar-desktop): OpenBazaar 2.0 Desktop Client (talks to openbazaar-go server daemon)
 * [OpenBazaar/OpenBazaar-Server](https://github.com/OpenBazaar/OpenBazaar-Server): (Deprecated) OpenBazaar 1.0 Server daemon for communication with OpenBazaar-Client
+* [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB): Investment Research for Everyone, Everywhere.
 * [PetoiCamp/OpenCat](https://github.com/PetoiCamp/OpenCat): An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development. 
 * [vernesong/OpenClash](https://github.com/vernesong/OpenClash): A Clash Client For OpenWrt
 * [leidenglai/opencv-js-qrcode](https://github.com/leidenglai/opencv-js-qrcode): 基于opencv与wechat_qrcode实现的JS版二维码图像识别库
@@ -1071,6 +1078,7 @@
 * [zhangxinxu/quickLayout](https://github.com/zhangxinxu/quickLayout): quickLayout
 * [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook): Bring macOS “Quick Look” feature to Windows
 * [LLM-Red-Team/qwen-free-api](https://github.com/LLM-Red-Team/qwen-free-api): 🚀 阿里通义千问2.5大模型逆向API白嫖测试【特长：六边形战士】，支持高速流式输出、无水印AI绘图、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
+* [sigoden/rag-crawler](https://github.com/sigoden/rag-crawler): Crawl a website to generate knowledge file for RAG
 * [jianyan74/rageframe2](https://github.com/jianyan74/rageframe2): 一个基于 Yii2 高级框架的快速开发应用引擎
 * [goodrain/rainbond](https://github.com/goodrain/rainbond): No need to know Kubernetes' cloud native application management platform | 不用懂 Kubernetes 的云原生应用管理平台
 * [luochen1990/rainbow](https://github.com/luochen1990/rainbow): Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.
@@ -1122,6 +1130,7 @@
 * [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run): 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
 * [mashirozx/sakura](https://github.com/mashirozx/sakura): A Wonderful WordPress Theme: 樱花庄的白猫博客主题
 * [clemlesne/scrape-it-now](https://github.com/clemlesne/scrape-it-now): Web scraper made for AI and simplicity in mind. It runs as a CLI that can be parallelized and outputs high-quality markdown content.
+* [LexiestLeszek/scrapeGPT](https://github.com/LexiestLeszek/scrapeGPT): ScrapeGPT is a RAG-based Telegram bot designed to scrape and analyze websites, then answer questions based on the scraped content. The bot utilizes Retrieval Augmented Generation and webscraping to return natural language answers to the user's queries.
 * [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai): Python scraper based on AI
 * [henson/Scraper](https://github.com/henson/Scraper): Tracking the most popular Github repos, updated daily.
 * [rmax/scrapy-redis](https://github.com/rmax/scrapy-redis): Redis-based components for Scrapy.
@@ -1259,6 +1268,7 @@
 * [exvim/test-loading](https://github.com/exvim/test-loading): Test loading order for Vim plugins
 * [emadehsan/thal](https://github.com/emadehsan/thal): Getting started with Puppeteer and Chrome Headless for Web Scraping
 * [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
+* [samber/the-great-gpt-firewall](https://github.com/samber/the-great-gpt-firewall): 🤖 A curated list of websites that restrict access to AI Agents, AI crawlers and GPTs
 * [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher): A code-searching tool similar to ack, but faster.
 * [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary): A collection of prompts, system prompts and LLM instructions
 * [lucasmrdt/TheBigPromptLibrary](https://github.com/lucasmrdt/TheBigPromptLibrary): A collection of prompts, system prompts and LLM instructions
