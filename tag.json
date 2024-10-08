@@ -1520,6 +1520,9 @@
     "codota/TabNine": [
         "Other"
     ],
+    "colin4k/wechat-article-dl": [
+        "Other"
+    ],
     "colinmollenhour/credis": [
         "Other"
     ],
@@ -2526,6 +2529,12 @@
         "Other"
     ],
     "joonspk-research/generative_agents": [
+        "Other"
+    ],
+    "jooooock/wechat-article-exporter": [
+        "Other"
+    ],
+    "jooooock/wrx": [
         "Other"
     ],
     "josStorer/chatGPTBox": [
@@ -3551,6 +3560,9 @@
     "public-apis/public-apis": [
         "Other"
     ],
+    "pudongping/mp-vx-insight": [
+        "Other"
+    ],
     "pug-php/pug": [
         "Other"
     ],
@@ -4545,6 +4557,9 @@
         "Other"
     ],
     "wnma3mz/wechat_articles_spider": [
+        "Other"
+    ],
+    "wonderfulsuccess/weixin_crawler": [
         "Other"
     ],
     "wong2/chatgpt-google-extension": [

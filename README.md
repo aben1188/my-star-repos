@@ -860,6 +860,7 @@
 * [barvian/motion-number](https://github.com/barvian/motion-number): A Framer Motion component that transitions, formats, and localizes numbers.
 * [TencentCloudBase/mp-book](https://github.com/TencentCloudBase/mp-book): 小程序·云开发系列教程
 * [xdmjun/mp-unpack](https://github.com/xdmjun/mp-unpack): None
+* [pudongping/mp-vx-insight](https://github.com/pudongping/mp-vx-insight): 微信公众号小助手，扩展了一键获取微信公众号文章封面图、全部文章、一键采集文章内容等功能。
 * [shawtung/mpvue-wepy-compare](https://github.com/shawtung/mpvue-wepy-compare): 从wepy迁移到mpvue的调研
 * [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor): A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 * [dcloudio/mui](https://github.com/dcloudio/mui): 最接近原生APP体验的高性能框架
@@ -1462,6 +1463,8 @@
 * [node-webot/wechat](https://github.com/node-webot/wechat): 微信公共平台消息接口服务中间件
 * [hi-craft/Wechat-AccessibilityService](https://github.com/hi-craft/Wechat-AccessibilityService): 第三方WECHAT辅助服务 基于AccessibilityService实现 激活码IMEI码绑定，群组列表群发，好友列表群发，定时自动任务，发送间隔时间设定 更新至2.2版本，适配WECHAT7.0.3
 * [ChinaVolvocars/WeChat-applet](https://github.com/ChinaVolvocars/WeChat-applet): 微信小应用，微信小程序资源汇总整理，涵括微信 Web 开发工具、开发框架、开发教程、以及官方文档和相关资源的整理
+* [colin4k/wechat-article-dl](https://github.com/colin4k/wechat-article-dl): 微信公众号文章下载，生成 png 图片保存到本地。 | Download Wechat Official Accounts article as png file.
+* [jooooock/wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter): 在线批量导出微信公众号文章，支持内嵌的音视频导出，无需搭建任何环境，可100%还原文章样式，支持私有部署
 * [leochen-g/wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro): 智能微秘书，一个全能的微信机器人管理平台，最简单的方式接入 ChatGPT,FastGPT,Dify,Coze知识库，支持绘图，联网查询，语音识别，各种定时任务，支持企微、公众号、5G 消息、WhatsApp
 * [leochen-g/wechat-assistant-pro-ipad](https://github.com/leochen-g/wechat-assistant-pro-ipad): 智能微秘书ipad协议版本
 * [meteorOSS/wechat-bc](https://github.com/meteorOSS/wechat-bc): 类似开发公众号一样，开发个人微信号
@@ -1541,6 +1544,7 @@
 * [anchel/weixin-admin](https://github.com/anchel/weixin-admin): 管理微信公众号，实现了自动回复，自定义菜单，渠道二维码创建等功能
 * [node-webot/weixin-robot](https://github.com/node-webot/weixin-robot): 微信公共帐号自动回复机器人 A Node.js robot for wechat.
 * [54xingzhe/weixin_crawler](https://github.com/54xingzhe/weixin_crawler): 高效微信公众号历史文章和阅读数据爬虫powered by scrapy
+* [wonderfulsuccess/weixin_crawler](https://github.com/wonderfulsuccess/weixin_crawler): 稳定工作4年的微信公众号爬虫 Based on python and vuejs 微信公众号采集 Python爬虫 公众号采集 公众号爬虫 公众号备份
 * [52Lau/weixin_crawler-1](https://github.com/52Lau/weixin_crawler-1): 高效微信公众号历史文章和阅读数据爬虫powered by scrapy 微信公众号爬虫 微信采集 公众号采集
 * [Urinx/WeixinBot](https://github.com/Urinx/WeixinBot): 网页版微信API，包含终端版微信及微信机器人
 * [gannicusleon/WeixinBot](https://github.com/gannicusleon/WeixinBot): 网页版微信API，包含终端版微信及微信机器人
@@ -1588,6 +1592,7 @@
 * [liangsonghua/wordpressTheme](https://github.com/liangsonghua/wordpressTheme): wordpress博客主题，高仿微信公众号图文消息
 * [walkor/workerman](https://github.com/walkor/workerman): An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols. 
 * [gallonyin/worktool](https://github.com/gallonyin/worktool): 一款安全稳定的Android无障碍服务工具，支持控制企微/微信来运行的无人值守群管理机器人
+* [jooooock/wrx](https://github.com/jooooock/wrx): 电子书导出工具，支持大部分电子书网站，可导出 HTML/EPUB 格式
 * [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity): WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy
 * [wux-weapp/wux-weapp](https://github.com/wux-weapp/wux-weapp): :dog: 一套组件化、可复用、易扩展的微信小程序 UI 组件库
 * [baoshan/wx](https://github.com/baoshan/wx): (minimalist) WeChat Middleware for Express.js
