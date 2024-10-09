@@ -349,9 +349,9 @@
 * [Z-Siqi/Clash-for-Windows_Rule](https://github.com/Z-Siqi/Clash-for-Windows_Rule): Clash流媒体等策略组规则整合. Clash proxy rules. Make a website/media be proxied by a specific country server.
 * [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge): A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 * [2dust/clashN](https://github.com/2dust/clashN): A clash client for Windows, support Mihomo
-* [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev): Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
 * [nakkag/CLCL](https://github.com/nakkag/CLCL): None
 * [npm/cli](https://github.com/npm/cli): the package manager for JavaScript
+* [clinebot/cline](https://github.com/clinebot/cline): Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
 * [google/closure-library](https://github.com/google/closure-library): Google's common JavaScript library
 * [TencentCloudBase/cloudbase-extension-cms](https://github.com/TencentCloudBase/cloudbase-extension-cms): 🚀 一站式云端内容管理系统 - An open source Node.js headless cms based on CloudBase
 * [Tencent/cloudbase-framework](https://github.com/Tencent/cloudbase-framework):  腾讯云开发云原生一体化部署工具 🚀  CloudBase Framework：一键部署，不限框架语言，云端一体化开发，基于Serverless 架构。A front-end and back-end integrated deployment tool. One-click deploy to serverless architecture. https://docs.cloudbase.net/framework/index
