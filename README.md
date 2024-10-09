@@ -68,6 +68,7 @@
 * [justboil/admin-one-vue-tailwind](https://github.com/justboil/admin-one-vue-tailwind): Free Vue.js 3.x Tailwind 3.x admin dashboard template with dark mode. Vite builds. Pinia state. Laravel integration available
 * [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 * [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic): AI agent stdlib that works with any LLM and TypeScript AI SDK.
+* [neural-maze/agentic_patterns](https://github.com/neural-maze/agentic_patterns): Implementing the 4 agentic patterns from scratch
 * [agileago/agileTheme](https://github.com/agileago/agileTheme): a very beautiful theme for webstorm
 * [KeJunMao/ai-anything](https://github.com/KeJunMao/ai-anything): 💞 Anyone can create GPT tools 人人都能创建 GPT 工具
 * [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners): 12 Weeks, 24 Lessons, AI for All!
