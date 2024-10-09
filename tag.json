@@ -875,6 +875,9 @@
     "VSCodeVim/Vim": [
         "Other"
     ],
+    "Vincit/objection.js": [
+        "Other"
+    ],
     "VsVim/VsVim": [
         "Other"
     ],
@@ -3990,6 +3993,9 @@
         "Other"
     ],
     "supermemoryai/supermemory": [
+        "Other"
+    ],
+    "sutandojs/sutando": [
         "Other"
     ],
     "suulnnka/BullshitGenerator": [

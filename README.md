@@ -929,6 +929,7 @@
 * [bruderstein/nppPluginManager](https://github.com/bruderstein/nppPluginManager): Notepad++ Plugin Manager
 * [D-xuanmo/Nuxtjs-Wordpress](https://github.com/D-xuanmo/Nuxtjs-Wordpress): 🎉 Nuxtjs + Wordpress REST API 主题；支持企业微信通知功能；全站前后端分离，自适应，白日、黑夜两种主题切换
 * [ZacharyZhang-NY/O1-For-Claude](https://github.com/ZacharyZhang-NY/O1-For-Claude): None
+* [Vincit/objection.js](https://github.com/Vincit/objection.js): An SQL-friendly ORM for Node.js
 * [ncjoes/office-converter](https://github.com/ncjoes/office-converter): PHP Wrapper for LibreOffice
 * [YowFung/officetopdf](https://github.com/YowFung/officetopdf): This is a PHP Laravel library, which uses LibreOffice built-in command to convert Office documents(such as doc, docx, xls, xlsx, ppt, pptx, wps, dwg and so on) to PDF files.
 * [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
@@ -1215,6 +1216,7 @@
 * [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory): Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
 * [NeoVertex1/SuperPrompt](https://github.com/NeoVertex1/SuperPrompt): SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.
 * [umaplehurst/SuperPrompt.gemini](https://github.com/umaplehurst/SuperPrompt.gemini): SuperPrompt for Gemini
+* [sutandojs/sutando](https://github.com/sutandojs/sutando): Sutando is a modern Node.js ORM, like Laravel Eloquent.
 * [hylarucoder/svd-webui](https://github.com/hylarucoder/svd-webui): None
 * [chunghha/svelte-daisy](https://github.com/chunghha/svelte-daisy): SvelteKit Starter with DaisyUI
 * [kaisermann/svelte-i18n](https://github.com/kaisermann/svelte-i18n): Internationalization library for Svelte
