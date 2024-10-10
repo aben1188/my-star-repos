@@ -490,6 +490,7 @@
 * [Ebookcoin/ebookcoin](https://github.com/Ebookcoin/ebookcoin): Ebookcoin has been updated to DDN Blockchain，please get it from https://github.com/ddnlink/ddn
 * [hzvwsrexw15/echo](https://github.com/hzvwsrexw15/echo): Chat GPT chrome extension Copilot
 * [tc39/ecma262](https://github.com/tc39/ecma262): Status, process, and documents for ECMA-262
+* [DropsDevopsOrg/ECommerceCrawlers](https://github.com/DropsDevopsOrg/ECommerceCrawlers): 实战🐍多种网站、电商数据爬虫🕷。包含🕸：淘宝商品、微信公众号、大众点评、企查查、招聘网站、闲鱼、阿里任务、博客园、微博、百度贴吧、豆瓣电影、包图网、全景网、豆瓣音乐、某省药监局、搜狐新闻、机器学习文本采集、fofa资产采集、汽车之家、国家统计局、百度关键词收录数、蜘蛛泛目录、今日头条、豆瓣影评、携程、小米应用商店、安居客、途家民宿❤️❤️❤️。微信爬虫展示项目:
 * [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT): Reverse engineered API of Microsoft's Bing Chat AI
 * [ElderDrivers/EdXposed](https://github.com/ElderDrivers/EdXposed): Elder driver Xposed Framework.
 * [eggjs/egg](https://github.com/eggjs/egg): 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
@@ -827,6 +828,7 @@
 * [joschuck/matrix-webcam](https://github.com/joschuck/matrix-webcam): Take your video conference from within the matrix.
 * [duo/matrix-wechat](https://github.com/duo/matrix-wechat): A Matrix-WeChat puppeting bridge
 * [whistyun/MdXaml](https://github.com/whistyun/MdXaml): Markdown for WPF - alternate version of Markdown.Xaml
+* [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler): 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
 * [catfan/Medoo](https://github.com/catfan/Medoo): The lightweight PHP database framework to accelerate the development.
 * [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch): A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 * [easychen/MemberPrism2](https://github.com/easychen/MemberPrism2): open source alternative to memberstack / memberspace , but with both front and backend member-only content protection
