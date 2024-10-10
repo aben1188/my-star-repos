@@ -455,6 +455,8 @@
 * [easychen/docker2saas](https://github.com/easychen/docker2saas): An open source tool that lets you create a SaaS website from docker images in 10 minutes.
 * [yeasy/docker_practice](https://github.com/yeasy/docker_practice): Learn and understand Docker&Container technologies, with real DevOps practice!
 * [knative/docs](https://github.com/knative/docs): User documentation for Knative components.
+* [meilisearch/docs-scraper](https://github.com/meilisearch/docs-scraper): Scrape documentation into Meilisearch
+* [algolia/docsearch-scraper](https://github.com/algolia/docsearch-scraper): DocSearch - Scraper
 * [docsifyjs/docsify](https://github.com/docsifyjs/docsify): 🃏 A magical documentation site generator.
 * [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide): 中文技术文档的写作规范
 * [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai): 基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)
@@ -826,6 +828,7 @@
 * [duo/matrix-wechat](https://github.com/duo/matrix-wechat): A Matrix-WeChat puppeting bridge
 * [whistyun/MdXaml](https://github.com/whistyun/MdXaml): Markdown for WPF - alternate version of Markdown.Xaml
 * [catfan/Medoo](https://github.com/catfan/Medoo): The lightweight PHP database framework to accelerate the development.
+* [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch): A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 * [easychen/MemberPrism2](https://github.com/easychen/MemberPrism2): open source alternative to memberstack / memberspace , but with both front and backend member-only content protection
 * [yaleh/meta-prompt](https://github.com/yaleh/meta-prompt): Meta Prompt, which involves generating a language model prompt using another language model.
 * [meteor/meteor](https://github.com/meteor/meteor): Meteor, the JavaScript App Platform
@@ -1323,6 +1326,8 @@
 * [rmolinamir/typescript-cheatsheet](https://github.com/rmolinamir/typescript-cheatsheet): A set of TypeScript related notes used for quick reference. The cheatsheet contains references to types, classes, decorators, and many other TypeScript related subjects.
 * [levg34/typescript-nedb-orm](https://github.com/levg34/typescript-nedb-orm): ORM for @seald-io/nedb written in TypeScript
 * [wangdoc/typescript-tutorial](https://github.com/wangdoc/typescript-tutorial): TypeScript 教程
+* [typesense/typesense](https://github.com/typesense/typesense): Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+* [typesense/typesense-docsearch-scraper](https://github.com/typesense/typesense-docsearch-scraper): A fork of Algolia's awesome DocSearch Scraper, customized to index data in Typesense (an open source alternative to Algolia)
 * [XIU2/UACWhitelistTool](https://github.com/XIU2/UACWhitelistTool): 📃 UAC 白名单小工具！
 * [sksmatt/UItoTop-jQuery-Plugin](https://github.com/sksmatt/UItoTop-jQuery-Plugin): jQuery dynamic UI plugin.
 * [uiv-lib/uiv](https://github.com/uiv-lib/uiv): Bootstrap 3 components implemented by Vue.js.

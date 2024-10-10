@@ -1076,6 +1076,9 @@
     "alexfazio/devdocs-to-llm": [
         "Other"
     ],
+    "algolia/docsearch-scraper": [
+        "Other"
+    ],
     "alibaba/weex": [
         "Other"
     ],
@@ -3086,6 +3089,12 @@
     "me115/design_patterns": [
         "Other"
     ],
+    "meilisearch/docs-scraper": [
+        "Other"
+    ],
+    "meilisearch/meilisearch": [
+        "Other"
+    ],
     "mendableai/firecrawl": [
         "Other"
     ],
@@ -4263,6 +4272,12 @@
         "Other"
     ],
     "typecho/typecho": [
+        "Other"
+    ],
+    "typesense/typesense": [
+        "Other"
+    ],
+    "typesense/typesense-docsearch-scraper": [
         "Other"
     ],
     "uiv-lib/uiv": [
