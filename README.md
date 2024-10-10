@@ -372,6 +372,7 @@
 * [mrmrs/colors](https://github.com/mrmrs/colors): Smarter defaults for colors on the web.
 * [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI): Making large AI models cheaper, faster and more accessible
 * [ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn](https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn): 肖像大师 中文版 comfyui-portrait-master
+* [ogkalu2/comic-translate](https://github.com/ogkalu2/comic-translate): Desktop app for automatically translating comics - BDs, Manga, Manhwa, Fumetti and more in a variety of formats (Image, Pdf, Epub, cbr, cbz, etc) and in multiple languages.
 * [compat-table/compat-table](https://github.com/compat-table/compat-table): ECMAScript compatibility tables
 * [docker/compose-on-kubernetes](https://github.com/docker/compose-on-kubernetes): Deploy applications described in Compose onto Kubernetes clusters
 * [NingZhengsheng/ComposeGigWatermelon](https://github.com/NingZhengsheng/ComposeGigWatermelon): 合成大西瓜CocosCretor开发多平台（包括微信小程序）源码
@@ -615,6 +616,7 @@
 * [nftblackmagic/GptAssist-starter](https://github.com/nftblackmagic/GptAssist-starter): None
 * [dbgee/gptchat](https://github.com/dbgee/gptchat): An awesome project to simplify the chatgpt integration with wechat official account.
 * [gpt-engineer-org/gptengineer.app](https://github.com/gpt-engineer-org/gptengineer.app): Rapid prototyping of web apps using plain english 👶🤖
+* [CosmosShadow/gptpdf](https://github.com/CosmosShadow/gptpdf): Using GPT to parse PDF
 * [linexjlin/GPTs](https://github.com/linexjlin/GPTs): leaked prompts of GPTs
 * [opengpts/gpts-trending](https://github.com/opengpts/gpts-trending): Record everyday Top GPTs in ChatGPT GPTs Store
 * [AINativeLab/gptstore-data-backup](https://github.com/AINativeLab/gptstore-data-backup): The daily archive of GPT Store's trending data
