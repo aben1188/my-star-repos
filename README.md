@@ -1082,6 +1082,7 @@
 * [larrykluger/Question-2-Answer-Proxy-SSO-Plugin](https://github.com/larrykluger/Question-2-Answer-Proxy-SSO-Plugin): Easily enable your main app to serve as an SSO authentication system for the Question 2 Answer forum system. See http://www.question2answer.org
 * [q2a/question2answer](https://github.com/q2a/question2answer): Question2Answer is a free and open source platform for Q&A sites, running on PHP/MySQL.
 * [cuiliang/Quicker](https://github.com/cuiliang/Quicker): Quicker软件反馈repo
+* [cuiliang/QuickerAndroid](https://github.com/cuiliang/QuickerAndroid): Quicker 安卓客户端
 * [cuiliang/QuickerConnectorExtension](https://github.com/cuiliang/QuickerConnectorExtension): Chrome extension for Quicker (Quicker的浏览器扩展)
 * [zhangxinxu/quickLayout](https://github.com/zhangxinxu/quickLayout): quickLayout
 * [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook): Bring macOS “Quick Look” feature to Windows
