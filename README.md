@@ -844,6 +844,7 @@
 * [maotoumao/midjourney-downloader](https://github.com/maotoumao/midjourney-downloader): A script to download ALL Midjourney Images🎇
 * [midwayjs/midway](https://github.com/midwayjs/midway): 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
 * [phith0n/Mind-Map](https://github.com/phith0n/Mind-Map): 各种安全相关思维导图整理收集
+* [RealKai42/MindBridge](https://github.com/RealKai42/MindBridge): None
 * [karpathy/minGPT](https://github.com/karpathy/minGPT): A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 * [BooLeei/mini-program](https://github.com/BooLeei/mini-program): None
 * [weolar/miniblink49](https://github.com/weolar/miniblink49): a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
@@ -1289,6 +1290,7 @@
 * [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary): A collection of prompts, system prompts and LLM instructions
 * [lucasmrdt/TheBigPromptLibrary](https://github.com/lucasmrdt/TheBigPromptLibrary): A collection of prompts, system prompts and LLM instructions
 * [saadeghi/theme-change](https://github.com/saadeghi/theme-change): Change CSS theme with toggle, buttons or select using CSS custom properties and localStorage
+* [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping): 编程笔记、观影指南、读书笔记、生活感悟、Switch 游戏
 * [top-think/thinkphp](https://github.com/top-think/thinkphp): ThinkPHP3.2 ——基于PHP5的简单快速的面向对象的PHP框架
 * [thinksaas/ThinkSAAS](https://github.com/thinksaas/ThinkSAAS): ThinkSAAS open source community
 * [zenus/ThinkStorm](https://github.com/zenus/ThinkStorm): ThinkStorm is Thinkphp framework  plugin for PhpStorm
