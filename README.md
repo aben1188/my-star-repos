@@ -66,6 +66,7 @@
 * [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh): A pure Unix shell script implementing ACME client protocol
 * [activepieces/activepieces](https://github.com/activepieces/activepieces): Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 * [justboil/admin-one-vue-tailwind](https://github.com/justboil/admin-one-vue-tailwind): Free Vue.js 3.x Tailwind 3.x admin dashboard template with dark mode. Vite builds. Pinia state. Laravel integration available
+* [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta): The all-in-one LLM developer platform: prompt management, evaluation, human feedback, and deployment all in one place.
 * [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 * [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic): AI agent stdlib that works with any LLM and TypeScript AI SDK.
 * [neural-maze/agentic_patterns](https://github.com/neural-maze/agentic_patterns): Implementing the 4 agentic patterns from scratch
@@ -189,6 +190,7 @@
 * [coderonion/awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc): 🚀🚀🚀A collection of some awesome public projects about Large Language Model, Vision Foundation Model and AI Generated Content.
 * [kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes](https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes): What can I do with a LLM model?
 * [KennethanCeyer/awesome-llmops](https://github.com/KennethanCeyer/awesome-llmops): Awesome series for LLMOps
+* [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps): An awesome & curated list of best LLMOps tools for developers
 * [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 * [ICTMCG/Awesome-Machine-Generated-Text](https://github.com/ICTMCG/Awesome-Machine-Generated-Text): Continuously updated list of related resources for generative LLMs like GPT and their analysis and detection.
 * [parro-it/awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages): A curated list of small, focused npm packages.
@@ -1006,6 +1008,7 @@
 * [PeopleDao/people](https://github.com/PeopleDao/people): None
 * [luiscruzga/perplexityai](https://github.com/luiscruzga/perplexityai): Search information and summarized news using artificial intelligence from perplexity
 * [kangyu-california/PersistentWindows](https://github.com/kangyu-california/PersistentWindows): fork of http://www.ninjacrab.com/persistent-windows/ with windows 10 update
+* [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo): 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 * [electric-sql/pglite](https://github.com/electric-sql/pglite): Lightweight WASM Postgres with real-time, reactive bindings.
 * [docker-library/php](https://github.com/docker-library/php): Docker Official Image packaging for PHP
 * [codecasts/php-alpine](https://github.com/codecasts/php-alpine): PHP APK Repository for Alpine Linux

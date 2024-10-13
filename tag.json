@@ -59,6 +59,9 @@
     "Adonis142857/Real-Address-Generator": [
         "Other"
     ],
+    "Agenta-AI/agenta": [
+        "Other"
+    ],
     "Aider-AI/aider": [
         "Other"
     ],
@@ -3530,6 +3533,9 @@
     "pengan1987/computer-museum-dnbwg": [
         "Other"
     ],
+    "pezzolabs/pezzo": [
+        "Other"
+    ],
     "phacility/xhprof": [
         "Other"
     ],
@@ -4188,6 +4194,9 @@
         "Other"
     ],
     "tennc/webshell": [
+        "Other"
+    ],
+    "tensorchord/Awesome-LLMOps": [
         "Other"
     ],
     "tensorflow/tensorflow": [
