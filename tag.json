@@ -56,6 +56,9 @@
     "AINativeLab/gptstore-data-backup": [
         "Other"
     ],
+    "AZeC4/TelegramGroup": [
+        "Other"
+    ],
     "Adonis142857/Real-Address-Generator": [
         "Other"
     ],
@@ -2442,9 +2445,6 @@
         "Other"
     ],
     "itchyny/lightline.vim": [
-        "Other"
-    ],
-    "itgoyo/TelegramGroup": [
         "Other"
     ],
     "itmad/Tpay_Svr": [

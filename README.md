@@ -1286,7 +1286,7 @@
 * [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop): Telegram Desktop messaging app
 * [lcomplete/TechShare](https://github.com/lcomplete/TechShare): 🌟 分享效率方法 🪄、优质文章 📑、编程知识 🎹、实用工具 🛠️ 和有趣内容 😄。💌 当有重要的事情需要分享时会发送 newsletter。
 * [Firaenix/TeleChatRelay](https://github.com/Firaenix/TeleChatRelay): Relay between Telegram and WeChat
-* [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup): 2024最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
+* [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup): 2024最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
 * [RTradeLtd/Temporal](https://github.com/RTradeLtd/Temporal): ☄️ Temporal is an easy-to-use, enterprise-grade interface into distributed and decentralized storage
 * [TEN-framework/TEN-Agent](https://github.com/TEN-framework/TEN-Agent): TEN Agent is the world’s first real-time multimodal agent integrated with the OpenAI Realtime API, RTC, and features weather checks, web search, vision, and RAG capabilities.
 * [archtechx/tenancy](https://github.com/archtechx/tenancy): Automatic multi-tenancy for Laravel. No code changes needed.
