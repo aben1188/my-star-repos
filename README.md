@@ -299,6 +299,7 @@
 * [jas0ncn/cet](https://github.com/jas0ncn/cet): CET4/6 score query website based on Vue.js and Node
 * [ifyour/cf-image-hosting](https://github.com/ifyour/cf-image-hosting): 🥊  Free & Unlimited Image Hosting
 * [haibbo/cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy): A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service
+* [cmliu/CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io): 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。
 * [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge): An open-source visual programming environment for battle-testing prompts to LLMs.
 * [sugarforever/chat-ollama](https://github.com/sugarforever/chat-ollama): ChatOllama is an open source chatbot based on LLMs. It supports a wide range of language models, and knowledge base management.
 * [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL):  Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
@@ -459,6 +460,7 @@
 * [mochat-cloud/docker-compose](https://github.com/mochat-cloud/docker-compose): 🐳 The docker compose offered by MoChat.
 * [eternity-wdd/docker-env](https://github.com/eternity-wdd/docker-env): This project includes using docker to build the environment automatically
 * [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer): Easily install PHP extensions in Docker containers
+* [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy): 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到Render\Koyeb
 * [afeiship/docker-sequenceserver](https://github.com/afeiship/docker-sequenceserver): Docker for sequenceserver.
 * [gdraheim/docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement): docker systemctl replacement - allows to deploy to systemd-controlled containers without starting an actual systemd daemon (e.g.  centos7, ubuntu16)
 * [huan/docker-wechat](https://github.com/huan/docker-wechat): DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux
