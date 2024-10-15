@@ -880,7 +880,6 @@
 * [Modernizr/Modernizr](https://github.com/Modernizr/Modernizr): Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 * [Seldaek/monolog](https://github.com/Seldaek/monolog): Sends your logs to files, sockets, inboxes, databases and various web services
 * [waza-ari/monolog-mysql](https://github.com/waza-ari/monolog-mysql): MySQL Handler for Monolog, which allows to store log messages to a MySQL Table
-* [barvian/motion-number](https://github.com/barvian/motion-number): A Framer Motion component that transitions, formats, and localizes numbers.
 * [TencentCloudBase/mp-book](https://github.com/TencentCloudBase/mp-book): 小程序·云开发系列教程
 * [xdmjun/mp-unpack](https://github.com/xdmjun/mp-unpack): None
 * [pudongping/mp-vx-insight](https://github.com/pudongping/mp-vx-insight): 微信公众号小助手，扩展了一键获取微信公众号文章封面图、全部文章、一键采集文章内容等功能。
@@ -950,6 +949,7 @@
 * [novuhq/novu](https://github.com/novuhq/novu): Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 * [nissl-lab/npoi](https://github.com/nissl-lab/npoi): a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
 * [bruderstein/nppPluginManager](https://github.com/bruderstein/nppPluginManager): Notepad++ Plugin Manager
+* [barvian/number-flow](https://github.com/barvian/number-flow): A React component that transitions, formats, and localizes numbers.
 * [D-xuanmo/Nuxtjs-Wordpress](https://github.com/D-xuanmo/Nuxtjs-Wordpress): 🎉 Nuxtjs + Wordpress REST API 主题；支持企业微信通知功能；全站前后端分离，自适应，白日、黑夜两种主题切换
 * [ZacharyZhang-NY/O1-For-Claude](https://github.com/ZacharyZhang-NY/O1-For-Claude): None
 * [Vincit/objection.js](https://github.com/Vincit/objection.js): An SQL-friendly ORM for Node.js
