@@ -3452,6 +3452,9 @@
     "openai-translator/openai-translator": [
         "Other"
     ],
+    "openai/openai-cookbook": [
+        "Other"
+    ],
     "openai/openai-node": [
         "Other"
     ],
