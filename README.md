@@ -487,7 +487,7 @@
 * [lonnyzhang423/douyin-hot-hub](https://github.com/lonnyzhang423/douyin-hot-hub): 记录抖音热榜、明星榜、直播榜、音乐榜和品牌榜，每小时更新，按天归档。
 * [dracula/dracula-theme](https://github.com/dracula/dracula-theme): 🧛🏻‍♂️ One theme. All platforms.
 * [bevacqua/dragula](https://github.com/bevacqua/dragula): :ok_hand: Drag and drop so simple it hurts
-* [g1879/DrissionPage](https://github.com/g1879/DrissionPage): 基于python的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和requests的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少。
+* [g1879/DrissionPage](https://github.com/g1879/DrissionPage): Python based web automation tool. Powerful and elegant.
 * [assimon/dujiaoka](https://github.com/assimon/dujiaoka): 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
 * [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm): Learning English through the method of constructing sentences with conjunctions
 * [easy-mock/easy-mock](https://github.com/easy-mock/easy-mock): A persistent service that generates mock data quickly and provids visualization view.
