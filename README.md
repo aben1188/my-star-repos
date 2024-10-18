@@ -219,6 +219,7 @@
 * [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri): 🚀 Awesome Tauri Apps, Plugins and Resources
 * [tradingview/awesome-tradingview](https://github.com/tradingview/awesome-tradingview): 🎉 A curated list of awesome things related to TradingView (widgets, charting library, lightweight-charts, etc)
 * [cedrickchee/awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp): A curated list of NLP resources focused on Transformer networks, attention mechanism, GPT, BERT, ChatGPT, LLMs, and transfer learning.
+* [sancarn/awesome-vba](https://github.com/sancarn/awesome-vba): A curated list of awesome VBA/VB6 frameworks, libraries, software and resources
 * [vikadata/awesome-vikadata](https://github.com/vikadata/awesome-vikadata): 🙀 A list of awesome projects / resources / SDKs / frameworks that make Vikadata even more awesome. 🤪  https://vika.cn/developers
 * [xjh22222228/awesome-web-editor](https://github.com/xjh22222228/awesome-web-editor): 🔨  Open source WEB editor summary
 * [Aufree/awesome-wechat-weapp](https://github.com/Aufree/awesome-wechat-weapp): None
@@ -1141,7 +1142,7 @@
 * [remotion-dev/remotion](https://github.com/remotion-dev/remotion): 🎥      Make videos programmatically with React
 * [hezhizheng/repo-image-hosting](https://github.com/hezhizheng/repo-image-hosting): github | coding | gitee 图床 ，使用golang（Gin）实现
 * [hezhizheng/repo-storage](https://github.com/hezhizheng/repo-storage): 使用代码托管平台( github | coding | gitee )做自己 '私有' 的 '对象存储'
-* [putyy/res-downloader](https://github.com/putyy/res-downloader): 支持视频号、小程序、抖音、快手、小红书、酷狗、QQ音乐等网络资源下载!
+* [putyy/res-downloader](https://github.com/putyy/res-downloader): 支持视频号、小程序、抖音、快手、小红书、直播流、酷狗、QQ音乐等常见网络资源!
 * [arielsalminen/ResponsiveSlides.js](https://github.com/arielsalminen/ResponsiveSlides.js): Simple & lightweight responsive slider plugin (in 1kb)
 * [resque/resque-web](https://github.com/resque/resque-web): a Rails-based web interface to Resque
 * [Yifan-Song793/RestGPT](https://github.com/Yifan-Song793/RestGPT): An LLM-based autonomous agent controlling real-world applications via RESTful APIs
@@ -1240,6 +1241,7 @@
 * [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version): :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 * [startbbs/startbbs](https://github.com/startbbs/startbbs): startbbs is a free, open-source, light weight forum software package built with PHP and MySQL
 * [staticfile/static](https://github.com/staticfile/static): 开放静态文件 - 为开源库提供稳定、快速的免费 CDN 服务
+* [sancarn/stdVBA](https://github.com/sancarn/stdVBA): VBA Standard Library - A Collection of libraries to form a common standard layer for modern VBA applications.
 * [banodoco/Steerable-Motion](https://github.com/banodoco/Steerable-Motion): A ComfyUI node for driving videos using batches of images.
 * [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf): Control and manage Android devices from your browser.
 * [ygh3279799773/streamer-card](https://github.com/ygh3279799773/streamer-card): 流光卡片API
@@ -1385,6 +1387,8 @@
 * [youzan/vant](https://github.com/youzan/vant): A lightweight, customizable Vue UI library for mobile web apps.
 * [youzan/vant-weapp](https://github.com/youzan/vant-weapp): 轻量、可靠的小程序 UI 组件库
 * [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden): Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+* [ws-garcia/VBA-CSV-interface](https://github.com/ws-garcia/VBA-CSV-interface): The power you need to cleanse, filter, sort, reshape, manage and analyze data from CSV files.
+* [kellyethridge/VBCorLib](https://github.com/kellyethridge/VBCorLib): The VBCorLib framework brings many of the powerful .NET classes to VB6.
 * [Tencent/vConsole](https://github.com/Tencent/vConsole): A lightweight, extendable front-end developer tool for mobile web page.
 * [sinchang/vdonate](https://github.com/sinchang/vdonate): 💰 为你的网站增加个微信、支付宝二维码，方便读者打赏
 * [ventoy/Ventoy](https://github.com/ventoy/Ventoy): A new bootable USB solution.

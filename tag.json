@@ -2720,6 +2720,9 @@
     "keelii/snote": [
         "Other"
     ],
+    "kellyethridge/VBCorLib": [
+        "Other"
+    ],
     "ken107/read-aloud": [
         "Other"
     ],
@@ -3866,6 +3869,12 @@
     "samber/the-great-gpt-firewall": [
         "Other"
     ],
+    "sancarn/awesome-vba": [
+        "Other"
+    ],
+    "sancarn/stdVBA": [
+        "Other"
+    ],
     "sands321/zagi": [
         "Other"
     ],
@@ -4674,6 +4683,9 @@
         "Other"
     ],
     "wosiwo/slim-swoole-service": [
+        "Other"
+    ],
+    "ws-garcia/VBA-CSV-interface": [
         "Other"
     ],
     "wuchangming/spy-debugger": [
