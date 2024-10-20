@@ -171,6 +171,7 @@
 * [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules): 📄 A curated list of awesome .cursorrules files
 * [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow): 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
 * [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt): 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
+* [hiddify/awesome-freedom](https://github.com/hiddify/awesome-freedom): In this repository we have collected all awesome tools for iranian people
 * [opendigg/awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp): 微信小程序开源项目库汇总
 * [KeyToLove/awesome-gpt](https://github.com/KeyToLove/awesome-gpt): Awesome-gpt, 基于 OpenAI 定制化的 Chatgpt Web 应用
 * [formulahendry/awesome-gpt](https://github.com/formulahendry/awesome-gpt): A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more.
@@ -427,6 +428,7 @@
 * [Jackardios/css-to-tailwindcss](https://github.com/Jackardios/css-to-tailwindcss): Convert CSS to TailwindCSS 3.x
 * [jolaleye/cssfx](https://github.com/jolaleye/cssfx): ✨ Beautifully simple click-to-copy CSS effects
 * [CSSLint/csslint](https://github.com/CSSLint/csslint): Automated linting of Cascading Stylesheets
+* [pontusab/cursor.directory](https://github.com/pontusab/cursor.directory): Find the best cursor rules for your framework and language
 * [itsOwen/CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077): A Powerful web scraper powered by LLM | OpenAI, Gemini & Ollama
 * [WalkerPnD/daisy-svelte](https://github.com/WalkerPnD/daisy-svelte): Svelte components for Daisy UI
 * [saadeghi/daisyui](https://github.com/saadeghi/daisyui): 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
@@ -924,6 +926,7 @@
 * [lipeng0820/newBingHelper](https://github.com/lipeng0820/newBingHelper): None
 * [echosoar/news](https://github.com/echosoar/news): 基于SimHash算法聚合相似全网内容，根据来源数量进行排序，并对一些内容进行过滤
 * [lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing): Next.js billing app with Lemon Squeezy
+* [weijunext/nextjs-learn-demos](https://github.com/weijunext/nextjs-learn-demos): Sharing Technologies in the Next.js Ecosystem.
 * [RunnerLee/nezha-cashier](https://github.com/RunnerLee/nezha-cashier): 简单的支付 sdk
 * [chenxianshuang/nezha-cashier](https://github.com/chenxianshuang/nezha-cashier): 简单的支付 sdk
 * [DocsHome/nginx-docs](https://github.com/DocsHome/nginx-docs): Nginx 中文文档. Chinese translation of Nginx documentation.
