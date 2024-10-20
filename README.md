@@ -585,6 +585,7 @@
 * [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
 * [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim): fzf :heart: vim
 * [Kingfish404/game-make-wut](https://github.com/Kingfish404/game-make-wut): 合成大西瓜cocos版再开发-合成武汉理工
+* [weijunext/gapis.money](https://github.com/weijunext/gapis.money): Knowledge is power, Gap is money! 「信息差——独立开发者出海周刊」是一个帮助独立开发者缩小信息差的技术周刊。
 * [BlackGlory/garland](https://github.com/BlackGlory/garland): 🌲 A folder hierarchy builder based on tags and symbolic links.
 * [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books): :books: 极客时间电子书
 * [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents): Generative Agents: Interactive Simulacra of Human Behavior
