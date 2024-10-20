@@ -74,7 +74,7 @@
 * [KeJunMao/ai-anything](https://github.com/KeJunMao/ai-anything): 💞 Anyone can create GPT tools 人人都能创建 GPT 工具
 * [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners): 12 Weeks, 24 Lessons, AI for All!
 * [MichaelYuhe/ai-group-tabs](https://github.com/MichaelYuhe/ai-group-tabs): Organize and group your Chrome tabs with AI
-* [gopiashokan/AI-Powered-Resume-Analyzer-and-LinkedIn-Scraper-with-Selenium](https://github.com/gopiashokan/AI-Powered-Resume-Analyzer-and-LinkedIn-Scraper-with-Selenium): Developed an AI application using LLM to analyze user resumes and provided the summarization, strengths, weaknesses, suggestions, suitable job titles, and also scraping job details from LinkedIn using Selenium. This application reduces time by 30% and helps candidates tailor their resumes effectively.
+* [gopiashokan/AI-Resume-Analyzer-and-LinkedIn-Scraper-using-LLM](https://github.com/gopiashokan/AI-Resume-Analyzer-and-LinkedIn-Scraper-using-LLM): Developed an AI application using LLM to analyze user resumes and provided the summarization, strengths, weaknesses, suggestions, suitable job titles, and also scraping job details from LinkedIn using Selenium. This application reduces time by 30% and helps candidates tailor their resumes effectively.
 * [a16z-infra/ai-town](https://github.com/a16z-infra/ai-town): A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
 * [techwithtim/AI-Web-Scraper](https://github.com/techwithtim/AI-Web-Scraper): An AI web scraper using ollama, brightdata, selenium and other libraries.
 * [Aider-AI/aider](https://github.com/Aider-AI/aider): aider is AI pair programming in your terminal
