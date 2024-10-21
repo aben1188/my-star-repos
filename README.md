@@ -749,6 +749,8 @@
 * [kennethkufluk/js-fireworks](https://github.com/kennethkufluk/js-fireworks): JavaScript Fireworks
 * [kissjs/JSinJS](https://github.com/kissjs/JSinJS): A JS parser in JS
 * [douglascrockford/JSON-js](https://github.com/douglascrockford/JSON-js): JSON in JavaScript
+* [mangiucugna/json_repair](https://github.com/mangiucugna/json_repair): A python module to repair invalid JSON, commonly used to parse the output of LLMs
+* [josdejong/jsonrepair](https://github.com/josdejong/jsonrepair): Repair invalid JSON documents
 * [ruanyf/jstraining](https://github.com/ruanyf/jstraining): 全栈工程师培训材料
 * [ruanyf/jstutorial](https://github.com/ruanyf/jstutorial): Javascript tutorial book
 * [senmeng/jtt](https://github.com/senmeng/jtt): 京东客、京东联盟、京东API、京推推
