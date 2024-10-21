@@ -68,6 +68,9 @@
     "Aider-AI/aider": [
         "Other"
     ],
+    "Airtable/airtable.js": [
+        "Other"
+    ],
     "AlexZhangji/Twitter-Insight-LLM": [
         "Other"
     ],
@@ -1215,6 +1218,9 @@
         "Other"
     ],
     "arachnys/athenapdf": [
+        "Other"
+    ],
+    "arc53/DocsGPT": [
         "Other"
     ],
     "archtechx/tenancy": [
@@ -4200,6 +4206,9 @@
         "Other"
     ],
     "tc39/ecma262": [
+        "Other"
+    ],
+    "teableio/teable": [
         "Other"
     ],
     "teambit/bit": [

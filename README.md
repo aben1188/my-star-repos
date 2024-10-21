@@ -83,6 +83,7 @@
 * [myshell-ai/AIlice](https://github.com/myshell-ai/AIlice): AIlice is a fully autonomous, general-purpose AI agent.
 * [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter): ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.
 * [aircodelabs/aircode](https://github.com/aircodelabs/aircode): Build and ship Node.js serverless functions in a coffee break.
+* [Airtable/airtable.js](https://github.com/Airtable/airtable.js): Airtable javascript client
 * [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox): 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎 
 * [ethereum/aleth](https://github.com/ethereum/aleth): Aleth – Ethereum C++ client, tools and libraries
 * [aliceui/aliceui.github.io](https://github.com/aliceui/aliceui.github.io): 写样式的一种方式
@@ -474,6 +475,7 @@
 * [knative/docs](https://github.com/knative/docs): User documentation for Knative components.
 * [meilisearch/docs-scraper](https://github.com/meilisearch/docs-scraper): Scrape documentation into Meilisearch
 * [algolia/docsearch-scraper](https://github.com/algolia/docsearch-scraper): DocSearch - Scraper
+* [arc53/DocsGPT](https://github.com/arc53/DocsGPT): Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 * [docsifyjs/docsify](https://github.com/docsifyjs/docsify): 🃏 A magical documentation site generator.
 * [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide): 中文技术文档的写作规范
 * [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai): 基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)
@@ -1300,6 +1302,7 @@
 * [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs): The source for all Tauri project documentation.
 * [tecnickcom/TCPDF](https://github.com/tecnickcom/TCPDF): Official clone of PHP library to generate PDF documents and barcodes
 * [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop): Telegram Desktop messaging app
+* [teableio/teable](https://github.com/teableio/teable): ✨ The Next Gen Airtable Alternative: No-Code Postgres
 * [lcomplete/TechShare](https://github.com/lcomplete/TechShare): 🌟 分享效率方法 🪄、优质文章 📑、编程知识 🎹、实用工具 🛠️ 和有趣内容 😄。💌 当有重要的事情需要分享时会发送 newsletter。
 * [Firaenix/TeleChatRelay](https://github.com/Firaenix/TeleChatRelay): Relay between Telegram and WeChat
 * [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup): 2024最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
