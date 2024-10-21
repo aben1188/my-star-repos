@@ -77,6 +77,7 @@
 * [gopiashokan/AI-Resume-Analyzer-and-LinkedIn-Scraper-using-LLM](https://github.com/gopiashokan/AI-Resume-Analyzer-and-LinkedIn-Scraper-using-LLM): Developed an AI application using LLM to analyze user resumes and provided the summarization, strengths, weaknesses, suggestions, suitable job titles, and also scraping job details from LinkedIn using Selenium. This application reduces time by 30% and helps candidates tailor their resumes effectively.
 * [a16z-infra/ai-town](https://github.com/a16z-infra/ai-town): A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
 * [techwithtim/AI-Web-Scraper](https://github.com/techwithtim/AI-Web-Scraper): An AI web scraper using ollama, brightdata, selenium and other libraries.
+* [worm128/AI-YinMei](https://github.com/worm128/AI-YinMei): AI吟美-人工智能主播-Vtuber
 * [Aider-AI/aider](https://github.com/Aider-AI/aider): aider is AI pair programming in your terminal
 * [phodal/aigc](https://github.com/phodal/aigc): 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。
 * [myshell-ai/AIlice](https://github.com/myshell-ai/AIlice): AIlice is a fully autonomous, general-purpose AI agent.
