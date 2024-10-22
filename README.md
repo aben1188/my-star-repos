@@ -246,6 +246,7 @@
 * [fishaudio/Bert-VITS2](https://github.com/fishaudio/Bert-VITS2): vits2 backbone with multilingual-bert
 * [K-Render/best-chinese-prompt](https://github.com/K-Render/best-chinese-prompt): AI中文提示词秘籍ChatGPT中文提示词秘籍（Prompt圣经）K-Render整理
 * [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python): 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
+* [ginobefun/BestBlogs](https://github.com/ginobefun/BestBlogs): bestblogs.dev - 汇集顶级编程、人工智能、产品、科技文章，大语言模型摘要评分辅助阅读，探索编程和技术未来
 * [JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1): BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表)
 * [bullhe4d/bigwatermelon](https://github.com/bullhe4d/bigwatermelon): 合成大西瓜源码,修改版
 * [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved): 强大的哔哩哔哩增强脚本
@@ -1630,6 +1631,7 @@
 * [weui/weui-design](https://github.com/weui/weui-design): Design package for WeUI
 * [wechat-miniprogram/weui-miniprogram](https://github.com/wechat-miniprogram/weui-miniprogram): 小程序WeUI组件库
 * [Tencent/weui-wxss](https://github.com/Tencent/weui-wxss): A UI library by WeChat official design team, includes the most useful widgets/modules.
+* [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss): 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）v2.x
 * [wdfe/weweb](https://github.com/wdfe/weweb): 兼容小程序写法的web开发框架
 * [edxposedd/wework](https://github.com/edxposedd/wework): 【Xposed Hook 企业微信 微信】企业微信机器人 微信机器人 自动抢回复 会话 自动通过 好友列表 群管理 SDK
 * [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp): Port of OpenAI's Whisper model in C/C++
