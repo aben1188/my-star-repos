@@ -915,6 +915,7 @@
 * [qingconglaixueit/mywechatbot](https://github.com/qingconglaixueit/mywechatbot): 仅用于我个人的 chatgpt 项目
 * [x-cold/N3-admin](https://github.com/x-cold/N3-admin): vue / vuex / N3 / vue-router / axios v2
 * [N3-components/N3-components](https://github.com/N3-components/N3-components): N3-components , Powerful Vue UI Library.
+* [n8n-io/n8n](https://github.com/n8n-io/n8n): Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 * [hyperf/nano](https://github.com/hyperf/nano): 🧬 Nano is a zero-config, no skeleton, minimal Hyperf distribution that allows you to quickly build a Hyperf application with just a single PHP file.
 * [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT): The simplest, fastest repository for training/finetuning medium-sized GPTs.
 * [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript): ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Dart (Flutter) and you name it compatible.
@@ -1390,7 +1391,7 @@
 * [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar): An elegant calendar and datepicker plugin for Vue.
 * [livid/v2ex-gae](https://github.com/livid/v2ex-gae): Legacy code of V2EX running on Google App Engine
 * [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat): 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.
-* [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss): None
+* [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss): A proxy script with multiple protocols.
 * [mikewubox/V2Ray3](https://github.com/mikewubox/V2Ray3): 相關配置文件
 * [2dust/v2rayN](https://github.com/2dust/v2rayN): A GUI client for Windows, support Xray core and v2fly core and others
 * [yanue/V2rayU](https://github.com/yanue/V2rayU): V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持trojan,vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
