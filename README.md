@@ -965,7 +965,7 @@
 * [novuhq/novu](https://github.com/novuhq/novu): Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 * [nissl-lab/npoi](https://github.com/nissl-lab/npoi): a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
 * [bruderstein/nppPluginManager](https://github.com/bruderstein/nppPluginManager): Notepad++ Plugin Manager
-* [barvian/number-flow](https://github.com/barvian/number-flow): A React component to transition, format, and localize numbers.
+* [barvian/number-flow](https://github.com/barvian/number-flow): A component to transition, format, and localize numbers.
 * [D-xuanmo/Nuxtjs-Wordpress](https://github.com/D-xuanmo/Nuxtjs-Wordpress): 🎉 Nuxtjs + Wordpress REST API 主题；支持企业微信通知功能；全站前后端分离，自适应，白日、黑夜两种主题切换
 * [ZacharyZhang-NY/O1-For-Claude](https://github.com/ZacharyZhang-NY/O1-For-Claude): None
 * [Vincit/objection.js](https://github.com/Vincit/objection.js): An SQL-friendly ORM for Node.js
