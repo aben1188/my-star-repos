@@ -276,6 +276,7 @@
 * [D-xuanmo/blog-miniprogram-wordpress](https://github.com/D-xuanmo/blog-miniprogram-wordpress): 博客小程序版
 * [brandonxiang/blog-weapp](https://github.com/brandonxiang/blog-weapp): None
 * [bolasblack/BlogPosts](https://github.com/bolasblack/BlogPosts): None
+* [hughfenghen/bloom-shadow](https://github.com/hughfenghen/bloom-shadow): 在浏览器中运行的录屏工具，可用于视频课程制作、直播推流工作台；基于 WebAV 实现
 * [akl7777777/bob-plugin-akl-deepl-free-translate](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate): **DeepL免秘钥,免启服务**,双击使用,免费无限次使用,(**新增DeepL单词查询功能**)根据网页版JavaScript加密算法逆向开发的bobplugin;所以只要官网的算法不改,理论上就可以无限使用;(重大更新!!!回馈老用户,现已优化,频繁访问后仍然可以继续免费翻译!!) **apiKey is not required,No account password required**
 * [openai-translator/bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator): 基于 OpenAI API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0
 * [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new): Prompt, run, edit, and deploy full-stack web applications
@@ -1506,6 +1507,8 @@
 * [joewalnes/web-vmstats](https://github.com/joewalnes/web-vmstats): Prettify vmstats in your browser
 * [lixh00/web-wechat](https://github.com/lixh00/web-wechat): 基于`Golang`语言和`Gin`框架的个人微信系统，支持ChatGPT
 * [wangschang/web3.0](https://github.com/wangschang/web3.0): web3.0知识整理 web3.0知识 web3.0学习资料 web3工作 web3书籍 web3job
+* [bilibili/WebAV](https://github.com/bilibili/WebAV): WebAV is an SDK built on WebCodecs, designed for creating and editing video files on the web platform. WebAV 是基于 WebCodecs 构建的 SDK，用于在 Web 平台上创建/编辑视频文件。
+* [hughfenghen/WebAV-KnowledgeGraph](https://github.com/hughfenghen/WebAV-KnowledgeGraph): 整理（索引） Web 音视频相关的 API、SDK、文章、对外产品，帮助前端开发者入门/进阶音视频领域，推动音视频技术在 Web 平台的应用实践。
 * [webdzq/webdemo](https://github.com/webdzq/webdemo): 一些项目的demo，包括使用webpack，vue，fis3等项目架构和解决方案。用来熟悉最新的前端新知识。
 * [calidion/webfullstack-awesome](https://github.com/calidion/webfullstack-awesome):  Web全栈工程师常用网址大全
 * [zhukov/webogram](https://github.com/zhukov/webogram): Telegram web application, GPL v3

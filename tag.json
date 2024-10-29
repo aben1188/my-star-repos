@@ -1355,6 +1355,9 @@
     "bigemon/ChuanhuChatGPT": [
         "Other"
     ],
+    "bilibili/WebAV": [
+        "Other"
+    ],
     "bilibili/flv.js": [
         "Other"
     ],
@@ -2289,6 +2292,12 @@
         "Other"
     ],
     "huggingface/transformers": [
+        "Other"
+    ],
+    "hughfenghen/WebAV-KnowledgeGraph": [
+        "Other"
+    ],
+    "hughfenghen/bloom-shadow": [
         "Other"
     ],
     "huhamhire/huhamhire-hosts": [
