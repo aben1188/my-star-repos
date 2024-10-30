@@ -659,6 +659,7 @@
 * [gulpjs/gulp](https://github.com/gulpjs/gulp): A toolkit to automate & enhance your workflow
 * [klei/gulp-inject](https://github.com/klei/gulp-inject): A javascript, stylesheet and webcomponent injection plugin for Gulp
 * [lin-xin/gulp-plugins](https://github.com/lin-xin/gulp-plugins): gulp 常用插件功能和用法的详细使用说明
+* [wwwebman/gulp-webpack-starter](https://github.com/wwwebman/gulp-webpack-starter): Gulp Webpack Starter - fast static website builder. The starter uses gulp toolkit and webpack bundler. Download to get an awesome development experience!
 * [RIscRIpt/gvimfullscreen_win32](https://github.com/RIscRIpt/gvimfullscreen_win32): Plugin to allow full screen use in gvim on Windows
 * [FernAbby/H5-Activities](https://github.com/FernAbby/H5-Activities): 存放部分活动页面,包含大转盘、砸金蛋、刮刮卡、摇一摇、投票、问卷、抓娃娃、砍价、优惠券投票、意见收集等活动......
 * [qianduanwuzi/H5-game](https://github.com/qianduanwuzi/H5-game): H5小游戏：砸金蛋、刮刮乐、canvas抓粽子等
