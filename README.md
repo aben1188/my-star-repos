@@ -309,6 +309,7 @@
 * [haibbo/cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy): A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service
 * [cmliu/CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io): 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。
 * [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge): An open-source visual programming environment for battle-testing prompts to LLMs.
+* [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io): The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
 * [sugarforever/chat-ollama](https://github.com/sugarforever/chat-ollama): ChatOllama is an open source chatbot based on LLMs. It supports a wide range of language models, and knowledge base management.
 * [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL):  Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 * [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui): Come join the best place on the internet to learn AI skills. Use code "chatbotui" for an extra 20% off.
@@ -1236,6 +1237,7 @@
 * [luofei614/SocketLog](https://github.com/luofei614/SocketLog): 微信调试、API调试和AJAX的调试的工具，能将日志通过WebSocket输出到Chrome浏览器的console中
 * [solidjs/solid](https://github.com/solidjs/solid): A declarative, efficient, and flexible JavaScript library for building user interfaces.
 * [doDomoGu/songtang_app](https://github.com/doDomoGu/songtang_app): None
+* [lucidrains/soundstorm-pytorch](https://github.com/lucidrains/soundstorm-pytorch): Implementation of SoundStorm, Efficient Parallel Audio Generation from Google Deepmind, in Pytorch
 * [chzhcpu/Spacebuilder_4.2.0.0_src](https://github.com/chzhcpu/Spacebuilder_4.2.0.0_src): None
 * [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs): A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 * [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim): A modular Vim/Neovim configuration
