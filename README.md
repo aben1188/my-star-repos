@@ -1412,6 +1412,7 @@
 * [sinchang/vdonate](https://github.com/sinchang/vdonate): 💰 为你的网站增加个微信、支付宝二维码，方便读者打赏
 * [ventoy/Ventoy](https://github.com/ventoy/Ventoy): A new bootable USB solution.
 * [JS-DevTools/version-bump-prompt](https://github.com/JS-DevTools/version-bump-prompt): Interactive CLI that bumps your version numbers and more
+* [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo): Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
 * [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim): :star: Vim for Visual Studio Code
 * [asins/vim](https://github.com/asins/vim): 我的VIM配置
 * [dracula/vim](https://github.com/dracula/vim): 🧛🏻‍♂️ Dark theme for Vim
