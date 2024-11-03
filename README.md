@@ -1727,6 +1727,7 @@
 * [km3945/ysapi](https://github.com/km3945/ysapi): yaf swoole api socket servers
 * [iyangyuan/ystep](https://github.com/iyangyuan/ystep): ystep jQuery流程、步骤插件
 * [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): A feature-rich command-line audio/video downloader
+* [distubejs/ytdl-core](https://github.com/distubejs/ytdl-core): YouTube video downloader in javascript.
 * [yangchunaijtt/yueDu](https://github.com/yangchunaijtt/yueDu): 悦读-小程序项目 uni-app编码
 * [Yurunsoft/YurunOAuthLogin](https://github.com/Yurunsoft/YurunOAuthLogin): PHP 第三方登录授权 SDK，集成了QQ、微信、微博、Github等常用接口。支持 php-fpm 和 Swoole，所有框架通用。QQ群：17916227
 * [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot): 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
