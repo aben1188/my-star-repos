@@ -1533,7 +1533,7 @@
 * [hi-craft/Wechat-AccessibilityService](https://github.com/hi-craft/Wechat-AccessibilityService): 第三方WECHAT辅助服务 基于AccessibilityService实现 激活码IMEI码绑定，群组列表群发，好友列表群发，定时自动任务，发送间隔时间设定 更新至2.2版本，适配WECHAT7.0.3
 * [ChinaVolvocars/WeChat-applet](https://github.com/ChinaVolvocars/WeChat-applet): 微信小应用，微信小程序资源汇总整理，涵括微信 Web 开发工具、开发框架、开发教程、以及官方文档和相关资源的整理
 * [colin4k/wechat-article-dl](https://github.com/colin4k/wechat-article-dl): 微信公众号文章下载，生成 png 图片保存到本地。 | Download Wechat Official Accounts article as png file.
-* [jooooock/wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter): 在线批量导出微信公众号文章，支持内嵌的音视频导出，无需搭建任何环境，可100%还原文章样式，支持私有部署
+* [jooooock/wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter): 在线批量导出微信公众号文章，支持阅读量、评论数据的导出，支持内嵌的音视频导出，无需搭建任何环境，可100%还原文章样式，支持私有部署
 * [leochen-g/wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro): 智能微秘书,全能的微信机器人管理平台,最简单的方式接入ChatGPT,FastGPT,Dify,Coze,扣子.支持绘图，语音识别，语音发送，定时任务，支持企微、公众号、5G 消息、WhatsApp
 * [leochen-g/wechat-assistant-pro-ipad](https://github.com/leochen-g/wechat-assistant-pro-ipad): 智能微秘书ipad协议版本
 * [meteorOSS/wechat-bc](https://github.com/meteorOSS/wechat-bc): 类似开发公众号一样，开发个人微信号
