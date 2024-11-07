@@ -992,7 +992,7 @@
 * [easychen/openai-api-proxy](https://github.com/easychen/openai-api-proxy): 一行Docker命令部署的 OpenAI/GPT API代理，支持SSE流式返回、腾讯云函数 。Simple proxy for OpenAi api via a one-line docker command
 * [admineral/OpenAI-Assistant-API-Chat](https://github.com/admineral/OpenAI-Assistant-API-Chat): OpenAI Assistant API Template: Customize your Assistant and chat with your files.
 * [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
-* [openai/openai-node](https://github.com/openai/openai-node): The official Node.js / Typescript library for the OpenAI API
+* [openai/openai-node](https://github.com/openai/openai-node): Official JavaScript / TypeScript library for the OpenAI API
 * [Ice-Hazymoon/openai-scf-proxy](https://github.com/Ice-Hazymoon/openai-scf-proxy): 使用腾讯云函数一分钟搭建 OpenAI 免翻墙代理
 * [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator): 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 * [OpenBazaar/OpenBazaar-Client](https://github.com/OpenBazaar/OpenBazaar-Client): (DEPRECATED) Front-end Electron application for talking with the OpenBazaar-Server daemon
