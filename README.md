@@ -823,6 +823,7 @@
 * [joelseq/linkstowr-extension](https://github.com/joelseq/linkstowr-extension): None
 * [LiskArchive/lisk-sdk](https://github.com/LiskArchive/lisk-sdk): 🔩 Lisk software development kit
 * [listen1/listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension): one for all free music in china (chrome extension, also works for firefox)
+* [listen1/listen1_desktop](https://github.com/listen1/listen1_desktop): one for all free music in china (Windows, Mac, Linux desktop)
 * [blocklistproject/Lists](https://github.com/blocklistproject/Lists): Primary Block Lists
 * [BerriAI/litellm](https://github.com/BerriAI/litellm): Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 * [run-llama/llama_index](https://github.com/run-llama/llama_index): LlamaIndex is a data framework for your LLM applications
