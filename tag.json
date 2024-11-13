@@ -941,9 +941,6 @@
     "WPPlugins/cosign-sso": [
         "Other"
     ],
-    "WalkerPnD/daisy-svelte": [
-        "Other"
-    ],
     "WebAssembly/binaryen": [
         "Other"
     ],
@@ -4596,6 +4593,9 @@
         "Other"
     ],
     "walexer/Yli_Fulltext": [
+        "Other"
+    ],
+    "walkerRnD/daisy-svelte": [
         "Other"
     ],
     "walkor/phpsocket.io": [

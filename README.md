@@ -437,7 +437,7 @@
 * [CSSLint/csslint](https://github.com/CSSLint/csslint): Automated linting of Cascading Stylesheets
 * [pontusab/cursor.directory](https://github.com/pontusab/cursor.directory): Find the best cursor rules for your framework and language
 * [itsOwen/CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077): A Powerful web scraper powered by LLM | OpenAI, Gemini & Ollama
-* [WalkerPnD/daisy-svelte](https://github.com/WalkerPnD/daisy-svelte): Svelte components for Daisy UI
+* [walkerRnD/daisy-svelte](https://github.com/walkerRnD/daisy-svelte): Svelte components for Daisy UI
 * [saadeghi/daisyui](https://github.com/saadeghi/daisyui): 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 * [date-fns/date-fns](https://github.com/date-fns/date-fns): ⏳ Modern JavaScript date utility library ⌛️
 * [itwanger/daxigua](https://github.com/itwanger/daxigua): 合成大西瓜未修改版本源码，可直接在浏览器运行
