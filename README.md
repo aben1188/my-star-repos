@@ -1336,6 +1336,7 @@
 * [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary): A collection of prompts, system prompts and LLM instructions
 * [lucasmrdt/TheBigPromptLibrary](https://github.com/lucasmrdt/TheBigPromptLibrary): A collection of prompts, system prompts and LLM instructions
 * [saadeghi/theme-change](https://github.com/saadeghi/theme-change): Change CSS theme with toggle, buttons or select using CSS custom properties and localStorage
+* [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude): Let your Claude able to think
 * [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping): 编程笔记、观影指南、读书笔记、生活感悟、Switch 游戏
 * [top-think/thinkphp](https://github.com/top-think/thinkphp): ThinkPHP3.2 ——基于PHP5的简单快速的面向对象的PHP框架
 * [thinksaas/ThinkSAAS](https://github.com/thinksaas/ThinkSAAS): ThinkSAAS open source community
