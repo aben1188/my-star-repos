@@ -3260,6 +3260,9 @@
     "microsoft/PowerToys": [
         "Other"
     ],
+    "microsoft/TinyTroupe": [
+        "Other"
+    ],
     "microsoft/TypeChat": [
         "Other"
     ],
@@ -3531,6 +3534,9 @@
         "Other"
     ],
     "openai/swarm": [
+        "Other"
+    ],
+    "opendatalab/MinerU": [
         "Other"
     ],
     "opendigg/awesome-github-wechat-weapp": [
