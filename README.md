@@ -218,7 +218,6 @@
 * [Wekoi/awesome-scripts](https://github.com/Wekoi/awesome-scripts): useful scripts for Linux op
 * [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 * [bkrem/awesome-solidity](https://github.com/bkrem/awesome-solidity): ⟠ A curated list of awesome Solidity resources, libraries, tools and more
-* [facert/awesome-spider](https://github.com/facert/awesome-spider): 爬虫集合
 * [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss): 😎 Awesome things related to Tailwind CSS
 * [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri): 🚀 Awesome Tauri Apps, Plugins and Resources
 * [tradingview/awesome-tradingview](https://github.com/tradingview/awesome-tradingview): 🎉 A curated list of awesome things related to TradingView (widgets, charting library, lightweight-charts, etc)
