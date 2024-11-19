@@ -1212,6 +1212,7 @@
 * [leixiaokou/short-video](https://github.com/leixiaokou/short-video): 简单易用的获取无水印短视频播放地址，比如抖音无水印，快手无水印，微视无水印接口服务
 * [mozillazg/ShortURL](https://github.com/mozillazg/ShortURL): A URL  Shortener Site 短网址生成网站（web.py）
 * [tomatocuke/sieve](https://github.com/tomatocuke/sieve): 关键词/敏感词检测，支持通配符和标签分类 。( AC自动机、trie树 、DFA算法 )
+* [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern): LLM Frontend for Power Users.
 * [Lixucheng/Simple-Calendar](https://github.com/Lixucheng/Simple-Calendar): 一个简单的日历插件
 * [dufu1991/simple-cloud-music](https://github.com/dufu1991/simple-cloud-music): 简洁的的第三方网易云音乐播放器
 * [Kerinlin/simple-electron-vue-template](https://github.com/Kerinlin/simple-electron-vue-template): A start template with the latest electron and vue-cli4
