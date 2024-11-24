@@ -502,6 +502,7 @@
 * [bevacqua/dragula](https://github.com/bevacqua/dragula): :ok_hand: Drag and drop so simple it hurts
 * [g1879/DrissionPage](https://github.com/g1879/DrissionPage): Python based web automation tool. Powerful and elegant.
 * [assimon/dujiaoka](https://github.com/assimon/dujiaoka): 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
+* [go-eagle/eagle](https://github.com/go-eagle/eagle): 🦅 A Go framework for the API or Microservice
 * [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm): Learning English through the method of constructing sentences with conjunctions
 * [easy-mock/easy-mock](https://github.com/easy-mock/easy-mock): A persistent service that generates mock data quickly and provids visualization view.
 * [tioncico/easyES](https://github.com/tioncico/easyES): 把easyswoole 文档中一些轮子全部装好,下载后可以直接开撸一个web网站
