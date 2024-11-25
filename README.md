@@ -372,6 +372,7 @@
 * [nakkag/CLCL](https://github.com/nakkag/CLCL): None
 * [npm/cli](https://github.com/npm/cli): the package manager for JavaScript
 * [cline/cline](https://github.com/cline/cline): Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+* [clipturbo/clipturbo](https://github.com/clipturbo/clipturbo): 小视频宝：AI 驱动的视频生成工具，一键生成高质量营销视频 AI-powered video generation tool for creating high-quality marketing videos with one click.
 * [google/closure-library](https://github.com/google/closure-library): Google's common JavaScript library
 * [TencentCloudBase/cloudbase-extension-cms](https://github.com/TencentCloudBase/cloudbase-extension-cms): 🚀 一站式云端内容管理系统 - An open source Node.js headless cms based on CloudBase
 * [Tencent/cloudbase-framework](https://github.com/Tencent/cloudbase-framework):  腾讯云开发云原生一体化部署工具 🚀  CloudBase Framework：一键部署，不限框架语言，云端一体化开发，基于Serverless 架构。A front-end and back-end integrated deployment tool. One-click deploy to serverless architecture. https://docs.cloudbase.net/framework/index
