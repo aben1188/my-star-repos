@@ -1074,11 +1074,13 @@
 * [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet): A pure PHP library for reading and writing spreadsheet files
 * [LarryUllman/phpvqs-5ed](https://github.com/LarryUllman/phpvqs-5ed): PHP for the Web: Visual QuickStart Guide (Fifth Edition)
 * [PHPOffice/PHPWord](https://github.com/PHPOffice/PHPWord): A pure PHP library for reading and writing word processing documents
+* [fscarmen2/pic-hosting-cluster](https://github.com/fscarmen2/pic-hosting-cluster): None
 * [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo): :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 * [xiebruce/PicUploader](https://github.com/xiebruce/PicUploader): 一个还不错的图床工具，支持Mac/Win/Linux服务器、支持压缩后上传、添加图片或文字水印、多文件同时上传、同时上传到多个云、右击任意文件上传、快捷键上传剪贴板截图、Web版上传、支持作为Mweb/Typora发布图片接口、作为PicGo/ShareX/uPic等的自定义图床，支持在服务器上部署作为图床接口，支持上传任意格式文件。
 * [Pintree-io/pintree](https://github.com/Pintree-io/pintree): An intuitive tool for managing and exporting your local bookmarks into a shareable website. 
 * [sxei/pinyinjs](https://github.com/sxei/pinyinjs): 一个实现汉字与拼音互转的小巧web工具库，演示地址：
 * [microsoft/playwright](https://github.com/microsoft/playwright): Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
+* [vladikoff/playwright-ai](https://github.com/vladikoff/playwright-ai): Command-line utility to generate LLM-based Playwright tests
 * [wechaty/plugin-contrib](https://github.com/wechaty/plugin-contrib): Wechaty Plugin Ecosystem Contrib Package
 * [itsuka-dev/plurality](https://github.com/itsuka-dev/plurality): A cornucopia of open source UIs built with ChatGPT API.
 * [pnpm/pnpm](https://github.com/pnpm/pnpm): Fast, disk space efficient package manager
