@@ -440,6 +440,7 @@
 * [itsOwen/CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077): A Powerful web scraper powered by LLM | OpenAI, Gemini & Ollama
 * [walkerRnD/daisy-svelte](https://github.com/walkerRnD/daisy-svelte): Svelte components for Daisy UI
 * [saadeghi/daisyui](https://github.com/saadeghi/daisyui): 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+* [doxx/darkflare](https://github.com/doxx/darkflare): DarkFlare Firewall Piercing (TCP over CDN)
 * [date-fns/date-fns](https://github.com/date-fns/date-fns): ⏳ Modern JavaScript date utility library ⌛️
 * [itwanger/daxigua](https://github.com/itwanger/daxigua): 合成大西瓜未修改版本源码，可直接在浏览器运行
 * [liyupi/daxigua](https://github.com/liyupi/daxigua): 最简单的魔改发布『 合成大西瓜 』，配套改图工具，不用改代码，修改配置即可！
@@ -533,6 +534,7 @@
 * [redguardtoo/emacs.d](https://github.com/redguardtoo/emacs.d): Fast and robust Emacs setup.
 * [lanthaler/emacsIDEAs](https://github.com/lanthaler/emacsIDEAs): Porting some great extensions of emacs to Intellij IDEA. such as AceJump, CopyWithoutSelection.
 * [whunmr/emacsIDEAs](https://github.com/whunmr/emacsIDEAs): Porting some great extensions of emacs to Intellij IDEA. such as AceJump, CopyWithoutSelection.
+* [AugustDev/enchanted](https://github.com/AugustDev/enchanted): Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 * [JanKallman/EPPlus](https://github.com/JanKallman/EPPlus): Create advanced Excel spreadsheets using .NET
 * [stacktracejs/error-stack-parser](https://github.com/stacktracejs/error-stack-parser): Extract meaning from JS Errors
 * [ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial): 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
