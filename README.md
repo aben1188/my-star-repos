@@ -288,6 +288,7 @@
 * [aristocratos/bpytop](https://github.com/aristocratos/bpytop): Linux/OSX/FreeBSD resource monitor
 * [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync): Keep multiple browsers & devices in sync when building websites. https://browsersync.io
 * [4ae9b8/browserhacks](https://github.com/4ae9b8/browserhacks): An extensive list of CSS/JS browserhacks from all over the interwebs.
+* [akazwz/browserproxy](https://github.com/akazwz/browserproxy): proxy and protect your headless chrome
 * [browserslist/browserslist](https://github.com/browserslist/browserslist): 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
 * [usebruno/bruno](https://github.com/usebruno/bruno): Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 * [zu1k/bs-core](https://github.com/zu1k/bs-core): Easy and blazing-fast book searcher, create and search your private library.
@@ -451,6 +452,7 @@
 * [thinkhy/deploy-stf-docker](https://github.com/thinkhy/deploy-stf-docker): Scripts to deploy STF master server on Ubuntu with one-button operation
 * [WebAssembly/design](https://github.com/WebAssembly/design): WebAssembly Design Documents
 * [me115/design_patterns](https://github.com/me115/design_patterns): 图说设计模式
+* [Comfy-Org/desktop](https://github.com/Comfy-Org/desktop): The desktop app for ComfyUI.
 * [EthereumCN/dev](https://github.com/EthereumCN/dev): You can find all things about Ethereum development! 以太坊开发者门户
 * [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup): macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
 * [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar): 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
@@ -550,6 +552,7 @@
 * [crimx/ext-saladict](https://github.com/crimx/ext-saladict): 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 * [altryne/extensionizr](https://github.com/altryne/extensionizr): Extensionizr! Create a chrome extension in 15 seconds!
 * [Glench/ExtPay](https://github.com/Glench/ExtPay): The JavaScript library for ExtensionPay.com — payments for your browser extensions, no server needed.
+* [akazwz/extract](https://github.com/akazwz/extract): 一个使用 Cloudflare 浏览器渲染功能从任何网站提取图片的现代 Web 应用。基于 Remix 构建并部署在 Cloudflare Pages 上。
 * [feller-prj/extractor-project](https://github.com/feller-prj/extractor-project): forked from iaextractor
 * [ZZUTK/Face-Aging-CAAE](https://github.com/ZZUTK/Face-Aging-CAAE): Age Progression/Regression by Conditional Adversarial Autoencoder
 * [Jooong/Face-Aging-CAAE-Pytorch](https://github.com/Jooong/Face-Aging-CAAE-Pytorch): Age Progression/Regression by Conditional Adversarial Autoencoder
@@ -1712,6 +1715,7 @@
 * [icindy/wxSearch](https://github.com/icindy/wxSearch): wxSearch-微信小程序优雅的搜索框
 * [TCloudBase/WXSEVER-SMS](https://github.com/TCloudBase/WXSEVER-SMS): 发送短信，并在外部浏览器拉起微信小程序的能力教程
 * [LunaYJ/wxss-emoji](https://github.com/LunaYJ/wxss-emoji): 纯微信小程序 emoji解析组件
+* [ant-design/x](https://github.com/ant-design/x): Craft AI-driven interfaces effortlessly 🤖
 * [hzeyuan/x-cards](https://github.com/hzeyuan/x-cards): Easy share X anywhere,in any format
 * [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl): Flexible Node.js AI-assisted crawler library
 * [liu673cn/xbb](https://github.com/liu673cn/xbb): biubiu播放器

@@ -236,6 +236,9 @@
     "CodisLabs/codis": [
         "Other"
     ],
+    "Comfy-Org/desktop": [
+        "Other"
+    ],
     "ConnectAI-E/feishu-openai": [
         "Other"
     ],
@@ -1118,6 +1121,12 @@
     "aixed/WeChat-Hook": [
         "Other"
     ],
+    "akazwz/browserproxy": [
+        "Other"
+    ],
+    "akazwz/extract": [
+        "Other"
+    ],
     "akl7777777/ShellGPT": [
         "Other"
     ],
@@ -1203,6 +1212,9 @@
         "Other"
     ],
     "anse-app/chatgpt-demo": [
+        "Other"
+    ],
+    "ant-design/x": [
         "Other"
     ],
     "antfu-collective/bumpp": [
