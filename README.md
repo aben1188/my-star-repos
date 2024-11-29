@@ -537,6 +537,7 @@
 * [lanthaler/emacsIDEAs](https://github.com/lanthaler/emacsIDEAs): Porting some great extensions of emacs to Intellij IDEA. such as AceJump, CopyWithoutSelection.
 * [whunmr/emacsIDEAs](https://github.com/whunmr/emacsIDEAs): Porting some great extensions of emacs to Intellij IDEA. such as AceJump, CopyWithoutSelection.
 * [AugustDev/enchanted](https://github.com/AugustDev/enchanted): Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
+* [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips): An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
 * [JanKallman/EPPlus](https://github.com/JanKallman/EPPlus): Create advanced Excel spreadsheets using .NET
 * [stacktracejs/error-stack-parser](https://github.com/stacktracejs/error-stack-parser): Extract meaning from JS Errors
 * [ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial): 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
