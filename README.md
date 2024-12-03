@@ -55,7 +55,7 @@
 * [nsh87/.rc-files-and-scripts](https://github.com/nsh87/.rc-files-and-scripts): My .vimrc, .zshrc, .ideavimrc files and custom scripts for the terminal
 * [gpakosz/.tmux](https://github.com/gpakosz/.tmux): 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 * [phuocng/1loc](https://github.com/phuocng/1loc): What's your favorite JavaScript single LOC (line of code)?
-* [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel): 🔥 #1 Rated Web-based Linux Server Management Tool. / 现代化、开源的 Linux 服务器运维管理面板。
+* [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel): 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more,  letting you streamlines your server management experience.
 * [hzheng/1pass4all](https://github.com/hzheng/1pass4all): a bookmarklet to create passwords easily and securely
 * [nv-tlabs/3DiffTection](https://github.com/nv-tlabs/3DiffTection): None
 * [GAIR-NLP/abel](https://github.com/GAIR-NLP/abel): SOTA Math Opensource LLM
@@ -1422,7 +1422,7 @@
 * [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat): 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.
 * [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss): A proxy script with multiple protocols.
 * [mikewubox/V2Ray3](https://github.com/mikewubox/V2Ray3): 相關配置文件
-* [2dust/v2rayN](https://github.com/2dust/v2rayN): A GUI client for Windows and Linux, support Xray core and others
+* [2dust/v2rayN](https://github.com/2dust/v2rayN): A GUI client for Windows and Linux, support Xray core and sing-box-core and others
 * [yanue/V2rayU](https://github.com/yanue/V2rayU): V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持trojan,vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
 * [Cenmrev/V2RayW](https://github.com/Cenmrev/V2RayW): GUI for v2ray-core on Windows
 * [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite): ☀️ A vue3 admin template | vue3 admin/element plus admin/vite admin/vue3 template/vue3 后台/vue3 模板/vue3 后台管理系统
