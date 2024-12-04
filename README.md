@@ -872,6 +872,7 @@
 * [joschuck/matrix-webcam](https://github.com/joschuck/matrix-webcam): Take your video conference from within the matrix.
 * [duo/matrix-wechat](https://github.com/duo/matrix-wechat): A Matrix-WeChat puppeting bridge
 * [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB): 🚀 MaxKB 是一款基于大语言模型和 RAG 的开源知识库问答系统，广泛应用于智能客服、企业内部知识库、学术研究与教育等场景。
+* [mcpservers/mcp-server-chatsum](https://github.com/mcpservers/mcp-server-chatsum): Query and Summarize your chat messages.
 * [whistyun/MdXaml](https://github.com/whistyun/MdXaml): Markdown for WPF - alternate version of Markdown.Xaml
 * [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler): 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
 * [catfan/Medoo](https://github.com/catfan/Medoo): The lightweight PHP database framework to accelerate the development.
@@ -1216,6 +1217,7 @@
 * [luochen1990/select-and-search](https://github.com/luochen1990/select-and-search): an useful vim plugin: select text in v mode, then press n to search next one (N for prev one)
 * [Pitmairen/selection-search](https://github.com/Pitmairen/selection-search): Search extension for the chrome web browser
 * [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI): Semantic is a UI component framework based around useful principles from natural language.
+* [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers): Model Context Protocol Servers
 * [komuw/sewer](https://github.com/komuw/sewer): Let's Encrypt(ACME) client. Python library &  CLI app.
 * [teddysun/shadowsocks_install](https://github.com/teddysun/shadowsocks_install): Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu
 * [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt): Easily share permanent links to ChatGPT conversations with your friends
