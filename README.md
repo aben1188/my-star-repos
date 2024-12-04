@@ -337,7 +337,7 @@
 * [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts): A NodeJS ChatGPT prompts library that contains more than 140+ awesome prompts
 * [labteral/chatgpt-python](https://github.com/labteral/chatgpt-python): Unofficial Python SDK for OpenAI's ChatGPT
 * [jqueryscript/ChatGPT-Resources](https://github.com/jqueryscript/ChatGPT-Resources): Curated list of awesome libraries, extensions, tools, apps for ChatGPT. 
-* [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers): Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
+* [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers): Easily deploy your Telegram ChatGPT bot on Cloudflare Workers (or Vercel, Docker...).
 * [bigemon/ChatGPT-ToolBox](https://github.com/bigemon/ChatGPT-ToolBox): 由ChatGPT自己编写的ChatGPT工具箱。 当前功能: 1. 绕过高负载禁止登录 2.关闭数据监管 3.链路维持(减少网络错误) 4.API混合接入  5.会话导入导出  6.聊天记录下载 7.解锁GPT4-Mobile
 * [transitive-bullshit/chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot): Twitter bot powered by OpenAI's ChatGPT API. It's aliveeeee 🤖
 * [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel): Elegant and Powerfull. Powered by OpenAI and Vercel.
