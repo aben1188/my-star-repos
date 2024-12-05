@@ -1339,7 +1339,7 @@
 * [Firaenix/TeleChatRelay](https://github.com/Firaenix/TeleChatRelay): Relay between Telegram and WeChat
 * [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup): 2024最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
 * [RTradeLtd/Temporal](https://github.com/RTradeLtd/Temporal): ☄️ Temporal is an easy-to-use, enterprise-grade interface into distributed and decentralized storage
-* [TEN-framework/TEN-Agent](https://github.com/TEN-framework/TEN-Agent): TEN Agent is a world-class multimodal AI agent integrated with the OpenAI Realtime API, RTC, and features weather checks, web search, vision, and RAG.
+* [TEN-framework/TEN-Agent](https://github.com/TEN-framework/TEN-Agent): TEN Agent is a real-time conversational AI agent powered by TEN. It seamlessly integrates the OpenAI Realtime API, RTC capabilities, and advanced features like weather updates, web search, computer vision, and Retrieval-Augmented Generation (RAG).
 * [archtechx/tenancy](https://github.com/archtechx/tenancy): Automatic multi-tenancy for Laravel. No code changes needed.
 * [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow): An Open Source Machine Learning Framework for Everyone
 * [jikexueyuanwiki/tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh): 谷歌全新开源人工智能系统TensorFlow官方文档中文版
@@ -1427,7 +1427,7 @@
 * [2dust/v2rayN](https://github.com/2dust/v2rayN): A GUI client for Windows and Linux, support Xray core and sing-box-core and others
 * [yanue/V2rayU](https://github.com/yanue/V2rayU): V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持trojan,vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
 * [Cenmrev/V2RayW](https://github.com/Cenmrev/V2RayW): GUI for v2ray-core on Windows
-* [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite): ☀️ A vue3 admin template | vue3 admin/element plus admin/vite admin/vue3 template/vue3 后台/vue3 模板/vue3 后台管理系统
+* [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite): ☀️ A crafted vue admin template |「vue3 admin」「vue3 template」「vue3 后台管理」「vue3 模板」
 * [v8/v8](https://github.com/v8/v8): The official mirror of the V8 Git repository
 * [youzan/vant](https://github.com/youzan/vant): A lightweight, customizable Vue UI library for mobile web apps.
 * [youzan/vant-weapp](https://github.com/youzan/vant-weapp): 轻量、可靠的小程序 UI 组件库
