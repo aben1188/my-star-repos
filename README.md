@@ -131,7 +131,7 @@
 * [no5ix/auto-toc](https://github.com/no5ix/auto-toc): A userscript that adds a table of contents to any website. 一个自动生成网站目录大纲的油猴脚本
 * [clearw5/Auto.js](https://github.com/clearw5/Auto.js): Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
 * [mli/autocut](https://github.com/mli/autocut): 用文本编辑器剪视频
-* [microsoft/autogen](https://github.com/microsoft/autogen): A programming framework for agentic AI 🤖 (Pypi: autogen-agentchat)
+* [microsoft/autogen](https://github.com/microsoft/autogen): A programming framework for agentic AI 🤖 (PyPi: autogen-agentchat)
 * [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT): AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 * [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey): AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 * [AutomaApp/automa](https://github.com/AutomaApp/automa): A browser extension for automating your browser by connecting blocks
