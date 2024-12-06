@@ -387,6 +387,7 @@
 * [AlloyTeam/CodeGuide](https://github.com/AlloyTeam/CodeGuide): Alloyteam代码规范
 * [bcit-ci/CodeIgniter](https://github.com/bcit-ci/CodeIgniter): Open Source PHP Framework (originally from EllisLab)
 * [jojoin/Codekart](https://github.com/jojoin/Codekart): Web application framework for Node.js
+* [alchaincyf/CoderWithAI](https://github.com/alchaincyf/CoderWithAI): codeWithAI
 * [CodisLabs/codis](https://github.com/CodisLabs/codis): Proxy based Redis cluster solution supporting pipeline and scaling dynamically
 * [codius-deprecated/codius](https://github.com/codius-deprecated/codius): Repository for general information about the Codius system.
 * [raidendotai/cofounder](https://github.com/raidendotai/cofounder): ai-generated apps , full stack + generative UI
