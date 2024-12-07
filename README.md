@@ -754,7 +754,7 @@
 * [wxingheng/jcommon](https://github.com/wxingheng/jcommon): JavaScript 常用纯函数工具库
 * [Aruelius/jd_maotai](https://github.com/Aruelius/jd_maotai): 抢京东茅台脚本，定时自动触发，自动预约，自动停止
 * [lijialong1314/JDUnionAPIV2](https://github.com/lijialong1314/JDUnionAPIV2): 京东联盟新版接口PHPSDK
-* [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin): The Free Software Media System
+* [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin): The Free Software Media System - Server Backend & API
 * [fxsjy/jieba](https://github.com/fxsjy/jieba): 结巴中文分词
 * [jeecgboot/JimuReport](https://github.com/jeecgboot/JimuReport): 「数据可视化工具：报表、大屏、仪表盘」积木报表是一款类Excel操作风格，在线拖拽设计的报表工具和和数据可视化产品。功能涵盖: 报表设计、大屏设计、打印设计、图形报表、仪表盘门户设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。
 * [sebastienros/jint](https://github.com/sebastienros/jint): Javascript Interpreter for .NET
