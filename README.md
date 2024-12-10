@@ -1340,7 +1340,7 @@
 * [Firaenix/TeleChatRelay](https://github.com/Firaenix/TeleChatRelay): Relay between Telegram and WeChat
 * [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup): 2024最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
 * [RTradeLtd/Temporal](https://github.com/RTradeLtd/Temporal): ☄️ Temporal is an easy-to-use, enterprise-grade interface into distributed and decentralized storage
-* [TEN-framework/TEN-Agent](https://github.com/TEN-framework/TEN-Agent): TEN Agent is a real-time conversational AI agent powered by TEN. It seamlessly integrates the OpenAI Realtime API, RTC capabilities, and advanced features like weather updates, web search, computer vision, and Retrieval-Augmented Generation (RAG).
+* [TEN-framework/TEN-Agent](https://github.com/TEN-framework/TEN-Agent): TEN Agent is a realtime conversational AI agent powered by TEN. It seamlessly integrates the OpenAI Realtime API, RTC capabilities, and advanced features like weather updates, web search, computer vision, and Retrieval-Augmented Generation (RAG).
 * [archtechx/tenancy](https://github.com/archtechx/tenancy): Automatic multi-tenancy for Laravel. No code changes needed.
 * [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow): An Open Source Machine Learning Framework for Everyone
 * [jikexueyuanwiki/tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh): 谷歌全新开源人工智能系统TensorFlow官方文档中文版
