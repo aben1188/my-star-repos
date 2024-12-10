@@ -313,7 +313,7 @@
 * [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io): The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
 * [sugarforever/chat-ollama](https://github.com/sugarforever/chat-ollama): ChatOllama is an open source chatbot based on LLMs. It supports a wide range of language models, and knowledge base management.
 * [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL):  Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
-* [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui): Come join the best place on the internet to learn AI skills. Use code "chatbotui" for an extra 20% off.
+* [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui): AI chat for any model.
 * [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox): User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 * [atorber/chatflow](https://github.com/atorber/chatflow): 一个使用wechaty构建的机器人业务管理平台
 * [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT): Reverse engineered ChatGPT API
@@ -1035,7 +1035,7 @@
 * [syhyz1990/panAI](https://github.com/syhyz1990/panAI): 油猴脚本 - 智能识别网页中网盘链接和提取码并自动填写
 * [openethereum/parity-ethereum](https://github.com/openethereum/parity-ethereum): The fast, light, and robust client for Ethereum-like networks.
 * [jaredhanson/passport](https://github.com/jaredhanson/passport): Simple, unobtrusive authentication for Node.js.
-* [mckaywrigley/paul-graham-gpt](https://github.com/mckaywrigley/paul-graham-gpt): Come join the best place on the internet to learn AI skills. Use code "paulgrahamgpt" for an extra 20% off.
+* [mckaywrigley/paul-graham-gpt](https://github.com/mckaywrigley/paul-graham-gpt): RAG on Paul Graham's essays.
 * [kongzhidea/pay](https://github.com/kongzhidea/pay): 微信支付，支付宝支付
 * [yansongda/pay](https://github.com/yansongda/pay): 可能是我用过的最优雅的 Alipay/WeChat/Douyin/Unipay/江苏银行 的支付 SDK 扩展包了
 * [helei112g/payment](https://github.com/helei112g/payment): Payment是php版本的支付聚合第三方sdk，集成了微信支付、支付宝支付、招商一网通支付。提供统一的调用接口，方便快速接入各种支付、查询、退款、转账能力。服务端接入支付功能，方便、快捷。
