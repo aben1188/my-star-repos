@@ -55,7 +55,7 @@
 * [nsh87/.rc-files-and-scripts](https://github.com/nsh87/.rc-files-and-scripts): My .vimrc, .zshrc, .ideavimrc files and custom scripts for the terminal
 * [gpakosz/.tmux](https://github.com/gpakosz/.tmux): 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 * [phuocng/1loc](https://github.com/phuocng/1loc): What's your favorite JavaScript single LOC (line of code)?
-* [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel): 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more,  letting you streamlines your server management experience.
+* [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel): 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.
 * [hzheng/1pass4all](https://github.com/hzheng/1pass4all): a bookmarklet to create passwords easily and securely
 * [nv-tlabs/3DiffTection](https://github.com/nv-tlabs/3DiffTection): None
 * [GAIR-NLP/abel](https://github.com/GAIR-NLP/abel): SOTA Math Opensource LLM
@@ -786,7 +786,7 @@
 * [kindsoft/kindeditor](https://github.com/kindsoft/kindeditor): WYSIWYG HTML editor
 * [shaunchander/kit-ai](https://github.com/shaunchander/kit-ai): None
 * [koahubjs/koahub](https://github.com/koahubjs/koahub): KoaHub.js -- 中文最佳实践Node.js Web快速开发框架。支持Koa.js, Express.js中间件。当前项目已停止维护，推荐使用Doodoo.js
-* [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi): 🚀 现代化、开源的 K8s 面板，1Panel 官方出品。
+* [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi): 🚀 A modern, open-source K8s panel developed by the official 1Panel team.
 * [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook): Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz
 * [meta-magic/kubernetes_workshop](https://github.com/meta-magic/kubernetes_workshop): Kubernetes is an open source Container Orchestration System for automatic deployment, scaling, and management of Containerized application. Kubernetes gives you the freedom to take advantage of on-premise, hybrid or public cloud infrastructure. Kubernetes helps you to scale both horizontally and vertically depends on the load.
 * [kysely-org/kysely](https://github.com/kysely-org/kysely): A type-safe typescript SQL query builder
@@ -872,7 +872,7 @@
 * [duo/matrix-qq](https://github.com/duo/matrix-qq): A Matrix-QQ puppeting bridge
 * [joschuck/matrix-webcam](https://github.com/joschuck/matrix-webcam): Take your video conference from within the matrix.
 * [duo/matrix-wechat](https://github.com/duo/matrix-wechat): A Matrix-WeChat puppeting bridge
-* [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB): 🚀 MaxKB 是一款基于大模型和 RAG 的开源知识库问答系统，广泛应用于智能客服、企业内部知识库、学术研究与教育等场景。
+* [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB): 🚀 Top-Rated Retrieval-Augmented Generation (RAG) Chatbot. MaxKB 是一款基于大模型和 RAG 的开源知识库问答系统，广泛应用于智能客服、企业内部知识库、学术研究与教育等场景。
 * [mcpso/mcp-server-chatsum](https://github.com/mcpso/mcp-server-chatsum): Query and Summarize your chat messages.
 * [whistyun/MdXaml](https://github.com/whistyun/MdXaml): Markdown for WPF - alternate version of Markdown.Xaml
 * [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler): 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
