@@ -1536,7 +1536,7 @@
 * [walkor/web-msg-sender](https://github.com/walkor/web-msg-sender): Web message pusher  written in PHP based on workerman.
 * [joewalnes/web-vmstats](https://github.com/joewalnes/web-vmstats): Prettify vmstats in your browser
 * [lixh00/web-wechat](https://github.com/lixh00/web-wechat): 基于`Golang`语言和`Gin`框架的个人微信系统，支持ChatGPT
-* [wangschang/web3.0](https://github.com/wangschang/web3.0): web3.0知识整理 web3.0知识 web3.0学习资料 web3工作 web3书籍 web3job
+* [wangschang/web3.0](https://github.com/wangschang/web3.0): web3.0知识整理 web3.0知识 web3.0学习资料 web3工作 web3书籍 web3job 区块链知识 blockchain
 * [bilibili/WebAV](https://github.com/bilibili/WebAV): WebAV is an SDK built on WebCodecs, designed for creating and editing video files on the web platform. WebAV 是基于 WebCodecs 构建的 SDK，用于在 Web 平台上创建/编辑视频文件。
 * [hughfenghen/WebAV-KnowledgeGraph](https://github.com/hughfenghen/WebAV-KnowledgeGraph): 整理（索引） Web 音视频相关的 API、SDK、文章、对外产品，帮助前端开发者入门/进阶音视频领域，推动音视频技术在 Web 平台的应用实践。
 * [webdzq/webdemo](https://github.com/webdzq/webdemo): 一些项目的demo，包括使用webpack，vue，fis3等项目架构和解决方案。用来熟悉最新的前端新知识。
