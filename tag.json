@@ -1520,6 +1520,9 @@
     "chathub-dev/chathub": [
         "Other"
     ],
+    "chatmcp/mcp-server-chatsum": [
+        "Other"
+    ],
     "chatpire/chatgpt-web-share": [
         "Other"
     ],
@@ -3240,9 +3243,6 @@
         "Other"
     ],
     "mckaywrigley/paul-graham-gpt": [
-        "Other"
-    ],
-    "mcpso/mcp-server-chatsum": [
         "Other"
     ],
     "mdnice/markdown-nice": [
