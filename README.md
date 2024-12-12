@@ -937,7 +937,7 @@
 * [qingconglaixueit/mywechatbot](https://github.com/qingconglaixueit/mywechatbot): 仅用于我个人的 chatgpt 项目
 * [x-cold/N3-admin](https://github.com/x-cold/N3-admin): vue / vuex / N3 / vue-router / axios v2
 * [N3-components/N3-components](https://github.com/N3-components/N3-components): N3-components , Powerful Vue UI Library.
-* [n8n-io/n8n](https://github.com/n8n-io/n8n): Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+* [n8n-io/n8n](https://github.com/n8n-io/n8n): Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 * [hyperf/nano](https://github.com/hyperf/nano): 🧬 Nano is a zero-config, no skeleton, minimal Hyperf distribution that allows you to quickly build a Hyperf application with just a single PHP file.
 * [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT): The simplest, fastest repository for training/finetuning medium-sized GPTs.
 * [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript): ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Dart (Flutter) and you name it compatible.
