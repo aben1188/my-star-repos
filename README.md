@@ -1149,7 +1149,7 @@
 * [cuiliang/QuickerConnectorExtension](https://github.com/cuiliang/QuickerConnectorExtension): Chrome extension for Quicker (Quicker的浏览器扩展)
 * [zhangxinxu/quickLayout](https://github.com/zhangxinxu/quickLayout): quickLayout
 * [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook): Bring macOS “Quick Look” feature to Windows
-* [LLM-Red-Team/qwen-free-api](https://github.com/LLM-Red-Team/qwen-free-api): 🚀 阿里通义千问2.5大模型逆向API【特长：六边形战士】，支持高速流式输出、无水印AI绘图、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹，仅供测试，如需商用请前往官方开放平台。
+* [LLM-Red-Team/qwen-free-api](https://github.com/LLM-Red-Team/qwen-free-api): 🚀 阿里通义千问2.5大模型逆向API【特长：六边形战士】，支持高速流式输出、无水印AI绘图、长文档解读、图像解析、联网检索、多轮对话，零配置部署，多路token支持，自动清理会话痕迹，仅供测试，如需商用请前往官方开放平台。
 * [sigoden/rag-crawler](https://github.com/sigoden/rag-crawler): Crawl a website to generate knowledge file for RAG
 * [jianyan74/rageframe2](https://github.com/jianyan74/rageframe2): 一个基于 Yii2 高级框架的快速开发应用引擎
 * [goodrain/rainbond](https://github.com/goodrain/rainbond): No need to know Kubernetes' cloud native application management platform | 不用懂 Kubernetes 的云原生应用管理平台
