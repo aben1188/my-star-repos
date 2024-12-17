@@ -1263,7 +1263,7 @@
 * [lucidrains/soundstorm-pytorch](https://github.com/lucidrains/soundstorm-pytorch): Implementation of SoundStorm, Efficient Parallel Audio Generation from Google Deepmind, in Pytorch
 * [chzhcpu/Spacebuilder_4.2.0.0_src](https://github.com/chzhcpu/Spacebuilder_4.2.0.0_src): None
 * [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs): A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
-* [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim): A modular Vim/Neovim configuration
+* [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim): A modular configuration of Vim and Neovim
 * [spf13/spf13-vim](https://github.com/spf13/spf13-vim): The ultimate vim distribution
 * [zhenyangze/SpiderX](https://github.com/zhenyangze/SpiderX): php多线程，可定制爬虫框架
 * [SporeUI/spore-wepy-tipbox](https://github.com/SporeUI/spore-wepy-tipbox): 类toast提示窗口，但只显示文字，可调整显示位置。用于小程序wepy框架
