@@ -184,7 +184,6 @@
 * [Soul-Master/awesome-gpt-answer](https://github.com/Soul-Master/awesome-gpt-answer): My personal Q & A collection from Chat GPT4
 * [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering): A curated list of awesome resources, tools, and other shiny things for LLM prompt engineering.
 * [cckuailong/awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security): A curated list of awesome security tools, experimental case or other interesting things with LLM or GPT.
-* [asiyoua/awesome-gpt-tutorials](https://github.com/asiyoua/awesome-gpt-tutorials): 收录AI领域（ChatGPT为主）的各类教程。如有自荐，请提交pull request。
 * [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3): None
 * [mikhail-bot/awesome-gpt3](https://github.com/mikhail-bot/awesome-gpt3): Curating the best GPT3 tools and resources
 * [radi-cho/awesome-gpt4](https://github.com/radi-cho/awesome-gpt4): A curated list of prompts, tools, and resources regarding the GPT-4 language model.
