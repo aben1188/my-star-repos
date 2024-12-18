@@ -238,7 +238,6 @@
 * [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi): None
 * [cloudroc/baidu-nolimit](https://github.com/cloudroc/baidu-nolimit): 百度云大文件下载破解,chrome插件
 * [hrwhisper/baiduShare](https://github.com/hrwhisper/baiduShare): 百度分享不支持Https的解决方案
-* [baigoStudio/baigoSSO](https://github.com/baigoStudio/baigoSSO): 单点登录系统
 * [aaPanel/BaoTa](https://github.com/aaPanel/BaoTa): 宝塔Linux面板 - 简单好用的服务器运维面板
 * [ifui/baota](https://github.com/ifui/baota): DOCKER 宝塔面板 一键部署脚本
 * [pch18-docker/baota](https://github.com/pch18-docker/baota): 宝塔面板docker部署
