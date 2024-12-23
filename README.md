@@ -733,6 +733,7 @@
 * [Damao/Intellij-IDEA-F2E](https://github.com/Damao/Intellij-IDEA-F2E): Intellij IDEA / PHPStorm / WebStorm Front End Engineer Guide (中文)
 * [izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets): 🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio/Fleet
 * [Olshansk/interview](https://github.com/Olshansk/interview): Everything you need to prepare for your technical interview
+* [zsyOAOA/InvSR](https://github.com/zsyOAOA/InvSR): Arbitrary-steps Image Super-resolution via Diffusion Inversion
 * [loveuqian/iOS-Carbon-Forum](https://github.com/loveuqian/iOS-Carbon-Forum): iOS Client for Carbon Forum
 * [xiaosimao/IP_POOL](https://github.com/xiaosimao/IP_POOL): 免费的IP代理池
 * [ipfs/ipfs](https://github.com/ipfs/ipfs): Peer-to-peer hypermedia protocol
