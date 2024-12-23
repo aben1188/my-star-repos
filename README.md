@@ -482,6 +482,7 @@
 * [easychen/docker2saas](https://github.com/easychen/docker2saas): An open source tool that lets you create a SaaS website from docker images in 10 minutes.
 * [yeasy/docker_practice](https://github.com/yeasy/docker_practice): Learn and understand Docker&Container technologies, with real DevOps practice!
 * [knative/docs](https://github.com/knative/docs): User documentation for Knative components.
+* [3choff/docs-miner](https://github.com/3choff/docs-miner): A VSCode extension that generates markdown documentation from web pages and GitHub repositories.
 * [meilisearch/docs-scraper](https://github.com/meilisearch/docs-scraper): Scrape documentation into Meilisearch
 * [algolia/docsearch-scraper](https://github.com/algolia/docsearch-scraper): DocSearch - Scraper
 * [arc53/DocsGPT](https://github.com/arc53/DocsGPT): Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
