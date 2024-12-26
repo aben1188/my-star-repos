@@ -562,6 +562,7 @@
 * [mojisrc/fashop](https://github.com/mojisrc/fashop): php开源商城系统，基于swoole、easyswoole框架开发
 * [fastdlabs/fastD](https://github.com/fastdlabs/fastD): :rocket: A high performance PHP API framework.
 * [labring/FastGPT](https://github.com/labring/FastGPT): FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
+* [fatwang2/fasturl](https://github.com/fatwang2/fasturl): None
 * [Snipaste/feedback](https://github.com/Snipaste/feedback): Feedback & wiki for Snipaste https://snipaste.com
 * [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai): 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 * [icindy/fenda](https://github.com/icindy/fenda): 微信小程序－7天写分答微信小程序
