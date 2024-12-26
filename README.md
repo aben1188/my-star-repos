@@ -515,7 +515,7 @@
 * [sxlfhtdyy/easytbk](https://github.com/sxlfhtdyy/easytbk): 淘宝客、京东联盟、拼多多
 * [w7corp/easywechat](https://github.com/w7corp/easywechat): 📦 一个 PHP 微信 SDK
 * [q409640976/Ebook-crawler](https://github.com/q409640976/Ebook-crawler): 一个定向爬取电子书网站的爬虫库
-* [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook): Generates an audiobook with chapters and ebook metadata using Calibre and Xtts from Coqui tts, and with optional voice cloning, and supports multiple languages
+* [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook): Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!
 * [Ebookcoin/ebookcoin](https://github.com/Ebookcoin/ebookcoin): Ebookcoin has been updated to DDN Blockchain，please get it from https://github.com/ddnlink/ddn
 * [hzvwsrexw15/echo](https://github.com/hzvwsrexw15/echo): Chat GPT chrome extension Copilot
 * [tc39/ecma262](https://github.com/tc39/ecma262): Status, process, and documents for ECMA-262
