@@ -1426,7 +1426,7 @@
 * [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat): 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.
 * [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss): A proxy script with multiple protocols.
 * [mikewubox/V2Ray3](https://github.com/mikewubox/V2Ray3): 相關配置文件
-* [2dust/v2rayN](https://github.com/2dust/v2rayN): A GUI client for Windows and Linux, support Xray core and sing-box-core and others
+* [2dust/v2rayN](https://github.com/2dust/v2rayN): A GUI client for Windows, Linux and macOS, support Xray core and sing-box-core and others
 * [yanue/V2rayU](https://github.com/yanue/V2rayU): V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持trojan,vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
 * [Cenmrev/V2RayW](https://github.com/Cenmrev/V2RayW): GUI for v2ray-core on Windows
 * [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite): ☀️ A crafted admin template「vue admin / vue template / vue3 admin / vue3 template / vue3 后台 / vue3 模板」
