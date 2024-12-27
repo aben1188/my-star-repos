@@ -732,6 +732,7 @@
 * [LiLittleCat/intellij-chatgpt](https://github.com/LiLittleCat/intellij-chatgpt): A plugin that integrates ChatGPT and other third-party mirror sites into JetBrains IDEs.一个将 ChatGPT 和其他第三方镜像网站整合到 JetBrains IDEs 的插件。
 * [Damao/Intellij-IDEA-F2E](https://github.com/Damao/Intellij-IDEA-F2E): Intellij IDEA / PHPStorm / WebStorm Front End Engineer Guide (中文)
 * [izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets): 🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio/Fleet
+* [dotnet/interactive](https://github.com/dotnet/interactive): .NET Interactive combines the power of .NET with many other languages to create notebooks, REPLs, and embedded coding experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before.
 * [Olshansk/interview](https://github.com/Olshansk/interview): Everything you need to prepare for your technical interview
 * [zsyOAOA/InvSR](https://github.com/zsyOAOA/InvSR): Arbitrary-steps Image Super-resolution via Diffusion Inversion
 * [loveuqian/iOS-Carbon-Forum](https://github.com/loveuqian/iOS-Carbon-Forum): iOS Client for Carbon Forum

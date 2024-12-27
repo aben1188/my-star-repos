@@ -1820,6 +1820,9 @@
     "donnemartin/dev-setup": [
         "Other"
     ],
+    "dotnet/interactive": [
+        "Other"
+    ],
     "douglascrockford/JSON-js": [
         "Other"
     ],
