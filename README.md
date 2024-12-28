@@ -192,7 +192,7 @@
 * [friuns2/Awesome-GPTs-Big-List](https://github.com/friuns2/Awesome-GPTs-Big-List): Use OpenAI GPTs for Free: https://gptcall.net/ 
 * [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs): Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
 * [KennethanCeyer/awesome-llm](https://github.com/KennethanCeyer/awesome-llm): Awesome series for Large Language Model(LLM)s
-* [coderonion/awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc): 🚀🚀🚀A collection of some wesome public projects about Large Language Model(LLM), Visual Language Model(VLM), AI Generated Content(AIGC), the related Datasets and Applications.
+* [coderonion/awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc): 🚀🚀🚀A collection of some wesome public projects about Large Language Model(LLM), Vision Language Model(VLM), Vision Language Action(VLA), AI Generated Content(AIGC), the related Datasets and Applications.
 * [kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes](https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes): What can I do with a LLM model?
 * [KennethanCeyer/awesome-llmops](https://github.com/KennethanCeyer/awesome-llmops): Awesome series for LLMOps
 * [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps): An awesome & curated list of best LLMOps tools for developers
