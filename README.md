@@ -53,7 +53,7 @@
 # Other
 
 * [nsh87/.rc-files-and-scripts](https://github.com/nsh87/.rc-files-and-scripts): My .vimrc, .zshrc, .ideavimrc files and custom scripts for the terminal
-* [gpakosz/.tmux](https://github.com/gpakosz/.tmux): 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+* [gpakosz/.tmux](https://github.com/gpakosz/.tmux): Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 * [phuocng/1loc](https://github.com/phuocng/1loc): What's your favorite JavaScript single LOC (line of code)?
 * [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel): 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.
 * [hzheng/1pass4all](https://github.com/hzheng/1pass4all): a bookmarklet to create passwords easily and securely
