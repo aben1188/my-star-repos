@@ -137,9 +137,6 @@
     "Aufree/awesome-wechat-weapp": [
         "Other"
     ],
-    "AugustDev/enchanted": [
-        "Other"
-    ],
     "AutoHotkey/AutoHotkey": [
         "Other"
     ],
@@ -2169,6 +2166,9 @@
         "Other"
     ],
     "gitpod-io/gitpod": [
+        "Other"
+    ],
+    "gluonfield/enchanted": [
         "Other"
     ],
     "gnpok/yafApi": [
