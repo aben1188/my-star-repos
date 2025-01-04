@@ -591,7 +591,7 @@
 * [liancheng/found](https://github.com/liancheng/found): A dead-simple wrapper over locate and xdg-open to search and open files
 * [Setasign/FPDF](https://github.com/Setasign/FPDF): FPDF is a PHP class which allows to generate PDF files with pure PHP. F from FPDF stands for Free: you may use it for any kind of usage and modify it to suit your needs.
 * [Setasign/FPDI](https://github.com/Setasign/FPDI): FPDI is a collection of PHP classes facilitating developers to read pages from existing PDF documents and use them as templates in FPDF.
-* [javayhu/free-directory-boilerplate](https://github.com/javayhu/free-directory-boilerplate): The Open Source Directory Website Boilerplate
+* [javayhu/free-directory-boilerplate](https://github.com/javayhu/free-directory-boilerplate): The Open Source Directory Boilerplate
 * [javayhu/free-directory-sanity](https://github.com/javayhu/free-directory-sanity): The CMS (Sanity Studio) of the directory website
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
 * [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN): :books: 免费的计算机编程类中文书籍，欢迎投稿
