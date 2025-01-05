@@ -380,7 +380,7 @@
 * [cmderdev/cmder](https://github.com/cmderdev/cmder): Lovely console emulator package for Windows
 * [tangxiangmin/cocos-big-watermelon](https://github.com/tangxiangmin/cocos-big-watermelon): big watermelon by cocos
 * [cocos/cocos-engine](https://github.com/cocos/cocos-engine): Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.
-* [liyupi/code-nav](https://github.com/liyupi/code-nav): 💎 程序员一站式编程学习交流社区，专业的编程导航，帮你找到优质的编程学习资源！公众号【编程导航】 ☁️ 前后端均开源，励志成为最好的全栈云开发项目！
+* [liyupi/code-nav](https://github.com/liyupi/code-nav): 💎 程序员一站式编程学习交流社区，免费的编程学习路线、入门教程、原创项目教程、程序员bug修复手册、保姆级写简历技巧，帮你学好编程、做出项目、拿到满意的 Offer！☁️ 本项目前后端均开源，励志成为最好的全栈云开发项目！
 * [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer): [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
 * [AlloyTeam/CodeGuide](https://github.com/AlloyTeam/CodeGuide): Alloyteam代码规范
 * [bcit-ci/CodeIgniter](https://github.com/bcit-ci/CodeIgniter): Open Source PHP Framework (originally from EllisLab)
