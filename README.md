@@ -838,7 +838,7 @@
 * [listen1/listen1_desktop](https://github.com/listen1/listen1_desktop): one for all free music in china (Windows, Mac, Linux desktop)
 * [blocklistproject/Lists](https://github.com/blocklistproject/Lists): Primary Block Lists
 * [BerriAI/litellm](https://github.com/BerriAI/litellm): Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
-* [run-llama/llama_index](https://github.com/run-llama/llama_index): LlamaIndex is a data framework for your LLM applications
+* [run-llama/llama_index](https://github.com/run-llama/llama_index): LlamaIndex is the leading framework for building LLM-powered agents over your data
 * [ZubinGou/llm-agent-web-tools](https://github.com/ZubinGou/llm-agent-web-tools): A simple Google Search Engine Crawler.
 * [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook): 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
 * [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper): Turn any webpage into structured data using LLMs
