@@ -1312,7 +1312,7 @@
 * [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui): Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 * [openai/swarm](https://github.com/openai/swarm): Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 * [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts): Switch hosts quickly!
-* [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega): Manage and switch between multiple proxies quickly & easily.
+* [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega): No longer maintained, see pinned issues
 * [swoft-cloud/swoft](https://github.com/swoft-cloud/swoft): 🚀 PHP Microservice Full Coroutine Framework
 * [wudi/swoole-ide-helper](https://github.com/wudi/swoole-ide-helper): Auto completion, trigger suggest and view docs for Swoole in editor.
 * [swoole/swoole-src](https://github.com/swoole/swoole-src): 🚀 Coroutine-based concurrency library for PHP
