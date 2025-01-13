@@ -959,7 +959,7 @@
 * [jianjianai/NewBingGoGo-Web](https://github.com/jianjianai/NewBingGoGo-Web): 一个基于微软OpenAI ChatGPT GPT4的New Bing接口的Web服务。 提供了好看的对话页面。 实现了微软New Bing的大多数功能，还添加了一些自己的特色功能。 开源免费。
 * [lipeng0820/newBingHelper](https://github.com/lipeng0820/newBingHelper): None
 * [echosoar/news](https://github.com/echosoar/news): 基于SimHash算法聚合相似全网内容，根据来源数量进行排序，并对一些内容进行过滤
-* [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat): Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+* [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat): ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 * [lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing): Next.js billing app with Lemon Squeezy
 * [weijunext/nextjs-learn-demos](https://github.com/weijunext/nextjs-learn-demos): Sharing Technologies in the Next.js Ecosystem.
 * [RunnerLee/nezha-cashier](https://github.com/RunnerLee/nezha-cashier): 简单的支付 sdk
