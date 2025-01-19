@@ -313,6 +313,7 @@
 * [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL):  Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 * [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui): AI chat for any model.
 * [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox): User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+* [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev): Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 * [atorber/chatflow](https://github.com/atorber/chatflow): 一个使用wechaty构建的机器人业务管理平台
 * [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT): Reverse engineered ChatGPT API
 * [dirk1983/chatgpt](https://github.com/dirk1983/chatgpt): 演示站现在可以免费使用ChatGPT对话和画图了。全网最易部署，响应速度最快的ChatGPT环境。PHP版调用OpenAI接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开。保姆级教程，账号等周边资源，欢迎进群交流，一切全免费。
@@ -884,6 +885,7 @@
 * [easychen/MemberPrism2](https://github.com/easychen/MemberPrism2): open source alternative to memberstack / memberspace , but with both front and backend member-only content protection
 * [memfreeme/memfree](https://github.com/memfreeme/memfree): MemFree - Hybrid AI Search Engine & AI Page Generator
 * [yaleh/meta-prompt](https://github.com/yaleh/meta-prompt): Meta Prompt, which involves generating a language model prompt using another language model.
+* [geekan/MetaGPT](https://github.com/geekan/MetaGPT): 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 * [meteor/meteor](https://github.com/meteor/meteor): Meteor, the JavaScript App Platform
 * [meteoric/meteor-ionic](https://github.com/meteoric/meteor-ionic): Ionic components for Meteor. No Angular!
 * [alexta69/metube](https://github.com/alexta69/metube): Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
