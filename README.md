@@ -882,7 +882,7 @@
 * [whistyun/MdXaml](https://github.com/whistyun/MdXaml): Markdown for WPF - alternate version of Markdown.Xaml
 * [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler): 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
 * [catfan/Medoo](https://github.com/catfan/Medoo): The lightweight PHP database framework to accelerate the development.
-* [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch): A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+* [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch): A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 * [easychen/MemberPrism2](https://github.com/easychen/MemberPrism2): open source alternative to memberstack / memberspace , but with both front and backend member-only content protection
 * [memfreeme/memfree](https://github.com/memfreeme/memfree): MemFree - Hybrid AI Search Engine & AI Page Generator
 * [yaleh/meta-prompt](https://github.com/yaleh/meta-prompt): Meta Prompt, which involves generating a language model prompt using another language model.
