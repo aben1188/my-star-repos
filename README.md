@@ -405,6 +405,7 @@
 * [runsisi/consolas-font-for-powerline](https://github.com/runsisi/consolas-font-for-powerline): Powerline is a nice vim plugin, consolas is a nice font under windows, in order to use consolas in putty or securecrt to work with powerline, the font must be patched.
 * [eugeneching/consolas-powerline-vim](https://github.com/eugeneching/consolas-powerline-vim): Fixed Consolas font for use with Vim Powerline. Font has all variants: regular, bold, italic, bold-italic.
 * [ssborbis/ContextSearch-web-ext](https://github.com/ssborbis/ContextSearch-web-ext): Search engine manager for modern browsers
+* [OiAnthony/continue-prompts](https://github.com/OiAnthony/continue-prompts): None
 * [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog): Generate changelogs and release notes from a project's commit messages and metadata.
 * [easychen/CookieCloud](https://github.com/easychen/CookieCloud): CookieCloud是一个和自架服务器同步浏览器Cookie和LocalStorage的小工具，支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。CookieCloud is a small tool for synchronizing browser cookies and LocalStorage with a self-hosted server. It supports end-to-end encryption and allows for setting the synchronization interval. This repository contains both the plugin and the server-side source code
 * [BlackGlory/copycat](https://github.com/BlackGlory/copycat): 🌳 Copy content from web powerful than ever before.
@@ -1182,6 +1183,7 @@
 * [index-labs/readpilot](https://github.com/index-labs/readpilot): Read Pilot analyzes online articles and generate Q&A cards for you. Powered by OpenAI & Next.js.
 * [Adonis142857/Real-Address-Generator](https://github.com/Adonis142857/Real-Address-Generator): An address generator for populating real addresses for China, USA, UK, Germany, France and 22 other countries.一个用于填充真实地址的地址生成器，可以生成中国，美国，英国，德国，法国等22个国家的真实地址
 * [Fechin/reference](https://github.com/Fechin/reference): ⭕ Share quick reference cheat sheet for developers.
+* [refly-ai/refly](https://github.com/refly-ai/refly): Refly is an open-source AI-native creation engine. Its intuitive free-form canvas interface combines multi-threaded dialogues, AI knowledge base integration, contextual memory, intelligent search, WYSIWYG AI editor and more, empowering you to effortlessly transform ideas into production-ready content.
 * [liuyi91/RegEx-tools-for-word-or-wps](https://github.com/liuyi91/RegEx-tools-for-word-or-wps): word正则工具
 * [garyhouston/regexp.old](https://github.com/garyhouston/regexp.old): Henry Spencer's old regular expression library, also known as the book regex library, circa 1986.
 * [vczh-libraries/Release](https://github.com/vczh-libraries/Release): Release folder of all projects.
