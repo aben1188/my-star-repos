@@ -2933,6 +2933,9 @@
     "langchain-ai/langchainjs": [
         "Other"
     ],
+    "langchain-ai/ollama-deep-researcher": [
+        "Other"
+    ],
     "langgenius/dify": [
         "Other"
     ],
