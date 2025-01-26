@@ -949,7 +949,7 @@
 * [hyperf/nano](https://github.com/hyperf/nano): 🧬 Nano is a zero-config, no skeleton, minimal Hyperf distribution that allows you to quickly build a Hyperf application with just a single PHP file.
 * [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT): The simplest, fastest repository for training/finetuning medium-sized GPTs.
 * [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript): ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Dart (Flutter) and you name it compatible.
-* [mckaywrigley/naval-gpt](https://github.com/mckaywrigley/naval-gpt): Come join the best place on the internet to learn AI skills. Use code "navalgpt" for an extra 20% off.
+* [mckaywrigley/naval-gpt](https://github.com/mckaywrigley/naval-gpt): None
 * [MetacoSA/NBitcoin](https://github.com/MetacoSA/NBitcoin): Comprehensive Bitcoin library for the .NET framework.
 * [seald/nedb](https://github.com/seald/nedb): The JavaScript Database, for Node.js, nw.js, electron and the browser
 * [bajankristof/nedb-promises](https://github.com/bajankristof/nedb-promises): A dead-simple promise wrapper for nedb.
