@@ -1255,7 +1255,7 @@
 * [langzhou/siyuan-note](https://github.com/langzhou/siyuan-note): 思源笔记美化教程
 * [terwer/siyuan-plugin-publisher](https://github.com/terwer/siyuan-plugin-publisher): ✈️ Publish articles from siyuan-note to platforms such as Yuque, etc.Free and open source. 将思源笔记的文章发布到语雀等平台，开源免费。
 * [jayZOU/skeleton](https://github.com/jayZOU/skeleton): miniprogram to generate the skeleton page automatically
-* [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton): An adaptive design system and component solution built around Tailwind.
+* [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton): Skeleton is an adaptive design system powered by Tailwind CSS.
 * [Justineo/slideshows](https://github.com/Justineo/slideshows): My slideshows about techical stuff.
 * [slimphp/Slim](https://github.com/slimphp/Slim): Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
 * [kcloze/slim-swoole](https://github.com/kcloze/slim-swoole): Slim 3 MVC Skeleton With Swoole
