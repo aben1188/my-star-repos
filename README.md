@@ -830,7 +830,7 @@
 * [coolhwm/leshare-shop-wepy](https://github.com/coolhwm/leshare-shop-wepy): 基于微信小程序的在线商城，采用wepy框架开发
 * [amfe/lib-flexible](https://github.com/amfe/lib-flexible): 可伸缩布局方案
 * [hanneskod/libmergepdf](https://github.com/hanneskod/libmergepdf): PHP library for merging multiple PDFs
-* [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.
+* [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.
 * [rime/librime](https://github.com/rime/librime): Rime Input Method Engine, the core library
 * [creativetimofficial/light-bootstrap-dashboard](https://github.com/creativetimofficial/light-bootstrap-dashboard): Light Bootstrap Dashboard is an admin dashboard template designed to be beautiful and simple. 
 * [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim): A light and configurable statusline/tabline plugin for Vim
