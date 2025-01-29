@@ -328,7 +328,6 @@
 * [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension): This project is deprecated. Check my new project ChatHub:
 * [sparticleinc/chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension): Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.
 * [ObservedObserver/chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n): Localize your websites with AI assistance.
-* [koji/ChatGPT-LLM-PromptEngineering_repos](https://github.com/koji/ChatGPT-LLM-PromptEngineering_repos): ChatGPT, related application + prompt engineering list
 * [kx-Huang/ChatGPT-on-WeChat](https://github.com/kx-Huang/ChatGPT-on-WeChat): 🤖️ Deploy GPT-4o ChatGPT on your WeChat within 2 steps! 两步在云端部署你的微信ChatGPT聊天机器人！🤖️
 * [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat): 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT-o1/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
 * [GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese): 《面向开发者的 ChatGPT 提示词工程》非官方版中英双语字幕 Unofficial subtitles of "ChatGPT Prompt Engineering for Developers"
@@ -845,6 +844,7 @@
 * [run-llama/llama_index](https://github.com/run-llama/llama_index): LlamaIndex is the leading framework for building LLM-powered agents over your data.
 * [ZubinGou/llm-agent-web-tools](https://github.com/ZubinGou/llm-agent-web-tools): A simple Google Search Engine Crawler.
 * [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook): 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
+* [koji/LLM-PromptEngineering-Agents](https://github.com/koji/LLM-PromptEngineering-Agents): ChatGPT, related application + prompt engineering list
 * [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper): Turn any webpage into structured data using LLMs
 * [rowyio/LLM-Web-Crawler](https://github.com/rowyio/LLM-Web-Crawler): Web Scraper and Crawler for LLM Apps and AI Workflows with NoCode / LowCode. Plug and play with your own logic and customize it flexibly and scalably on BuildShip.
 * [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
