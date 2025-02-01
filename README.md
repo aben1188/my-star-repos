@@ -584,6 +584,7 @@
 * [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow
 * [fltenwall/flten-utils](https://github.com/fltenwall/flten-utils): javascript常用函数工具库
 * [bilibili/flv.js](https://github.com/bilibili/flv.js): HTML5 FLV Player
+* [RSSNext/Follow](https://github.com/RSSNext/Follow): 🧡 Follow your favorites in one inbox
 * [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome): The iconic SVG, font, and CSS toolkit
 * [purplebamboo/font-carrier](https://github.com/purplebamboo/font-carrier): font-carrier是一个功能强大的字体操作库，使用它你可以随心所欲的操作字体。让你可以在svg的维度改造字体的展现形状。
 * [ecomfe/fontmin](https://github.com/ecomfe/fontmin): Minify font seamlessly
@@ -1212,6 +1213,8 @@
 * [roncoo/roncoo-adminLTE](https://github.com/roncoo/roncoo-adminLTE): RonCoo AdminLTE --是一个完全响应式的免费开源后台管理模板。基于 AdminLTE 框架（后续会随着版本更新而更新）;使用jQuery 2.2.3版本，并引入很多优秀的第三方jQuery插件，开发者也可以改用自己熟悉的第三方插件,易于使用，并高度可定制，适合许多屏幕分辨率从小型移动设备到大型台式机，这是国内的开源模板未支持的。
 * [huruji/rpn.js](https://github.com/huruji/rpn.js): Calculate Reverse Polish Notation
 * [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub): 🧡 Everything is RSSible
+* [RSSNext/rsshub-docs](https://github.com/RSSNext/rsshub-docs): 📄 Documentation for RSSHub
+* [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar): 🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub
 * [ericelliott/rtype](https://github.com/ericelliott/rtype): Intuitive structural type notation for JavaScript.
 * [rubickCenter/rubick](https://github.com/rubickCenter/rubick): 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 * [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run): 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
