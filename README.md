@@ -842,6 +842,7 @@
 * [listen1/listen1_desktop](https://github.com/listen1/listen1_desktop): one for all free music in china (Windows, Mac, Linux desktop)
 * [blocklistproject/Lists](https://github.com/blocklistproject/Lists): Primary Block Lists
 * [BerriAI/litellm](https://github.com/BerriAI/litellm): Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
+* [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 * [run-llama/llama_index](https://github.com/run-llama/llama_index): LlamaIndex is the leading framework for building LLM-powered agents over your data.
 * [ZubinGou/llm-agent-web-tools](https://github.com/ZubinGou/llm-agent-web-tools): A simple Google Search Engine Crawler.
 * [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook): 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
@@ -853,6 +854,7 @@
 * [localsend/localsend](https://github.com/localsend/localsend): An open-source cross-platform alternative to AirDrop
 * [apache/logging-log4net](https://github.com/apache/logging-log4net): Apache Log4net is a versatile, feature-rich, efficient logging API and backend for .NET
 * [apache/logging-log4php](https://github.com/apache/logging-log4php): Mirror of Apache log4php
+* [pimterry/loglevel](https://github.com/pimterry/loglevel): :ledger: Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods
 * [bmpi-dev/logseq.xyz](https://github.com/bmpi-dev/logseq.xyz): logseq self-host with github feature
 * [94cstyles/lottery](https://github.com/94cstyles/lottery): 移动端抽奖插件[大转盘，老虎机，刮刮卡]
 * [mnvx/lowrapper](https://github.com/mnvx/lowrapper): PHP wrapper over LibreOffice converter
@@ -1098,6 +1100,7 @@
 * [fscarmen2/pic-hosting-cluster](https://github.com/fscarmen2/pic-hosting-cluster): None
 * [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo): :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 * [xiebruce/PicUploader](https://github.com/xiebruce/PicUploader): 一个还不错的图床工具，支持Mac/Win/Linux服务器、支持压缩后上传、添加图片或文字水印、多文件同时上传、同时上传到多个云、右击任意文件上传、快捷键上传剪贴板截图、Web版上传、支持作为Mweb/Typora发布图片接口、作为PicGo/ShareX/uPic等的自定义图床，支持在服务器上部署作为图床接口，支持上传任意格式文件。
+* [pinojs/pino](https://github.com/pinojs/pino): 🌲 super fast, all natural json logger
 * [Pintree-io/pintree](https://github.com/Pintree-io/pintree): Pintree: Easily turn your browser bookmarks into a directory website and start monetizing in minutes.
 * [sxei/pinyinjs](https://github.com/sxei/pinyinjs): 一个实现汉字与拼音互转的小巧web工具库，演示地址：
 * [microsoft/playwright](https://github.com/microsoft/playwright): Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 

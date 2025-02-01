@@ -2339,6 +2339,9 @@
     "history-frontEnd/BeeUi": [
         "Other"
     ],
+    "hiyouga/LLaMA-Factory": [
+        "Other"
+    ],
     "hjkcai/cardiovascular-tracker": [
         "Other"
     ],
@@ -3770,7 +3773,13 @@
     "phuocng/1loc": [
         "Other"
     ],
+    "pimterry/loglevel": [
+        "Other"
+    ],
     "pingcap/ossinsight": [
+        "Other"
+    ],
+    "pinojs/pino": [
         "Other"
     ],
     "pjkui/q2a-behaviac-editor": [
