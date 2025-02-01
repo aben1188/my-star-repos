@@ -984,6 +984,7 @@
 * [node-weixin/node-weixin-api](https://github.com/node-weixin/node-weixin-api): 一个结构更加清晰，功能调用更加方便，代码更加优雅，测试更加全面的微信API。也可能是目前接口最丰富，集成最方便的node weixin sdk。欢迎您的使用，反馈，建议。
 * [lightzhu/Node_Crawler](https://github.com/lightzhu/Node_Crawler): Node.js 项目,koa cheerio爬虫小程序,爬取电影、免费科学上网节点，钉钉定时消息。
 * [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB): Node.js based forum software built for the modern web
+* [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices): :white_check_mark:  The Node.js best practices list (July 2024)
 * [ParryQiu/nodeclub](https://github.com/ParryQiu/nodeclub): WXOPEN Club 社区为国内最专业的微信小程序技术社区，致力于微信小程序的技术研究。
 * [cnodejs/nodeclub](https://github.com/cnodejs/nodeclub): :baby_chick:Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统
 * [yanyiwu/nodejieba](https://github.com/yanyiwu/nodejieba): "结巴"中文分词的Node.js版本
