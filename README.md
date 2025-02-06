@@ -1584,7 +1584,7 @@
 * [meteorOSS/wechat-bc](https://github.com/meteorOSS/wechat-bc): 类似开发公众号一样，开发个人微信号
 * [cixingguangming55555/wechat-bot](https://github.com/cixingguangming55555/wechat-bot): 带二次开发接口的PC微信聊天机器人
 * [darknightlab/wechat-bot](https://github.com/darknightlab/wechat-bot): a wechat bot using wechaty, which can archive web pages, analyze pictures, and automatically reply.
-* [wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot): 🤖一个基于 WeChaty 结合 OpenAi ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
+* [wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot): 🤖一个基于 WeChaty 结合 DeepSeek / ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
 * [zhouxiongking/wechat-calculator](https://github.com/zhouxiongking/wechat-calculator): 微信小程序之简易计算器
 * [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt): Use ChatGPT On Wechat via wechaty
 * [gtoxlili/wechat-chatGPT](https://github.com/gtoxlili/wechat-chatGPT): 实现微信公众号被动返回接口的ChatGPT
