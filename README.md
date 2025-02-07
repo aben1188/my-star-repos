@@ -979,6 +979,7 @@
 * [liuxing/node-abc](https://github.com/liuxing/node-abc): 《Node.js入门教程》
 * [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api): A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
 * [bda-research/node-crawler](https://github.com/bda-research/node-crawler): Web Crawler/Spider for NodeJS + server-side jQuery ;-)
+* [jina-ai/node-DeepResearch](https://github.com/jina-ai/node-DeepResearch): Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget)
 * [snowdream/node-gitm](https://github.com/snowdream/node-gitm): A simple but useful tool to manage multiple git repositories.
 * [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache): A fast cache that automatically deletes the least recently used items
 * [node-red/node-red](https://github.com/node-red/node-red): Low-code programming for event-driven applications
