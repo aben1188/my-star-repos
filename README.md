@@ -882,7 +882,7 @@
 * [duo/matrix-qq](https://github.com/duo/matrix-qq): A Matrix-QQ puppeting bridge
 * [joschuck/matrix-webcam](https://github.com/joschuck/matrix-webcam): Take your video conference from within the matrix.
 * [duo/matrix-wechat](https://github.com/duo/matrix-wechat): A Matrix-WeChat puppeting bridge
-* [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB): 💬 Ready-to-use, flexible RAG Chatbot.  
+* [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB): 💬 Ready-to-use & flexible RAG Chatbot, supporting mainstream large language models (LLMs) such as DeepSeek-R1, Llama 3.3, OpenAI, and more.
 * [chatmcp/mcp-server-chatsum](https://github.com/chatmcp/mcp-server-chatsum): Query and Summarize your chat messages.
 * [whistyun/MdXaml](https://github.com/whistyun/MdXaml): Markdown for WPF - alternate version of Markdown.Xaml
 * [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler): 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
