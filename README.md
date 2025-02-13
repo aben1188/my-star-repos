@@ -895,7 +895,7 @@
 * [meteor/meteor](https://github.com/meteor/meteor): Meteor, the JavaScript App Platform
 * [meteoric/meteor-ionic](https://github.com/meteoric/meteor-ionic): Ionic components for Meteor. No Angular!
 * [alexta69/metube](https://github.com/alexta69/metube): Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
-* [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts): Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+* [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts): Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 * [huorswords/Microsoft.Extensions.Logging.Log4Net.AspNetCore](https://github.com/huorswords/Microsoft.Extensions.Logging.Log4Net.AspNetCore): Allows to configure Log4net as Microsoft Extensions Logging handler on any ASP.NET Core application.  Original code proposal by @anuraj --> https://dotnetthoughts.net/how-to-use-log4net-with-aspnetcore-for-logging/
 * [maotoumao/midjourney-downloader](https://github.com/maotoumao/midjourney-downloader): A script to download ALL Midjourney Images🎇
 * [midwayjs/midway](https://github.com/midwayjs/midway): 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
