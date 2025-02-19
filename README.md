@@ -437,7 +437,6 @@
 * [Jackardios/css-to-tailwindcss](https://github.com/Jackardios/css-to-tailwindcss): Convert CSS to TailwindCSS 3.x
 * [jolaleye/cssfx](https://github.com/jolaleye/cssfx): ✨ Beautifully simple click-to-copy CSS effects
 * [CSSLint/csslint](https://github.com/CSSLint/csslint): Automated linting of Cascading Stylesheets
-* [pontusab/cursor.directory](https://github.com/pontusab/cursor.directory): Find the best cursor rules for your framework and language
 * [itsOwen/CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077): A Powerful web scraper powered by LLM | OpenAI, Gemini & Ollama
 * [walkerRnD/daisy-svelte](https://github.com/walkerRnD/daisy-svelte): Svelte components for Daisy UI
 * [saadeghi/daisyui](https://github.com/saadeghi/daisyui): 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
@@ -464,6 +463,7 @@
 * [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys): A Swiss Army knife for developers.
 * [devv-ai/devv](https://github.com/devv-ai/devv): An AI-powered search engine for developers.
 * [langgenius/dify](https://github.com/langgenius/dify): Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+* [pontusab/directories](https://github.com/pontusab/directories): The Cursor & Windsurf community, find rules and MCPs
 * [Miserlou/DirtyShare](https://github.com/Miserlou/DirtyShare): Peer to Peer Filesharing in Pure Javascript With Node.js and Socket.io
 * [virskor/DiscuzQ](https://github.com/virskor/DiscuzQ): Flutter open source application for DiscuzQ
 * [sabrogden/Ditto](https://github.com/sabrogden/Ditto): Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
