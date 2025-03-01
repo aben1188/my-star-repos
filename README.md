@@ -657,7 +657,7 @@
 * [hiro086/GPT3-4-Midjourney-StableDiffusion-Mirrors-awesome](https://github.com/hiro086/GPT3-4-Midjourney-StableDiffusion-Mirrors-awesome): 国内AI镜像站的导航大全，每天收集公开的GPT3.5+GPT4受限试用+Midjourney+StableDiffusion站点
 * [DavidOrtsac/gpt3-writer-updated](https://github.com/DavidOrtsac/gpt3-writer-updated): Awesome GPT3 tech
 * [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all): GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-* [xtekky/gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models | o3 mini and deepseek r1
+* [xtekky/gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
 * [vdutts7/gpt4V-scraper](https://github.com/vdutts7/gpt4V-scraper): AI agent that can SEE 👁️, control, navigate, & do stuff for you on your browser.
 * [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free): Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 * [nftblackmagic/GptAssist-starter](https://github.com/nftblackmagic/GptAssist-starter): None
@@ -743,7 +743,7 @@
 * [izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets): 🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio/Fleet
 * [dotnet/interactive](https://github.com/dotnet/interactive): .NET Interactive combines the power of .NET with many other languages to create notebooks, REPLs, and embedded coding experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before.
 * [Olshansk/interview](https://github.com/Olshansk/interview): Everything you need to prepare for your technical interview
-* [zsyOAOA/InvSR](https://github.com/zsyOAOA/InvSR): Arbitrary-steps Image Super-resolution via Diffusion Inversion
+* [zsyOAOA/InvSR](https://github.com/zsyOAOA/InvSR): Arbitrary-steps Image Super-resolution via Diffusion Inversion (CVPR 2025)
 * [loveuqian/iOS-Carbon-Forum](https://github.com/loveuqian/iOS-Carbon-Forum): iOS Client for Carbon Forum
 * [xiaosimao/IP_POOL](https://github.com/xiaosimao/IP_POOL): 免费的IP代理池
 * [ipfs/ipfs](https://github.com/ipfs/ipfs): Peer-to-peer hypermedia protocol
