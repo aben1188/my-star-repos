@@ -97,7 +97,7 @@
 * [robiot/AlphaClicker](https://github.com/robiot/AlphaClicker): 🖱️ Windows Autoclicker with a modern ui
 * [ampproject/amphtml](https://github.com/ampproject/amphtml): The AMP web component framework.
 * [kiwibrowser/android](https://github.com/kiwibrowser/android): This repository is archived, and is now transferred to https://github.com/kiwibrowser/src
-* [wildfirechat/android-chat](https://github.com/wildfirechat/android-chat): 即时通讯，聊天，野火IMAndroid客户端，支持Android 4.x —— 最新
+* [wildfirechat/android-chat](https://github.com/wildfirechat/android-chat): 即时通讯，聊天，野火IM Android客户端，支持Android 4.x —— 最新
 * [Atypicalim/android-wechat-tool](https://github.com/Atypicalim/android-wechat-tool): a wechat tool for android
 * [JZ-Darkal/AndroidHttpCapture](https://github.com/JZ-Darkal/AndroidHttpCapture): AndroidHttpCapture网络诊断工具 是一款Android手机抓包软件 主要功能包括：手机端抓包、PING/DNS/TraceRoute诊断、抓包HAR数据上传分享。你也可以看成是Android版的"Fiddler" \(^o^)/~
 * [angular/angular](https://github.com/angular/angular): Deliver web apps with confidence 🚀
