@@ -1326,7 +1326,6 @@
 * [michmich112/sveltekit-adapter-chrome-extension](https://github.com/michmich112/sveltekit-adapter-chrome-extension): Sveltekit adapter for making chrome extensions
 * [DevonCash/sveltekit-adapter-webext](https://github.com/DevonCash/sveltekit-adapter-webext): Build browser extensions with Sveltekit (early prototype)
 * [Matyanson/SvelteKit-browser-extension-template](https://github.com/Matyanson/SvelteKit-browser-extension-template): template for developing browser extensions with SvelteKit. Popup window and options page set.
-* [shaoml/sveltekit-crxjs-boilerplate](https://github.com/shaoml/sveltekit-crxjs-boilerplate): A boilerplate of chrome extension built on sveltekit prerender pages.
 * [LukeHagar/sveltekit-extension-template](https://github.com/LukeHagar/sveltekit-extension-template): SvelteKit Chrome extension template built with Skeleton
 * [engageintellect/sveltekit-landing-daisy](https://github.com/engageintellect/sveltekit-landing-daisy): A landing page template with various persistent themes using SvelteKit, TailwindCSS, and DaisyUI.
 * [SvelteKitApp/sveltekitapp-chrome-extension-template](https://github.com/SvelteKitApp/sveltekitapp-chrome-extension-template): SvelteKit Chrome Extension Template
