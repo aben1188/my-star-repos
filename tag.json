@@ -977,6 +977,9 @@
     "WPPlugins/cosign-sso": [
         "Other"
     ],
+    "WebAV-Tech/WebAV": [
+        "Other"
+    ],
     "WebAssembly/binaryen": [
         "Other"
     ],
@@ -1410,9 +1413,6 @@
         "Other"
     ],
     "bigemon/ChuanhuChatGPT": [
-        "Other"
-    ],
-    "bilibili/WebAV": [
         "Other"
     ],
     "bilibili/flv.js": [
