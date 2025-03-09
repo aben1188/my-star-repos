@@ -1018,6 +1018,7 @@
 * [k-takata/Onigmo](https://github.com/k-takata/Onigmo): Onigmo is a regular expressions library forked from Oniguruma.
 * [nladuo/online_office_viewer](https://github.com/nladuo/online_office_viewer): preview doc/ppt/xls online via unoconv.
 * [stubbornella/oocss](https://github.com/stubbornella/oocss): Object Oriented CSS Framework
+* [browserbase/open-operator](https://github.com/browserbase/open-operator): A template for building web agents with Stagehand on Browserbase
 * [OldPanda/Open-the-F-king-URL-Right-Now](https://github.com/OldPanda/Open-the-F-king-URL-Right-Now): 自动跳转某些网站不希望用户直达的外链
 * [open-webui/open-webui](https://github.com/open-webui/open-webui): User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 * [easychen/openai-api-proxy](https://github.com/easychen/openai-api-proxy): 一行Docker命令部署的 OpenAI/GPT API代理，支持SSE流式返回、腾讯云函数 。Simple proxy for OpenAi api via a one-line docker command
