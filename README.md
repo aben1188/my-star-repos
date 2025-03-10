@@ -488,7 +488,7 @@
 * [3choff/docs-miner](https://github.com/3choff/docs-miner): A VSCode extension that generates markdown documentation from web pages and GitHub repositories.
 * [meilisearch/docs-scraper](https://github.com/meilisearch/docs-scraper): Scrape documentation into Meilisearch
 * [algolia/docsearch-scraper](https://github.com/algolia/docsearch-scraper): DocSearch - Scraper
-* [arc53/DocsGPT](https://github.com/arc53/DocsGPT): Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
+* [arc53/DocsGPT](https://github.com/arc53/DocsGPT): DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in.
 * [docsifyjs/docsify](https://github.com/docsifyjs/docsify): 🃏 A magical documentation site generator.
 * [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide): 中文技术文档的写作规范
 * [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai): 基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)
