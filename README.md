@@ -1134,6 +1134,7 @@
 * [TakSec/Prompt-Injection-Everywhere](https://github.com/TakSec/Prompt-Injection-Everywhere): Prompt Injections Everywhere
 * [phodal/prompt-patterns](https://github.com/phodal/prompt-patterns): Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt
 * [pyronn/prompt-studio](https://github.com/pyronn/prompt-studio): Prompt Studio MidJourney提示词可视化编辑与管理工具
+* [Acmesec/PromptJailbreakManual](https://github.com/Acmesec/PromptJailbreakManual): Prompt越狱手册
 * [immersive-translate/prompts](https://github.com/immersive-translate/prompts): Prompts for Immersive Translate
 * [PromptSmith-OSS/promptsmith](https://github.com/PromptSmith-OSS/promptsmith): A prompt engineering solution to manage AI prompts easily.
 * [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool): Python ProxyPool for web spider
