@@ -105,7 +105,7 @@
 * [JasonQS/Anti-recall](https://github.com/JasonQS/Anti-recall): Android 免root 防撤回神器 !
 * [zsh-users/antigen](https://github.com/zsh-users/antigen): The plugin manager for zsh.
 * [any86/any-rule](https://github.com/any86/any-rule): 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
-* [Any-VM/AnyGPT](https://github.com/Any-VM/AnyGPT): a simple, intuitive api and webui to get any ai model from for free or to selfhost. incorporates other api technologies into your request such as wolfram, web search, image or voice to text, and more! (also provides a load balancer for the providers side to maximize speed across users, the api is compatible with all other webuis)
+* [AnyVM-Tech/AnyGPT](https://github.com/AnyVM-Tech/AnyGPT): a simple, intuitive api and webui to get any ai model from for free or to selfhost. incorporates other api technologies into your request such as wolfram, web search, image or voice to text, and more! (also provides a load balancer for the providers side to maximize speed across users, the api is compatible with all other webuis)
 * [OpenMOSS/AnyGPT](https://github.com/OpenMOSS/AnyGPT): Code for "AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling"
 * [any-LABS/anyGPT](https://github.com/any-LABS/anyGPT): A general purpose library for training any type of GPT model.
 * [gitbarlew/AnyGPT-on-Colab---OLLAMA-with-UI-on-Colab](https://github.com/gitbarlew/AnyGPT-on-Colab---OLLAMA-with-UI-on-Colab): Google Colab Notebook describing step by step how to run Ollama with UI on Colab and expose created user interface to the internet. 
