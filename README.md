@@ -659,7 +659,7 @@
 * [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all): GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 * [xtekky/gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
 * [vdutts7/gpt4V-scraper](https://github.com/vdutts7/gpt4V-scraper): AI agent that can SEE 👁️, control, navigate, & do stuff for you on your browser.
-* [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free): Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
+* [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free): Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 * [nftblackmagic/GptAssist-starter](https://github.com/nftblackmagic/GptAssist-starter): None
 * [dbgee/gptchat](https://github.com/dbgee/gptchat): An awesome project to simplify the chatgpt integration with wechat official account.
 * [gpt-engineer-org/gptengineer.app](https://github.com/gpt-engineer-org/gptengineer.app): Rapid prototyping of web apps using plain english 👶🤖
