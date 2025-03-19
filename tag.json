@@ -164,9 +164,6 @@
     "BerriAI/litellm": [
         "Other"
     ],
-    "Bin-Huang/chatbox": [
-        "Other"
-    ],
     "BlackGlory/copycat": [
         "Other"
     ],
@@ -1545,6 +1542,9 @@
         "Other"
     ],
     "chatanywhere/GPT_API_free": [
+        "Other"
+    ],
+    "chatboxai/chatbox": [
         "Other"
     ],
     "chatgptmm/alist.io": [
