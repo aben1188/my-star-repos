@@ -1133,6 +1133,7 @@
 * [yunwei37/Prompt-Engineering-Guide-zh-CN](https://github.com/yunwei37/Prompt-Engineering-Guide-zh-CN): 🐙 关于提示词工程（prompt）的指南、论文、讲座、笔记本和资源大全（自动持续更新）
 * [EgoAlpha/prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning): Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.
 * [TakSec/Prompt-Injection-Everywhere](https://github.com/TakSec/Prompt-Injection-Everywhere): Prompt Injections Everywhere
+* [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer): 一款提示词优化器，助力于编写高质量的提示词
 * [phodal/prompt-patterns](https://github.com/phodal/prompt-patterns): Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt
 * [pyronn/prompt-studio](https://github.com/pyronn/prompt-studio): Prompt Studio MidJourney提示词可视化编辑与管理工具
 * [Acmesec/PromptJailbreakManual](https://github.com/Acmesec/PromptJailbreakManual): Prompt越狱手册
@@ -1537,6 +1538,7 @@
 * [CoderOpen/waimai-cps](https://github.com/CoderOpen/waimai-cps): 美团红包饿了么红包CPS小程序+H5+后端外卖红包应用，带有后台代码，安装超级简单
 * [leixiaokou/waimai-uniapp](https://github.com/leixiaokou/waimai-uniapp): 美团饿了么联盟CPS推广赚钱的uniapp小程序，支持微信小程序和H5，技术变现利器
 * [eficode/wait-for](https://github.com/eficode/wait-for): ./wait-for is a script to wait for another service to become available.
+* [wandb/wandb](https://github.com/wandb/wandb): The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
 * [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor): wangEditor, open-source Web rich text editor 开源 Web 富文本编辑器
 * [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API): 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
 * [yuchanns/warpflare](https://github.com/yuchanns/warpflare): Keep your WARP+ traffic topped up with Cloudflare Workers.

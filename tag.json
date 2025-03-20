@@ -3104,6 +3104,9 @@
     "linexjlin/GPTs": [
         "Other"
     ],
+    "linshenkx/prompt-optimizer": [
+        "Other"
+    ],
     "linyiLYi/bilibot": [
         "Other"
     ],
@@ -4746,6 +4749,9 @@
         "Other"
     ],
     "walkor/workerman": [
+        "Other"
+    ],
+    "wandb/wandb": [
         "Other"
     ],
     "wangdoc/typescript-tutorial": [
