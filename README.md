@@ -454,7 +454,7 @@
 * [thinkhy/deploy-stf-docker](https://github.com/thinkhy/deploy-stf-docker): Scripts to deploy STF master server on Ubuntu with one-button operation
 * [WebAssembly/design](https://github.com/WebAssembly/design): WebAssembly Design Documents
 * [me115/design_patterns](https://github.com/me115/design_patterns): 图说设计模式
-* [Comfy-Org/desktop](https://github.com/Comfy-Org/desktop): The desktop app for ComfyUI.
+* [Comfy-Org/desktop](https://github.com/Comfy-Org/desktop): The desktop app for ComfyUI (Windows & macOS)
 * [EthereumCN/dev](https://github.com/EthereumCN/dev): You can find all things about Ethereum development! 以太坊开发者门户
 * [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup): macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
 * [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar): 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
