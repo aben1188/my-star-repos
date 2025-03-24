@@ -342,7 +342,7 @@
 * [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web): 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 * [yi-ge/chatgpt-web](https://github.com/yi-ge/chatgpt-web): Multi-user h5 version, 3rd party ChatGPT web page. Uses OpenAPI official web API.
 * [chatpire/chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share): ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution.
-* [whyiyhw/chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat): 企业微信/微信 安全使用的 ChatGPT 个人助手应用
+* [whyiyhw/chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat): 企业微信/微信 安全使用的 ChatGPT 个人助手/客服, 也支持 dify 工作流
 * [AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot): ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot
 * [TankNee/chatgpt-wechaty](https://github.com/TankNee/chatgpt-wechaty): GPTChat wechat robot based on wechaty and padlocal.
 * [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt): A collection of GPT system prompts and various prompt injection/leaking knowledge.
