@@ -1003,7 +1003,7 @@
 * [noobnooc/noobnooc](https://github.com/noobnooc/noobnooc): My profile
 * [necolas/normalize.css](https://github.com/necolas/normalize.css): A modern alternative to CSS resets
 * [Xheldon/Notion-Flow-Prod](https://github.com/Xheldon/Notion-Flow-Prod): Publish your Notion article to your Github Jekyll blog, and upload the blog images to an OSS service.
-* [novuhq/novu](https://github.com/novuhq/novu): Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
+* [novuhq/novu](https://github.com/novuhq/novu): The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 * [nissl-lab/npoi](https://github.com/nissl-lab/npoi): a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
 * [bruderstein/nppPluginManager](https://github.com/bruderstein/nppPluginManager): Notepad++ Plugin Manager
 * [barvian/number-flow](https://github.com/barvian/number-flow): An animated number component for React, Vue, Svelte, and TS/JS.
