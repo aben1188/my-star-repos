@@ -1762,7 +1762,7 @@
 * [jiji262/xiaoetong-video-downloader](https://github.com/jiji262/xiaoetong-video-downloader): 小鹅通资源下载工具
 * [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt): Play ChatGPT and other LLM with Xiaomi AI Speaker
 * [idollo/xloger](https://github.com/idollo/xloger): a cross-server web-GUI log monitor for cross-language(PHP/Node/Python and more) websever logs
-* [XTLS/Xray-core](https://github.com/XTLS/Xray-core): Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens.
+* [XTLS/Xray-core](https://github.com/XTLS/Xray-core): Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 * [hightman/xunsearch](https://github.com/hightman/xunsearch): 免费开源的中文搜索引擎，采用 C/C++ 编写 (基于 xapian 和 scws)，提供 PHP 的开发接口和丰富文档
 * [violet7pan/XYplorer_Help](https://github.com/violet7pan/XYplorer_Help): XYplorer使用教程-原创
 * [laruence/yaf](https://github.com/laruence/yaf): Fast php framework written in c, built in php extension
