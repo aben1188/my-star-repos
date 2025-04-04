@@ -138,7 +138,6 @@
 * [postcss/autoprefixer](https://github.com/postcss/autoprefixer):  Parse CSS and add vendor prefixes to rules by Can I Use
 * [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper): A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 * [bneijt/autotrash](https://github.com/bneijt/autotrash): Tool to automatically purge old trashed files
-* [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome): :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
 * [EmbraceAGI/Awesome-AGI](https://github.com/EmbraceAGI/Awesome-AGI): A curated list of awesome AGI frameworks, software and resources
 * [lencx/awesome-ai](https://github.com/lencx/awesome-ai): 🤖 Awesome AI
@@ -684,8 +683,6 @@
 * [qianduanwuzi/H5-game](https://github.com/qianduanwuzi/H5-game): H5小游戏：砸金蛋、刮刮乐、canvas抓粽子等
 * [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io): None
 * [pandecheng36/hcdkp](https://github.com/pandecheng36/hcdkp): 最简单的魔改发布『 合成大西瓜 』，不用改代码，修改配置即可！
-* [ilovexjp/health-code-index](https://github.com/ilovexjp/health-code-index): 健康码模拟 - 索引
-* [idontlovexjp/health-code-index.bak](https://github.com/idontlovexjp/health-code-index.bak): 健康码模拟；变态清零，祸国殃民。（备份自 https://github.com/ilovexjp/health-code-index ）新家在此：👇
 * [krahets/hello-algo](https://github.com/krahets/hello-algo): 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 * [zbezj/HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator): None
 * [hexojs/hexo](https://github.com/hexojs/hexo): A fast, simple & powerful blog framework, powered by Node.js.
@@ -938,7 +935,6 @@
 * [shawtung/mpvue-wepy-compare](https://github.com/shawtung/mpvue-wepy-compare): 从wepy迁移到mpvue的调研
 * [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor): A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 * [dcloudio/mui](https://github.com/dcloudio/mui): 最接近原生APP体验的高性能框架
-* [brizer/multi-repo-git](https://github.com/brizer/multi-repo-git): A very simple Git command line tool, to manage multiple git rspositories at once.
 * [kevinfu1717/multimediaChatbot](https://github.com/kevinfu1717/multimediaChatbot): 构建了可用于多个对话框架的场景型对话的聊天机器人。支持吐槽类情景及情感倾诉型情景。使用wechaty，结合Paddlehub的人脸特征点、动漫人脸生成、对联生成、情感分类，ernie迁移，人脸变胖
 * [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree): 插件化、定制化、无广告的免费音乐播放器
 * [janl/mustache.js](https://github.com/janl/mustache.js): Minimal templating with {{mustaches}} in JavaScript
@@ -1741,7 +1737,6 @@
 * [icindy/WxEmojiView](https://github.com/icindy/WxEmojiView): WxEmojiView
 * [wxext/wxext](https://github.com/wxext/wxext): e小天·微信机器人管理界面,PC微信接口扩展开发,自适应微信版本,收发消息获取群昵称等,集成常用功能快速开发插件
 * [icindy/wxflex](https://github.com/icindy/wxflex): 微信小程序的Flex布局demo－4种必备常用的Flex布局模式
-* [yitd/wxkp](https://github.com/yitd/wxkp): 微信卡片分享链接在线制作工具
 * [icindy/WxNotificationCenter](https://github.com/icindy/WxNotificationCenter): WxNotificationCenter - 微信小程序通知广播模式类,降低小程序之间的耦合度
 * [icindy/wxParse](https://github.com/icindy/wxParse): wxParse-微信小程序富文本解析自定义组件，支持HTML及markdown解析
 * [ifanrx/wxParser](https://github.com/ifanrx/wxParser): 微信小程序富文本渲染引擎
