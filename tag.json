@@ -2168,7 +2168,7 @@
     "gfwlist/gfwlist": [
         "GFW"
     ],
-    "ggerganov/whisper.cpp": [
+    "ggml-org/whisper.cpp": [
         "Other"
     ],
     "ggreer/the_silver_searcher": [
