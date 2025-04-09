@@ -64,7 +64,7 @@
 * [beyondgrep/ack2](https://github.com/beyondgrep/ack2): **ack 2 is no longer being maintained.  ack 3 is the latest version.**
 * [kaienkira/acme-client](https://github.com/kaienkira/acme-client): a small tool to get and renew tls certs from let's encrypt
 * [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh): A pure Unix shell script implementing ACME client protocol
-* [activepieces/activepieces](https://github.com/activepieces/activepieces): Workflow automation with 280+ MCP servers (MCP tools) • AI automation & workflow automation platform + hundreds of MCP servers for AI • [n8n alternative - MIT-licensed n8n]
+* [activepieces/activepieces](https://github.com/activepieces/activepieces): AI agents, MCPs, AI workflow automation (280+ MCP servers for agents)
 * [justboil/admin-one-vue-tailwind](https://github.com/justboil/admin-one-vue-tailwind): Free Vue.js 3.x Tailwind 4.x admin dashboard template with dark mode. Vite builds. Pinia state. Laravel integration available
 * [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta): The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM Observability all in one place.
 * [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
