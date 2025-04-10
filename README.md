@@ -64,7 +64,7 @@
 * [beyondgrep/ack2](https://github.com/beyondgrep/ack2): **ack 2 is no longer being maintained.  ack 3 is the latest version.**
 * [kaienkira/acme-client](https://github.com/kaienkira/acme-client): a small tool to get and renew tls certs from let's encrypt
 * [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh): A pure Unix shell script implementing ACME client protocol
-* [activepieces/activepieces](https://github.com/activepieces/activepieces): AI agents & MCPs & workflow automation • (280+ MCP servers for AI agents) • AI automation with MCPs • No-code AI agents with MCPs • AI workflows
+* [activepieces/activepieces](https://github.com/activepieces/activepieces): AI agents & MCPs & workflow automation • (280+ MCP servers for AI agents) • AI automation/agent with MCPs • No-code AI agents with MCPs • AI workflows
 * [justboil/admin-one-vue-tailwind](https://github.com/justboil/admin-one-vue-tailwind): Free Vue.js 3.x Tailwind 4.x admin dashboard template with dark mode. Vite builds. Pinia state. Laravel integration available
 * [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta): The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM Observability all in one place.
 * [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
@@ -1582,7 +1582,7 @@
 * [hi-craft/Wechat-AccessibilityService](https://github.com/hi-craft/Wechat-AccessibilityService): 第三方WECHAT辅助服务 基于AccessibilityService实现 激活码IMEI码绑定，群组列表群发，好友列表群发，定时自动任务，发送间隔时间设定 更新至2.2版本，适配WECHAT7.0.3
 * [ChinaVolvocars/WeChat-applet](https://github.com/ChinaVolvocars/WeChat-applet): 微信小应用，微信小程序资源汇总整理，涵括微信 Web 开发工具、开发框架、开发教程、以及官方文档和相关资源的整理
 * [colin4k/wechat-article-dl](https://github.com/colin4k/wechat-article-dl): 微信公众号文章下载，生成 png 图片保存到本地。 | Download Wechat Official Accounts article as png file.
-* [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter): 在线批量下载微信公众号文章，支持阅读量、评论、内嵌音视频，无需搭建任何环境，可100%还原文章样式，支持私有部署
+* [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter): 一个在线的微信公众号文章下载工具，支持下载阅读量与评论数据，支持私有化部署
 * [leochen-g/wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro): 智能微秘书,全能微信机器人管理平台,简单的方式接入ChatGPT,FastGPT,Dify,Coze,扣子,DeepSeek.支持绘图，语音识别，语音发送，定时任务，支持企微、公众号、5G 消息、WhatsApp
 * [meteorOSS/wechat-bc](https://github.com/meteorOSS/wechat-bc): 类似开发公众号一样，开发个人微信号
 * [cixingguangming55555/wechat-bot](https://github.com/cixingguangming55555/wechat-bot): 带二次开发接口的PC微信聊天机器人
