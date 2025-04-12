@@ -1144,7 +1144,7 @@
 * [pug-php/pug](https://github.com/pug-php/pug): Pug template engine for PHP
 * [pugjs/pug](https://github.com/pugjs/pug): Pug – robust, elegant, feature rich template engine for Node.js
 * [platonai/PulsarRPA](https://github.com/platonai/PulsarRPA): Automate webpages at scale, scrape web data completely and accurately with high performance, distributed AI-RPA.
-* [platonai/PulsarRPAPro](https://github.com/platonai/PulsarRPAPro): PulsarRPA Pro Edition: Empower Your Workflows with AI-Driven Web Data Extraction.
+* [platonai/PulsarRPAPro](https://github.com/platonai/PulsarRPAPro): Fully automated and hands-free, accurately extracting and understanding web content — powered by machine learning agents.
 * [wechaty/puppet-official-account](https://github.com/wechaty/puppet-official-account): Wechaty Puppet for WeChat Official Account
 * [wechaty/puppet-oicq](https://github.com/wechaty/puppet-oicq): Wechaty Puppet for QQ based on project takayama-lily/oicq-template
 * [wechaty/puppet-padlocal](https://github.com/wechaty/puppet-padlocal): Puppet PadLocal is a Pad Protocol for WeChat
