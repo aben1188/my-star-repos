@@ -1625,7 +1625,7 @@
 * [xuncv/WeChatDownloader](https://github.com/xuncv/WeChatDownloader): 微信视频号下载器. WeChatDownloader
 * [houko/wechatgpt](https://github.com/houko/wechatgpt): wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持wechat，telegram
 * [jayazhang/weChatMiniPrograms](https://github.com/jayazhang/weChatMiniPrograms): 微信小程序api汇总
-* [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg): 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
+* [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg): None
 * [blikr/WeChatShareCard](https://github.com/blikr/WeChatShareCard): WeChatShareCard，一款微信卡片分享链接免费在线制作工具；
 * [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync): 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
 * [lecepin/WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader): 超方便的微信视频号下载器
