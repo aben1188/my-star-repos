@@ -1694,7 +1694,7 @@
 * [weui/weui-design](https://github.com/weui/weui-design): Design package for WeUI
 * [wechat-miniprogram/weui-miniprogram](https://github.com/wechat-miniprogram/weui-miniprogram): 小程序WeUI组件库
 * [Tencent/weui-wxss](https://github.com/Tencent/weui-wxss): A UI library by WeChat official design team, includes the most useful widgets/modules.
-* [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss): 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）v2.x
+* [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss): 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
 * [wdfe/weweb](https://github.com/wdfe/weweb): 兼容小程序写法的web开发框架
 * [edxposedd/wework](https://github.com/edxposedd/wework): 【Xposed Hook 企业微信 微信】企业微信机器人 微信机器人 自动抢回复 会话 自动通过 好友列表 群管理 SDK
 * [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp): Port of OpenAI's Whisper model in C/C++
