@@ -797,7 +797,7 @@
 * [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi): 🚀 A modern, open-source K8s panel developed by the official 1Panel team.
 * [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook): Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz
 * [meta-magic/kubernetes_workshop](https://github.com/meta-magic/kubernetes_workshop): Kubernetes is an open source Container Orchestration System for automatic deployment, scaling, and management of Containerized application. Kubernetes gives you the freedom to take advantage of on-premise, hybrid or public cloud infrastructure. Kubernetes helps you to scale both horizontally and vertically depends on the load.
-* [kysely-org/kysely](https://github.com/kysely-org/kysely): A type-safe typescript SQL query builder
+* [kysely-org/kysely](https://github.com/kysely-org/kysely): A type-safe TypeScript SQL query builder
 * [maichong/labrador](https://github.com/maichong/labrador): 微信小程序模块化开发框架
 * [maichong/labrador-cli](https://github.com/maichong/labrador-cli): 拉布拉多命令工具，微信小程序模块化开发框架
 * [labring/laf](https://github.com/labring/laf): Laf is a vibrant cloud development platform that provides essential tools like cloud functions, databases, and storage solutions. It enables developers to quickly unleash their creativity and bring innovative ideas to life with ease.
