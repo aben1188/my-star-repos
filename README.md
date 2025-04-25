@@ -473,7 +473,7 @@
 * [839891627/dnmp](https://github.com/839891627/dnmp): 简单可理解的搭建 dnmp 环境。在此基础上由你自行定制！
 * [Tinywan/dnmp](https://github.com/Tinywan/dnmp): docker-compose部署LNMP环境 Nginx/Openresty、MySQL（5.7、8.0、8.1）、PHP7.4（8.0、5.6）、Redis5.0、PHPMyAdmin、Xdebug、RabbitMQ、Nacos
 * [chichoyi/dnmp](https://github.com/chichoyi/dnmp): php项目需要的lnmp环境docker化安装部署，不限制系统（mac、linux、windows专业版、虚拟机的linux等），可灵活定制和调整php + nginx + mysql + redis
-* [garymengcom/dnmp](https://github.com/garymengcom/dnmp): Docker LNMP (Nginx, PHP7/PHP5, MySQL, Redis)
+* [garylab/dnmp](https://github.com/garylab/dnmp): Docker LNMP (Nginx, PHP7/PHP5, MySQL, Redis)
 * [guanguans/dnmp-plus](https://github.com/guanguans/dnmp-plus): 🐳 Docker 的 LNMP 一键安装开发环境 + PHP 非侵入式监控平台 xhgui。
 * [mochat-cloud/docker-compose](https://github.com/mochat-cloud/docker-compose): 🐳 The docker compose offered by MoChat.
 * [eternity-wdd/docker-env](https://github.com/eternity-wdd/docker-env): This project includes using docker to build the environment automatically
