@@ -478,7 +478,7 @@
 * [mochat-cloud/docker-compose](https://github.com/mochat-cloud/docker-compose): 🐳 The docker compose offered by MoChat.
 * [eternity-wdd/docker-env](https://github.com/eternity-wdd/docker-env): This project includes using docker to build the environment automatically
 * [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer): Easily install PHP extensions in Docker containers
-* [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy): 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到Render\Koyeb
+* [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy): 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到 ClawCloud\Render\Koyeb
 * [afeiship/docker-sequenceserver](https://github.com/afeiship/docker-sequenceserver): Docker for sequenceserver.
 * [gdraheim/docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement): docker systemctl replacement - allows to deploy to systemd-controlled containers without starting an actual systemd daemon (e.g.  centos7, ubuntu16)
 * [huan/docker-wechat](https://github.com/huan/docker-wechat): DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux
