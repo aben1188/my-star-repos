@@ -362,6 +362,9 @@
     "FortAwesome/Font-Awesome": [
         "Other"
     ],
+    "FoundationAgents/MetaGPT": [
+        "Other"
+    ],
     "FoundationAgents/OpenManus": [
         "Other"
     ],
@@ -2158,9 +2161,6 @@
     ],
     "geeeeeeeeek/electronic-wechat": [
         "Chinese APP Hack/WeChat"
-    ],
-    "geekan/MetaGPT": [
-        "Other"
     ],
     "geesondog/rhaphp": [
         "Other"

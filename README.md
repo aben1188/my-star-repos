@@ -893,7 +893,7 @@
 * [easychen/MemberPrism2](https://github.com/easychen/MemberPrism2): open source alternative to memberstack / memberspace , but with both front and backend member-only content protection
 * [memfreeme/memfree](https://github.com/memfreeme/memfree): MemFree - Hybrid AI Search Engine & AI Page Generator
 * [yaleh/meta-prompt](https://github.com/yaleh/meta-prompt): Meta Prompt, which involves generating a language model prompt using another language model.
-* [geekan/MetaGPT](https://github.com/geekan/MetaGPT): 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+* [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT): 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 * [meteor/meteor](https://github.com/meteor/meteor): Meteor, the JavaScript App Platform
 * [meteoric/meteor-ionic](https://github.com/meteoric/meteor-ionic): Ionic components for Meteor. No Angular!
 * [alexta69/metube](https://github.com/alexta69/metube): Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
