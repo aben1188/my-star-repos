@@ -362,6 +362,9 @@
     "FortAwesome/Font-Awesome": [
         "Other"
     ],
+    "FoundationAgents/OpenManus": [
+        "Other"
+    ],
     "FriendsOfPHP/Goutte": [
         "Other"
     ],
@@ -3264,9 +3267,6 @@
         "Other"
     ],
     "mangiucugna/json_repair": [
-        "Other"
-    ],
-    "mannaandpoem/OpenManus": [
         "Other"
     ],
     "maotoumao/MusicFree": [
