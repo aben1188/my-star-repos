@@ -1737,6 +1737,7 @@
 * [icindy/WxEmojiView](https://github.com/icindy/WxEmojiView): WxEmojiView
 * [wxext/wxext](https://github.com/wxext/wxext): e小天·微信机器人管理界面,PC微信接口扩展开发,自适应微信版本,收发消息获取群昵称等,集成常用功能快速开发插件
 * [icindy/wxflex](https://github.com/icindy/wxflex): 微信小程序的Flex布局demo－4种必备常用的Flex布局模式
+* [ttttupup/wxhelper](https://github.com/ttttupup/wxhelper): Hook  WeChat  / 微信逆向
 * [icindy/WxNotificationCenter](https://github.com/icindy/WxNotificationCenter): WxNotificationCenter - 微信小程序通知广播模式类,降低小程序之间的耦合度
 * [icindy/wxParse](https://github.com/icindy/wxParse): wxParse-微信小程序富文本解析自定义组件，支持HTML及markdown解析
 * [ifanrx/wxParser](https://github.com/ifanrx/wxParser): 微信小程序富文本渲染引擎
