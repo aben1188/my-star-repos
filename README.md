@@ -284,6 +284,7 @@
 * [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch): Themes for Bootstrap
 * [aristocratos/bpytop](https://github.com/aristocratos/bpytop): Linux/OSX/FreeBSD resource monitor
 * [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync): Keep multiple browsers & devices in sync when building websites. https://browsersync.io
+* [browser-use/browser-use](https://github.com/browser-use/browser-use): Make websites accessible for AI agents
 * [4ae9b8/browserhacks](https://github.com/4ae9b8/browserhacks): An extensive list of CSS/JS browserhacks from all over the interwebs.
 * [akazwz/browserproxy](https://github.com/akazwz/browserproxy): proxy and protect your headless chrome
 * [browserslist/browserslist](https://github.com/browserslist/browserslist): 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env

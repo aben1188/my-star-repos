@@ -1481,6 +1481,9 @@
     "breakwa11/gfw_whitelist": [
         "GFW"
     ],
+    "browser-use/browser-use": [
+        "Other"
+    ],
     "browserbase/open-operator": [
         "Other"
     ],
