@@ -1354,6 +1354,7 @@
 * [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com): The Tailwind CSS documentation website.
 * [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey): Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox. 
 * [yujinpan/tampermonkey-extension](https://github.com/yujinpan/tampermonkey-extension): 自制油猴日常插件。
+* [kun321/tampermonkey-script](https://github.com/kun321/tampermonkey-script): tampermonkey-script
 * [alanchenyan/taobaoke-server](https://github.com/alanchenyan/taobaoke-server): 淘宝客PHP服务器端
 * [6677-ai/tap4-ai-crawler](https://github.com/6677-ai/tap4-ai-crawler): The crawler opened source by tap4.ai
 * [TarsCloud/Tars](https://github.com/TarsCloud/Tars): Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
