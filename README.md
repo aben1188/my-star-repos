@@ -1144,7 +1144,7 @@
 * [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs
 * [pug-php/pug](https://github.com/pug-php/pug): Pug template engine for PHP
 * [pugjs/pug](https://github.com/pugjs/pug): Pug – robust, elegant, feature rich template engine for Node.js
-* [platonai/PulsarRPA](https://github.com/platonai/PulsarRPA): PulsarRPA: A Super-Fast, AI-Enabled Browser Automation Solution! 💖
+* [platonai/PulsarRPA](https://github.com/platonai/PulsarRPA): PulsarRPA: An AI-Enabled, Super-Fast, Thread-Safe Browser Automation Solution! 💖
 * [platonai/PulsarRPAPro](https://github.com/platonai/PulsarRPAPro): Fully automated and hands-free, accurately extracting and understanding web content — powered by machine learning agents.
 * [wechaty/puppet-official-account](https://github.com/wechaty/puppet-official-account): Wechaty Puppet for WeChat Official Account
 * [wechaty/puppet-oicq](https://github.com/wechaty/puppet-oicq): Wechaty Puppet for QQ based on project takayama-lily/oicq-template
