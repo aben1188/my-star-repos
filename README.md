@@ -78,6 +78,8 @@
 * [eze-is/ai-share-card](https://github.com/eze-is/ai-share-card): 一款优雅的 AI 网页分享卡片生成工具，利用 AI 帮助您将任何网页内容一键转换为精美的可视化分享卡片
 * [a16z-infra/ai-town](https://github.com/a16z-infra/ai-town): A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
 * [techwithtim/AI-Web-Scraper](https://github.com/techwithtim/AI-Web-Scraper): An AI web scraper using ollama, brightdata, selenium and other libraries.
+* [Aaronwn/ai-xiaohs](https://github.com/Aaronwn/ai-xiaohs): 小红书图文卡片笔记生成器
+* [BluerAngala/ai-xiaohs](https://github.com/BluerAngala/ai-xiaohs): 小红书图文卡片笔记生成器
 * [worm128/AI-YinMei](https://github.com/worm128/AI-YinMei): AI吟美-人工智能主播-Vtuber
 * [Aider-AI/aider](https://github.com/Aider-AI/aider): aider is AI pair programming in your terminal
 * [phodal/aigc](https://github.com/phodal/aigc): 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。
@@ -285,7 +287,7 @@
 * [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch): Themes for Bootstrap
 * [aristocratos/bpytop](https://github.com/aristocratos/bpytop): Linux/OSX/FreeBSD resource monitor
 * [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync): Keep multiple browsers & devices in sync when building websites. https://browsersync.io
-* [browser-use/browser-use](https://github.com/browser-use/browser-use): Make websites accessible for AI agents
+* [browser-use/browser-use](https://github.com/browser-use/browser-use): 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 * [4ae9b8/browserhacks](https://github.com/4ae9b8/browserhacks): An extensive list of CSS/JS browserhacks from all over the interwebs.
 * [akazwz/browserproxy](https://github.com/akazwz/browserproxy): proxy and protect your headless chrome
 * [browserslist/browserslist](https://github.com/browserslist/browserslist): 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
