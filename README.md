@@ -719,6 +719,7 @@
 * [i18next/i18next](https://github.com/i18next/i18next):  i18next: learn once - translate everywhere
 * [bytedance/IconPark](https://github.com/bytedance/IconPark): 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 * [gantFDT/icraft](https://github.com/gantFDT/icraft): iCraft Editor - Help you easily create excellent 3D architecture diagrams
+* [lilinji-TT/idea-to-card](https://github.com/lilinji-TT/idea-to-card): 输入文字让AI生成卡片
 * [phodal/ideabook](https://github.com/phodal/ideabook): 一个全栈增长工程师的练手项目集. A Growth Engineering Idea in Action.
 * [JetBrains/ideavim](https://github.com/JetBrains/ideavim): IdeaVim – A Vim engine for JetBrains IDEs
 * [kaHaleMaKai/ideavim-settings](https://github.com/kaHaleMaKai/ideavim-settings): settingsfile and .ideavimrc for intellij 15
