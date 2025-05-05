@@ -451,7 +451,7 @@
 * [tisfeng/deepl-cli](https://github.com/tisfeng/deepl-cli): A simple DeepL Translation command line program written in Python that does not require key.  一个使用 Python 编写、无需 auth_key 的 DeepL 翻译命令行工具。
 * [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3): None
 * [regenrek/deepwiki-mcp](https://github.com/regenrek/deepwiki-mcp): 📖 MCP server for fetch deepwiki.com and get latest knowledge in Cursor and other Code Editors
-* [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open): Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories
+* [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open): Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 * [Shougo/defx.nvim](https://github.com/Shougo/defx.nvim): :file_folder: The dark powered file explorer implementation for neovim/Vim8
 * [thinkhy/deploy-stf-docker](https://github.com/thinkhy/deploy-stf-docker): Scripts to deploy STF master server on Ubuntu with one-button operation
 * [WebAssembly/design](https://github.com/WebAssembly/design): WebAssembly Design Documents
@@ -798,7 +798,6 @@
 * [kindsoft/kindeditor](https://github.com/kindsoft/kindeditor): Try Lake, the new editor I developed
 * [shaunchander/kit-ai](https://github.com/shaunchander/kit-ai): None
 * [koahubjs/koahub](https://github.com/koahubjs/koahub): KoaHub.js -- 中文最佳实践Node.js Web快速开发框架。支持Koa.js, Express.js中间件。当前项目已停止维护，推荐使用Doodoo.js
-* [AIDotNet/KoalaWiki](https://github.com/AIDotNet/KoalaWiki): None
 * [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi): 🚀 A modern, open-source K8s panel developed by the official 1Panel team.
 * [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook): Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz
 * [meta-magic/kubernetes_workshop](https://github.com/meta-magic/kubernetes_workshop): Kubernetes is an open source Container Orchestration System for automatic deployment, scaling, and management of Containerized application. Kubernetes gives you the freedom to take advantage of on-premise, hybrid or public cloud infrastructure. Kubernetes helps you to scale both horizontally and vertically depends on the load.
@@ -1036,6 +1035,7 @@
 * [PetoiCamp/OpenCat](https://github.com/PetoiCamp/OpenCat): An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development. 
 * [vernesong/OpenClash](https://github.com/vernesong/OpenClash): A Clash Client For OpenWrt
 * [leidenglai/opencv-js-qrcode](https://github.com/leidenglai/opencv-js-qrcode): 基于opencv与wechat_qrcode实现的JS版二维码图像识别库
+* [AIDotNet/OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki): 开源版本的deepwiki
 * [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus): No fortress, purely open ground.  OpenManus is Coming.
 * [yulingchen/openMina](https://github.com/yulingchen/openMina): 一个开放的、运行微信小程序的Web MINA框架
 * [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio): 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
