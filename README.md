@@ -728,7 +728,6 @@
 * [kg/ilwasm](https://github.com/kg/ilwasm): CIL to WebAssembly compiler
 * [wechaty/im-aggregation](https://github.com/wechaty/im-aggregation): Aggregate WeCom, WeChat, and WhatsApp together.
 * [Intervention/image](https://github.com/Intervention/image): PHP Image Processing
-* [TencentCloudBase/image-node-sdk](https://github.com/TencentCloudBase/image-node-sdk): 智能图像服务 node sdk
 * [Imagick/imagick](https://github.com/Imagick/imagick): 🌈 The Imagick PHP extension 🌈
 * [44886/imgBridge](https://github.com/44886/imgBridge): 图片跳板、图片中转，包括php、nodejs源码。（You can use this file to visite the images which your website can't visited.）
 * [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate): 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension 
