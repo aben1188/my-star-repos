@@ -1338,6 +1338,7 @@
 * [LukeHagar/sveltekit-extension-template](https://github.com/LukeHagar/sveltekit-extension-template): SvelteKit Chrome extension template built with Skeleton
 * [engageintellect/sveltekit-landing-daisy](https://github.com/engageintellect/sveltekit-landing-daisy): A landing page template with various persistent themes using SvelteKit, TailwindCSS, and DaisyUI.
 * [SvelteKitApp/sveltekitapp-chrome-extension-template](https://github.com/SvelteKitApp/sveltekitapp-chrome-extension-template): SvelteKit Chrome Extension Template
+* [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler): Open source browser extension for finding, editing, exporting, optimizing, and managing SVG content.
 * [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui): Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 * [openai/swarm](https://github.com/openai/swarm): Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 * [kyegomez/swarms](https://github.com/kyegomez/swarms): The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai
