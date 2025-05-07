@@ -1038,7 +1038,7 @@
 * [PetoiCamp/OpenCat](https://github.com/PetoiCamp/OpenCat): An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development. 
 * [vernesong/OpenClash](https://github.com/vernesong/OpenClash): A Clash Client For OpenWrt
 * [leidenglai/opencv-js-qrcode](https://github.com/leidenglai/opencv-js-qrcode): 基于opencv与wechat_qrcode实现的JS版二维码图像识别库
-* [AIDotNet/OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki): 开源版本的deepwiki
+* [AIDotNet/OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki): OpenDeepWiki 是 DeepWiki 项目的开源版本，旨在提供一个强大的知识管理与协作平台。项目主要使用 C# 和 TypeScript 开发，支持模块化设计，易于扩展和自定义。其核心功能包括：  高效的知识库构建与管理工具 支持多语言与团队协作 前后端分离架构，提升开发与部署效率 无论是个人用户、团队，还是企业级用户，都可以使用 OpenDeepWiki 来构建和管理自己的知识生态。同时，欢迎开发者参与贡献，共同完善项目。
 * [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus): No fortress, purely open ground.  OpenManus is Coming.
 * [yulingchen/openMina](https://github.com/yulingchen/openMina): 一个开放的、运行微信小程序的Web MINA框架
 * [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio): 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
