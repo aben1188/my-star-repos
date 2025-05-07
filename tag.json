@@ -725,6 +725,9 @@
     "OpenMOSS/AnyGPT": [
         "Other"
     ],
+    "Ornithopter-pilot/interview-coder-withoupaywall-opensource": [
+        "Other"
+    ],
     "PHPOffice/PHPWord": [
         "Other"
     ],
@@ -1325,6 +1328,9 @@
     "ascoders/weekly": [
         "Other"
     ],
+    "asgeirtj/system_prompts_leaks": [
+        "Other"
+    ],
     "ashfinal/vimrc-config": [
         "Other"
     ],
@@ -1353,6 +1359,9 @@
         "Other"
     ],
     "awesomedata/awesome-public-datasets": [
+        "Other"
+    ],
+    "axtrur/awesome-ai-system-prompts": [
         "Other"
     ],
     "babun/babun": [
@@ -1863,6 +1872,9 @@
         "Other"
     ],
     "donnemartin/dev-setup": [
+        "Other"
+    ],
+    "dontriskit/awesome-ai-system-prompts": [
         "Other"
     ],
     "dotnet/interactive": [

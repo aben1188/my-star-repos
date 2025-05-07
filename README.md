@@ -147,6 +147,8 @@
 * [runningcheese/Awesome-AI](https://github.com/runningcheese/Awesome-AI): Awesome AI，你的《人工智能指南》！
 * [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting): AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） Stable diffusion、AnimateDiff、Stable Cascade 、Stable SDXL Turbo
 * [sarat9/awesome-ai-saas](https://github.com/sarat9/awesome-ai-saas): List of handy AI gpt tools and apps for every day life
+* [axtrur/awesome-ai-system-prompts](https://github.com/axtrur/awesome-ai-system-prompts): 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, windsurf, notion, and MetaAI. 
+* [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts): 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, windsurf, notion, and MetaAI. 
 * [jiji262/awesome-AIGC-tools](https://github.com/jiji262/awesome-AIGC-tools): AIGC information including ChatGPT , GPT-4 and others.
 * [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools): Collection of AI-related utilities. Welcome to submit issues and pull requests /收藏AI相关的实用工具，欢迎提交issues 或者pull requests
 * [awesome-algorand/awesome-algorand](https://github.com/awesome-algorand/awesome-algorand): ⚡A curated list of awesome resources related to the Ⱥlgorand Blockchain ⛓
@@ -749,6 +751,7 @@
 * [izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets): 🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio/Fleet
 * [dotnet/interactive](https://github.com/dotnet/interactive): .NET Interactive combines the power of .NET with many other languages to create notebooks, REPLs, and embedded coding experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before.
 * [Olshansk/interview](https://github.com/Olshansk/interview): Everything you need to prepare for your technical interview
+* [Ornithopter-pilot/interview-coder-withoupaywall-opensource](https://github.com/Ornithopter-pilot/interview-coder-withoupaywall-opensource): interview-coder-withoupaywall-opensource
 * [zsyOAOA/InvSR](https://github.com/zsyOAOA/InvSR): Arbitrary-steps Image Super-resolution via Diffusion Inversion (CVPR 2025)
 * [loveuqian/iOS-Carbon-Forum](https://github.com/loveuqian/iOS-Carbon-Forum): iOS Client for Carbon Forum
 * [xiaosimao/IP_POOL](https://github.com/xiaosimao/IP_POOL): 免费的IP代理池
@@ -1356,6 +1359,7 @@
 * [symfony/symfony](https://github.com/symfony/symfony): The Symfony PHP framework
 * [element-hq/synapse](https://github.com/element-hq/synapse): Synapse: Matrix homeserver written in Python/Twisted.
 * [matrix-org/synapse](https://github.com/matrix-org/synapse): Synapse: Matrix homeserver written in Python/Twisted.
+* [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): None
 * [jas0ncn/szushudong](https://github.com/jas0ncn/szushudong): 微信小程序 - 深大的树洞 2.0 - 基于 WePY
 * [codota/TabNine](https://github.com/codota/TabNine): AI Code Completions
 * [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss): A utility-first CSS framework for rapid UI development.
