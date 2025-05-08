@@ -642,6 +642,7 @@
 * [github/gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
 * [kaedei/gitignore](https://github.com/kaedei/gitignore): A collection of useful .gitignore templates
 * [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod): The developer platform for on-demand cloud development environments to create software faster and more securely.
+* [antarixxx/gitsummarize](https://github.com/antarixxx/gitsummarize): Get beautiful, world-class documentation for any repo
 * [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum): Go implementation of the Ethereum protocol
 * [aehyok/go-openai](https://github.com/aehyok/go-openai): go 对接OpenAI ChatGPT接口，同时 azure openai接口已支持gpt-35-turbo和gpt-4模型
 * [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai): 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
