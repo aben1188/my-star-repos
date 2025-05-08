@@ -1577,7 +1577,7 @@
 * [joewalnes/web-vmstats](https://github.com/joewalnes/web-vmstats): Prettify vmstats in your browser
 * [lixh00/web-wechat](https://github.com/lixh00/web-wechat): 基于`Golang`语言和`Gin`框架的个人微信系统，支持ChatGPT
 * [wangschang/web3.0](https://github.com/wangschang/web3.0): web3.0知识整理 web3.0知识 web3.0学习资料 web3工作 web3书籍 web3job 区块链知识 blockchain
-* [WebAV-Tech/WebAV](https://github.com/WebAV-Tech/WebAV): WebAV is an SDK built on WebCodecs, designed for creating and editing video files on the web platform. WebAV 是基于 WebCodecs 构建的 SDK，用于在 Web 平台上创建/编辑视频文件。
+* [WebAV-Tech/WebAV](https://github.com/WebAV-Tech/WebAV): A web-based Video Editing SDK built on WebCodecs. 基于 WebCodecs 构建的网页视频编辑 SDK。
 * [hughfenghen/WebAV-KnowledgeGraph](https://github.com/hughfenghen/WebAV-KnowledgeGraph): 整理（索引） Web 音视频相关的 API、SDK、文章、对外产品，帮助前端开发者入门/进阶音视频领域，推动音视频技术在 Web 平台的应用实践。
 * [webdzq/webdemo](https://github.com/webdzq/webdemo): 一些项目的demo，包括使用webpack，vue，fis3等项目架构和解决方案。用来熟悉最新的前端新知识。
 * [calidion/webfullstack-awesome](https://github.com/calidion/webfullstack-awesome):  Web全栈工程师常用网址大全
