@@ -205,7 +205,6 @@
 * [parro-it/awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages): A curated list of small, focused npm packages.
 * [Lupin1998/Awesome-MIM](https://github.com/Lupin1998/Awesome-MIM): [Survey] Masked Modeling for Self-supervised Representation Learning on Vision and Beyond (https://arxiv.org/abs/2401.00897)
 * [underlines/awesome-ml](https://github.com/underlines/awesome-ml): Curated list of useful LLM / Analytics / Datascience resources
-* [clowwindy/Awesome-Networking](https://github.com/clowwindy/Awesome-Networking): A curated list of awesome networking libraries, resources and shiny things
 * [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt): Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
 * [debarshibasak/awesome-paas](https://github.com/debarshibasak/awesome-paas): A curated list of PaaS, developer platforms, Self hosted PaaS, Cloud IDEs and ADNs.
 * [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php): A curated list of amazingly awesome PHP libraries, resources and shiny things.
