@@ -364,6 +364,7 @@
 * [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples): Chrome Extensions Samples
 * [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo): 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
 * [zhupengfeivip/chrome-plugin-demo](https://github.com/zhupengfeivip/chrome-plugin-demo): 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
+* [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc): chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
 * [bigemon/ChuanhuChatGPT](https://github.com/bigemon/ChuanhuChatGPT): GUI for ChatGPT API (with  NSFW option)
 * [ckeditor/ckeditor4](https://github.com/ckeditor/ckeditor4): The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.
 * [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5): Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
@@ -849,6 +850,7 @@
 * [unmagic/lightning-load-project](https://github.com/unmagic/lightning-load-project): 小程序页面预加载框架
 * [likeadmin-likeshop/likeshop](https://github.com/likeadmin-likeshop/likeshop): 🔥🔥🔥 likeshop开源免费商用电商系统，PC商城、H5商城、小程序商城、安卓APP商城、苹果APP商城，免费商用。场景：B2C商城，新零售商城，社交电商商城，分销系统商城，分销电商商城，小程序商城，商城源码，商城系统，单商户，多商户，电商系统，直播，uniapp，uni-app，B2B2C，B2B，O2O，ERP，Wechat，交易系统，内容系统，雷达，crm
 * [joelseq/linkstowr-extension](https://github.com/joelseq/linkstowr-extension): None
+* [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors): GNU/Linux 更换系统软件源脚本及 Docker 安装脚本
 * [LiskArchive/lisk-sdk](https://github.com/LiskArchive/lisk-sdk): 🔩 Lisk software development kit
 * [listen1/listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension): one for all free music in china (chrome extension, also works for firefox)
 * [listen1/listen1_desktop](https://github.com/listen1/listen1_desktop): one for all free music in china (Windows, Mac, Linux desktop)
