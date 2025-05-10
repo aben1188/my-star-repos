@@ -457,6 +457,7 @@
 * [iamkun/dayjs](https://github.com/iamkun/dayjs): ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 * [ErlichLiu/DeepClaude](https://github.com/ErlichLiu/DeepClaude): Unleash Next-Level AI! 🚀  💻 Code Generation: DeepSeek r1 + Claude 3.7 Sonnet - Unparalleled Performance! 📝 Content Creation: DeepSeek r1 + Gemini 2.5 Pro - Superior Quality! 🔌 OpenAI-Compatible. 🌊 Streaming & Non-Streaming Support.  ✨ Experience the Future of AI – Today! Click to Try Now! ✨
 * [tisfeng/deepl-cli](https://github.com/tisfeng/deepl-cli): A simple DeepL Translation command line program written in Python that does not require key.  一个使用 Python 编写、无需 auth_key 的 DeepL 翻译命令行工具。
+* [Annsher-whhr/DeepSeek--driven-Web-Golden-Quote-Card-Generation](https://github.com/Annsher-whhr/DeepSeek--driven-Web-Golden-Quote-Card-Generation): None
 * [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3): None
 * [regenrek/deepwiki-mcp](https://github.com/regenrek/deepwiki-mcp): 📖 MCP server for fetch deepwiki.com and get latest knowledge in Cursor and other Code Editors
 * [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open): Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
