@@ -295,6 +295,7 @@
 * [usebruno/bruno](https://github.com/usebruno/bruno): Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 * [zu1k/bs-core](https://github.com/zu1k/bs-core): Easy and blazing-fast book searcher, create and search your private library.
 * [ywfwj2008/bt-panel](https://github.com/ywfwj2008/bt-panel): 本Docker基于宝塔Linux面板,集成环境包含 Nginx PHP5.6 PHP7 FTP等基本服务
+* [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): Master programming by recreating your favorite technologies from scratch.
 * [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator):  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 * [suulnnka/BullshitGenerator](https://github.com/suulnnka/BullshitGenerator): 文章生成器
 * [antfu-collective/bumpp](https://github.com/antfu-collective/bumpp): Interactive CLI that bumps your version numbers and more
@@ -444,6 +445,7 @@
 * [Jackardios/css-to-tailwindcss](https://github.com/Jackardios/css-to-tailwindcss): Convert CSS to TailwindCSS 3.x
 * [jolaleye/cssfx](https://github.com/jolaleye/cssfx): ✨ Beautifully simple click-to-copy CSS effects
 * [CSSLint/csslint](https://github.com/CSSLint/csslint): Automated linting of Cascading Stylesheets
+* [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip): [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
 * [sonnylazuardi/cursor-talk-to-figma-mcp](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp): Cursor Talk To Figma MCP
 * [vlian5/CuteHttpFileServer](https://github.com/vlian5/CuteHttpFileServer): None
 * [itsOwen/CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077): A Powerful web scraper powered by LLM | OpenAI, Gemini & Ollama
@@ -1048,11 +1050,13 @@
 * [vernesong/OpenClash](https://github.com/vernesong/OpenClash): A Clash Client For OpenWrt
 * [leidenglai/opencv-js-qrcode](https://github.com/leidenglai/opencv-js-qrcode): 基于opencv与wechat_qrcode实现的JS版二维码图像识别库
 * [AIDotNet/OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki): OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform. The project is mainly developed using C# and TypeScript, supporting modular design, and is easy to expand and customize.
+* [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands): 🙌 OpenHands: Code Less, Make More
 * [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus): No fortress, purely open ground.  OpenManus is Coming.
 * [yulingchen/openMina](https://github.com/yulingchen/openMina): 一个开放的、运行微信小程序的Web MINA框架
 * [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio): 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
 * [openresty/openresty](https://github.com/openresty/openresty): High Performance Web Platform Based on Nginx and LuaJIT
 * [openresty/openresty.org](https://github.com/openresty/openresty.org): Code and data for the openresty.org site
+* [wandb/openui](https://github.com/wandb/openui): OpenUI let's you describe UI using your imagination, then see it rendered live.
 * [eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat): golang微信SDK
 * [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb): Peer-to-Peer Databases for the Decentralized Web
 * [kaiyuanshe/osschat](https://github.com/kaiyuanshe/osschat): Apache Open Source Software Chat BOT
