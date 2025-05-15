@@ -1642,6 +1642,7 @@
 * [ByboyCn/wechat7016](https://github.com/ByboyCn/wechat7016): None
 * [wnma3mz/wechat_articles_spider](https://github.com/wnma3mz/wechat_articles_spider): 微信公众号文章的爬虫
 * [xiangchuwang/Wechat_IDE_For_Crack](https://github.com/xiangchuwang/Wechat_IDE_For_Crack): This document is Wechat's Cracked IDE
+* [Vita0519/WeChatAI](https://github.com/Vita0519/WeChatAI): WeChatAI 是一款基于 Python 开发的微信群聊/个人智能助手，支持多种大语言模型，可以实现智能对话、自动回复等功能。采用现代化的界面设计，操作简单直观。
 * [SuxueCode/WechatBakTool](https://github.com/SuxueCode/WechatBakTool): 基于C#的微信PC版聊天记录备份工具，提供图形界面，解密微信数据库并导出聊天记录。
 * [expzhizhuo/WechatBot](https://github.com/expzhizhuo/WechatBot): 一个基于PC版的微信机器人，采用hook的形式进行消息拦截，内存信息读取的形式，实现安全工具，安全资讯，安全客，freebuf等安全论坛自动推送以及每日早报，晚报和娱乐功能，并且还加入当前最火的openai对话功能
 * [leochen-g/wechatBot](https://github.com/leochen-g/wechatBot): 微信每日说，三步教你用Node做一个微信哄女友(基友)神器！还能帮女朋友解决垃圾分类难题
