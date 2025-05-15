@@ -597,7 +597,7 @@
 * [jeromeetienne/fireworks.js](https://github.com/jeromeetienne/fireworks.js): Particles engine in javascript
 * [flarum/flarum](https://github.com/flarum/flarum): Simple forum software for building great communities.
 * [themesberg/flowbite-svelte](https://github.com/themesberg/flowbite-svelte): Official Svelte components built for Flowbite and Tailwind CSS
-* [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow
+* [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise): Build AI Agents, Visually
 * [fltenwall/flten-utils](https://github.com/fltenwall/flten-utils): javascript常用函数工具库
 * [bilibili/flv.js](https://github.com/bilibili/flv.js): HTML5 FLV Player
 * [RSSNext/Folo](https://github.com/RSSNext/Folo): 🧡 Follow everything in one place
@@ -1390,7 +1390,7 @@
 * [Firaenix/TeleChatRelay](https://github.com/Firaenix/TeleChatRelay): Relay between Telegram and WeChat
 * [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup): 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
 * [RTradeLtd/Temporal](https://github.com/RTradeLtd/Temporal): ☄️ Temporal is an easy-to-use, enterprise-grade interface into distributed and decentralized storage
-* [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework):  TEN is an open-source framework and platform for building real-time, multimodal, low-latency conversational voice AI agents. It features a workflow builder and supports C, C++, Go, Python, JavaScript, and TypeScript. TEN also offers ready-to-use extensions for integration with platforms like Dify and Coze.
+* [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework): Open-source framework and platform for building real-time, multimodal, low-latency conversational voice AI agents. It features a workflow builder and supports C, C++, Go, Python, JavaScript, and TypeScript. TEN also offers ready-to-use extensions for integration with platforms like Dify and Coze.
 * [archtechx/tenancy](https://github.com/archtechx/tenancy): Automatic multi-tenancy for Laravel. No code changes needed.
 * [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow): An Open Source Machine Learning Framework for Everyone
 * [jikexueyuanwiki/tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh): 谷歌全新开源人工智能系统TensorFlow官方文档中文版
