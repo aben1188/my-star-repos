@@ -927,6 +927,7 @@
 * [weolar/miniblink49](https://github.com/weolar/miniblink49): a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
 * [YuniorZen/minicode-debug](https://github.com/YuniorZen/minicode-debug): 微信小程序、公众号、H5等小的案例代码分享。
 * [wechat-miniprogram/minigame-demo](https://github.com/wechat-miniprogram/minigame-demo): 微信小游戏组件 / API / 云开发示例
+* [minio/minio](https://github.com/minio/minio): MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 * [wechat-miniprogram/miniprogram-custom-component](https://github.com/wechat-miniprogram/miniprogram-custom-component): None
 * [Ewall1106/miniprogram-demo](https://github.com/Ewall1106/miniprogram-demo): 小程序的因难技巧
 * [yingouqlj/MiniProgram-lite](https://github.com/yingouqlj/MiniProgram-lite): 微信小程序php后端接口轻量版（wechat mini program sdk 项目名称不带wechat是不是不会被人发现的😆）
