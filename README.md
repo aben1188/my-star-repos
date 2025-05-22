@@ -1370,7 +1370,7 @@
 * [symfony/symfony](https://github.com/symfony/symfony): The Symfony PHP framework
 * [element-hq/synapse](https://github.com/element-hq/synapse): Synapse: Matrix homeserver written in Python/Twisted.
 * [matrix-org/synapse](https://github.com/matrix-org/synapse): Synapse: Matrix homeserver written in Python/Twisted.
-* [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): None
+* [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 * [jas0ncn/szushudong](https://github.com/jas0ncn/szushudong): 微信小程序 - 深大的树洞 2.0 - 基于 WePY
 * [codota/TabNine](https://github.com/codota/TabNine): AI Code Completions
 * [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss): A utility-first CSS framework for rapid UI development.
