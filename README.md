@@ -638,7 +638,7 @@
 * [yihong0618/gitblog](https://github.com/yihong0618/gitblog): People Die, but Long Live GitHub
 * [gitextensions/gitextensions](https://github.com/gitextensions/gitextensions): Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
 * [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet): A list of cool features of Git and GitHub.
-* [yamadashy/github-deepwiki](https://github.com/yamadashy/github-deepwiki): Add a [DeepWiki] button to quickly access DeepWiki from GitHub repositories
+* [yamadashy/github-deepwiki-button](https://github.com/yamadashy/github-deepwiki-button): Add a [DeepWiki] button to quickly access DeepWiki from GitHub repositories
 * [harshjv/github-repo-size](https://github.com/harshjv/github-repo-size): 🚀 Chrome extension to display repository size on GitHub
 * [jstrieb/github-stats](https://github.com/jstrieb/github-stats): Better GitHub statistics images for your profile, with stats from private repos too
 * [yangwenmai/github-trending-backup](https://github.com/yangwenmai/github-trending-backup): Github trending backup by everyday.
