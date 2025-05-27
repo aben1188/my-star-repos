@@ -650,6 +650,7 @@
 * [kaedei/gitignore](https://github.com/kaedei/gitignore): A collection of useful .gitignore templates
 * [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod): The developer platform for on-demand cloud development environments to create software faster and more securely.
 * [antarixxx/gitsummarize](https://github.com/antarixxx/gitsummarize): Get beautiful, world-class documentation for any repo
+* [gland2015/gland](https://github.com/gland2015/gland): javascript和react
 * [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum): Go implementation of the Ethereum protocol
 * [aehyok/go-openai](https://github.com/aehyok/go-openai): go 对接OpenAI ChatGPT接口，同时 azure openai接口已支持gpt-35-turbo和gpt-4模型
 * [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai): 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
@@ -1621,7 +1622,7 @@
 * [zhouxiongking/wechat-calculator](https://github.com/zhouxiongking/wechat-calculator): 微信小程序之简易计算器
 * [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt): Use ChatGPT On Wechat via wechaty
 * [gtoxlili/wechat-chatGPT](https://github.com/gtoxlili/wechat-chatGPT): 实现微信公众号被动返回接口的ChatGPT
-* [mengjian-github/wechat-daily-report](https://github.com/mengjian-github/wechat-daily-report): 微信日报项目，作为主项目的子模块使用
+* [mengjian-github/wechat-daily-report](https://github.com/mengjian-github/wechat-daily-report): 基于 Electron + React + AI 的跨平台桌面应用，自动分析微信群聊内容，生成精美的 AI 日报摘要，支持 macOS、Windows、Linux。
 * [lyricat/wechat-format](https://github.com/lyricat/wechat-format): 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
 * [lonely1215225/wechat-gpt-3](https://github.com/lonely1215225/wechat-gpt-3): 基于openai的gpt-3开发微信机器人
 * [tomallv/wechat-group-chat-monitoring-robot](https://github.com/tomallv/wechat-group-chat-monitoring-robot): 微信群聊天监控机器人
