@@ -1198,7 +1198,7 @@
 * [LLM-Red-Team/qwen-free-api](https://github.com/LLM-Red-Team/qwen-free-api): 🚀 阿里通义千问2.5大模型逆向API【特长：六边形战士】，支持高速流式输出、无水印AI绘图、长文档解读、图像解析、联网检索、多轮对话，零配置部署，多路token支持，自动清理会话痕迹，仅供测试，如需商用请前往官方开放平台。
 * [sigoden/rag-crawler](https://github.com/sigoden/rag-crawler): Crawl a website to generate knowledge file for RAG
 * [jianyan74/rageframe2](https://github.com/jianyan74/rageframe2): 一个基于 Yii2 高级框架的快速开发应用引擎
-* [goodrain/rainbond](https://github.com/goodrain/rainbond): A container platform that needs no Kubernetes learning, Build, deploy, and scale apps on Kubernetes, no K8s expertise needed, all in a graphical platform.
+* [goodrain/rainbond](https://github.com/goodrain/rainbond): A container platform that needs no Kubernetes learning, Build, deploy, assemble, and manage apps on Kubernetes, no K8s expertise needed, all in a graphical platform.
 * [luochen1990/rainbow](https://github.com/luochen1990/rainbow): Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.
 * [ranger/ranger](https://github.com/ranger/ranger): A VIM-inspired filemanager for the console
 * [Clouda-team/rapid-core](https://github.com/Clouda-team/rapid-core): core of rapid cloud framework
