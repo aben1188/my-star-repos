@@ -261,7 +261,7 @@
 * [elder-plinius/Bing-Prompt-Leak](https://github.com/elder-plinius/Bing-Prompt-Leak): Prompt leak technique for Bing Chat
 * [bsdayo/BingChat](https://github.com/bsdayo/BingChat): .NET API wrapper, and an amazing interactive CLI for Microsoft's new AI-powered Bing Chat.
 * [dice2o/BingGPT](https://github.com/dice2o/BingGPT): Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
-* [teambit/bit](https://github.com/teambit/bit): A build system for development of composable software.
+* [teambit/bit](https://github.com/teambit/bit): AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 * [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin): Bitcoin Core integration/staging tree
 * [imfly/bitcoin-on-nodejs](https://github.com/imfly/bitcoin-on-nodejs): 《Node.js区块链开发》，注：新版代码已开源！请star支持哦-^-：
 * [vbuterin/bitcoinjs-lib](https://github.com/vbuterin/bitcoinjs-lib): Bitcoin-related functions implemented in pure JavaScript
