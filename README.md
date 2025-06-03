@@ -1251,7 +1251,7 @@
 * [ericelliott/rtype](https://github.com/ericelliott/rtype): Intuitive structural type notation for JavaScript.
 * [rubickCenter/rubick](https://github.com/rubickCenter/rubick): 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 * [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run): 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
-* [saasfly/saasfly](https://github.com/saasfly/saasfly): Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
+* [nextify-limited/saasfly](https://github.com/nextify-limited/saasfly): Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
 * [mashirozx/sakura](https://github.com/mashirozx/sakura): A Wonderful WordPress Theme: 樱花庄的白猫博客主题
 * [clemlesne/scrape-it-now](https://github.com/clemlesne/scrape-it-now): Web scraper made for AI and simplicity in mind. It runs as a CLI that can be parallelized and outputs high-quality markdown content.
 * [LexiestLeszek/scrapeGPT](https://github.com/LexiestLeszek/scrapeGPT): ScrapeGPT is a RAG-based Telegram bot designed to scrape and analyze websites, then answer questions based on the scraped content. The bot utilizes Retrieval Augmented Generation and webscraping to return natural language answers to the user's queries.
