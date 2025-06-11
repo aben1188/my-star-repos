@@ -1439,7 +1439,7 @@
 * [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection): 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 * [ambition-hb/Trancefer](https://github.com/ambition-hb/Trancefer): 知乎爬虫——Mongo数据→MySQL数据
 * [hundredblocks/transcription_demo](https://github.com/hundredblocks/transcription_demo): None
-* [huggingface/transformers](https://github.com/huggingface/transformers): 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+* [huggingface/transformers](https://github.com/huggingface/transformers): 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
 * [Quilljou/transmart](https://github.com/Quilljou/transmart): Automate your i18n localization with AI
 * [sindresorhus/trash](https://github.com/sindresorhus/trash): Move files and directories to the trash
 * [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli): Command line interface to the freedesktop.org trashcan.
