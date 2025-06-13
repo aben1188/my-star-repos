@@ -382,7 +382,7 @@
 * [clipturbo/clipturbo](https://github.com/clipturbo/clipturbo): 小视频宝：AI 驱动的视频生成工具，一键生成高质量营销视频 AI-powered video generation tool for creating high-quality marketing videos with one click.
 * [google/closure-library](https://github.com/google/closure-library): Google's common JavaScript library
 * [TencentCloudBase/cloudbase-extension-cms](https://github.com/TencentCloudBase/cloudbase-extension-cms): 🚀 一站式云端内容管理系统 - An open source Node.js headless cms based on CloudBase
-* [Tencent/cloudbase-framework](https://github.com/Tencent/cloudbase-framework):  腾讯云开发云原生一体化部署工具 🚀  CloudBase Framework：一键部署，不限框架语言，云端一体化开发，基于Serverless 架构。A front-end and back-end integrated deployment tool. One-click deploy to serverless architecture. https://docs.cloudbase.net/framework/index
+* [Tencent/cloudbase-framework](https://github.com/Tencent/cloudbase-framework):  腾讯云开发云原生一体化部署工具 🚀  CloudBase Framework：一键部署，不限框架语言，云端一体化开发，基于Serverless 架构
 * [barretlee/cloudflare-proxy](https://github.com/barretlee/cloudflare-proxy): Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
 * [CLUEbenchmark/CLUE](https://github.com/CLUEbenchmark/CLUE): 中文语言理解测评基准 Chinese Language Understanding Evaluation Benchmark: datasets, baselines, pre-trained models, corpus and leaderboard  
 * [cmderdev/cmder](https://github.com/cmderdev/cmder): Lovely console emulator package for Windows
