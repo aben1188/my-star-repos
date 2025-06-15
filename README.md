@@ -1218,7 +1218,7 @@
 * [ken107/read-aloud](https://github.com/ken107/read-aloud): An awesome browser extension that reads aloud webpage content with one click
 * [index-labs/readpilot](https://github.com/index-labs/readpilot): Read Pilot analyzes online articles and generate Q&A cards for you. Powered by OpenAI & Next.js.
 * [Adonis142857/Real-Address-Generator](https://github.com/Adonis142857/Real-Address-Generator): An address generator for populating real addresses for China, USA, UK, Germany, France and 22 other countries.一个用于填充真实地址的地址生成器，可以生成中国，美国，英国，德国，法国等22个国家的真实地址
-* [realtime-ai/realtime-ai](https://github.com/realtime-ai/realtime-ai): A real-time AI development framework leveraging WebRTC for audio and video transmission.
+* [realtime-ai/realtime-ai](https://github.com/realtime-ai/realtime-ai): A real-time Agent framework  for audio and video.
 * [Fechin/reference](https://github.com/Fechin/reference): ⭕ Share quick reference cheat sheet for developers.
 * [refly-ai/refly](https://github.com/refly-ai/refly): 🎨 Refly is an open-source AI-native creation engine. Its intuitive free-form canvas interface combines multi-threaded dialogues, artifacts,  AI knowledge base integration, chrome extension clip & save,  contextual memory, intelligent search, WYSIWYG AI editor and more, empowering you to effortlessly transform ideas into production-ready content.
 * [liuyi91/RegEx-tools-for-word-or-wps](https://github.com/liuyi91/RegEx-tools-for-word-or-wps): word正则工具
