@@ -868,7 +868,7 @@
 * [koji/LLM-PromptEngineering-Agents](https://github.com/koji/LLM-PromptEngineering-Agents): ChatGPT, related application + prompt engineering list
 * [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper): Turn any webpage into structured data using LLMs
 * [rowyio/LLM-Web-Crawler](https://github.com/rowyio/LLM-Web-Crawler): Web Scraper and Crawler for LLM Apps and AI Workflows with NoCode / LowCode. Plug and play with your own logic and customize it flexibly and scalably on BuildShip.
-* [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 4 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
+* [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers( OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modal (Plugins / Artifacts / MCP) and thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
 * [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher): Fully local web research and report writing assistant
 * [Kerinlin/localMusicPlayer](https://github.com/Kerinlin/localMusicPlayer): Audio player that play local audio files and show audio spectrum.
 * [localsend/localsend](https://github.com/localsend/localsend): An open-source cross-platform alternative to AirDrop
