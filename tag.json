@@ -1769,6 +1769,9 @@
     "cuixueshe/earthworm": [
         "Other"
     ],
+    "cursor/crawler": [
+        "Other"
+    ],
     "dair-ai/Prompt-Engineering-Guide": [
         "Other"
     ],
@@ -2208,9 +2211,6 @@
         "Chinese APP Hack/WeChat"
     ],
     "geesondog/rhaphp": [
-        "Other"
-    ],
-    "getcursor/crawler": [
         "Other"
     ],
     "gfwlist/gfwlist": [
