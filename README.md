@@ -629,6 +629,7 @@
 * [weijunext/gapis.money](https://github.com/weijunext/gapis.money): Knowledge is power, Gap is money! 「信息差——独立开发者出海周刊」是一个帮助独立开发者缩小信息差的技术周刊。
 * [BlackGlory/garland](https://github.com/BlackGlory/garland): 🌲 A folder hierarchy builder based on tags and symbolic links.
 * [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books): :books: 极客时间电子书
+* [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli): An open-source AI agent that brings the power of Gemini directly into your terminal.
 * [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents): Generative Agents: Interactive Simulacra of Human Behavior
 * [wechaty/getting-started](https://github.com/wechaty/getting-started): A Starter Project Template for Wechaty works out-of-the-box
 * [breakwa11/GFWList2PAC](https://github.com/breakwa11/GFWList2PAC): GFWList2PAC
