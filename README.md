@@ -176,7 +176,7 @@
 * [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets): 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 * [caiyongmin/awesome-coding-javascript](https://github.com/caiyongmin/awesome-coding-javascript): 📌 持续构建个人的源码库（JavaScript 原生、常用库、数据结构、算法）
 * [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography): A curated list of cryptography resources and links.
-* [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules): 📄 A curated list of awesome .cursorrules files
+* [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules): 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 * [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow): 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
 * [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt): 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
 * [hiddify/awesome-freedom](https://github.com/hiddify/awesome-freedom): In this repository we have collected all awesome tools for iranian people
