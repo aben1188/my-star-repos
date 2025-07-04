@@ -1616,7 +1616,7 @@
 * [hi-craft/Wechat-AccessibilityService](https://github.com/hi-craft/Wechat-AccessibilityService): 第三方WECHAT辅助服务 基于AccessibilityService实现 激活码IMEI码绑定，群组列表群发，好友列表群发，定时自动任务，发送间隔时间设定 更新至2.2版本，适配WECHAT7.0.3
 * [small-tou/wechat-ai-summarize-bot](https://github.com/small-tou/wechat-ai-summarize-bot): 微信群聊总结助手 JS 版
 * [ChinaVolvocars/WeChat-applet](https://github.com/ChinaVolvocars/WeChat-applet): 微信小应用，微信小程序资源汇总整理，涵括微信 Web 开发工具、开发框架、开发教程、以及官方文档和相关资源的整理
-* [colin4k/wechat-article-dl](https://github.com/colin4k/wechat-article-dl): 微信公众号文章下载，生成 png 图片保存到本地。 | Download Wechat Official Accounts article as png file.
+* [colin4k/wechat-article-dl](https://github.com/colin4k/wechat-article-dl): 网页文章下载，生成 pdf 保存到本地。 | Download web page as pdf file.
 * [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter): 一个在线的微信公众号文章批量下载工具，支持下载阅读量与评论数据，支持私有化部署，通过浏览器进行使用，无需进行安装
 * [leochen-g/wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro): 智能微秘书,全能微信机器人管理平台,简单的方式接入ChatGPT,FastGPT,Dify,Coze,扣子,DeepSeek.支持绘图，语音识别，语音发送，定时任务，支持企微、公众号、5G 消息、WhatsApp
 * [meteorOSS/wechat-bc](https://github.com/meteorOSS/wechat-bc): 类似开发公众号一样，开发个人微信号
