@@ -868,7 +868,7 @@
 * [ZubinGou/llm-agent-web-tools](https://github.com/ZubinGou/llm-agent-web-tools): A simple Google Search Engine Crawler.
 * [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook): 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
 * [koji/LLM-PromptEngineering-Agents](https://github.com/koji/LLM-PromptEngineering-Agents): ChatGPT, related application + prompt engineering list
-* [changyeyu/LLM-RL-Visualized](https://github.com/changyeyu/LLM-RL-Visualized): 🌟100+ LLM & RL Algorithm Maps！🎉   |   原创 LLM / RL 100+原理图📚，由《大模型算法》作者发起
+* [changyeyu/LLM-RL-Visualized](https://github.com/changyeyu/LLM-RL-Visualized): 🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献🎉 （100+  LLM/RL Algorithm Maps ）
 * [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper): Turn any webpage into structured data using LLMs
 * [rowyio/LLM-Web-Crawler](https://github.com/rowyio/LLM-Web-Crawler): Web Scraper and Crawler for LLM Apps and AI Workflows with NoCode / LowCode. Plug and play with your own logic and customize it flexibly and scalably on BuildShip.
 * [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modal (Plugins / Artifacts / MCP) and thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
