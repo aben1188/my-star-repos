@@ -1375,7 +1375,7 @@
 * [a07061625/swooleyaf](https://github.com/a07061625/swooleyaf): PHP High Performance Micro Service Framework,高性能分布式微服务框架
 * [swow/swow](https://github.com/swow/swow): Coroutine-based cross-platform concurrent I/O engine.
 * [symfony/symfony](https://github.com/symfony/symfony): The Symfony PHP framework
-* [element-hq/synapse](https://github.com/element-hq/synapse): Synapse: Matrix homeserver written in Python/Twisted.
+* [element-hq/synapse](https://github.com/element-hq/synapse): Synapse: Matrix homeserver written in Python/Twisted + Rust
 * [matrix-org/synapse](https://github.com/matrix-org/synapse): Synapse: Matrix homeserver written in Python/Twisted.
 * [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 * [jas0ncn/szushudong](https://github.com/jas0ncn/szushudong): 微信小程序 - 深大的树洞 2.0 - 基于 WePY
