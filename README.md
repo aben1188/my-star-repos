@@ -247,7 +247,7 @@
 * [history-frontEnd/BeeUi](https://github.com/history-frontEnd/BeeUi): BeeUi是基于wepy的一套小程序开发组件库
 * [fishaudio/Bert-VITS2](https://github.com/fishaudio/Bert-VITS2): vits2 backbone with multilingual-bert
 * [K-Render/best-chinese-prompt](https://github.com/K-Render/best-chinese-prompt): AI中文提示词秘籍ChatGPT中文提示词秘籍（Prompt圣经）K-Render整理
-* [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python): 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
+* [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python): 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 * [ginobefun/BestBlogs](https://github.com/ginobefun/BestBlogs): bestblogs.dev - 汇集顶级编程、人工智能、产品、科技文章，大语言模型摘要评分辅助阅读，探索编程和技术未来
 * [JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1): BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表)
 * [bullhe4d/bigwatermelon](https://github.com/bullhe4d/bigwatermelon): 合成大西瓜源码,修改版
