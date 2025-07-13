@@ -1263,7 +1263,7 @@
 * [henson/Scraper](https://github.com/henson/Scraper): Tracking the most popular Github repos, updated daily.
 * [rmax/scrapy-redis](https://github.com/rmax/scrapy-redis): Redis-based components for Scrapy.
 * [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code): Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-* [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat): 脚本猫，一个可以执行用户脚本的浏览器扩展
+* [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat): ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展
 * [hightman/scws](https://github.com/hightman/scws): 开源免费的简易中文分词系统，PHP分词的上乘之选！
 * [Monibrand/se-scraper](https://github.com/Monibrand/se-scraper): Javascript scraping module based on puppeteer for many different search engines...
 * [seajs/seajs](https://github.com/seajs/seajs): A Module Loader for the Web
