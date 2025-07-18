@@ -404,7 +404,6 @@
 * [ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn](https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn): 肖像大师 中文版 comfyui-portrait-master
 * [ogkalu2/comic-translate](https://github.com/ogkalu2/comic-translate): Desktop app for automatically translating comics - BDs, Manga, Manhwa, Fumetti and more in a variety of formats (Image, Pdf, Epub, cbr, cbz, etc) and in multiple languages.
 * [compat-table/compat-table](https://github.com/compat-table/compat-table): ECMAScript compatibility tables
-* [docker/compose-on-kubernetes](https://github.com/docker/compose-on-kubernetes): Deploy applications described in Compose onto Kubernetes clusters
 * [NingZhengsheng/ComposeGigWatermelon](https://github.com/NingZhengsheng/ComposeGigWatermelon): 合成大西瓜CocosCretor开发多平台（包括微信小程序）源码
 * [qiuwenxing/comps-weapp](https://github.com/qiuwenxing/comps-weapp): 小程序自定义组件:下拉刷新、上拉加载组件、搜索组件、省+市选择组件、年月区间选择等
 * [pengan1987/computer-museum-dnbwg](https://github.com/pengan1987/computer-museum-dnbwg): 电脑博物馆 - compumuseum.com
@@ -496,6 +495,7 @@
 * [afeiship/docker-sequenceserver](https://github.com/afeiship/docker-sequenceserver): Docker for sequenceserver.
 * [gdraheim/docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement): docker systemctl replacement - allows to deploy to systemd-controlled containers without starting an actual systemd daemon (e.g.  centos7, ubuntu16)
 * [huan/docker-wechat](https://github.com/huan/docker-wechat): DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux
+* [docker-archive-public/docker.compose-on-kubernetes](https://github.com/docker-archive-public/docker.compose-on-kubernetes): Deploy applications described in Compose onto Kubernetes clusters
 * [easychen/docker2saas](https://github.com/easychen/docker2saas): An open source tool that lets you create a SaaS website from docker images in 10 minutes.
 * [yeasy/docker_practice](https://github.com/yeasy/docker_practice): Learn and understand Docker&Container technologies, with real DevOps practice!
 * [knative/docs](https://github.com/knative/docs): User documentation for Knative components.

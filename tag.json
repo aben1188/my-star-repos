@@ -1868,10 +1868,10 @@
     "doDomoGu/songtang_app": [
         "Other"
     ],
-    "docker-library/php": [
+    "docker-archive-public/docker.compose-on-kubernetes": [
         "Other"
     ],
-    "docker/compose-on-kubernetes": [
+    "docker-library/php": [
         "Other"
     ],
     "docmirror/dev-sidecar": [
