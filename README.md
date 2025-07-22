@@ -1356,7 +1356,7 @@
 * [michmich112/sveltekit-adapter-chrome-extension](https://github.com/michmich112/sveltekit-adapter-chrome-extension): Sveltekit adapter for making chrome extensions
 * [DevonCash/sveltekit-adapter-webext](https://github.com/DevonCash/sveltekit-adapter-webext): Build browser extensions with Sveltekit (early prototype)
 * [Matyanson/SvelteKit-browser-extension-template](https://github.com/Matyanson/SvelteKit-browser-extension-template): template for developing browser extensions with SvelteKit. Popup window and options page set.
-* [LukeHagar/sveltekit-extension-template](https://github.com/LukeHagar/sveltekit-extension-template): SvelteKit Chrome extension template built with Skeleton
+* [LukeHagar/sveltekit-extension-template](https://github.com/LukeHagar/sveltekit-extension-template): An easy to use SvelteKit Chrome extension template built with Svelte 5, Skeleton v3, and Tailwind v4
 * [engageintellect/sveltekit-landing-daisy](https://github.com/engageintellect/sveltekit-landing-daisy): A landing page template with various persistent themes using SvelteKit, TailwindCSS, and DaisyUI.
 * [SvelteKitApp/sveltekitapp-chrome-extension-template](https://github.com/SvelteKitApp/sveltekitapp-chrome-extension-template): SvelteKit Chrome Extension Template
 * [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler): Open source browser extension for finding, editing, exporting, optimizing, and managing SVG content.
