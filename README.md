@@ -1138,7 +1138,6 @@
 * [microsoft/playwright](https://github.com/microsoft/playwright): Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
 * [vladikoff/playwright-ai](https://github.com/vladikoff/playwright-ai): Command-line utility to generate LLM-based Playwright tests
 * [wechaty/plugin-contrib](https://github.com/wechaty/plugin-contrib): Wechaty Plugin Ecosystem Contrib Package
-* [aratahikaru5/plurality](https://github.com/aratahikaru5/plurality): A cornucopia of open source UIs built with ChatGPT API.
 * [pnpm/pnpm](https://github.com/pnpm/pnpm): Fast, disk space efficient package manager
 * [ambition-hb/Pool_Proxy](https://github.com/ambition-hb/Pool_Proxy): IP Agent Pool (IP代理池)
 * [postcss/postcss](https://github.com/postcss/postcss): Transforming styles with JS plugins
