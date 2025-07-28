@@ -555,7 +555,6 @@
 * [purcell/emacs.d](https://github.com/purcell/emacs.d): An Emacs configuration bundle with batteries included
 * [redguardtoo/emacs.d](https://github.com/redguardtoo/emacs.d): Fast and robust Emacs setup.
 * [lanthaler/emacsIDEAs](https://github.com/lanthaler/emacsIDEAs): Porting some great extensions of emacs to Intellij IDEA. such as AceJump, CopyWithoutSelection.
-* [whunmr/emacsIDEAs](https://github.com/whunmr/emacsIDEAs): Porting some great extensions of emacs to Intellij IDEA. such as AceJump, CopyWithoutSelection.
 * [gluonfield/enchanted](https://github.com/gluonfield/enchanted): Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 * [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips): An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
 * [JanKallman/EPPlus](https://github.com/JanKallman/EPPlus): Create advanced Excel spreadsheets using .NET
