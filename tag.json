@@ -2084,9 +2084,6 @@
     "exo-explore/exo": [
         "Other"
     ],
-    "expzhizhuo/WechatBot": [
-        "Other"
-    ],
     "exvim/main": [
         "Other"
     ],
@@ -2946,6 +2943,9 @@
         "Other"
     ],
     "kiwibrowser/android": [
+        "Other"
+    ],
+    "kkx600/WechatBot": [
         "Other"
     ],
     "klei/gulp-inject": [
