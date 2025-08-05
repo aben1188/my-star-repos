@@ -1334,6 +1334,7 @@
 * [stacktracejs/stacktrace-bookmarklet](https://github.com/stacktracejs/stacktrace-bookmarklet): Bookmarklet for stacktrace.js
 * [stacktracejs/stacktrace-gps](https://github.com/stacktracejs/stacktrace-gps): Turns partial code location into precise code location
 * [stacktracejs/stacktrace.js](https://github.com/stacktracejs/stacktrace.js): Generate, parse, and enhance JavaScript stack traces in all web browsers
+* [browserbase/stagehand](https://github.com/browserbase/stagehand): The AI Browser Automation Framework
 * [standard/standard](https://github.com/standard/standard): 🌟 JavaScript Style Guide, with linter & automatic code fixer
 * [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version): :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 * [startbbs/startbbs](https://github.com/startbbs/startbbs): startbbs is a free, open-source, light weight forum software package built with PHP and MySQL
