@@ -73,6 +73,7 @@
 * [agileago/agileTheme](https://github.com/agileago/agileTheme): a very beautiful theme for webstorm
 * [KeJunMao/ai-anything](https://github.com/KeJunMao/ai-anything): 💞 Anyone can create GPT tools 人人都能创建 GPT 工具
 * [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners): 12 Weeks, 24 Lessons, AI for All!
+* [yarin-zhang/AI-Gist](https://github.com/yarin-zhang/AI-Gist): ✨ AI Gist 是一款隐私优先的 AI 提示词管理工具，致力于让个人收藏的 AI 提示词能够发挥最大价值。支持变量替换、Jinja 模板、AI 生成与调优、历史版本记录、云端备份等核心功能。
 * [MichaelYuhe/ai-group-tabs](https://github.com/MichaelYuhe/ai-group-tabs): Organize and group your Chrome tabs with AI
 * [gopiashokan/AI-Resume-Analyzer-and-LinkedIn-Scraper-using-Generative-AI](https://github.com/gopiashokan/AI-Resume-Analyzer-and-LinkedIn-Scraper-using-Generative-AI): Developed an AI application using LLM to analyze user resumes and provided the summarization, strengths, weaknesses, suggestions, suitable job titles, and also scraping job details from LinkedIn using Selenium. This application reduces time by 30% and helps candidates tailor their resumes effectively.
 * [eze-is/ai-share-card](https://github.com/eze-is/ai-share-card): 一款优雅的 AI 网页分享卡片生成工具，利用 AI 帮助您将任何网页内容一键转换为精美的可视化分享卡片
