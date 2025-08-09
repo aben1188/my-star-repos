@@ -731,9 +731,6 @@
     "OpenMOSS/AnyGPT": [
         "Other"
     ],
-    "Ornithopter-pilot/interview-coder-withoupaywall-opensource": [
-        "Other"
-    ],
     "PHPOffice/PHPWord": [
         "Other"
     ],
@@ -2673,6 +2670,9 @@
         "Other"
     ],
     "j178/leetgo": [
+        "Other"
+    ],
+    "j4wg/interview-coder-withoupaywall-opensource": [
         "Other"
     ],
     "janl/mustache.js": [
