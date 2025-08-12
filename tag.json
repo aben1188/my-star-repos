@@ -1172,6 +1172,9 @@
     "airbnb/javascript": [
         "Other"
     ],
+    "aircodelab/aircode": [
+        "Other"
+    ],
     "airyland/vux": [
         "Other"
     ],
@@ -2304,9 +2307,6 @@
         "Other"
     ],
     "gpt-engineer-org/gptengineer.app": [
-        "Other"
-    ],
-    "grasplabs/aircode": [
         "Other"
     ],
     "gtoxlili/wechat-chatGPT": [
