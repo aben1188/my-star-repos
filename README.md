@@ -561,7 +561,7 @@
 * [stacktracejs/error-stack-parser](https://github.com/stacktracejs/error-stack-parser): Extract meaning from JS Errors
 * [ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial): 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
 * [eslint/eslint](https://github.com/eslint/eslint): Find and fix problems in your JavaScript code.
-* [espanso/espanso](https://github.com/espanso/espanso): Cross-platform Text Expander written in Rust
+* [espanso/espanso](https://github.com/espanso/espanso): A Privacy-first, Cross-platform Text Expander written in Rust
 * [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website): Ethereum.org is a primary online resource for the Ethereum community.
 * [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat): 微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）
 * [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english): 人人都能用英语
