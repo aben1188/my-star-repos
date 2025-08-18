@@ -2135,6 +2135,12 @@
     "fire-keeper/BlindWatermark": [
         "Other"
     ],
+    "firecrawl/firecrawl": [
+        "Other"
+    ],
+    "firecrawl/firecrawl-py": [
+        "Other"
+    ],
     "fishaudio/Bert-VITS2": [
         "Other"
     ],
@@ -3387,12 +3393,6 @@
         "Other"
     ],
     "memfreeme/memfree": [
-        "Other"
-    ],
-    "mendableai/firecrawl": [
-        "Other"
-    ],
-    "mendableai/firecrawl-py": [
         "Other"
     ],
     "mengjian-github/wechat-daily-report": [
