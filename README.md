@@ -482,6 +482,7 @@
 * [pontusab/directories](https://github.com/pontusab/directories): The Cursor & Windsurf community, find rules and MCPs
 * [Miserlou/DirtyShare](https://github.com/Miserlou/DirtyShare): Peer to Peer Filesharing in Pure Javascript With Node.js and Socket.io
 * [virskor/DiscuzQ](https://github.com/virskor/DiscuzQ): Flutter open source application for DiscuzQ
+* [sabrogden/Ditto](https://github.com/sabrogden/Ditto): Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
 * [DKJone/DKWechatHelper](https://github.com/DKJone/DKWechatHelper): 不止于抢红包，功能丰富的微信插件。
 * [839891627/dnmp](https://github.com/839891627/dnmp): 简单可理解的搭建 dnmp 环境。在此基础上由你自行定制！
 * [Tinywan/dnmp](https://github.com/Tinywan/dnmp): docker-compose部署LNMP环境 Nginx/Openresty、MySQL（5.7、8.0、8.1）、PHP7.4（8.0、5.6）、Redis5.0、PHPMyAdmin、Xdebug、RabbitMQ、Nacos
