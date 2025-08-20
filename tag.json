@@ -1943,6 +1943,9 @@
     "dyq086/wepy-mall": [
         "Other"
     ],
+    "easigo/goTools": [
+        "Other"
+    ],
     "eason-dev/awesome-chatgpt": [
         "Other"
     ],
@@ -2334,9 +2337,6 @@
         "Other"
     ],
     "haixinsong/otld": [
-        "Other"
-    ],
-    "handy-golang/goTools": [
         "Other"
     ],
     "hanneskod/libmergepdf": [

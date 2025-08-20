@@ -661,7 +661,7 @@
 * [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed): A modern download manager that supports all platforms.  Built with Golang and Flutter.
 * [AlloyTeam/gopng](https://github.com/AlloyTeam/gopng): GoPng - a HTML5 css sprite generator with cool feature.
 * [ginuerzh/gost](https://github.com/ginuerzh/gost): GO Simple Tunnel - a simple tunnel written in golang
-* [handy-golang/goTools](https://github.com/handy-golang/goTools): 一个 go 语言工具库, 让你在编写go应用程序时可以更加得心应手
+* [easigo/goTools](https://github.com/easigo/goTools): 一个 go 语言工具库, 让你在编写go应用程序时可以更加得心应手
 * [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte): Goutte, a simple PHP Web Scraper
 * [ddupont808/GPT-4V-Act](https://github.com/ddupont808/GPT-4V-Act): AI agent using GPT-4V(ision) capable of using a mouse/keyboard to interact with web UI
 * [1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition): 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台
