@@ -142,6 +142,7 @@
 * [postcss/autoprefixer](https://github.com/postcss/autoprefixer):  Parse CSS and add vendor prefixes to rules by Can I Use
 * [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper): A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 * [bneijt/autotrash](https://github.com/bneijt/autotrash): Tool to automatically purge old trashed files
+* [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia): Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
 * [EmbraceAGI/Awesome-AGI](https://github.com/EmbraceAGI/Awesome-AGI): A curated list of awesome AGI frameworks, software and resources
 * [lencx/awesome-ai](https://github.com/lencx/awesome-ai): 🤖 Awesome AI
@@ -156,6 +157,7 @@
 * [snowdream/awesome-android](https://github.com/snowdream/awesome-android): android libs from github or other websites
 * [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence): A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 * [ScarletPan/awesome-autonomous-gpt](https://github.com/ScarletPan/awesome-autonomous-gpt): A curated list of awesome projects and resources related to autonomous AI agents.
+* [AvaloniaCommunity/awesome-avalonia](https://github.com/AvaloniaCommunity/awesome-avalonia): A collection of interesting libraries and tools for Avalonia project.
 * [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness): A curated list of awesome awesomeness
 * [dalinvip/Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT): ChatGPT资料汇总学习，持续更新......
 * [eason-dev/awesome-chatgpt](https://github.com/eason-dev/awesome-chatgpt): Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。
