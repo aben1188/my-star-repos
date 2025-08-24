@@ -1278,6 +1278,7 @@
 * [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI): Semantic is a UI component framework based around useful principles from natural language.
 * [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers): Model Context Protocol Servers
 * [komuw/sewer](https://github.com/komuw/sewer): Let's Encrypt(ACME) client. Python library &  CLI app.
+* [xgit01/sgkrank](https://github.com/xgit01/sgkrank): 2024最新免费社工库排行
 * [teddysun/shadowsocks_install](https://github.com/teddysun/shadowsocks_install): Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu
 * [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt): Easily share permanent links to ChatGPT conversations with your friends
 * [ShareX/ShareX](https://github.com/ShareX/ShareX): ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
