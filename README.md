@@ -377,6 +377,7 @@
 * [Z-Siqi/Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese): clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
 * [Z-Siqi/Clash-for-Windows_Rule](https://github.com/Z-Siqi/Clash-for-Windows_Rule): Clash流媒体等策略组规则整合. Clash proxy rules. Make a website/media be proxied by a specific country server.
 * [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge): A Clash GUI based on tauri. Supports Windows, macOS and Linux.
+* [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev): A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 * [2dust/clashN](https://github.com/2dust/clashN): A clash client for Windows, support Mihomo
 * [steipete/claude-code-mcp](https://github.com/steipete/claude-code-mcp): Claude Code as one-shot MCP server to have an agent in your agent.
 * [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master): An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
