@@ -292,6 +292,7 @@
 * [aristocratos/bpytop](https://github.com/aristocratos/bpytop): Linux/OSX/FreeBSD resource monitor
 * [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync): Keep multiple browsers & devices in sync when building websites. https://browsersync.io
 * [browser-use/browser-use](https://github.com/browser-use/browser-use): 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+* [platonai/browser4](https://github.com/platonai/browser4): Browser4: a lightning-fast, coroutine-safe browser for your AI.
 * [4ae9b8/browserhacks](https://github.com/4ae9b8/browserhacks): An extensive list of CSS/JS browserhacks from all over the interwebs.
 * [akazwz/browserproxy](https://github.com/akazwz/browserproxy): proxy and protect your headless chrome
 * [browserslist/browserslist](https://github.com/browserslist/browserslist): 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
@@ -1174,7 +1175,6 @@
 * [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs
 * [pug-php/pug](https://github.com/pug-php/pug): Pug template engine for PHP
 * [pugjs/pug](https://github.com/pugjs/pug): Pug – robust, elegant, feature rich template engine for Node.js
-* [platonai/PulsarRPA](https://github.com/platonai/PulsarRPA): PulsarRPA: An AI-Enabled, Super-Fast, Thread-Safe Browser Automation Solution! 💖
 * [platonai/PulsarRPAPro](https://github.com/platonai/PulsarRPAPro): Fully automated and hands-free, accurately extracting and understanding web content — powered by machine learning agents.
 * [wechaty/puppet-official-account](https://github.com/wechaty/puppet-official-account): Wechaty Puppet for WeChat Official Account
 * [wechaty/puppet-oicq](https://github.com/wechaty/puppet-oicq): Wechaty Puppet for QQ based on project takayama-lily/oicq-template
