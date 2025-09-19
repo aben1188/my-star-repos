@@ -1148,7 +1148,7 @@
 * [crimx/postcss-safe-important](https://github.com/crimx/postcss-safe-important): PostCSS plugin that adds !important to style declarations safely.
 * [palxiao/poster-design](https://github.com/palxiao/poster-design): 迅排设计 - 美观且功能强大的图片编辑器、在线海报设计，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!
 * [supermarin/powerline-fonts](https://github.com/supermarin/powerline-fonts): Patched fonts for Powerline users.
-* [microsoft/PowerToys](https://github.com/microsoft/PowerToys): Windows system utilities to maximize productivity
+* [microsoft/PowerToys](https://github.com/microsoft/PowerToys): Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 * [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto): The configuration framework for Zsh
 * [wangrongding/prm-cli](https://github.com/wangrongding/prm-cli): 🧩 快速切换包管理工具的镜像源。(Quickly switch the registry of the package management tool.)
 * [duolabmeng6/pro-api](https://github.com/duolabmeng6/pro-api): Unified management of projects with large model APIs, unified conversion to OpenAI format, calling multiple backend services, OpenAI, Anthropic, Gemini, Vertex, Cloudflare, DeepBricks, OpenRouter, etc.
