@@ -828,7 +828,7 @@
 * [langchain-ai/langchain](https://github.com/langchain-ai/langchain): 🦜🔗 Build context-aware reasoning applications
 * [hwchase17/langchain-hub](https://github.com/hwchase17/langchain-hub): None
 * [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs): 🦜🔗 Build context-aware reasoning applications 🦜🔗
-* [langgptai/LangGPT](https://github.com/langgptai/LangGPT): LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt, Created by 「云中江树」
+* [langgptai/LangGPT](https://github.com/langgptai/LangGPT): LangGPT: Empowering everyone to become a prompt expert! 🚀  📌 结构化提示词（Structured Prompt）提出者 📌 元提示词（Meta-Prompt）发起者   📌 最流行的提示词落地范式 | Language of GPT  The pioneering framework for structured & meta-prompt design 10,000+ ⭐ | Battle-tested by thousands of users worldwide  Created by 云中江树
 * [LangbaseInc/langui](https://github.com/LangbaseInc/langui): UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
 * [laravel/laravel](https://github.com/laravel/laravel): Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 * [laravel-china/laravel-docs](https://github.com/laravel-china/laravel-docs): Laravel 中文文档
