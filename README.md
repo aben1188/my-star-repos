@@ -1461,7 +1461,7 @@
 * [swizardlv/twitter_thread_saver](https://github.com/swizardlv/twitter_thread_saver): an extension for Chrome to save Twitter thread as Markdown file
 * [microsoft/TypeChat](https://github.com/microsoft/TypeChat): TypeChat is a library that makes it easy to build natural language interfaces using types.
 * [typecho/typecho](https://github.com/typecho/typecho): A PHP Blogging Platform. Simple and Powerful.
-* [ivanhofer/typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n): A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects.
+* [codingcommons/typesafe-i18n](https://github.com/codingcommons/typesafe-i18n): A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects.
 * [microsoft/TypeScript](https://github.com/microsoft/TypeScript): TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 * [jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese): TypeScript Deep Dive 中文版 
 * [rmolinamir/typescript-cheatsheet](https://github.com/rmolinamir/typescript-cheatsheet): A set of TypeScript related notes used for quick reference. The cheatsheet contains references to types, classes, decorators, and many other TypeScript related subjects.

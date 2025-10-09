@@ -1703,6 +1703,9 @@
     "codex-team/editor.js": [
         "Other"
     ],
+    "codingcommons/typesafe-i18n": [
+        "Other"
+    ],
     "codius-deprecated/codius": [
         "Other"
     ],
@@ -2673,9 +2676,6 @@
         "Other"
     ],
     "itwanger/daxigua": [
-        "Other"
-    ],
-    "ivanhofer/typesafe-i18n": [
         "Other"
     ],
     "iyangyuan/ystep": [
