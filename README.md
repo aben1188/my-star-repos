@@ -282,7 +282,7 @@
 * [bolasblack/BlogPosts](https://github.com/bolasblack/BlogPosts): None
 * [hughfenghen/bloom-shadow](https://github.com/hughfenghen/bloom-shadow): 在浏览器中运行的录屏工具，可用于视频课程制作、直播推流工作台；基于 WebAV 实现
 * [akl7777777/bob-plugin-akl-deepl-free-translate](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate): **DeepL免秘钥,免启服务**,双击使用,免费无限次使用,(**新增DeepL单词查询功能**)根据网页版JavaScript加密算法逆向开发的bobplugin;所以只要官网的算法不改,理论上就可以无限使用;(重大更新!!!回馈老用户,现已优化,频繁访问后仍然可以继续免费翻译!!) **apiKey is not required,No account password required**
-* [openai-translator/bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator): 基于 OpenAI API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0
+* [nextai-translator/bob-plugin-openai-translator](https://github.com/nextai-translator/bob-plugin-openai-translator): 基于 OpenAI API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0
 * [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new): Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz
 * [hejinzhi/bookLibrary-wepy](https://github.com/hejinzhi/bookLibrary-wepy): None
 * [programthink/books](https://github.com/programthink/books): 【编程随想】收藏的电子书清单（多个学科，含下载链接）
@@ -996,6 +996,7 @@
 * [jianjianai/NewBingGoGo-Web](https://github.com/jianjianai/NewBingGoGo-Web): 一个基于微软OpenAI ChatGPT GPT4的New Bing接口的Web服务。 提供了好看的对话页面。 实现了微软New Bing的大多数功能，还添加了一些自己的特色功能。 开源免费。
 * [lipeng0820/newBingHelper](https://github.com/lipeng0820/newBingHelper): None
 * [echosoar/news](https://github.com/echosoar/news): 基于SimHash算法聚合相似全网内容，根据来源数量进行排序，并对一些内容进行过滤
+* [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator): 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 * [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat): ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 * [lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing): Next.js billing app with Lemon Squeezy
 * [weijunext/nextjs-learn-demos](https://github.com/weijunext/nextjs-learn-demos): Sharing Technologies in the Next.js Ecosystem.
@@ -1052,7 +1053,6 @@
 * [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 * [openai/openai-node](https://github.com/openai/openai-node): Official JavaScript / TypeScript library for the OpenAI API
 * [Ice-Hazymoon/openai-scf-proxy](https://github.com/Ice-Hazymoon/openai-scf-proxy): 使用腾讯云函数一分钟搭建 OpenAI 免翻墙代理
-* [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator): 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 * [OpenBazaar/OpenBazaar-Client](https://github.com/OpenBazaar/OpenBazaar-Client): (DEPRECATED) Front-end Electron application for talking with the OpenBazaar-Server daemon
 * [OpenBazaar/openbazaar-desktop](https://github.com/OpenBazaar/openbazaar-desktop): OpenBazaar 2.0 Desktop Client (talks to openbazaar-go server daemon)
 * [OpenBazaar/OpenBazaar-Server](https://github.com/OpenBazaar/OpenBazaar-Server): (Deprecated) OpenBazaar 1.0 Server daemon for communication with OpenBazaar-Client

@@ -3611,6 +3611,12 @@
     "newbee-ltd/vue3-admin": [
         "Other"
     ],
+    "nextai-translator/bob-plugin-openai-translator": [
+        "Other"
+    ],
+    "nextai-translator/nextai-translator": [
+        "Other"
+    ],
     "nextify-limited/saasfly": [
         "Other"
     ],
@@ -3720,12 +3726,6 @@
         "Other"
     ],
     "open-webui/open-webui": [
-        "Other"
-    ],
-    "openai-translator/bob-plugin-openai-translator": [
-        "Other"
-    ],
-    "openai-translator/openai-translator": [
         "Other"
     ],
     "openai/openai-cookbook": [
