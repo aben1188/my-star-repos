@@ -1156,7 +1156,7 @@
 * [reshinto/programming_language_syntax_comparison](https://github.com/reshinto/programming_language_syntax_comparison): Compare syntax differences between programming languages (python, javascript, ruby, java, c#, c/c++).
 * [ProgrammingBlockchain/ProgrammingBlockchain](https://github.com/ProgrammingBlockchain/ProgrammingBlockchain): None
 * [ThomasWhyne/projects](https://github.com/ThomasWhyne/projects): None
-* [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+* [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 * [yunwei37/Prompt-Engineering-Guide-zh-CN](https://github.com/yunwei37/Prompt-Engineering-Guide-zh-CN): 🐙 关于提示词工程（prompt）的指南、论文、讲座、笔记本和资源大全（自动持续更新）
 * [EgoAlpha/prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning): Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.   - Professor Yu Liu
 * [TakSec/Prompt-Injection-Everywhere](https://github.com/TakSec/Prompt-Injection-Everywhere): Prompt Injections Everywhere
