@@ -95,9 +95,6 @@
     "AlistGo/alist": [
         "Other"
     ],
-    "All-Hands-AI/OpenHands": [
-        "Other"
-    ],
     "AlloyTeam/AlloyDesigner": [
         "Other"
     ],
@@ -732,6 +729,9 @@
         "Other"
     ],
     "OpenBazaar/openbazaar-desktop": [
+        "Other"
+    ],
+    "OpenHands/OpenHands": [
         "Other"
     ],
     "OpenMOSS/AnyGPT": [
