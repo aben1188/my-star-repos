@@ -604,7 +604,7 @@
 * [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise): Build AI Agents, Visually
 * [fltenwall/flten-utils](https://github.com/fltenwall/flten-utils): javascript常用函数工具库
 * [bilibili/flv.js](https://github.com/bilibili/flv.js): HTML5 FLV Player
-* [RSSNext/Folo](https://github.com/RSSNext/Folo): 🧡 Follow everything in one place
+* [RSSNext/Folo](https://github.com/RSSNext/Folo): 🧡 Folo is the AI Reader
 * [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome): The iconic SVG, font, and CSS toolkit
 * [purplebamboo/font-carrier](https://github.com/purplebamboo/font-carrier): font-carrier是一个功能强大的字体操作库，使用它你可以随心所欲的操作字体。让你可以在svg的维度改造字体的展现形状。
 * [ecomfe/fontmin](https://github.com/ecomfe/fontmin): Minify font seamlessly
