@@ -1708,7 +1708,7 @@
 * [Urinx/WeixinBot](https://github.com/Urinx/WeixinBot): 网页版微信API，包含终端版微信及微信机器人
 * [gannicusleon/WeixinBot](https://github.com/gannicusleon/WeixinBot): 网页版微信API，包含终端版微信及微信机器人
 * [dedemao/weixinMp](https://github.com/dedemao/weixinMp): 微信公众号接口单文件版。一个PHP文件搞定微信公众号系列。包括自定义菜单、消息管理等
-* [JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK): 微信全平台 .NET SDK， Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 8.0。已支持微信公众号、小程序、小游戏、微信支付、企业微信/企业号、开放平台、JSSDK、微信周边等全平台。 WeChat SDK for C#.
+* [JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK): 微信全平台 .NET SDK， Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 10.0。已支持微信公众号、小程序、小游戏、微信支付、企业微信/企业号、开放平台、JSSDK、微信周边等全平台。 WeChat SDK for C#.
 * [dedemao/weixinPay](https://github.com/dedemao/weixinPay): 微信支付单文件版。一个PHP文件搞定微信支付系列。包括原生支付（扫码支付），H5支付，公众号支付，现金红包、企业付款到零钱等。新增V3版。
 * [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan): 文言文編程語言 A programming language for the ancient Chinese.
 * [wetools/wept](https://github.com/wetools/wept): 微信小程序多端实时运行工具
