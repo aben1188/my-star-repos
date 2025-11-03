@@ -1549,7 +1549,6 @@
 * [taylorchen709/vue-admin](https://github.com/taylorchen709/vue-admin): admin template based on vuejs2 and element.
 * [vue-bulma/vue-admin](https://github.com/vue-bulma/vue-admin): We are refactoring it, using the latest Vue and Bulma. WIP
 * [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template): a vue2.0 minimal admin template 
-* [harsima/vue-backend](https://github.com/harsima/vue-backend): 简单的后台管理框架
 * [1esse/vue-clownfish-admin](https://github.com/1esse/vue-clownfish-admin): 🐋vite vue3 antd admin
 * [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin): :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 * [herozhou/vue-framework-wz](https://github.com/herozhou/vue-framework-wz): 👏vue后台管理框架👏
