@@ -865,7 +865,7 @@
 * [listen1/listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension): one for all free music in china (chrome extension, also works for firefox)
 * [listen1/listen1_desktop](https://github.com/listen1/listen1_desktop): one for all free music in china (Windows, Mac, Linux desktop)
 * [blocklistproject/Lists](https://github.com/blocklistproject/Lists): Primary Block Lists
-* [BerriAI/litellm](https://github.com/BerriAI/litellm): Call any LLM API with cost tracking, guardrails, logging and load balancing.  1.8k+ models, 80+ providers, 50+ endpoints (unified + native format). Python SDK and Proxy Server (AI Gateway).
+* [BerriAI/litellm](https://github.com/BerriAI/litellm): Call any LLM API with cost tracking, guardrails, logging and load balancing. 1.8k+ models, 80+ providers, 50+ endpoints (unified + native format). Available as a Python SDK or Proxy Server (AI Gateway).  
 * [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 * [run-llama/llama_index](https://github.com/run-llama/llama_index): LlamaIndex is the leading framework for building LLM-powered agents over your data.
 * [ZubinGou/llm-agent-web-tools](https://github.com/ZubinGou/llm-agent-web-tools): A simple Google Search Engine Crawler.
