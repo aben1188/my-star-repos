@@ -287,7 +287,7 @@
 * [hejinzhi/bookLibrary-wepy](https://github.com/hejinzhi/bookLibrary-wepy): None
 * [programthink/books](https://github.com/programthink/books): 【编程随想】收藏的电子书清单（多个学科，含下载链接）
 * [twbs/bootstrap](https://github.com/twbs/bootstrap): The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-* [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue): BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
+* [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue): MOVED to https://github.com/bootstrap-vue-next/bootstrap-vue-next
 * [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch): Themes for Bootstrap
 * [aristocratos/bpytop](https://github.com/aristocratos/bpytop): Linux/OSX/FreeBSD resource monitor
 * [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync): Keep multiple browsers & devices in sync when building websites. https://browsersync.io
