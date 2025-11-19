@@ -63,7 +63,7 @@
 * [mileszs/ack.vim](https://github.com/mileszs/ack.vim): Vim plugin for the Perl module / CLI script 'ack'
 * [beyondgrep/ack2](https://github.com/beyondgrep/ack2): **ack 2 is no longer being maintained.  ack 3 is the latest version.**
 * [kaienkira/acme-client](https://github.com/kaienkira/acme-client): a small tool to get and renew tls certs from let's encrypt
-* [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh): A pure Unix shell script implementing ACME client protocol
+* [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh): A pure Unix shell script ACME client for SSL / TLS certificate automation
 * [activepieces/activepieces](https://github.com/activepieces/activepieces): AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 * [justboil/admin-one-vue-tailwind](https://github.com/justboil/admin-one-vue-tailwind): Free Vue.js 3.x Tailwind 4.x admin dashboard template with dark mode. Vite builds. Pinia state. Laravel integration available
 * [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta): The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place.
