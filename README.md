@@ -321,7 +321,7 @@
 * [sugarforever/chat-ollama](https://github.com/sugarforever/chat-ollama): ChatOllama is an open-source AI chatbot that brings cutting-edge language models to your fingertips while keeping your data private and secure.
 * [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL):  Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 * [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui): AI chat for any model.
-* [chatboxai/chatbox](https://github.com/chatboxai/chatbox): User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+* [chatboxai/chatbox](https://github.com/chatboxai/chatbox): # Free AI at api.airforce https://discord.gg/AJDsM7jtbq
 * [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev): Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 * [atorber/chatflow](https://github.com/atorber/chatflow): 一个使用wechaty构建的机器人业务管理平台
 * [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT): Reverse engineered ChatGPT API
@@ -355,7 +355,7 @@
 * [TankNee/chatgpt-wechaty](https://github.com/TankNee/chatgpt-wechaty): GPTChat wechat robot based on wechaty and padlocal.
 * [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt): A collection of GPT system prompts and various prompt injection/leaking knowledge.
 * [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox): Integrating ChatGPT into your browser deeply, everything you need is here
-* [chathub-dev/chathub](https://github.com/chathub-dev/chathub): All-in-one chatbot client
+* [chathub-dev/chathub](https://github.com/chathub-dev/chathub): # Free AI at api.airforce https://discord.gg/AJDsM7jtbq
 * [sjzar/chatlog](https://github.com/sjzar/chatlog): chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 * [SkywalkerDarren/chatWeb](https://github.com/SkywalkerDarren/chatWeb): ChatWeb can crawl web pages, read PDF, DOCX, TXT, and extract the main content, then answer your questions based on the content, or summarize the key points.
 * [yangg/check-cert](https://github.com/yangg/check-cert):  检查 https 证书是否临近过期时间，并通过 Server酱 通知
