@@ -355,7 +355,7 @@
 * [TankNee/chatgpt-wechaty](https://github.com/TankNee/chatgpt-wechaty): GPTChat wechat robot based on wechaty and padlocal.
 * [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt): A collection of GPT system prompts and various prompt injection/leaking knowledge.
 * [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox): Integrating ChatGPT into your browser deeply, everything you need is here
-* [chathub-dev/chathub](https://github.com/chathub-dev/chathub): # Free AI at api.airforce https://discord.gg/AJDsM7jtbq
+* [chathub-dev/chathub](https://github.com/chathub-dev/chathub): None
 * [sjzar/chatlog](https://github.com/sjzar/chatlog): chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 * [SkywalkerDarren/chatWeb](https://github.com/SkywalkerDarren/chatWeb): ChatWeb can crawl web pages, read PDF, DOCX, TXT, and extract the main content, then answer your questions based on the content, or summarize the key points.
 * [yangg/check-cert](https://github.com/yangg/check-cert):  检查 https 证书是否临近过期时间，并通过 Server酱 通知
