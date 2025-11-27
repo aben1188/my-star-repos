@@ -620,7 +620,7 @@
 * [javayhu/free-directory-sanity](https://github.com/javayhu/free-directory-sanity): The CMS (Sanity Studio) of The Open Source Directory Boilerplate
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
 * [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN): :books: 免费的计算机编程类中文书籍，欢迎投稿
-* [popjane/free_chatgpt_api](https://github.com/popjane/free_chatgpt_api): 🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、沉浸式翻译等项目使用
+* [popjane/free_chatgpt_api](https://github.com/popjane/free_chatgpt_api): 🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、Cherry Studio、沉浸式翻译等项目使用
 * [jectychen/Front-End-Develop-Guide](https://github.com/jectychen/Front-End-Develop-Guide): 这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成。
 * [sniperyan/Front-end-questions-to-the-interview-stage](https://github.com/sniperyan/Front-end-questions-to-the-interview-stage): :snail:最全前端开发面试问题及答案整理
 * [ouvens/frontend-system-map](https://github.com/ouvens/frontend-system-map): init
