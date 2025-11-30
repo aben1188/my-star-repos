@@ -977,7 +977,7 @@
 * [n8n-io/n8n](https://github.com/n8n-io/n8n): Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 * [hyperf/nano](https://github.com/hyperf/nano): 🧬 Nano is a zero-config, no skeleton, minimal Hyperf distribution that allows you to quickly build a Hyperf application with just a single PHP file.
 * [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT): The simplest, fastest repository for training/finetuning medium-sized GPTs.
-* [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript): ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Flutter and you name it compatible.
+* [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript): ⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Flutter and you name it compatible.
 * [mckaywrigley/naval-gpt](https://github.com/mckaywrigley/naval-gpt): None
 * [MetacoSA/NBitcoin](https://github.com/MetacoSA/NBitcoin): Comprehensive Bitcoin library for the .NET framework.
 * [seald/nedb](https://github.com/seald/nedb): The JavaScript Database, for Node.js, nw.js, electron and the browser
