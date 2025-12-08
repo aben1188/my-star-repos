@@ -1346,7 +1346,7 @@
 * [sancarn/stdVBA](https://github.com/sancarn/stdVBA): VBA Standard Library - A Collection of libraries to form a common standard layer for modern VBA applications.
 * [banodoco/Steerable-Motion](https://github.com/banodoco/Steerable-Motion): A ComfyUI node for driving videos using batches of images.
 * [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf): Control and manage Android devices from your browser.
-* [ZGGSONG/STranslate](https://github.com/ZGGSONG/STranslate): A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
+* [STranslate/STranslate](https://github.com/STranslate/STranslate): A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
 * [ygh3279799773/streamer-card](https://github.com/ygh3279799773/streamer-card): 流光卡片API
 * [BlackGlory/subtitle-translate-tmt](https://github.com/BlackGlory/subtitle-translate-tmt): 🌳 使用腾讯机器翻译 API 为 PotPlayer 翻译实时字幕.
 * [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory): Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
