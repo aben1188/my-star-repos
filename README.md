@@ -1079,7 +1079,7 @@
 * [PaddlePaddle/PaddleFormers](https://github.com/PaddlePaddle/PaddleFormers): PaddleFormers is an easy-to-use library of pre-trained large language model zoo based on PaddlePaddle.
 * [mawenjie8731/paddlenlp-wechaty-demo](https://github.com/mawenjie8731/paddlenlp-wechaty-demo): None
 * [padlocal/padlocal-client-ts](https://github.com/padlocal/padlocal-client-ts): None
-* [tw93/Pake](https://github.com/tw93/Pake): 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
+* [tw93/Pake](https://github.com/tw93/Pake): 🤱🏻 Turn any webpage into a desktop app with one command.
 * [syhyz1990/panAI](https://github.com/syhyz1990/panAI): 油猴脚本 - 智能识别网页中网盘链接和提取码并自动填写
 * [openethereum/parity-ethereum](https://github.com/openethereum/parity-ethereum): The fast, light, and robust client for Ethereum-like networks.
 * [jaredhanson/passport](https://github.com/jaredhanson/passport): Simple, unobtrusive authentication for Node.js.
