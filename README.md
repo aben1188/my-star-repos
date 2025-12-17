@@ -546,7 +546,7 @@
 * [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT): Reverse engineered API of Microsoft's Bing Chat AI
 * [codex-team/editor.js](https://github.com/codex-team/editor.js): A block-style editor with clean JSON output
 * [ElderDrivers/EdXposed](https://github.com/ElderDrivers/EdXposed): Elder driver Xposed Framework.
-* [eggjs/egg](https://github.com/eggjs/egg): 🥚🥚🥚🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
+* [eggjs/egg](https://github.com/eggjs/egg): 🥚🥚🥚🥚 Born to build better enterprise frameworks and apps with Node.js & Koa. https://307.run/eggcode
 * [egret-labs/egret-core](https://github.com/egret-labs/egret-core): Egret is a brand new open mobile game and application engine which allows you to quickly build mobile games and apps on Android,iOS and Windows.
 * [egret-labs/egret-examples](https://github.com/egret-labs/egret-examples): egret-examples
 * [egret-labs/egret-game-library](https://github.com/egret-labs/egret-game-library): Egret Game Library
