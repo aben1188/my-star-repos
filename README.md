@@ -1132,7 +1132,7 @@
 * [LarryUllman/phpvqs-5ed](https://github.com/LarryUllman/phpvqs-5ed): PHP for the Web: Visual QuickStart Guide (Fifth Edition)
 * [PHPOffice/PHPWord](https://github.com/PHPOffice/PHPWord): A pure PHP library for reading and writing word processing documents
 * [fscarmen2/pic-hosting-cluster](https://github.com/fscarmen2/pic-hosting-cluster): None
-* [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo): :rocket:A powerful & simple image uploader for creators.  Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
+* [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo): :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
 * [xiebruce/PicUploader](https://github.com/xiebruce/PicUploader): 一个还不错的图床工具，支持Mac/Win/Linux服务器、支持压缩后上传、添加图片或文字水印、多文件同时上传、同时上传到多个云、右击任意文件上传、快捷键上传剪贴板截图、Web版上传、支持作为Mweb/Typora发布图片接口、作为PicGo/ShareX/uPic等的自定义图床，支持在服务器上部署作为图床接口，支持上传任意格式文件。
 * [pinojs/pino](https://github.com/pinojs/pino): 🌲 super fast, all natural json logger
 * [Pintree-io/pintree](https://github.com/Pintree-io/pintree): Pintree: Easily turn your browser bookmarks into a directory website and start monetizing in minutes.
