@@ -1061,6 +1061,7 @@
 * [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands): 🙌 OpenHands: AI-Driven Development
 * [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus): No fortress, purely open ground.  OpenManus is Coming.
 * [yulingchen/openMina](https://github.com/yulingchen/openMina): 一个开放的、运行微信小程序的Web MINA框架
+* [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp): OpenMTP  - Advanced Android File Transfer Application for macOS
 * [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio): 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
 * [openresty/openresty](https://github.com/openresty/openresty): High Performance Web Platform Based on Nginx and LuaJIT
 * [openresty/openresty.org](https://github.com/openresty/openresty.org): Code and data for the openresty.org site
