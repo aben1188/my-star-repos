@@ -260,6 +260,9 @@
     "Comfy-Org/desktop": [
         "Other"
     ],
+    "CommandCodeAI/langui": [
+        "Other"
+    ],
     "ConnectAI-E/feishu-openai": [
         "Other"
     ],
@@ -570,9 +573,6 @@
         "Other"
     ],
     "LLM-Red-Team/qwen-free-api": [
-        "Other"
-    ],
-    "LangbaseInc/langui": [
         "Other"
     ],
     "Lannamokia/We": [
