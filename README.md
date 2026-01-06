@@ -98,7 +98,6 @@
 * [AlloyTeam/AlloyDesigner](https://github.com/AlloyTeam/AlloyDesigner): AlloyDesigner是一款致力于提高前端生产效率的浏览器内运行工具，AlloyDesigner + Chrome F12(Especially with WorkSpace)  打造前端新的开发和测试模式
 * [AlloyTeam/AlloyFinger](https://github.com/AlloyTeam/AlloyFinger): Super tiny size multi-touch gestures library for the web. 　　　You can touch this →
 * [AlloyTeam/AlloyImage](https://github.com/AlloyTeam/AlloyImage): 基于HTML5的专业级图像处理开源引擎。An image processing lib based on html5.
-* [robiot/AlphaClicker](https://github.com/robiot/AlphaClicker): 🖱️ Windows Autoclicker with a modern ui
 * [ampproject/amphtml](https://github.com/ampproject/amphtml): The AMP web component framework.
 * [kiwibrowser/android](https://github.com/kiwibrowser/android): This repository is archived, and is now transferred to https://github.com/kiwibrowser/src
 * [wildfirechat/android-chat](https://github.com/wildfirechat/android-chat): 即时通讯，聊天，野火IM Android客户端，支持Android 4.x —— 最新
@@ -360,7 +359,7 @@
 * [SkywalkerDarren/chatWeb](https://github.com/SkywalkerDarren/chatWeb): ChatWeb can crawl web pages, read PDF, DOCX, TXT, and extract the main content, then answer your questions based on the content, or summarize the key points.
 * [yangg/check-cert](https://github.com/yangg/check-cert):  检查 https 证书是否临近过期时间，并通过 Server酱 通知
 * [easychen/checkchan-dist](https://github.com/easychen/checkchan-dist): Check酱：监测网页内容变化，并发送异动到微信。亦支持http status、json和rss监测。配合自架云端，关电脑后也能运行。
-* [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio): 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
+* [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio): Cherry Studio boosts your productivity with unified AI access, Agent capabilities, and 300+ assistants in one desktop application.
 * [w3c/chinese-ig](https://github.com/w3c/chinese-ig): Web中文兴趣组
 * [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry): The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 * [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua): :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
