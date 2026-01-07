@@ -1385,7 +1385,6 @@
 * [codota/TabNine](https://github.com/codota/TabNine): AI Code Completions
 * [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss): A utility-first CSS framework for rapid UI development.
 * [umeshmk/Tailwindcss-cheatsheet](https://github.com/umeshmk/Tailwindcss-cheatsheet): A very elegant and helpful Tailwind CSS cheat-sheet.
-* [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com): The Tailwind CSS documentation website.
 * [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey): Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox. 
 * [yujinpan/tampermonkey-extension](https://github.com/yujinpan/tampermonkey-extension): 自制油猴日常插件。
 * [kun321/tampermonkey-script](https://github.com/kun321/tampermonkey-script): tampermonkey-script
