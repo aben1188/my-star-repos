@@ -98,6 +98,7 @@
 * [AlloyTeam/AlloyDesigner](https://github.com/AlloyTeam/AlloyDesigner): AlloyDesigner是一款致力于提高前端生产效率的浏览器内运行工具，AlloyDesigner + Chrome F12(Especially with WorkSpace)  打造前端新的开发和测试模式
 * [AlloyTeam/AlloyFinger](https://github.com/AlloyTeam/AlloyFinger): Super tiny size multi-touch gestures library for the web. 　　　You can touch this →
 * [AlloyTeam/AlloyImage](https://github.com/AlloyTeam/AlloyImage): 基于HTML5的专业级图像处理开源引擎。An image processing lib based on html5.
+* [robiot/AlphaClicker](https://github.com/robiot/AlphaClicker): 🖱️ Windows Autoclicker with a modern ui
 * [ampproject/amphtml](https://github.com/ampproject/amphtml): The AMP web component framework.
 * [kiwibrowser/android](https://github.com/kiwibrowser/android): This repository is archived, and is now transferred to https://github.com/kiwibrowser/src
 * [wildfirechat/android-chat](https://github.com/wildfirechat/android-chat): 即时通讯，聊天，野火IM Android客户端，支持Android 4.x —— 最新
