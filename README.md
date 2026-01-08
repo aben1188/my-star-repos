@@ -1780,6 +1780,7 @@
 * [icindy/wxSearch](https://github.com/icindy/wxSearch): wxSearch-微信小程序优雅的搜索框
 * [TCloudBase/WXSEVER-SMS](https://github.com/TCloudBase/WXSEVER-SMS): 发送短信，并在外部浏览器拉起微信小程序的能力教程
 * [LunaYJ/wxss-emoji](https://github.com/LunaYJ/wxss-emoji): 纯微信小程序 emoji解析组件
+* [wxt-dev/wxt](https://github.com/wxt-dev/wxt): ⚡ Next-gen Web Extension Framework
 * [ant-design/x](https://github.com/ant-design/x): Craft AI-driven interface effortlessly🤖
 * [hzeyuan/x-cards](https://github.com/hzeyuan/x-cards): Easy share X anywhere,in any format
 * [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl): Flexible Node.js AI-assisted crawler library
