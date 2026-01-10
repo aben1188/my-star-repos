@@ -1657,7 +1657,7 @@
 * [leochen-g/wechatBot](https://github.com/leochen-g/wechatBot): 微信每日说，三步教你用Node做一个微信哄女友(基友)神器！还能帮女朋友解决垃圾分类难题
 * [KingsleyYau/WeChatChannelsDownloader](https://github.com/KingsleyYau/WeChatChannelsDownloader): 微信视频号下载器
 * [qbright/wechatCode-complete](https://github.com/qbright/wechatCode-complete): 微信小程序 代码提示插件
-* [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup): 一键导出PC微信聊天记录工具
+* [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup): None
 * [zoujingli/WeChatDeveloper](https://github.com/zoujingli/WeChatDeveloper): 【新】微信服务号+微信小程序+微信支付+支付宝支付
 * [xuncv/WeChatDownloader](https://github.com/xuncv/WeChatDownloader): 微信视频号下载器. WeChatDownloader
 * [houko/wechatgpt](https://github.com/houko/wechatgpt): wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持wechat，telegram
