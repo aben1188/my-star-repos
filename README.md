@@ -1157,7 +1157,7 @@
 * [TylorYao/projects](https://github.com/TylorYao/projects): None
 * [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 * [yunwei37/Prompt-Engineering-Guide-zh-CN](https://github.com/yunwei37/Prompt-Engineering-Guide-zh-CN): 🐙 关于提示词工程（prompt）的指南、论文、讲座、笔记本和资源大全（自动持续更新）
-* [EgoAlpha/prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning): Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.   - Professor Yu Liu
+* [EgoAlpha/prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning): Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates. 
 * [TakSec/Prompt-Injection-Everywhere](https://github.com/TakSec/Prompt-Injection-Everywhere): Prompt Injections Everywhere
 * [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer): 一款提示词优化器，助力于编写高质量的提示词
 * [phodal/prompt-patterns](https://github.com/phodal/prompt-patterns): Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt
