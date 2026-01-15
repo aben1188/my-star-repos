@@ -116,9 +116,6 @@
     "AmazingAng/WTF-Solidity": [
         "Other"
     ],
-    "AmruthPillai/Reactive-Resume": [
-        "Other"
-    ],
     "Annsher-whhr/DeepSeek--driven-Web-Golden-Quote-Card-Generation": [
         "Other"
     ],
@@ -620,7 +617,7 @@
     "LuanRoger/electron-shadcn": [
         "Other"
     ],
-    "LukeHagar/sveltekit-extension-template": [
+    "LukasParke/sveltekit-extension-template": [
         "Other"
     ],
     "LunaYJ/wxss-emoji": [
@@ -1254,6 +1251,9 @@
         "Other"
     ],
     "ampproject/amphtml": [
+        "Other"
+    ],
+    "amruthpillai/reactive-resume": [
         "Other"
     ],
     "anaclumos/bing-chat-for-all-browsers": [
