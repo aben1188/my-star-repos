@@ -875,7 +875,7 @@
 * [changyeyu/LLM-RL-Visualized](https://github.com/changyeyu/LLM-RL-Visualized): 🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献！💥（100+  LLM/RL Algorithm Maps ）
 * [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper): Turn any webpage into structured data using LLMs
 * [rowyio/LLM-Web-Crawler](https://github.com/rowyio/LLM-Web-Crawler): Web Scraper and Crawler for LLM Apps and AI Workflows with NoCode / LowCode. Plug and play with your own logic and customize it flexibly and scalably on BuildShip.
-* [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
+* [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you.
 * [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher): Fully local web research and report writing assistant
 * [Kerinlin/localMusicPlayer](https://github.com/Kerinlin/localMusicPlayer): Audio player that play local audio files and show audio spectrum.
 * [localsend/localsend](https://github.com/localsend/localsend): An open-source cross-platform alternative to AirDrop
