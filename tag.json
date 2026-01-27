@@ -3512,9 +3512,6 @@
     "moklick/face-mask-browser-extension": [
         "Other"
     ],
-    "moltbot/claude-code-mcp": [
-        "Other"
-    ],
     "mosn/layotto": [
         "Other"
     ],
@@ -4359,6 +4356,9 @@
         "Other"
     ],
     "stavyan/TinyShop-UniApp": [
+        "Other"
+    ],
+    "steipete/claude-code-mcp": [
         "Other"
     ],
     "stubbornella/oocss": [
