@@ -811,6 +811,7 @@
 * [dong-sir/jutils](https://github.com/dong-sir/jutils): JavaScript常用函数库，提升前端开发效率。
 * [AlloyTeam/JX](https://github.com/AlloyTeam/JX): JX(Javascript eXtension tools) 是腾讯AlloyTeam推出的模块化、非侵入式Web前端框架，适合构建和组织工业级大规模、高效率的 Web App
 * [k3s-io/k3s](https://github.com/k3s-io/k3s): Lightweight Kubernetes
+* [KaringX/karing](https://github.com/KaringX/karing): Simple & Powerful proxy utility, Support routing rules for clash/sing-box
 * [BennyWang/KBinding](https://github.com/BennyWang/KBinding): Android MVVM framework write in kotlin, develop Android has never been so fun.
 * [Tencent/kbone](https://github.com/Tencent/kbone): 一个致力于微信小程序和 Web 端同构的解决方案
 * [kikiakikia/keyword](https://github.com/kikiakikia/keyword): 敏感词整理
