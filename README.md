@@ -954,7 +954,6 @@
 * [mochat-cloud/mochat-docker](https://github.com/mochat-cloud/mochat-docker): 🐳 The docker image offered by MoChat.
 * [nuysoft/Mock](https://github.com/nuysoft/Mock): A simulation data generator
 * [Modernizr/Modernizr](https://github.com/Modernizr/Modernizr): Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
-* [moltbot/moltbot](https://github.com/moltbot/moltbot): Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 * [Seldaek/monolog](https://github.com/Seldaek/monolog): Sends your logs to files, sockets, inboxes, databases and various web services
 * [waza-ari/monolog-mysql](https://github.com/waza-ari/monolog-mysql): MySQL Handler for Monolog, which allows to store log messages to a MySQL Table
 * [xdmjun/mp-unpack](https://github.com/xdmjun/mp-unpack): None
@@ -1059,6 +1058,7 @@
 * [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB): Financial data platform for analysts, quants and AI agents.
 * [PetoiCamp/OpenCat-Quadruped-Robot](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot): An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development. 
 * [vernesong/OpenClash](https://github.com/vernesong/OpenClash): A Clash Client For OpenWrt
+* [openclaw/openclaw](https://github.com/openclaw/openclaw): Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 * [leidenglai/opencv-js-qrcode](https://github.com/leidenglai/opencv-js-qrcode): 基于opencv与wechat_qrcode实现的JS版二维码图像识别库
 * [AIDotNet/OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki): OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform. The project is mainly developed using C# and TypeScript, supporting modular design, and is easy to expand and customize.
 * [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands): 🙌 OpenHands: AI-Driven Development

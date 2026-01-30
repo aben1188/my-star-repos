@@ -3515,9 +3515,6 @@
     "moklick/face-mask-browser-extension": [
         "Other"
     ],
-    "moltbot/moltbot": [
-        "Other"
-    ],
     "mosn/layotto": [
         "Other"
     ],
@@ -3720,6 +3717,9 @@
         "Other"
     ],
     "openai/swarm": [
+        "Other"
+    ],
+    "openclaw/openclaw": [
         "Other"
     ],
     "opendatalab/MinerU": [
