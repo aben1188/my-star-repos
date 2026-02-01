@@ -1228,7 +1228,7 @@
 * [Adonis142857/Real-Address-Generator](https://github.com/Adonis142857/Real-Address-Generator): An address generator for populating real addresses for China, USA, UK, Germany, France and 22 other countries.一个用于填充真实地址的地址生成器，可以生成中国，美国，英国，德国，法国等22个国家的真实地址
 * [realtime-ai/realtime-ai](https://github.com/realtime-ai/realtime-ai): A real-time Agent framework  for audio and video.
 * [Fechin/reference](https://github.com/Fechin/reference): ⭕ Share quick reference cheat sheet for developers.
-* [refly-ai/refly](https://github.com/refly-ai/refly): Not Just a Repo — A One-Click Runtime for Skills.
+* [refly-ai/refly](https://github.com/refly-ai/refly): Not just a repo — an open-source agent skills builder.
 * [liuyi91/RegEx-tools-for-word-or-wps](https://github.com/liuyi91/RegEx-tools-for-word-or-wps): word正则工具
 * [garyhouston/regexp.old](https://github.com/garyhouston/regexp.old): Henry Spencer's old regular expression library, also known as the book regex library, circa 1986.
 * [vczh-libraries/Release](https://github.com/vczh-libraries/Release): Release folder of all projects.
