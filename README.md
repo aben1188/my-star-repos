@@ -482,7 +482,7 @@
 * [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys): A Swiss Army knife for developers.
 * [devv-ai/devv](https://github.com/devv-ai/devv): An AI-powered search engine for developers.
 * [langgenius/dify](https://github.com/langgenius/dify): Production-ready platform for agentic workflow development.
-* [pontusab/directories](https://github.com/pontusab/directories): The Cursor & Windsurf community, find rules and MCPs
+* [leerob/directories](https://github.com/leerob/directories): The Cursor & Windsurf community, find rules and MCPs
 * [Miserlou/DirtyShare](https://github.com/Miserlou/DirtyShare): Peer to Peer Filesharing in Pure Javascript With Node.js and Socket.io
 * [virskor/DiscuzQ](https://github.com/virskor/DiscuzQ): Flutter open source application for DiscuzQ
 * [sabrogden/Ditto](https://github.com/sabrogden/Ditto): Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.

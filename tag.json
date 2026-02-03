@@ -3080,6 +3080,9 @@
     "lecepin/WeChatVideoDownloader": [
         "Other"
     ],
+    "leerob/directories": [
+        "Other"
+    ],
     "leidenglai/opencv-js-qrcode": [
         "Other"
     ],
@@ -3891,9 +3894,6 @@
         "Other"
     ],
     "pnpm/pnpm": [
-        "Other"
-    ],
-    "pontusab/directories": [
         "Other"
     ],
     "popjane/free_chatgpt_api": [
