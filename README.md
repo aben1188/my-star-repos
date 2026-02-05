@@ -1624,7 +1624,7 @@
 * [colin4k/wechat-article-dl](https://github.com/colin4k/wechat-article-dl): 网页文章下载，生成 pdf 保存到本地。 | Download web page as pdf file.
 * [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter): 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。  支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。
 * [meteorOSS/wechat-bc](https://github.com/meteorOSS/wechat-bc): 类似开发公众号一样，开发个人微信号
-* [cixingguangming55555/wechat-bot](https://github.com/cixingguangming55555/wechat-bot): 带二次开发接口的PC微信聊天机器人
+* [cixingguangming55555/wechat-bot](https://github.com/cixingguangming55555/wechat-bot): 和国产大模型相关的免费工具集
 * [darknightlab/wechat-bot](https://github.com/darknightlab/wechat-bot): a wechat bot using wechaty, which can archive web pages, analyze pictures, and automatically reply.
 * [wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot): 🤖一个基于 WeChaty 结合 ChatGPT / Claude / Kimi / DeepSeek / Ollama等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者社群分析/好友管理，检测僵尸粉等...
 * [zhouxiongking/wechat-calculator](https://github.com/zhouxiongking/wechat-calculator): 微信小程序之简易计算器
