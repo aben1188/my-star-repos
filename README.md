@@ -1791,7 +1791,7 @@
 * [xdebug/xdebug](https://github.com/xdebug/xdebug): Xdebug — Step Debugger and Debugging Aid for PHP
 * [longxinH/xhprof](https://github.com/longxinH/xhprof): PHP7/PHP8 support
 * [phacility/xhprof](https://github.com/phacility/xhprof): XHProf is a function-level hierarchical profiler for PHP and has a simple HTML based user interface.
-* [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader): 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件
+* [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader): 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书作品文件
 * [Yxnt/xiaoet](https://github.com/Yxnt/xiaoet): 小鹅通视频下载
 * [jiji262/xiaoetong-video-downloader](https://github.com/jiji262/xiaoetong-video-downloader): 小鹅通资源下载工具
 * [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt): Play ChatGPT and other LLM with Xiaomi AI Speaker
