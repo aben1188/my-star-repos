@@ -677,7 +677,7 @@
 * [hiro086/GPT3-4-Midjourney-StableDiffusion-Mirrors-awesome](https://github.com/hiro086/GPT3-4-Midjourney-StableDiffusion-Mirrors-awesome): 国内AI镜像站的导航大全，每天收集公开的GPT3.5+GPT4受限试用+Midjourney+StableDiffusion站点
 * [DavidOrtsac/gpt3-writer-updated](https://github.com/DavidOrtsac/gpt3-writer-updated): Awesome GPT3 tech
 * [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all): GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-* [xtekky/gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
+* [xtekky/gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 * [vdutts7/gpt4V-scraper](https://github.com/vdutts7/gpt4V-scraper): AI agent that can SEE 👁️, control, navigate, & do stuff for you on your browser.
 * [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free): Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 * [nftblackmagic/GptAssist-starter](https://github.com/nftblackmagic/GptAssist-starter): None
