@@ -55,7 +55,7 @@
 * [nsh87/.rc-files-and-scripts](https://github.com/nsh87/.rc-files-and-scripts): My .vimrc, .zshrc, .ideavimrc files and custom scripts for the terminal
 * [gpakosz/.tmux](https://github.com/gpakosz/.tmux): Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 * [phuocng/1loc](https://github.com/phuocng/1loc): What's your favorite JavaScript single LOC (line of code)?
-* [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel): 🔥 1Panel offers an intuitive web interface for Linux server, making it easy to manage OpenClaw agents, LLMs, websites, databases, containers, files, and scheduled tasks.
+* [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel): 🔥 1Panel offers an intuitive web interface for a Linux server / VPS, making it easy to manage OpenClaw agents, local LLMs, websites, databases, containers, files, and scheduled tasks.
 * [hzheng/1pass4all](https://github.com/hzheng/1pass4all): a bookmarklet to create passwords easily and securely
 * [nv-tlabs/3DiffTection](https://github.com/nv-tlabs/3DiffTection): None
 * [GAIR-NLP/abel](https://github.com/GAIR-NLP/abel): SOTA Math Opensource LLM
