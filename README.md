@@ -358,7 +358,7 @@
 * [SkywalkerDarren/chatWeb](https://github.com/SkywalkerDarren/chatWeb): ChatWeb can crawl web pages, read PDF, DOCX, TXT, and extract the main content, then answer your questions based on the content, or summarize the key points.
 * [yangg/check-cert](https://github.com/yangg/check-cert):  检查 https 证书是否临近过期时间，并通过 Server酱 通知
 * [easychen/checkchan-dist](https://github.com/easychen/checkchan-dist): Check酱：监测网页内容变化，并发送异动到微信。亦支持http status、json和rss监测。配合自架云端，关电脑后也能运行。
-* [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio): AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.
+* [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio): AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 * [w3c/chinese-ig](https://github.com/w3c/chinese-ig): Web中文兴趣组
 * [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry): The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 * [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua): :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
