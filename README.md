@@ -1320,7 +1320,6 @@
 * [luofei614/SocketLog](https://github.com/luofei614/SocketLog): 微信调试、API调试和AJAX的调试的工具，能将日志通过WebSocket输出到Chrome浏览器的console中
 * [solidjs/solid](https://github.com/solidjs/solid): A declarative, efficient, and flexible JavaScript library for building user interfaces.
 * [doDomoGu/songtang_app](https://github.com/doDomoGu/songtang_app): None
-* [lucidrains/soundstorm-pytorch](https://github.com/lucidrains/soundstorm-pytorch): Implementation of SoundStorm, Efficient Parallel Audio Generation from Google Deepmind, in Pytorch
 * [chzhcpu/Spacebuilder_4.2.0.0_src](https://github.com/chzhcpu/Spacebuilder_4.2.0.0_src): None
 * [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs): A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 * [wsdjeg/SpaceVim](https://github.com/wsdjeg/SpaceVim): A modular configuration of Vim and Neovim
