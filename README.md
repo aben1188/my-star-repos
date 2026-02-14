@@ -1162,7 +1162,7 @@
 * [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer): 一款提示词优化器，助力于编写高质量的提示词
 * [phodal/prompt-patterns](https://github.com/phodal/prompt-patterns): Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt
 * [pyronn/prompt-studio](https://github.com/pyronn/prompt-studio): Prompt Studio MidJourney提示词可视化编辑与管理工具
-* [legeling/PromptHub](https://github.com/legeling/PromptHub): 一款开源、纯本地 AI Prompt 管理工具，帮助你高效管理、版本控制和复用 Prompt | An open-source, local-first AI prompt management tool that helps you efficiently manage, version-control, and reuse your prompts
+* [legeling/PromptHub](https://github.com/legeling/PromptHub): 一款开源、纯本地 Prompt ，Skill 管理工具，帮助你高效管理、版本控制和复用 Prompt，并一键分发skill | An open-source, local-first AI prompt management tool that helps you efficiently manage, version-control, and reuse your prompts
 * [Acmesec/PromptJailbreakManual](https://github.com/Acmesec/PromptJailbreakManual): Prompt越狱手册
 * [immersive-translate/prompts](https://github.com/immersive-translate/prompts): Prompts for Immersive Translate
 * [f/prompts.chat](https://github.com/f/prompts.chat): a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
