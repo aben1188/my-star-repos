@@ -113,7 +113,7 @@
 * [OpenMOSS/AnyGPT](https://github.com/OpenMOSS/AnyGPT): Code for "AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling"
 * [any-LABS/anyGPT](https://github.com/any-LABS/anyGPT): A general purpose library for training any type of GPT model.
 * [gitbarlew/AnyGPT-on-Colab---OLLAMA-with-UI-on-Colab](https://github.com/gitbarlew/AnyGPT-on-Colab---OLLAMA-with-UI-on-Colab): Google Colab Notebook describing step by step how to run Ollama with UI on Colab and expose created user interface to the internet. 
-* [Tencent/APIJSON](https://github.com/Tencent/APIJSON): 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构 🏆 Real-Time coding-free, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and the returned JSON of API can be customized by Frontend(Client) users
+* [Tencent/APIJSON](https://github.com/Tencent/APIJSON): 🏆 Real-Time coding-free, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and the response JSON can be customized by Frontend(Client) users 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构
 * [testsla/apijson](https://github.com/testsla/apijson): ts版的apijson
 * [qq547057827/apijson-php](https://github.com/qq547057827/apijson-php): apijson的PHP版   目前只有  根据id  增删改查  和  根据字段查   而且没有递归
 * [liaozb/APIJSON.NET](https://github.com/liaozb/APIJSON.NET): 后端接口自动化 .NET CORE版本
