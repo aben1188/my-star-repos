@@ -81,7 +81,7 @@
 * [techwithtim/AI-Web-Scraper](https://github.com/techwithtim/AI-Web-Scraper): An AI web scraper using ollama, brightdata, selenium and other libraries.
 * [Aaronwn/ai-xiaohs](https://github.com/Aaronwn/ai-xiaohs): 小红书图文卡片笔记生成器
 * [BluerAngala/ai-xiaohs](https://github.com/BluerAngala/ai-xiaohs): 小红书图文卡片笔记生成器
-* [worm128/AI-YinMei](https://github.com/worm128/AI-YinMei): AI吟美-人工智能主播-Vtuber
+* [worm128/AI-YinMei](https://github.com/worm128/AI-YinMei): AI吟美-人工智能主播-Vtuber-桌宠-智能体
 * [Aider-AI/aider](https://github.com/Aider-AI/aider): aider is AI pair programming in your terminal
 * [phodal/aigc](https://github.com/phodal/aigc): 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。
 * [myshell-ai/AIlice](https://github.com/myshell-ai/AIlice): AIlice is a fully autonomous, general-purpose AI agent.
@@ -500,7 +500,7 @@
 * [huan/docker-wechat](https://github.com/huan/docker-wechat): DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux
 * [docker-archive-public/docker.compose-on-kubernetes](https://github.com/docker-archive-public/docker.compose-on-kubernetes): Deploy applications described in Compose onto Kubernetes clusters
 * [easychen/docker2saas](https://github.com/easychen/docker2saas): An open source tool that lets you create a SaaS website from docker images in 10 minutes.
-* [yeasy/docker_practice](https://github.com/yeasy/docker_practice): 最新Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
+* [yeasy/docker_practice](https://github.com/yeasy/docker_practice): 最新Docker容器技术，从真实案例中学习最佳实践！| Learn and understand Docker&Container technologies, with real DevOps practice!
 * [knative/docs](https://github.com/knative/docs): User documentation for Knative components.
 * [3choff/docs-miner](https://github.com/3choff/docs-miner): A VSCode extension that generates markdown documentation from web pages and GitHub repositories.
 * [meilisearch/docs-scraper](https://github.com/meilisearch/docs-scraper): Scrape documentation into Meilisearch
