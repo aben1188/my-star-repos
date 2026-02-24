@@ -1165,7 +1165,7 @@
 * [legeling/PromptHub](https://github.com/legeling/PromptHub): 一款开源、纯本地 Prompt ，Skill 管理工具，帮助你高效管理、版本控制和复用 Prompt，并一键分发skill | An open-source, local-first AI prompt management tool that helps you efficiently manage, version-control, and reuse your prompts
 * [Acmesec/PromptJailbreakManual](https://github.com/Acmesec/PromptJailbreakManual): Prompt越狱手册
 * [immersive-translate/prompts](https://github.com/immersive-translate/prompts): Prompts for Immersive Translate
-* [f/prompts.chat](https://github.com/f/prompts.chat): a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+* [f/prompts.chat](https://github.com/f/prompts.chat): f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 * [PromptSmith-OSS/promptsmith](https://github.com/PromptSmith-OSS/promptsmith): A prompt engineering solution to manage AI prompts easily.
 * [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool): Python ProxyPool for web spider
 * [derekhe/ProxyPool](https://github.com/derekhe/ProxyPool): 高质量免费代理池——每日1w+代理资源滚动更新
