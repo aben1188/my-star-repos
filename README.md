@@ -151,7 +151,7 @@
 * [axtrur/awesome-ai-system-prompts](https://github.com/axtrur/awesome-ai-system-prompts): 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, windsurf, notion, and MetaAI. 
 * [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts): 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, windsurf, notion, and MetaAI. 
 * [jiji262/awesome-AIGC-tools](https://github.com/jiji262/awesome-AIGC-tools): AIGC information including ChatGPT , GPT-4 and others.
-* [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools): Collection of AI-related utilities. Welcome to submit issues and pull requests /收藏AI相关的实用工具，欢迎提交issues 或者pull requests
+* [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools): Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests
 * [awesome-algorand/awesome-algorand](https://github.com/awesome-algorand/awesome-algorand): ⚡A curated list of awesome resources related to the Ⱥlgorand Blockchain ⛓
 * [snowdream/awesome-android](https://github.com/snowdream/awesome-android): android libs from github or other websites
 * [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence): A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
