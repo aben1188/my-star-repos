@@ -446,7 +446,7 @@
 * [Jackardios/css-to-tailwindcss](https://github.com/Jackardios/css-to-tailwindcss): Convert CSS to TailwindCSS 3.x
 * [jolaleye/cssfx](https://github.com/jolaleye/cssfx): ✨ Beautifully simple click-to-copy CSS effects
 * [CSSLint/csslint](https://github.com/CSSLint/csslint): Automated linting of Cascading Stylesheets
-* [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp): TalkToFigma: MCP integration between Cursor and Figma, allowing Cursor Agentic AI to communicate with Figma for reading designs and modifying them programmatically.
+* [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp): TalkToFigma: MCP integration between AI Agent (Cursor, Claude) and Figma, allowing Agentic AI to communicate with Figma for reading designs and modifying them programmatically.
 * [vlianx/CuteHttpFileServer](https://github.com/vlianx/CuteHttpFileServer): None
 * [itsOwen/CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077): A Powerful web scraper powered by LLM | OpenAI, Gemini & Ollama
 * [walkerRnD/daisy-svelte](https://github.com/walkerRnD/daisy-svelte): Svelte components for Daisy UI
