@@ -32,7 +32,6 @@
 
 ## WeChat
 
-* [geeeeeeeeek/electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat): :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 * [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat): A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
 
 ### Mini Program
@@ -552,6 +551,7 @@
 * [electron/electron](https://github.com/electron/electron): :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 * [LuanRoger/electron-shadcn](https://github.com/LuanRoger/electron-shadcn): :electron: Electron Forge with shadcn-ui (Vite + Typescript)
 * [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue): 🥳 Really simple Electron + Vite + Vue boilerplate.
+* [zhongyi-tong/electronic-wechat](https://github.com/zhongyi-tong/electronic-wechat): :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 * [ElemeFE/element](https://github.com/ElemeFE/element): A Vue.js 2.0 UI Toolkit for Web
 * [elizaOS/eliza](https://github.com/elizaOS/eliza): Autonomous agents for everyone
 * [purcell/emacs.d](https://github.com/purcell/emacs.d): An Emacs configuration bundle with batteries included
