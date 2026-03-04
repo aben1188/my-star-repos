@@ -836,7 +836,7 @@
 * [overtrue/laravel-wechat](https://github.com/overtrue/laravel-wechat): 微信 SDK for Laravel, 基于 overtrue/wechat
 * [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR): pix2tex: Using a ViT to convert images of equations into LaTeX code.
 * [mosn/layotto](https://github.com/mosn/layotto): A fast and efficient cloud native application runtime
-* [layui/layui](https://github.com/layui/layui): 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
+* [layui/layui](https://github.com/layui/layui): 一套遵循浏览器原生态开发模式的 Web UI 组件库。
 * [xiaosier/lazyfans](https://github.com/xiaosier/lazyfans): 微博粉丝服务平台开发框架
 * [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim): Neovim config for the lazy
 * [Yggdroot/LeaderF](https://github.com/Yggdroot/LeaderF): An efficient fuzzy finder that helps to locate files, buffers, mrus, gtags, etc. on the fly for both vim and neovim.
