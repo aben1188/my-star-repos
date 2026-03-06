@@ -281,6 +281,7 @@
 * [akl7777777/bob-plugin-akl-deepl-free-translate](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate): **DeepL免秘钥,免启服务**,双击使用,免费无限次使用,(**新增DeepL单词查询功能**)根据网页版JavaScript加密算法逆向开发的bobplugin;所以只要官网的算法不改,理论上就可以无限使用;(重大更新!!!回馈老用户,现已优化,频繁访问后仍然可以继续免费翻译!!) **apiKey is not required,No account password required**
 * [nextai-translator/bob-plugin-openai-translator](https://github.com/nextai-translator/bob-plugin-openai-translator): 基于 LLM 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0
 * [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new): Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz
+* [zu1k/book-searcher](https://github.com/zu1k/book-searcher): Easy and blazing-fast book searcher, create and search your private library.
 * [hejinzhi/bookLibrary-wepy](https://github.com/hejinzhi/bookLibrary-wepy): None
 * [programthink/books](https://github.com/programthink/books): 【编程随想】收藏的电子书清单（多个学科，含下载链接）
 * [twbs/bootstrap](https://github.com/twbs/bootstrap): The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -294,7 +295,6 @@
 * [akazwz/browserproxy](https://github.com/akazwz/browserproxy): proxy and protect your headless chrome
 * [browserslist/browserslist](https://github.com/browserslist/browserslist): 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
 * [usebruno/bruno](https://github.com/usebruno/bruno): Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
-* [zu1k/bs-core](https://github.com/zu1k/bs-core): Easy and blazing-fast book searcher, create and search your private library.
 * [ywfwj2008/bt-panel](https://github.com/ywfwj2008/bt-panel): 本Docker基于宝塔Linux面板,集成环境包含 Nginx PHP5.6 PHP7 FTP等基本服务
 * [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): Master programming by recreating your favorite technologies from scratch.
 * [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator):  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
