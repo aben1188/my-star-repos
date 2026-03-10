@@ -1295,7 +1295,7 @@
 * [Kerinlin/simple-electron-vue-template](https://github.com/Kerinlin/simple-electron-vue-template): A start template with the latest electron and vue-cli4
 * [yujiandong/simpleforum](https://github.com/yujiandong/simpleforum): Simple Forum
 * [simplewebrtc/SimpleWebRTC](https://github.com/simplewebrtc/SimpleWebRTC): Simplest WebRTC ever
-* [flatlogic/sing-app-vue-dashboard](https://github.com/flatlogic/sing-app-vue-dashboard): Vue.js admin dashboard template built with Bootstrap 4.5
+* [flatlogic/sing-app-vue-dashboard](https://github.com/flatlogic/sing-app-vue-dashboard): Vue 3 admin dashboard template built with Bootstrap 5
 * [SagerNet/sing-box](https://github.com/SagerNet/sing-box): The universal proxy platform
 * [sveltejs/sites](https://github.com/sveltejs/sites): None
 * [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan): A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
