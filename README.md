@@ -448,6 +448,7 @@
 * [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp): TalkToFigma: MCP integration between AI Agent (Cursor, Claude Code) and Figma, allowing Agentic AI to communicate with Figma for reading designs and modifying them programmatically.
 * [vlianx/CuteHttpFileServer](https://github.com/vlianx/CuteHttpFileServer): None
 * [itsOwen/CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077): A Powerful web scraper powered by LLM | OpenAI, Gemini & Ollama
+* [nearmetips/DailiCode](https://github.com/nearmetips/DailiCode): AI agent that is compatible with multiple LLM models
 * [walkerRnD/daisy-svelte](https://github.com/walkerRnD/daisy-svelte): Svelte components for Daisy UI
 * [saadeghi/daisyui](https://github.com/saadeghi/daisyui): 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 * [doxx/darkflare](https://github.com/doxx/darkflare): DarkFlare Firewall Piercing (TCP over CDN)
