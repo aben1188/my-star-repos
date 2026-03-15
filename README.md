@@ -1232,7 +1232,7 @@
 * [refly-ai/refly](https://github.com/refly-ai/refly): The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more. Build Clawdbot 🦞· APIs for Lovable · Bots for Slack & Lark/Feishu · Skills are infrastructure, not prompts.
 * [liuyi91/RegEx-tools-for-word-or-wps](https://github.com/liuyi91/RegEx-tools-for-word-or-wps): word正则工具
 * [garyhouston/regexp.old](https://github.com/garyhouston/regexp.old): Henry Spencer's old regular expression library, also known as the book regex library, circa 1986.
-* [vczh-libraries/Release](https://github.com/vczh-libraries/Release): Release folder of all projects.
+* [vczh-libraries/Release](https://github.com/vczh-libraries/Release): Release folder of all projects, mainly for GacUI: Native C++ UI library, cross-platform, MVVM and data binding, XML description, multi-language, core/renderer cross-process separation, etc
 * [chuckcarpenter/REM-unit-polyfill](https://github.com/chuckcarpenter/REM-unit-polyfill): A polyfill to parse CSS links and rewrite pixel equivalents into head for non supporting browsers 
 * [remix-run/remix](https://github.com/remix-run/remix): Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 * [remotion-dev/remotion](https://github.com/remotion-dev/remotion): 🎥      Make videos programmatically with React
