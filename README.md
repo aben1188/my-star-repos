@@ -662,7 +662,7 @@
 * [xitu/gold-miner](https://github.com/xitu/gold-miner): 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 * [goldendict/goldendict](https://github.com/goldendict/goldendict): A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, illustrations and other content retained, and allowing you to type in words without any accents or correct case.
 * [guyigenius/Google-Baidu-Bing-360-Sogou-Weibo-Twitter](https://github.com/guyigenius/Google-Baidu-Bing-360-Sogou-Weibo-Twitter): Show results from Baidu, Bing, 360, Sogou, Weibo and Twitter in Google web search. | 在Google网页搜索显示百度、必应、360、搜狗、微博和Twitter的搜索结果。
-* [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed): A modern download manager that supports all platforms.  Built with Golang and Flutter.
+* [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed):   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ED2K. Cross-platform, built with Golang and Flutter.
 * [AlloyTeam/gopng](https://github.com/AlloyTeam/gopng): GoPng - a HTML5 css sprite generator with cool feature.
 * [ginuerzh/gost](https://github.com/ginuerzh/gost): GO Simple Tunnel - a simple tunnel written in golang
 * [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte): Goutte, a simple PHP Web Scraper
