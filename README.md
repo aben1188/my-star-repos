@@ -1707,7 +1707,7 @@
 * [dedemao/weixinPay](https://github.com/dedemao/weixinPay): 微信支付单文件版。一个PHP文件搞定微信支付系列。包括原生支付（扫码支付），H5支付，公众号支付，现金红包、企业付款到零钱等。新增V3版。
 * [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan): 文言文編程語言 A programming language for the ancient Chinese.
 * [wetools/wept](https://github.com/wetools/wept): 微信小程序多端实时运行工具
-* [Tencent/wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
+* [Tencent/wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架 - 已归档
 * [zhaotoday/wepy](https://github.com/zhaotoday/wepy): Develop a mini program based on WePY. 基于 WePY，以 Web 前端的开发风格开发微信小程序。
 * [KingJeason/wepy-books](https://github.com/KingJeason/wepy-books): 微信小程序/wepy/图书商城
 * [CalvinHong/wepy-com-charts](https://github.com/CalvinHong/wepy-com-charts): 基于微信小程序canvas的图表控件，适用于wepy框架
