@@ -230,6 +230,7 @@
 * [xjh22222228/awesome-web-editor](https://github.com/xjh22222228/awesome-web-editor): 🔨  Open source WEB editor summary
 * [Aufree/awesome-wechat-weapp](https://github.com/Aufree/awesome-wechat-weapp): None
 * [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp): 微信小程序开发资源汇总 :100:
+* [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp): 微信小程序开发资源汇总 :100:
 * [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper): 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
 * [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins): A collection of ZSH frameworks, plugins, themes and tutorials.
 * [ericpd/awesome_ChatGPT4-WebLinks](https://github.com/ericpd/awesome_ChatGPT4-WebLinks): The main purpose of Awesome_ChatGPT4_WebLinks repository is to gather links to websites that are using ChatGPT4 artificial intelligence technology to achieve their goals. By sharing links that demonstrate the use of AI and ChatGPT4 in various applications, you can help developers and enthusiasts in this field to learn and grow.
