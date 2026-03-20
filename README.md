@@ -512,7 +512,6 @@
 * [sparkandshine/documents](https://github.com/sparkandshine/documents): None
 * [taijiweb/domcom](https://github.com/taijiweb/domcom): the web framework to provide dom component
 * [amiyasahu/Donut](https://github.com/amiyasahu/Donut): Modern and Responsive theme for Question2Answer ( Q2A ) websites 
-* [shionphan/Donut-theme-admin-Simplified-Chinese](https://github.com/shionphan/Donut-theme-admin-Simplified-Chinese): Donut Theme Admin Simplified Chinese packages, Base on Donut theme for question2answer
 * [humiaozuzu/dot-vimrc](https://github.com/humiaozuzu/dot-vimrc): Maple's vim config files
 * [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles): :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 * [taizilongxu/dotfiles](https://github.com/taizilongxu/dotfiles): 迁移配置文件
@@ -1189,7 +1188,6 @@
 * [awaluk/q2a-api](https://github.com/awaluk/q2a-api): [Question2Answer plugin] Adds simple API to serve some data as JSON
 * [pjkui/q2a-behaviac-editor](https://github.com/pjkui/q2a-behaviac-editor): None
 * [pjkui/q2a-captcha-antibot](https://github.com/pjkui/q2a-captcha-antibot): None
-* [shionphan/q2a-ckeditor](https://github.com/shionphan/q2a-ckeditor): Modifyed by ckeditor and Question2Answer wysiwyg-editor
 * [pjkui/q2a-image-zoom](https://github.com/pjkui/q2a-image-zoom): None
 * [yinhongbo/q2a-lang-cn](https://github.com/yinhongbo/q2a-lang-cn): Question2Answer zh_CN lang package
 * [awaluk/q2a-latest-users](https://github.com/awaluk/q2a-latest-users): [Question2Answer plugin] Show latest registered and latest logged users
@@ -1333,7 +1331,6 @@
 * [yanyiwu/sqljieba](https://github.com/yanyiwu/sqljieba): Jieba Mysql Full-Text Parser Plugin
 * [rime/squirrel](https://github.com/rime/squirrel): 【鼠鬚管】Rime for macOS
 * [v3ucn/sse_tornado6_vuejs3](https://github.com/v3ucn/sse_tornado6_vuejs3): 基于Python3.10异步非阻塞框架Tornado6.0和前端Vue.js3框架实现ChatGPT的流式返回协议Server-sent events
-* [shionphan/sslzoo](https://github.com/shionphan/sslzoo): Question2Answer bootstrap theme
 * [evangui/sso](https://github.com/evangui/sso): PHP版单点登陆实现方案。可以跨多个主域名、跨多个应用（含网页与app客户端）的单点登录。已投入实际运营超过8年。
 * [jasny/sso](https://github.com/jasny/sso): Simple Single Sign-On for PHP
 * [zhangyuang/ssr](https://github.com/zhangyuang/ssr): A most advanced ssr framework support React17/React18/Vue2/Vue3 on Earth that implemented serverless-side render specification.
