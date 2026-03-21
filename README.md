@@ -200,7 +200,7 @@
 * [kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes](https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes): What can I do with a LLM model?
 * [KennethanCeyer/awesome-llmops](https://github.com/KennethanCeyer/awesome-llmops): Awesome series for LLMOps
 * [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps): An awesome & curated list of best LLMOps tools for developers
-* [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+* [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 * [ICTMCG/Awesome-Machine-Generated-Text](https://github.com/ICTMCG/Awesome-Machine-Generated-Text): Continuously updated list of related resources for generative LLMs like GPT and their analysis and detection.
 * [parro-it/awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages): A curated list of small, focused npm packages.
 * [Lupin1998/Awesome-MIM](https://github.com/Lupin1998/Awesome-MIM): [Survey] Masked Modeling for Self-supervised Representation Learning on Vision and Beyond (https://arxiv.org/abs/2401.00897)
