@@ -785,7 +785,7 @@
 * [lijialong1314/JDUnionAPIV2](https://github.com/lijialong1314/JDUnionAPIV2): 京东联盟新版接口PHPSDK
 * [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin): The Free Software Media System - Server Backend & API
 * [fxsjy/jieba](https://github.com/fxsjy/jieba): 结巴中文分词
-* [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport): Open-source Chart2BI and REPORT tool alternative to Tableau and JasperReports, offering powerful reporting capabilities. 一款类似Excel的AI报表工具和大屏！完全在线傻瓜式AI设计，高效降低报表开发难度，解决各类报表难题。
+* [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport): 开源的报表工具与BI大屏，可替代 Tableau 和 JasperReports，提供强大的报表能力。一款类似Excel的报表设计器和大屏设计！完全在线傻瓜式拖拽设计，高效降低报表开发难度，解决各类报表难题。
 * [sebastienros/jint](https://github.com/sebastienros/jint): Javascript Interpreter for .NET
 * [KiWi233333/JiwuChat](https://github.com/KiWi233333/JiwuChat): JiwuChat 🍂 : 轻量级跨平台IM聊天应用，集成AI机器人( DeepSeek/Gemini/Kimi... )、音视频通话及AI购物。支持多端消息同步，自定义主题，高效便捷  🍒
 * [JPressProjects/jpress](https://github.com/JPressProjects/jpress): JPress，一个使用 Java 开发的建站神器，目前已经有 10w+ 网站使用 JPress 进行驱动，其中包括多个政府机构，200+上市公司，中科院、红+字会等。
