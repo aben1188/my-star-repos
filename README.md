@@ -567,6 +567,7 @@
 * [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website): Ethereum.org is a primary online resource for the Ethereum community.
 * [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat): 微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）
 * [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english): 人人都能用英语
+* [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code): The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 * [circlestarzero/EX-chatGPT](https://github.com/circlestarzero/EX-chatGPT): Let ChatGPT truly learn how to go online and call APIs! 'EX-ChatGPT' can rival and even surpass NewBing
 * [exo-explore/exo](https://github.com/exo-explore/exo): Run frontier AI locally.
 * [arv/ExplorerCanvas](https://github.com/arv/ExplorerCanvas): Canvas for IE8 and older
@@ -633,6 +634,7 @@
 * [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books): :books: 极客时间电子书
 * [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli): An open-source AI agent that brings the power of Gemini directly into your terminal.
 * [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents): Generative Agents: Interactive Simulacra of Human Behavior
+* [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done): A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 * [wechaty/getting-started](https://github.com/wechaty/getting-started): A Starter Project Template for Wechaty works out-of-the-box
 * [breakwa11/GFWList2PAC](https://github.com/breakwa11/GFWList2PAC): GFWList2PAC
 * [zfl9/gfwlist2privoxy](https://github.com/zfl9/gfwlist2privoxy): 将 gfwlist.txt（Adblock Plus 规则）转换为 privoxy.action
@@ -1350,6 +1352,7 @@
 * [ygh3279799773/streamer-card](https://github.com/ygh3279799773/streamer-card): 流光卡片API
 * [BlackGlory/subtitle-translate-tmt](https://github.com/BlackGlory/subtitle-translate-tmt): 🌳 使用腾讯机器翻译 API 为 PotPlayer 翻译实时字幕.
 * [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory): Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+* [obra/superpowers](https://github.com/obra/superpowers): An agentic skills framework & software development methodology that works.
 * [NeoVertex1/SuperPrompt](https://github.com/NeoVertex1/SuperPrompt): SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.
 * [umaplehurst/SuperPrompt.gemini](https://github.com/umaplehurst/SuperPrompt.gemini): SuperPrompt for Gemini
 * [sutandojs/sutando](https://github.com/sutandojs/sutando): Sutando is a modern Node.js ORM, like Laravel Eloquent.
