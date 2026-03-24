@@ -218,7 +218,7 @@
 * [zhouxinkai/awesome-python3-webapp](https://github.com/zhouxinkai/awesome-python3-webapp): None
 * [aloisdg/awesome-regex](https://github.com/aloisdg/awesome-regex): A curated collection of awesome Regex libraries, tools, frameworks and software
 * [jondot/awesome-rust-llm](https://github.com/jondot/awesome-rust-llm): 🦀 A curated list of Rust tools, libraries, and frameworks for working with LLMs, GPT, AI
-* [Wekoi/awesome-scripts](https://github.com/Wekoi/awesome-scripts): useful scripts for Linux op
+* [wekoi-oss/awesome-scripts](https://github.com/wekoi-oss/awesome-scripts): useful scripts for Linux op
 * [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 * [bkrem/awesome-solidity](https://github.com/bkrem/awesome-solidity): ⟠ A curated list of awesome Solidity resources, libraries, tools and more
 * [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss): 😎 Awesome things related to Tailwind CSS
