@@ -1298,6 +1298,7 @@
 * [simplewebrtc/SimpleWebRTC](https://github.com/simplewebrtc/SimpleWebRTC): Simplest WebRTC ever
 * [flatlogic/sing-app-vue-dashboard](https://github.com/flatlogic/sing-app-vue-dashboard): Vue 3 admin dashboard template built with Bootstrap 5
 * [SagerNet/sing-box](https://github.com/SagerNet/sing-box): The universal proxy platform
+* [modelscope/sirchmunk](https://github.com/modelscope/sirchmunk): 🐿️ Sirchmunk:  Raw data to self-evolving intelligence, real-time.
 * [sveltejs/sites](https://github.com/sveltejs/sites): None
 * [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan): A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 * [langzhou/siyuan-note](https://github.com/langzhou/siyuan-note): 思源笔记美化教程
