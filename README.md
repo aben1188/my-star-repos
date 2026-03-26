@@ -381,6 +381,7 @@
 * [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master): An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 * [nakkag/CLCL](https://github.com/nakkag/CLCL): None
 * [npm/cli](https://github.com/npm/cli): the package manager for JavaScript
+* [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything): CLI-Anything: Making ALL Software Agent-Native
 * [cline/cline](https://github.com/cline/cline): Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 * [clipturbo/clipturbo](https://github.com/clipturbo/clipturbo): 小视频宝：AI 驱动的视频生成工具，一键生成高质量营销视频 AI-powered video generation tool for creating high-quality marketing videos with one click.
 * [google/closure-library](https://github.com/google/closure-library): Google's common JavaScript library
@@ -947,6 +948,7 @@
 * [mipengine/mip2](https://github.com/mipengine/mip2): MIP (移动网页加速器)通过优化网页JS、控制资源加载顺序，达到加速网页的效果。
 * [mamoe/mirai](https://github.com/mamoe/mirai): 高效率 QQ 机器人支持库
 * [Mrs4s/MiraiGo](https://github.com/Mrs4s/MiraiGo): qq协议的golang实现, 移植于mirai
+* [666ghj/MiroFish](https://github.com/666ghj/MiroFish): A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 * [ethereum/mist](https://github.com/ethereum/mist): [DEPRECATED] Mist. Browse and use Ðapps on the Ethereum network.
 * [mix-php/mix](https://github.com/mix-php/mix): ☄️  PHP CLI mode development framework, supports Swoole, WorkerMan, FPM, CLI-Server / PHP 命令行模式开发框架，支持 Swoole、Swow、WorkerMan、FPM、CLI-Server
 * [amazon-science/mm-cot](https://github.com/amazon-science/mm-cot): Official implementation for "Multimodal Chain-of-Thought Reasoning in Language Models" (stay tuned and more will be updated)
