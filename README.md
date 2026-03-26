@@ -956,6 +956,7 @@
 * [mochat-cloud/mochat-docker](https://github.com/mochat-cloud/mochat-docker): 🐳 The docker image offered by MoChat.
 * [nuysoft/Mock](https://github.com/nuysoft/Mock): A simulation data generator
 * [Modernizr/Modernizr](https://github.com/Modernizr/Modernizr): Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
+* [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2): Automate the process of making money online.
 * [Seldaek/monolog](https://github.com/Seldaek/monolog): Sends your logs to files, sockets, inboxes, databases and various web services
 * [waza-ari/monolog-mysql](https://github.com/waza-ari/monolog-mysql): MySQL Handler for Monolog, which allows to store log messages to a MySQL Table
 * [xdmjun/mp-unpack](https://github.com/xdmjun/mp-unpack): None
