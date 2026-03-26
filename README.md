@@ -457,6 +457,7 @@
 * [itwanger/daxigua](https://github.com/itwanger/daxigua): 合成大西瓜未修改版本源码，可直接在浏览器运行
 * [liyupi/daxigua](https://github.com/liyupi/daxigua): 最简单的魔改发布『 合成大西瓜 』，配套改图工具，不用改代码，修改配置即可！
 * [iamkun/dayjs](https://github.com/iamkun/dayjs): ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
+* [RhinocerosXS/Deep-GraphRAG-recurrence](https://github.com/RhinocerosXS/Deep-GraphRAG-recurrence):  基于论文《Deep GraphRAG》的实现，一个结合知识图谱和RAG技术的深度检索增强生成框架.
 * [ErlichLiu/DeepClaude](https://github.com/ErlichLiu/DeepClaude): Unleash Next-Level AI! 🚀  💻 Code Generation: DeepSeek r1 + Claude 3.7 Sonnet - Unparalleled Performance! 📝 Content Creation: DeepSeek r1 + Gemini 2.5 Pro - Superior Quality! 🔌 OpenAI-Compatible. 🌊 Streaming & Non-Streaming Support.  ✨ Experience the Future of AI – Today! Click to Try Now! ✨
 * [tisfeng/deepl-cli](https://github.com/tisfeng/deepl-cli): A simple DeepL Translation command line program written in Python that does not require key.  一个使用 Python 编写、无需 auth_key 的 DeepL 翻译命令行工具。
 * [dirk1983/deepseek](https://github.com/dirk1983/deepseek): 演示站可以免费使用deepseek-r1满血模型进行AI对话，并支持使用stablediffusion模型画图。本项目是PHP版调用DeepSeek第三方接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开，适合PHP初学者。保姆级教程，账号等周边资源，欢迎进群交流，一切全免费。
