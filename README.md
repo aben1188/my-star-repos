@@ -88,7 +88,7 @@
 * [aircodelabs/aircode](https://github.com/aircodelabs/aircode): Build and ship Node.js serverless functions in a coffee break.
 * [lyogavin/airllm](https://github.com/lyogavin/airllm): AirLLM 70B inference with single 4GB GPU
 * [Airtable/airtable.js](https://github.com/Airtable/airtable.js): Airtable javascript client
-* [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox): 🤖 Automatically collected AI : repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎
+* [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox): 🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎
 * [ethereum/aleth](https://github.com/ethereum/aleth): Aleth – Ethereum C++ client, tools and libraries
 * [aliceui/aliceui.github.io](https://github.com/aliceui/aliceui.github.io): 写样式的一种方式
 * [dedemao/alipay](https://github.com/dedemao/alipay): 一个PHP文件搞定支付宝支付系列，包括电脑网站支付，手机网站支付，现金红包、消费红包、扫码支付，JSAPI支付、单笔转账到支付宝账户、交易结算（分账、分润）、网页授权获取用户信息等
