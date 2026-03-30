@@ -1356,6 +1356,7 @@
 * [BlackGlory/subtitle-translate-tmt](https://github.com/BlackGlory/subtitle-translate-tmt): 🌳 使用腾讯机器翻译 API 为 PotPlayer 翻译实时字幕.
 * [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory): Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 * [obra/superpowers](https://github.com/obra/superpowers): An agentic skills framework & software development methodology that works.
+* [jnMetaCode/superpowers-zh](https://github.com/jnMetaCode/superpowers-zh): 🦸 AI 编程超能力 · 中文增强版 — superpowers（99k+ ⭐）完整汉化 + 6 个中国原创 skills，让 OpenClaw / Claude Code / Cursor / Windsurf / Kiro / Gemini CLI 等 14 款 AI 编程工具真正会干活
 * [NeoVertex1/SuperPrompt](https://github.com/NeoVertex1/SuperPrompt): SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.
 * [umaplehurst/SuperPrompt.gemini](https://github.com/umaplehurst/SuperPrompt.gemini): SuperPrompt for Gemini
 * [sutandojs/sutando](https://github.com/sutandojs/sutando): Sutando is a modern Node.js ORM, like Laravel Eloquent.
