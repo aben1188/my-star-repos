@@ -694,7 +694,7 @@
 * [phodal/growth-ebook](https://github.com/phodal/growth-ebook): Growth Engineering: The Definitive Guide。全栈增长工程师指南
 * [phodal/growth-in-action](https://github.com/phodal/growth-in-action): 全栈增长工程师实战
 * [phodal/growth-ionic](https://github.com/phodal/growth-ionic): [v2.0 DEPRECATED, please update to Growth 3.0] Growth - App to help you Be Awesome Developer & Awesome Hacker
-* [garrytan/gstack](https://github.com/garrytan/gstack): Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+* [garrytan/gstack](https://github.com/garrytan/gstack): Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 * [Tencent/GT](https://github.com/Tencent/GT): GT (Great Tit) is a portable debugging tool for bug hunting and performance tuning on smartphones anytime and anywhere just as listening music with Walkman. GT can act as the Integrated Debug Environment by directly running on smartphones.
 * [sindresorhus/guides](https://github.com/sindresorhus/guides): A collection of succinct guides - Public Domain
 * [gulpjs/gulp](https://github.com/gulpjs/gulp): A toolkit to automate & enhance your workflow
