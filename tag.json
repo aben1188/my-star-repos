@@ -1547,6 +1547,9 @@
     "bsdayo/BingChat": [
         "Other"
     ],
+    "buildship-ai/LLM-Web-Crawler": [
+        "Other"
+    ],
     "bullhe4d/bigwatermelon": [
         "Other"
     ],
@@ -2715,12 +2718,6 @@
         "Other"
     ],
     "jason-gao/SocketLog": [
-        "Other"
-    ],
-    "javayhu/free-directory-boilerplate": [
-        "Other"
-    ],
-    "javayhu/free-directory-sanity": [
         "Other"
     ],
     "jayZOU/skeleton": [
@@ -4116,9 +4113,6 @@
         "Other"
     ],
     "rough-stuff/wired-elements": [
-        "Other"
-    ],
-    "rowyio/LLM-Web-Crawler": [
         "Other"
     ],
     "rprichard/winpty": [

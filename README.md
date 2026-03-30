@@ -617,8 +617,6 @@
 * [liancheng/found](https://github.com/liancheng/found): A dead-simple wrapper over locate and xdg-open to search and open files
 * [Setasign/FPDF](https://github.com/Setasign/FPDF): FPDF is a PHP class which allows to generate PDF files with pure PHP. F from FPDF stands for Free: you may use it for any kind of usage and modify it to suit your needs.
 * [Setasign/FPDI](https://github.com/Setasign/FPDI): FPDI is a collection of PHP classes facilitating developers to read pages from existing PDF documents and use them as templates in FPDF.
-* [javayhu/free-directory-boilerplate](https://github.com/javayhu/free-directory-boilerplate): The Open Source Directory Boilerplate
-* [javayhu/free-directory-sanity](https://github.com/javayhu/free-directory-sanity): The CMS (Sanity Studio) of The Open Source Directory Boilerplate
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
 * [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN): :books: 免费的计算机编程类中文书籍，欢迎投稿
 * [popjane/free_chatgpt_api](https://github.com/popjane/free_chatgpt_api): 🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、Cherry Studio、沉浸式翻译等项目使用
@@ -790,7 +788,7 @@
 * [fxsjy/jieba](https://github.com/fxsjy/jieba): 结巴中文分词
 * [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport): 开源的报表工具与BI大屏，可替代 Tableau 和 JasperReports，提供强大的报表能力。一款类似Excel的报表设计器和大屏设计！完全在线傻瓜式拖拽设计，高效降低报表开发难度，解决各类报表难题。
 * [sebastienros/jint](https://github.com/sebastienros/jint): Javascript Interpreter for .NET
-* [KiWi233333/JiwuChat](https://github.com/KiWi233333/JiwuChat): JiwuChat 🍂 : 轻量级跨平台IM聊天应用，集成AI机器人( DeepSeek/Gemini/Kimi... )、音视频通话及AI购物。支持多端消息同步，自定义主题，高效便捷  🍒
+* [KiWi233333/JiwuChat](https://github.com/KiWi233333/JiwuChat): JiwuChat 🍂 - A lightweight cross-platform instant messaging app with integrated AI assistants (DeepSeek/Gemini/Kimi). Features real-time messaging, audio/video calls, multi-device sync, and customizable themes. Built with Vue3 & Tauri2 🍒
 * [JPressProjects/jpress](https://github.com/JPressProjects/jpress): JPress，一个使用 Java 开发的建站神器，目前已经有 10w+ 网站使用 JPress 进行驱动，其中包括多个政府机构，200+上市公司，中科院、红+字会等。
 * [jquery/jquery](https://github.com/jquery/jquery): jQuery JavaScript Library
 * [jquery/jquery-migrate](https://github.com/jquery/jquery-migrate): A development tool to help migrate away from APIs and features that have been or will be removed from jQuery core
@@ -877,7 +875,7 @@
 * [koji/LLM-PromptEngineering-Agents](https://github.com/koji/LLM-PromptEngineering-Agents): ChatGPT, related application + prompt engineering list
 * [changyeyu/LLM-RL-Visualized](https://github.com/changyeyu/LLM-RL-Visualized): 🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献！💥（100+  LLM/RL Algorithm Maps ）
 * [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper): Turn any webpage into structured data using LLMs
-* [rowyio/LLM-Web-Crawler](https://github.com/rowyio/LLM-Web-Crawler): Web Scraper and Crawler for LLM Apps and AI Workflows with NoCode / LowCode. Plug and play with your own logic and customize it flexibly and scalably on BuildShip.
+* [buildship-ai/LLM-Web-Crawler](https://github.com/buildship-ai/LLM-Web-Crawler): Web Scraper and Crawler for LLM Apps and AI Workflows with NoCode / LowCode. Plug and play with your own logic and customize it flexibly and scalably on BuildShip.
 * [lobehub/lobehub](https://github.com/lobehub/lobehub): The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
 * [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher): Fully local web research and report writing assistant
 * [Kerinlin/localMusicPlayer](https://github.com/Kerinlin/localMusicPlayer): Audio player that play local audio files and show audio spectrum.
