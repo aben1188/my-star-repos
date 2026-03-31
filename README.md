@@ -599,7 +599,7 @@
 * [php-fig/fig-standards](https://github.com/php-fig/fig-standards): Standards either proposed or approved by the Framework Interop Group
 * [finogeeks/finclip-ios-demo](https://github.com/finogeeks/finclip-ios-demo): 小程序容器 FinClip 苹果运行环境，让小程序在苹果应用中无缝运行  / iOS DEMO for FinClip
 * [mozilla/Fira](https://github.com/mozilla/Fira): Mozilla's new typeface, used in Firefox OS
-* [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl): 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+* [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl): 🔥 The Web Data API for AI - Power AI agents with clean web data
 * [nickscamara/firecrawl-openai-realtime](https://github.com/nickscamara/firecrawl-openai-realtime): Realtime API with Firecrawl Tool - Forked from the OpenAI Realtime Console
 * [firecrawl/firecrawl-py](https://github.com/firecrawl/firecrawl-py): Crawl and convert any website into clean markdown
 * [someone1128/firefly_card_google](https://github.com/someone1128/firefly_card_google): 流光卡片：优雅的文字美化Chrome插件，将普通文字转化为视觉艺术品的开源工具。支持Markdown、自定义背景和无水印分享
