@@ -378,6 +378,8 @@
 * [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev): A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 * [2dust/clashN](https://github.com/2dust/clashN): A clash client for Windows, support Mihomo
 * [steipete/claude-code-mcp](https://github.com/steipete/claude-code-mcp): Claude Code as one-shot MCP server to have an agent in your agent.
+* [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto): A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+* [lhfer/claude-howto-zh-cn](https://github.com/lhfer/claude-howto-zh-cn): Claude Code 中文全面上手指南。基于 luongnv89/claude-howto 本土化重写，面向中国小白用户，保留命令与配置兼容性，并附学习路径与本地化校验护栏。
 * [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master): An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 * [nakkag/CLCL](https://github.com/nakkag/CLCL): None
 * [npm/cli](https://github.com/npm/cli): the package manager for JavaScript
@@ -716,6 +718,7 @@
 * [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way): 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 * [tvvocold/How-To-Ask-Questions-The-Smart-Way](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way): How To Ask Questions The Smart Way 《提问的智慧》中文版
 * [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money): 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
+* [Gifted-Dreamers/HowtoClaude](https://github.com/Gifted-Dreamers/HowtoClaude): Relationship-first practices for human-AI collaboration
 * [biancangming/howtools](https://github.com/biancangming/howtools): 一个简单的JavaScript常用函数工具库
 * [hstarorg/HstarDoc](https://github.com/hstarorg/HstarDoc): My blogs write with markdown.
 * [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas): Screenshots with JavaScript
