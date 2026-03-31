@@ -140,7 +140,7 @@
 * [postcss/autoprefixer](https://github.com/postcss/autoprefixer):  Parse CSS and add vendor prefixes to rules by Can I Use
 * [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper): A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 * [bneijt/autotrash](https://github.com/bneijt/autotrash): Tool to automatically purge old trashed files
-* [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia): Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
+* [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia): Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
 * [EmbraceAGI/Awesome-AGI](https://github.com/EmbraceAGI/Awesome-AGI): A curated list of awesome AGI frameworks, software and resources
 * [lencx/awesome-ai](https://github.com/lencx/awesome-ai): 🤖 Awesome AI
@@ -174,6 +174,7 @@
 * [richzw/awesome-chatgpt-summary](https://github.com/richzw/awesome-chatgpt-summary): Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 * [EmbraceAGI/awesome-chatgpt-zh](https://github.com/EmbraceAGI/awesome-chatgpt-zh): ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
 * [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets): 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
+* [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code): A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 * [caiyongmin/awesome-coding-javascript](https://github.com/caiyongmin/awesome-coding-javascript): 📌 持续构建个人的源码库（JavaScript 原生、常用库、数据结构、算法）
 * [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography): A curated list of cryptography resources and links.
 * [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules): 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
@@ -378,6 +379,8 @@
 * [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev): A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 * [2dust/clashN](https://github.com/2dust/clashN): A clash client for Windows, support Mihomo
 * [steipete/claude-code-mcp](https://github.com/steipete/claude-code-mcp): Claude Code as one-shot MCP server to have an agent in your agent.
+* [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code): Claude Code v2.1.88 Source Code
+* [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap): None
 * [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto): A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 * [lhfer/claude-howto-zh-cn](https://github.com/lhfer/claude-howto-zh-cn): Claude Code 中文全面上手指南。基于 luongnv89/claude-howto 本土化重写，面向中国小白用户，保留命令与配置兼容性，并附学习路径与本地化校验护栏。
 * [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master): An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
