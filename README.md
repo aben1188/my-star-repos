@@ -379,7 +379,6 @@
 * [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev): A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 * [2dust/clashN](https://github.com/2dust/clashN): A clash client for Windows, support Mihomo
 * [steipete/claude-code-mcp](https://github.com/steipete/claude-code-mcp): Claude Code as one-shot MCP server to have an agent in your agent.
-* [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code): It will be revised soon.
 * [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap): None
 * [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto): A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 * [lhfer/claude-howto-zh-cn](https://github.com/lhfer/claude-howto-zh-cn): Claude Code 中文全面上手指南。基于 luongnv89/claude-howto 本土化重写，面向中国小白用户，保留命令与配置兼容性，并附学习路径与本地化校验护栏。
@@ -849,6 +848,7 @@
 * [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim): Neovim config for the lazy
 * [Yggdroot/LeaderF](https://github.com/Yggdroot/LeaderF): An efficient fuzzy finder that helps to locate files, buffers, mrus, gtags, etc. on the fly for both vim and neovim.
 * [bluetechsky/Leaflet.DynamicMarker](https://github.com/bluetechsky/Leaflet.DynamicMarker): Plugin for Leaflet to add dynamic color and text to map markers
+* [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent): Research on Coding Agents
 * [kevinyan815/Learning_Laravel_Kernel](https://github.com/kevinyan815/Learning_Laravel_Kernel): Laravel核心代码学习
 * [phodal/ledge](https://github.com/phodal/ledge): Ledge —— DevOps knowledge learning platform. DevOps、研发效能知识和工具平台，是我们基于在 ThoughtWorks 进行的一系列 DevOps 实践、敏捷实践、软件开发与测试、精益实践提炼出来的知识体系。它包含了各种最佳实践、操作手册、原则与模式、度量、工具，用于帮助您的企业在数字化时代更好地前进，还有 DevOps 转型。
 * [j178/leetgo](https://github.com/j178/leetgo): Best LeetCode friend for geek. :snowboarder:
