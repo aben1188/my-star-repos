@@ -379,7 +379,7 @@
 * [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev): A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 * [2dust/clashN](https://github.com/2dust/clashN): A clash client for Windows, support Mihomo
 * [steipete/claude-code-mcp](https://github.com/steipete/claude-code-mcp): Claude Code as one-shot MCP server to have an agent in your agent.
-* [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code): Claude Code v2.1.88 Source Code
+* [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code): It will be revised soon.
 * [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap): None
 * [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto): A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 * [lhfer/claude-howto-zh-cn](https://github.com/lhfer/claude-howto-zh-cn): Claude Code 中文全面上手指南。基于 luongnv89/claude-howto 本土化重写，面向中国小白用户，保留命令与配置兼容性，并附学习路径与本地化校验护栏。
