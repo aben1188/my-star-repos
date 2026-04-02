@@ -386,7 +386,7 @@
 * [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master): An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 * [nakkag/CLCL](https://github.com/nakkag/CLCL): None
 * [npm/cli](https://github.com/npm/cli): the package manager for JavaScript
-* [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything): CLI-Anything: Making ALL Software Agent-Native
+* [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything): CLI-Anything: Making ALL Software Agent-Native -- CLI-Hub: https://clianything.cc/
 * [cline/cline](https://github.com/cline/cline): Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 * [clipturbo/clipturbo](https://github.com/clipturbo/clipturbo): 小视频宝：AI 驱动的视频生成工具，一键生成高质量营销视频 AI-powered video generation tool for creating high-quality marketing videos with one click.
 * [google/closure-library](https://github.com/google/closure-library): Google's common JavaScript library
