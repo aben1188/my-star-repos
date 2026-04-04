@@ -469,7 +469,7 @@
 * [dirk1983/deepseek](https://github.com/dirk1983/deepseek): 演示站可以免费使用deepseek-r1满血模型进行AI对话，并支持使用stablediffusion模型画图。本项目是PHP版调用DeepSeek第三方接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开，适合PHP初学者。保姆级教程，账号等周边资源，欢迎进群交流，一切全免费。
 * [Annsher-whhr/DeepSeek--driven-Web-Golden-Quote-Card-Generation](https://github.com/Annsher-whhr/DeepSeek--driven-Web-Golden-Quote-Card-Generation): None
 * [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3): None
-* [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor): "DeepTutor: AI-Powered Personalized Learning Assistant"
+* [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor): "DeepTutor: Agent-Native Personalized Learning Assistant"
 * [regenrek/deepwiki-mcp](https://github.com/regenrek/deepwiki-mcp): 📖 MCP server for fetch deepwiki.com and get latest knowledge in Cursor and other Code Editors
 * [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open): Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 * [Shougo/defx.nvim](https://github.com/Shougo/defx.nvim): :file_folder: The dark powered file explorer implementation for neovim/Vim8
