@@ -1052,6 +1052,7 @@
 * [onivim/oni](https://github.com/onivim/oni): Oni: Modern Modal Editing - powered by Neovim
 * [k-takata/Onigmo](https://github.com/k-takata/Onigmo): Onigmo is a regular expressions library forked from Oniguruma.
 * [nladuo/online_office_viewer](https://github.com/nladuo/online_office_viewer): preview doc/ppt/xls online via unoconv.
+* [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx): Open Source AI Platform - AI Chat with advanced features that works with every LLM
 * [stubbornella/oocss](https://github.com/stubbornella/oocss): Object Oriented CSS Framework
 * [browserbase/open-operator](https://github.com/browserbase/open-operator): A template for building web agents with Stagehand on Browserbase
 * [OldPanda/Open-the-F-king-URL-Right-Now](https://github.com/OldPanda/Open-the-F-king-URL-Right-Now): 自动跳转某些网站不希望用户直达的外链
