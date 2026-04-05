@@ -1112,6 +1112,7 @@
 * [kangyu-california/PersistentWindows](https://github.com/kangyu-california/PersistentWindows): fork of http://www.ninjacrab.com/persistent-windows/ with windows 10 update
 * [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo): 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 * [electric-sql/pglite](https://github.com/electric-sql/pglite): Embeddable Postgres with real-time, reactive bindings.
+* [OminousIndustries/PhoneDriver](https://github.com/OminousIndustries/PhoneDriver): Android Phone Control With Qwen3-VL
 * [docker-library/php](https://github.com/docker-library/php): Docker Official Image packaging for PHP
 * [codecasts/php-alpine](https://github.com/codecasts/php-alpine): PHP APK Repository for Alpine Linux
 * [liexusong/php-beast](https://github.com/liexusong/php-beast): PHP source code encrypt module (PHP源码加密扩展)
