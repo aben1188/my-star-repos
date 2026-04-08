@@ -1072,6 +1072,7 @@
 * [PetoiCamp/OpenCat-Quadruped-Robot](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot): An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development. 
 * [vernesong/OpenClash](https://github.com/vernesong/OpenClash): A Clash Client For OpenWrt
 * [openclaw/openclaw](https://github.com/openclaw/openclaw): Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+* [jackwener/opencli](https://github.com/jackwener/opencli): Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.
 * [leidenglai/opencv-js-qrcode](https://github.com/leidenglai/opencv-js-qrcode): 基于opencv与wechat_qrcode实现的JS版二维码图像识别库
 * [AIDotNet/OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki): OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform. The project is mainly developed using C# and TypeScript, supporting modular design, and is easy to expand and customize.
 * [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands): 🙌 OpenHands: AI-Driven Development
