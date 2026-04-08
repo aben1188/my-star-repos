@@ -133,6 +133,7 @@
 * [KaneCohen/Auto-GPT](https://github.com/KaneCohen/Auto-GPT): An experimental open-source attempt to make GPT-4 fully autonomous.
 * [no5ix/auto-toc](https://github.com/no5ix/auto-toc): A userscript that adds a table of contents to any website. 一个自动生成网站目录大纲的油猴脚本
 * [clearw5/Auto.js](https://github.com/clearw5/Auto.js): Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
+* [nashsu/AutoCLI](https://github.com/nashsu/AutoCLI): AutoCLI is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55+ sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl), now powered by AutoCLI.ai .
 * [mli/autocut](https://github.com/mli/autocut): 用文本编辑器剪视频
 * [microsoft/autogen](https://github.com/microsoft/autogen): A programming framework for agentic AI
 * [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT): AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -660,6 +661,7 @@
 * [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster): Make everything a GitHub svg poster and Skyline!
 * [github/gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
 * [kaedei/gitignore](https://github.com/kaedei/gitignore): A collection of useful .gitignore templates
+* [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus): GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
 * [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod): The developer platform for on-demand cloud development environments to create software faster and more securely.
 * [antarixxx/gitsummarize](https://github.com/antarixxx/gitsummarize): Get beautiful, world-class documentation for any repo
 * [gland2015/gland](https://github.com/gland2015/gland): javascript和react
@@ -670,6 +672,7 @@
 * [xitu/gold-miner](https://github.com/xitu/gold-miner): 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 * [goldendict/goldendict](https://github.com/goldendict/goldendict): A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, illustrations and other content retained, and allowing you to type in words without any accents or correct case.
 * [guyigenius/Google-Baidu-Bing-360-Sogou-Weibo-Twitter](https://github.com/guyigenius/Google-Baidu-Bing-360-Sogou-Weibo-Twitter): Show results from Baidu, Bing, 360, Sogou, Weibo and Twitter in Google web search. | 在Google网页搜索显示百度、必应、360、搜狗、微博和Twitter的搜索结果。
+* [aaif-goose/goose](https://github.com/aaif-goose/goose): an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 * [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed):   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 * [AlloyTeam/gopng](https://github.com/AlloyTeam/gopng): GoPng - a HTML5 css sprite generator with cool feature.
 * [ginuerzh/gost](https://github.com/ginuerzh/gost): GO Simple Tunnel - a simple tunnel written in golang
