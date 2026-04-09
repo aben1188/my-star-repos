@@ -797,6 +797,7 @@
 * [wxingheng/jcommon](https://github.com/wxingheng/jcommon): JavaScript 常用纯函数工具库
 * [Aruelius/jd_maotai](https://github.com/Aruelius/jd_maotai): 抢京东茅台脚本，定时自动触发，自动预约，自动停止
 * [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin): The Free Software Media System - Server Backend & API
+* [lynkco01/jichangtuijian](https://github.com/lynkco01/jichangtuijian): 2026 好用的付费机场推荐
 * [fxsjy/jieba](https://github.com/fxsjy/jieba): 结巴中文分词
 * [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport): 开源的报表工具与BI大屏，可替代 Tableau 和 JasperReports，提供强大的报表能力。一款类似Excel的报表设计器和大屏设计！完全在线傻瓜式拖拽设计，高效降低报表开发难度，解决各类报表难题。
 * [sebastienros/jint](https://github.com/sebastienros/jint): Javascript Interpreter for .NET
