@@ -799,7 +799,7 @@
 * [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin): The Free Software Media System - Server Backend & API
 * [lynkco01/jichangtuijian](https://github.com/lynkco01/jichangtuijian): 2026 好用的付费机场推荐
 * [fxsjy/jieba](https://github.com/fxsjy/jieba): 结巴中文分词
-* [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport): 开源的报表工具与BI大屏，可替代 Tableau 和 JasperReports，提供强大的报表能力。一款类似Excel的报表设计器和大屏设计！完全在线傻瓜式拖拽设计，高效降低报表开发难度，解决各类报表难题。
+* [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport): 开源的报表工具与BI大屏，完美替代帆软和Tableau，提供强大的报表能力。一款类似Excel的报表设计器和大屏设计！完全在线傻瓜式拖拽设计，高效降低报表开发难度，解决各类报表难题。
 * [sebastienros/jint](https://github.com/sebastienros/jint): Javascript Interpreter for .NET
 * [KiWi233333/JiwuChat](https://github.com/KiWi233333/JiwuChat): JiwuChat 🍂 - A lightweight cross-platform instant messaging app with integrated AI assistants (DeepSeek/Gemini/Kimi). Features real-time messaging, audio/video calls, multi-device sync, and customizable themes. Built with Vue3 & Tauri2 🍒
 * [JPressProjects/jpress](https://github.com/JPressProjects/jpress): JPress，一个使用 Java 开发的建站神器，目前已经有 10w+ 网站使用 JPress 进行驱动，其中包括多个政府机构，200+上市公司，中科院、红+字会等。
