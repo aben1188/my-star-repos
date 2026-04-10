@@ -247,6 +247,7 @@
 * [aaPanel/BaoTa](https://github.com/aaPanel/BaoTa): 宝塔Linux面板 - 简单好用的服务器运维面板
 * [ifui/baota](https://github.com/ifui/baota): DOCKER 宝塔面板 一键部署脚本
 * [pch18-docker/baota](https://github.com/pch18-docker/baota): 宝塔面板docker部署
+* [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills): None
 * [aristocratos/bashtop](https://github.com/aristocratos/bashtop): Linux/OSX/FreeBSD resource monitor
 * [history-frontEnd/BeeUi](https://github.com/history-frontEnd/BeeUi): BeeUi是基于wepy的一套小程序开发组件库
 * [fishaudio/Bert-VITS2](https://github.com/fishaudio/Bert-VITS2): vits2 backbone with multilingual-bert
@@ -1087,6 +1088,7 @@
 * [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio): 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
 * [openresty/openresty](https://github.com/openresty/openresty): High Performance Web Platform Based on Nginx and LuaJIT
 * [openresty/openresty.org](https://github.com/openresty/openresty.org): Code and data for the openresty.org site
+* [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace): "OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving" -- Community: https://open-space.cloud/
 * [wandb/openui](https://github.com/wandb/openui): OpenUI let's you describe UI using your imagination, then see it rendered live.
 * [eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat): golang微信SDK
 * [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb): Peer-to-Peer Databases for the Decentralized Web
