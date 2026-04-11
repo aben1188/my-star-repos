@@ -383,6 +383,7 @@
 * [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev): A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 * [2dust/clashN](https://github.com/2dust/clashN): A clash client for Windows, support Mihomo
 * [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code): 原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
+* [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice): practice made claude perfect
 * [steipete/claude-code-mcp](https://github.com/steipete/claude-code-mcp): Claude Code as one-shot MCP server to have an agent in your agent.
 * [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap): None
 * [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto): A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
@@ -883,6 +884,7 @@
 * [listen1/listen1_desktop](https://github.com/listen1/listen1_desktop): one for all free music in china (Windows, Mac, Linux desktop)
 * [blocklistproject/Lists](https://github.com/blocklistproject/Lists): Primary Block Lists
 * [BerriAI/litellm](https://github.com/BerriAI/litellm): Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]
+* [lijigang/ljg-skills](https://github.com/lijigang/ljg-skills): None
 * [run-llama/llama_index](https://github.com/run-llama/llama_index): LlamaIndex is the leading document agent and OCR platform
 * [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory): Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 * [ZubinGou/llm-agent-web-tools](https://github.com/ZubinGou/llm-agent-web-tools): A simple Google Search Engine Crawler.
@@ -1327,6 +1329,7 @@
 * [terwer/siyuan-plugin-publisher](https://github.com/terwer/siyuan-plugin-publisher): ✈️ Publish articles from siyuan-note to platforms such as Yuque, etc.Free and open source. 将思源笔记的文章发布到语雀等平台，开源免费。
 * [jayZOU/skeleton](https://github.com/jayZOU/skeleton): miniprogram to generate the skeleton page automatically
 * [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton): Skeleton is an adaptive design system powered by Tailwind CSS.
+* [vercel-labs/skills](https://github.com/vercel-labs/skills): The open agent skills tool - npx skills
 * [Justineo/slideshows](https://github.com/Justineo/slideshows): My slideshows about techical stuff.
 * [slimphp/Slim](https://github.com/slimphp/Slim): Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
 * [kcloze/slim-swoole](https://github.com/kcloze/slim-swoole): Slim 3 MVC Skeleton With Swoole
