@@ -435,7 +435,7 @@
 * [WPPlugins/cosign-sso](https://github.com/WPPlugins/cosign-sso): This is a mirror of the svn repo: https://plugins.svn.wordpress.org/cosign-sso/, the master is always the latest release.
 * [silently9527/coupons](https://github.com/silently9527/coupons): 淘宝客项目，支持App，微信小程序，QQ小程序
 * [zwpro/coupons](https://github.com/zwpro/coupons): 美团饿了吗外卖红包外卖优惠券，先领红包再下单。外卖红包优惠券，cps分成，别人领红包下单，你拿佣金。
-* [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent): CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。
+* [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent): CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。
 * [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy): 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
 * [industrialcoinmagic/crave](https://github.com/industrialcoinmagic/crave): None
 * [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai): 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
