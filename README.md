@@ -946,7 +946,7 @@
 * [midwayjs/midway](https://github.com/midwayjs/midway): 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
 * [phith0n/Mind-Map](https://github.com/phith0n/Mind-Map): 各种安全相关思维导图整理收集
 * [RealKai42/MindBridge](https://github.com/RealKai42/MindBridge): Exploring AI’s empathy and associative reasoning.
-* [opendatalab/MinerU](https://github.com/opendatalab/MinerU): Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+* [opendatalab/MinerU](https://github.com/opendatalab/MinerU): Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 * [karpathy/minGPT](https://github.com/karpathy/minGPT): A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 * [BooLeei/mini-program](https://github.com/BooLeei/mini-program): None
 * [weolar/miniblink49](https://github.com/weolar/miniblink49): a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
