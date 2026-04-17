@@ -2843,6 +2843,9 @@
     "joewalnes/websocketd": [
         "Other"
     ],
+    "johannjhang/zsh-interactive-cd": [
+        "Other"
+    ],
     "jojoin/Codekart": [
         "Other"
     ],
@@ -3600,9 +3603,6 @@
         "Other"
     ],
     "mozillazg/ShortURL": [
-        "Other"
-    ],
-    "mrjohannchang/zsh-interactive-cd": [
         "Other"
     ],
     "mrmrs/colors": [
