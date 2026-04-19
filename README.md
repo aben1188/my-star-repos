@@ -100,7 +100,7 @@
 * [AlloyTeam/AlloyImage](https://github.com/AlloyTeam/AlloyImage): 基于HTML5的专业级图像处理开源引擎。An image processing lib based on html5.
 * [robiot/AlphaClicker](https://github.com/robiot/AlphaClicker): 🖱️ Windows Autoclicker with a modern ui
 * [ampproject/amphtml](https://github.com/ampproject/amphtml): The AMP web component framework.
-* [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills): A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+* [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills): A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 * [kiwibrowser/android](https://github.com/kiwibrowser/android): This repository is archived, and is now transferred to https://github.com/kiwibrowser/src
 * [wildfirechat/android-chat](https://github.com/wildfirechat/android-chat): 即时通讯，聊天，野火IM Android客户端，支持Android 4.x —— 最新
 * [Atypicalim/android-wechat-tool](https://github.com/Atypicalim/android-wechat-tool): a wechat tool for android
