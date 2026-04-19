@@ -1376,7 +1376,7 @@
 * [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf): Control and manage Android devices from your browser.
 * [STranslate/STranslate](https://github.com/STranslate/STranslate): A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
 * [ygh3279799773/streamer-card](https://github.com/ygh3279799773/streamer-card): 流光卡片API
-* [BlackGlory/subtitle-translate-tmt](https://github.com/BlackGlory/subtitle-translate-tmt): 🌳 使用腾讯机器翻译 API 为 PotPlayer 翻译实时字幕.
+* [BlackGlory/subtitle-translate-tmt](https://github.com/BlackGlory/subtitle-translate-tmt): 🌳 使用腾讯机器翻译 API 为 PotPlayer 翻译字幕.
 * [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory): Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 * [obra/superpowers](https://github.com/obra/superpowers): An agentic skills framework & software development methodology that works.
 * [jnMetaCode/superpowers-zh](https://github.com/jnMetaCode/superpowers-zh): 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活
