@@ -3662,6 +3662,9 @@
     "neoclide/vim-easygit": [
         "Other"
     ],
+    "neosigmaai/auto-harness": [
+        "Other"
+    ],
     "neovim/neovim": [
         "Other"
     ],
@@ -4104,6 +4107,9 @@
         "Other"
     ],
     "redguardtoo/mastering-emacs-in-one-year-guide": [
+        "Other"
+    ],
+    "redker56/auto-harness": [
         "Other"
     ],
     "reeze/tipi": [

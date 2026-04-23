@@ -131,6 +131,8 @@
 * [PythonNut/auto-fu.zsh](https://github.com/PythonNut/auto-fu.zsh): zsh automatic complete-word and list-choices.
 * [hchbaw/auto-fu.zsh](https://github.com/hchbaw/auto-fu.zsh): #zsh automatic complete-word and list-choices. Originally incr-0.2.zsh  by y.fujii <y-fujii at mimosa-pudica.net>
 * [KaneCohen/Auto-GPT](https://github.com/KaneCohen/Auto-GPT): An experimental open-source attempt to make GPT-4 fully autonomous.
+* [neosigmaai/auto-harness](https://github.com/neosigmaai/auto-harness): Bring your own agent and build a self-improving agentic system. Automatically mine failures, optimize the agent harness, and gate against regressions.
+* [redker56/auto-harness](https://github.com/redker56/auto-harness): Run Claude Code like a specialist software team: planning, implementation, QA, fix/retest loops, and durable .harness state for long-running project delivery.
 * [no5ix/auto-toc](https://github.com/no5ix/auto-toc): A userscript that adds a table of contents to any website. 一个自动生成网站目录大纲的油猴脚本
 * [clearw5/Auto.js](https://github.com/clearw5/Auto.js): Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
 * [nashsu/AutoCLI](https://github.com/nashsu/AutoCLI): AutoCLI is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55+ sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl), now powered by AutoCLI.ai .
