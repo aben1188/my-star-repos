@@ -489,7 +489,7 @@
 * [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar): 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
 * [docmirror/dev-sidecar-doc](https://github.com/docmirror/dev-sidecar-doc): None
 * [alexfazio/devdocs-to-llm](https://github.com/alexfazio/devdocs-to-llm): Turn any developer documentation into a GPT
-* [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+* [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap): Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 * [luo-anthony/DeveloperGPT](https://github.com/luo-anthony/DeveloperGPT): DeveloperGPT is a LLM-powered command line tool that enables natural language to terminal commands and in-terminal chat.
 * [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub): A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
 * [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys): A Swiss Army knife for developers.
