@@ -1433,7 +1433,7 @@
 * [TarsCloud/Tars](https://github.com/TarsCloud/Tars): Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
 * [tauri-apps/tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 * [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs): The source for all Tauri project documentation.
-* [tecnickcom/TCPDF](https://github.com/tecnickcom/TCPDF): Official clone of PHP library to generate PDF documents and barcodes
+* [tecnickcom/TCPDF](https://github.com/tecnickcom/TCPDF): Deprecated: PHP PDF library, superseded by tc-lib-pdf (https://github.com/tecnickcom/tc-lib-pdf)
 * [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop): Telegram Desktop messaging app
 * [teableio/teable](https://github.com/teableio/teable): ✨ The Next Gen Airtable Alternative: No-Code Postgres
 * [lcomplete/TechShare](https://github.com/lcomplete/TechShare): 🌟 分享效率方法 🪄、优质文章 📑、编程知识 🎹、实用工具 🛠️ 和有趣内容 😄。💌 当有重要的事情需要分享时会发送 newsletter。
