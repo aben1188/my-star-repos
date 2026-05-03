@@ -128,9 +128,6 @@
     "AnyVM-Tech/AnyGPT": [
         "Other"
     ],
-    "ArchGPT/insomnium": [
-        "Other"
-    ],
     "ArthurChiao/vim_awesome": [
         "Other"
     ],
@@ -2574,6 +2571,9 @@
         "Other"
     ],
     "huruji/rpn.js": [
+        "Other"
+    ],
+    "hw-a/insomnium": [
         "Other"
     ],
     "hwchase17/langchain-hub": [
