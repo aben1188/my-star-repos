@@ -720,6 +720,7 @@
 * [RIscRIpt/gvimfullscreen_win32](https://github.com/RIscRIpt/gvimfullscreen_win32): Plugin to allow full screen use in gvim on Windows
 * [FernAbby/H5-Activities](https://github.com/FernAbby/H5-Activities): 存放部分活动页面,包含大转盘、砸金蛋、刮刮卡、摇一摇、投票、问卷、抓娃娃、砍价、优惠券投票、意见收集等活动......
 * [qianduanwuzi/H5-game](https://github.com/qianduanwuzi/H5-game): H5小游戏：砸金蛋、刮刮乐、canvas抓粽子等
+* [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool): ALL IN ONE Hacking Tool For Hackers
 * [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io): None
 * [pandecheng36/hcdkp](https://github.com/pandecheng36/hcdkp): 最简单的魔改发布『 合成大西瓜 』，不用改代码，修改配置即可！
 * [krahets/hello-algo](https://github.com/krahets/hello-algo): 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
@@ -1338,6 +1339,7 @@
 * [terwer/siyuan-plugin-publisher](https://github.com/terwer/siyuan-plugin-publisher): ✈️ Publish articles from siyuan-note to platforms such as Yuque, etc.Free and open source. 将思源笔记的文章发布到语雀等平台，开源免费。
 * [jayZOU/skeleton](https://github.com/jayZOU/skeleton): miniprogram to generate the skeleton page automatically
 * [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton): Skeleton is an adaptive design system powered by Tailwind CSS.
+* [mattpocock/skills](https://github.com/mattpocock/skills): Skills for Real Engineers. Straight from my .claude directory.
 * [vercel-labs/skills](https://github.com/vercel-labs/skills): The open agent skills tool - npx skills
 * [Justineo/slideshows](https://github.com/Justineo/slideshows): My slideshows about techical stuff.
 * [slimphp/Slim](https://github.com/slimphp/Slim): Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
