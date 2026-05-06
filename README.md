@@ -366,7 +366,7 @@
 * [easychen/checkchan-dist](https://github.com/easychen/checkchan-dist): Check酱：监测网页内容变化，并发送异动到微信。亦支持http status、json和rss监测。配合自架云端，关电脑后也能运行。
 * [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio): AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 * [w3c/chinese-ig](https://github.com/w3c/chinese-ig): Web中文兴趣组
-* [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry): The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 欢迎参加飞书AI先锋诗活动  https://bytedance.aiforce.cloud/app/app_4jvnd48x7khm1
+* [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry): The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 * [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua): :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
 * [caifeng123/chrome-extension](https://github.com/caifeng123/chrome-extension): chrome-extension 研究demos
 * [QiYuOr2/chrome-extension-getimage](https://github.com/QiYuOr2/chrome-extension-getimage): 获取当前页面图片的插件
