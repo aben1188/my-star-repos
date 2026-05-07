@@ -1042,7 +1042,6 @@
 * [lightzhu/Node_Crawler](https://github.com/lightzhu/Node_Crawler): Node.js 项目,koa cheerio爬虫小程序,爬取电影、免费科学上网节点，钉钉定时消息。
 * [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB): Node.js based forum software built for the modern web
 * [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices): :white_check_mark:  The Node.js best practices list (July 2024)
-* [ParryQiu/nodeclub](https://github.com/ParryQiu/nodeclub): WXOPEN Club 社区为国内最专业的微信小程序技术社区，致力于微信小程序的技术研究。
 * [cnodejs/nodeclub](https://github.com/cnodejs/nodeclub): :baby_chick:Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统
 * [yanyiwu/nodejieba](https://github.com/yanyiwu/nodejieba): "结巴"中文分词的Node.js版本
 * [kangleyunju/nodejs_vue3_uniapp](https://github.com/kangleyunju/nodejs_vue3_uniapp): nodejs操作数据库写接口，vue3后台，uniapp移动端，三合一，node_api接口，node_vue后台，node_uni移动端。
@@ -1198,7 +1197,7 @@
 * [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer): An AI prompt optimizer for writing better prompts and getting better AI results.
 * [phodal/prompt-patterns](https://github.com/phodal/prompt-patterns): Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt
 * [pyronn/prompt-studio](https://github.com/pyronn/prompt-studio): Prompt Studio MidJourney提示词可视化编辑与管理工具
-* [legeling/PromptHub](https://github.com/legeling/PromptHub): 一款开源、本地的包含了 Prompt管理，Skill管理，Agent管理的一站式AI工具箱，助你高效管理和复用 Prompt，一键分发skill ，一站式管理Agent资产，并实现云同步，备份，版本管理 | An all-in-one AI toolbox for prompt, skill, and agent management. Reuse prompts, distribute skills with one click, manage agent assets, and support cloud sync, backup, and version control
+* [legeling/PromptHub](https://github.com/legeling/PromptHub): 一款包含了 Prompt管理，Skill管理，Agent管理的一站式AI工具箱，助你高效管理提示词，一键分发skills ，一站式管理Agent资产，并实现云同步，备份，版本管理 | An all-in-one AI toolbox for prompt, skill, and agent management. Reuse prompts, distribute skills with one click, manage agent assets, and support cloud sync, backup, and version control
 * [Acmesec/PromptJailbreakManual](https://github.com/Acmesec/PromptJailbreakManual): Prompt越狱手册
 * [immersive-translate/prompts](https://github.com/immersive-translate/prompts): Prompts for Immersive Translate
 * [f/prompts.chat](https://github.com/f/prompts.chat): f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
