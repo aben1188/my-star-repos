@@ -726,7 +726,6 @@
 * [krahets/hello-algo](https://github.com/krahets/hello-algo): 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 * [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent): The agent that grows with you
 * [zbezj/HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator): None
-* [hexojs/hexo](https://github.com/hexojs/hexo): A fast, simple & powerful blog framework, powered by Node.js.
 * [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid): :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
 * [hi-our/hi-face](https://github.com/hi-our/hi-face): Hi头像——让头像有趣一点。
 * [Jannchie/Historical-ranking-data-visualization-based-on-d3.js](https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js): [Deprecated!] This is a data visualization project that converts historical data rankings into dynamic bar charts.
@@ -1042,6 +1041,7 @@
 * [lightzhu/Node_Crawler](https://github.com/lightzhu/Node_Crawler): Node.js 项目,koa cheerio爬虫小程序,爬取电影、免费科学上网节点，钉钉定时消息。
 * [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB): Node.js based forum software built for the modern web
 * [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices): :white_check_mark:  The Node.js best practices list (July 2024)
+* [ParryQiu/nodeclub](https://github.com/ParryQiu/nodeclub): WXOPEN Club 社区为国内最专业的微信小程序技术社区，致力于微信小程序的技术研究。
 * [cnodejs/nodeclub](https://github.com/cnodejs/nodeclub): :baby_chick:Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统
 * [yanyiwu/nodejieba](https://github.com/yanyiwu/nodejieba): "结巴"中文分词的Node.js版本
 * [kangleyunju/nodejs_vue3_uniapp](https://github.com/kangleyunju/nodejs_vue3_uniapp): nodejs操作数据库写接口，vue3后台，uniapp移动端，三合一，node_api接口，node_vue后台，node_uni移动端。
