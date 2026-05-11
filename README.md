@@ -413,9 +413,11 @@
 * [bcit-ci/CodeIgniter](https://github.com/bcit-ci/CodeIgniter): Open Source PHP Framework (originally from EllisLab)
 * [jojoin/Codekart](https://github.com/jojoin/Codekart): Web application framework for Node.js
 * [alchaincyf/CoderWithAI](https://github.com/alchaincyf/CoderWithAI): codeWithAI
+* [Kevin7Qi/codex-collab](https://github.com/Kevin7Qi/codex-collab): Collaborate with Codex from Claude Code
 * [CodisLabs/codis](https://github.com/CodisLabs/codis): Proxy based Redis cluster solution supporting pipeline and scaling dynamically
 * [codius-deprecated/codius](https://github.com/codius-deprecated/codius): Repository for general information about the Codius system.
 * [nraiden/cofounder](https://github.com/nraiden/cofounder): ai-generated apps , full stack + generative UI
+* [ZhenHuangLab/collaborating-with-claude-code](https://github.com/ZhenHuangLab/collaborating-with-claude-code): Let codex (main agent) collaborate with claude code Through codex skills
 * [justauth/CollectiveOAuth](https://github.com/justauth/CollectiveOAuth): .Net平台(C#) 史上最全的整合第三方登录的开源库 => 环境支持 .NET Framework 4.5 ~ 4.6.2 和 .NetCore 3.1。目前已包含Github、Gitee、钉钉、百度、支付宝、微信、企业微信、腾讯云开发者平台(Coding)、OSChina、微博、QQ、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、酷家乐、Gitlab、美团、饿了么、等第三方平台的授权登录。以下平台正在接入中: 推特、淘宝
 * [mrmrs/colors](https://github.com/mrmrs/colors): Smarter defaults for colors on the web.
 * [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI): Making large AI models cheaper, faster and more accessible
@@ -955,7 +957,6 @@
 * [maotoumao/midjourney-downloader](https://github.com/maotoumao/midjourney-downloader): A script to download ALL Midjourney Images🎇
 * [midwayjs/midway](https://github.com/midwayjs/midway): 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
 * [phith0n/Mind-Map](https://github.com/phith0n/Mind-Map): 各种安全相关思维导图整理收集
-* [phith0n/Mind-Map](https://github.com/phith0n/Mind-Map): 各种安全相关思维导图整理收集
 * [RealKai42/MindBridge](https://github.com/RealKai42/MindBridge): Exploring AI’s empathy and associative reasoning.
 * [opendatalab/MinerU](https://github.com/opendatalab/MinerU): Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 * [karpathy/minGPT](https://github.com/karpathy/minGPT): A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
@@ -1474,7 +1475,6 @@
 * [xbzstudio/Timeless-Sydney](https://github.com/xbzstudio/Timeless-Sydney): 好用的New Bing web客户端，功能众多~
 * [ruanyf/tiny-browser-require](https://github.com/ruanyf/tiny-browser-require): A tiny, simple CommonJS require() implemetation in browser-side
 * [jianyan74/TinyShop](https://github.com/jianyan74/TinyShop): 一款基于 RageFrame3 的免费开源的基础销售功能的商城
-* [stavyan/TinyShop-UniApp](https://github.com/stavyan/TinyShop-UniApp): 基于 RageFrame2 的一款免费开源的基础商城销售功能的开源微商城。
 * [stavyan/TinyShop-UniApp](https://github.com/stavyan/TinyShop-UniApp): 基于 RageFrame2 的一款免费开源的基础商城销售功能的开源微商城。
 * [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe): LLM-powered multiagent persona simulation for imagination enhancement and business insights.
 * [sdfsky/tipask](https://github.com/sdfsky/tipask): Tipask是一款开放源码的PHP问答系统，基于Laravel框架开发，容易扩展，具有强大的负载能力和稳定性。
