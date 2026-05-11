@@ -846,7 +846,7 @@
 * [maichong/labrador-cli](https://github.com/maichong/labrador-cli): 拉布拉多命令工具，微信小程序模块化开发框架
 * [labring/laf](https://github.com/labring/laf): Laf is a vibrant cloud development platform that provides essential tools like cloud functions, databases, and storage solutions. It enables developers to quickly unleash their creativity and bring innovative ideas to life with ease.
 * [lixuancn/LaneWeChat](https://github.com/lixuancn/LaneWeChat): 微信PHP快速开发框架！将微信的各个功能进行了封装，只需要简单的调用方法和传递参数即可。
-* [langchain-ai/langchain](https://github.com/langchain-ai/langchain): The agent engineering platform. Available in TypeScript!
+* [langchain-ai/langchain](https://github.com/langchain-ai/langchain): The agent engineering platform.
 * [hwchase17/langchain-hub](https://github.com/hwchase17/langchain-hub): None
 * [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs): The agent engineering platform
 * [langgptai/LangGPT](https://github.com/langgptai/LangGPT): LangGPT: Empowering everyone to become a prompt expert! 🚀  📌 结构化提示词（Structured Prompt）提出者 📌 元提示词（Meta-Prompt）发起者   📌 最流行的提示词落地范式 | Language of GPT  The pioneering framework for structured & meta-prompt design 10,000+ ⭐ | Battle-tested by thousands of users worldwide  Created by 云中江树
