@@ -89,6 +89,9 @@
     "Airtable/airtable.js": [
         "Other"
     ],
+    "AlessioZazzarini/claude-codex-collab": [
+        "Other"
+    ],
     "AlexZhangji/Twitter-Insight-LLM": [
         "Other"
     ],
@@ -603,6 +606,9 @@
         "Other"
     ],
     "LazyVim/LazyVim": [
+        "Other"
+    ],
+    "LearnPrompt/ai-news-radar": [
         "Other"
     ],
     "LexiestLeszek/scrapeGPT": [
@@ -4812,6 +4818,9 @@
         "Other"
     ],
     "upscayl/upscayl": [
+        "Other"
+    ],
+    "upstash/context7": [
         "Other"
     ],
     "upupQo/WeChatVideoDownloader": [

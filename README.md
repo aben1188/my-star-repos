@@ -77,6 +77,7 @@
 * [yarin-zhang/AI-Gist](https://github.com/yarin-zhang/AI-Gist): ✨ AI Gist 是一款隐私优先的 AI 提示词管理工具，致力于让个人收藏的 AI 提示词能够发挥最大价值。支持变量替换、Jinja 模板、AI 生成与调优、历史版本记录、云端备份等核心功能。
 * [MichaelYuhe/ai-group-tabs](https://github.com/MichaelYuhe/ai-group-tabs): Organize and group your Chrome tabs with AI
 * [liyupi/ai-guide](https://github.com/liyupi/ai-guide): 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档，已升级为鱼皮 AI 导航网站
+* [LearnPrompt/ai-news-radar](https://github.com/LearnPrompt/ai-news-radar): 24h AI/tech news radar with GitHub Actions, live web UI, and Scout Skill for AI sources.
 * [gopiashokan/AI-Resume-Analyzer-and-LinkedIn-Scraper-using-Generative-AI](https://github.com/gopiashokan/AI-Resume-Analyzer-and-LinkedIn-Scraper-using-Generative-AI): Developed an AI application using LLM to analyze user resumes and provided the summarization, strengths, weaknesses, suggestions, suitable job titles, and also scraping job details from LinkedIn using Selenium. This application reduces time by 30% and helps candidates tailor their resumes effectively.
 * [eze-is/ai-share-card](https://github.com/eze-is/ai-share-card): 一款优雅的 AI 网页分享卡片生成工具，利用 AI 帮助您将任何网页内容一键转换为精美的可视化分享卡片
 * [a16z-infra/ai-town](https://github.com/a16z-infra/ai-town): A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
@@ -389,6 +390,7 @@
 * [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice): from vibe coding to agentic engineering - practice makes claude perfect
 * [steipete/claude-code-mcp](https://github.com/steipete/claude-code-mcp): Claude Code as one-shot MCP server to have an agent in your agent.
 * [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap): None
+* [AlessioZazzarini/claude-codex-collab](https://github.com/AlessioZazzarini/claude-codex-collab): Two AI coding agents. One orchestrator. Zero API costs.
 * [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto): A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 * [lhfer/claude-howto-zh-cn](https://github.com/lhfer/claude-howto-zh-cn): Claude Code 中文全面上手指南。基于 luongnv89/claude-howto 本土化重写，面向中国小白用户，保留命令与配置兼容性，并附学习路径与本地化校验护栏。
 * [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master): An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
@@ -427,6 +429,7 @@
 * [kitian616/config](https://github.com/kitian616/config): Tian Qi's Configs. include zsh, vim, lint etc.
 * [runsisi/consolas-font-for-powerline](https://github.com/runsisi/consolas-font-for-powerline): Powerline is a nice vim plugin, consolas is a nice font under windows, in order to use consolas in putty or securecrt to work with powerline, the font must be patched.
 * [eugeneching/consolas-powerline-vim](https://github.com/eugeneching/consolas-powerline-vim): Fixed Consolas font for use with Vim Powerline. Font has all variants: regular, bold, italic, bold-italic.
+* [upstash/context7](https://github.com/upstash/context7): Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 * [ssborbis/ContextSearch-web-ext](https://github.com/ssborbis/ContextSearch-web-ext): Search engine manager for modern browsers
 * [OiAnthony/continue-prompts](https://github.com/OiAnthony/continue-prompts): None
 * [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog): Generate changelogs and release notes from a project's commit messages and metadata.
@@ -952,6 +955,7 @@
 * [maotoumao/midjourney-downloader](https://github.com/maotoumao/midjourney-downloader): A script to download ALL Midjourney Images🎇
 * [midwayjs/midway](https://github.com/midwayjs/midway): 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
 * [phith0n/Mind-Map](https://github.com/phith0n/Mind-Map): 各种安全相关思维导图整理收集
+* [phith0n/Mind-Map](https://github.com/phith0n/Mind-Map): 各种安全相关思维导图整理收集
 * [RealKai42/MindBridge](https://github.com/RealKai42/MindBridge): Exploring AI’s empathy and associative reasoning.
 * [opendatalab/MinerU](https://github.com/opendatalab/MinerU): Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 * [karpathy/minGPT](https://github.com/karpathy/minGPT): A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
@@ -1470,6 +1474,7 @@
 * [xbzstudio/Timeless-Sydney](https://github.com/xbzstudio/Timeless-Sydney): 好用的New Bing web客户端，功能众多~
 * [ruanyf/tiny-browser-require](https://github.com/ruanyf/tiny-browser-require): A tiny, simple CommonJS require() implemetation in browser-side
 * [jianyan74/TinyShop](https://github.com/jianyan74/TinyShop): 一款基于 RageFrame3 的免费开源的基础销售功能的商城
+* [stavyan/TinyShop-UniApp](https://github.com/stavyan/TinyShop-UniApp): 基于 RageFrame2 的一款免费开源的基础商城销售功能的开源微商城。
 * [stavyan/TinyShop-UniApp](https://github.com/stavyan/TinyShop-UniApp): 基于 RageFrame2 的一款免费开源的基础商城销售功能的开源微商城。
 * [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe): LLM-powered multiagent persona simulation for imagination enhancement and business insights.
 * [sdfsky/tipask](https://github.com/sdfsky/tipask): Tipask是一款开放源码的PHP问答系统，基于Laravel框架开发，容易扩展，具有强大的负载能力和稳定性。
