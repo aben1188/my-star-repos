@@ -1090,6 +1090,7 @@
 * [OpenBazaar/OpenBazaar-Server](https://github.com/OpenBazaar/OpenBazaar-Server): (Deprecated) OpenBazaar 1.0 Server daemon for communication with OpenBazaar-Client
 * [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB): Financial data platform for analysts, quants and AI agents.
 * [PetoiCamp/OpenCat-Quadruped-Robot](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot): An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development. 
+* [clacky-ai/openclacky](https://github.com/clacky-ai/openclacky): The most Token-efficient open-source AI Agent
 * [vernesong/OpenClash](https://github.com/vernesong/OpenClash): A Clash Client For OpenWrt
 * [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude): runs anywhere. uses anything
 * [openclaw/openclaw](https://github.com/openclaw/openclaw): Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
