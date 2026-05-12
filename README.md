@@ -424,6 +424,7 @@
 * [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI): Making large AI models cheaper, faster and more accessible
 * [ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn](https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn): 肖像大师 中文版 comfyui-portrait-master
 * [ogkalu2/comic-translate](https://github.com/ogkalu2/comic-translate): AI comic and manga translator app for automatically translating comics, manga, manhwa, BDs, fumetti, and more in multiple languages and formats (Images, PDF, EPUB, CBR, CBZ etc).
+* [cursor/community-plugins](https://github.com/cursor/community-plugins): Find rules and MCP servers
 * [compat-table/compat-table](https://github.com/compat-table/compat-table): ECMAScript compatibility tables
 * [NingZhengsheng/ComposeGigWatermelon](https://github.com/NingZhengsheng/ComposeGigWatermelon): 合成大西瓜CocosCretor开发多平台（包括微信小程序）源码
 * [qiuwenxing/comps-weapp](https://github.com/qiuwenxing/comps-weapp): 小程序自定义组件:下拉刷新、上拉加载组件、搜索组件、省+市选择组件、年月区间选择等
@@ -503,7 +504,6 @@
 * [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys): A Swiss Army knife for developers.
 * [devv-ai/devv](https://github.com/devv-ai/devv): An AI-powered search engine for developers.
 * [langgenius/dify](https://github.com/langgenius/dify): Production-ready platform for agentic workflow development.
-* [leerob/directories](https://github.com/leerob/directories): Find rules and MCP servers
 * [Miserlou/DirtyShare](https://github.com/Miserlou/DirtyShare): Peer to Peer Filesharing in Pure Javascript With Node.js and Socket.io
 * [virskor/DiscuzQ](https://github.com/virskor/DiscuzQ): Flutter open source application for DiscuzQ
 * [sabrogden/Ditto](https://github.com/sabrogden/Ditto): Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
