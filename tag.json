@@ -599,9 +599,6 @@
     "LC044/WeChatMsg": [
         "Other"
     ],
-    "LLM-Red-Team/qwen-free-api": [
-        "Other"
-    ],
     "Lannamokia/We": [
         "Other"
     ],
@@ -1685,6 +1682,9 @@
     "chrisboulton/php-resque": [
         "Other"
     ],
+    "chrysb/alphaclaw": [
+        "Other"
+    ],
     "chuckcarpenter/REM-unit-polyfill": [
         "Other"
     ],
@@ -2247,9 +2247,6 @@
         "Other"
     ],
     "formulahendry/awesome-gpt": [
-        "Other"
-    ],
-    "forrestchang/andrej-karpathy-skills": [
         "Other"
     ],
     "friuns2/Awesome-GPTs-Big-List": [
@@ -3645,6 +3642,9 @@
         "Other"
     ],
     "msitarzewski/agency-agents": [
+        "Other"
+    ],
+    "multica-ai/andrej-karpathy-skills": [
         "Other"
     ],
     "mymusise/gpt2-quickly": [
