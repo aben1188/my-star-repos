@@ -1490,6 +1490,10 @@
 * [tophubs/TopList](https://github.com/tophubs/TopList): 今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://mo.fish
 * [loicminghetti/touchpdf](https://github.com/loicminghetti/touchpdf): PDF viewer supporting touch gestures for jQuery
 * [itmad/Tpay_Svr](https://github.com/itmad/Tpay_Svr): Tpay_Svr是微信和支付宝的个人免签 24小时全自动回调支付系统的php服务端程序
+* [Hert4/trace2skill](https://github.com/Hert4/trace2skill): Harness-agnostic framework for evolving agent skills from real trajectories. Implementation of Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills ([arXiv:2603.25158](https://arxiv.org/abs/2603.25158)).
+* [Qwen-Applications/Trace2Skill](https://github.com/Qwen-Applications/Trace2Skill): Official codebase of the paper -- Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills
+* [yzbcs/trace2skill-](https://github.com/yzbcs/trace2skill-): None
+* [Tudou77826/trace2skill_distiller](https://github.com/Tudou77826/trace2skill_distiller): None
 * [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection): 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 * [ambition-hb/Trancefer](https://github.com/ambition-hb/Trancefer): 知乎爬虫——Mongo数据→MySQL数据
 * [hundredblocks/transcription_demo](https://github.com/hundredblocks/transcription_demo): None
