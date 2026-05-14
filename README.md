@@ -614,7 +614,7 @@
 * [icindy/fenda](https://github.com/icindy/fenda): 微信小程序－7天写分答微信小程序
 * [php-fig/fig-standards](https://github.com/php-fig/fig-standards): Standards either proposed or approved by the Framework Interop Group
 * [finogeeks/finclip-ios-demo](https://github.com/finogeeks/finclip-ios-demo): 小程序容器 FinClip 苹果运行环境，让小程序在苹果应用中无缝运行  / iOS DEMO for FinClip
-* [mozilla/Fira](https://github.com/mozilla/Fira): Mozilla's new typeface, used in Firefox OS
+* [mozilla/Fira](https://github.com/mozilla/Fira): DEPRECATED - Mozilla's new typeface, used in Firefox OS
 * [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl): 🔥 The API to search, scrape, and interact with the web for AI
 * [nickscamara/firecrawl-openai-realtime](https://github.com/nickscamara/firecrawl-openai-realtime): Realtime API with Firecrawl Tool - Forked from the OpenAI Realtime Console
 * [firecrawl/firecrawl-py](https://github.com/firecrawl/firecrawl-py): Crawl and convert any website into clean markdown
