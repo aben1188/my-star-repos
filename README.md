@@ -425,7 +425,7 @@
 * [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI): Making large AI models cheaper, faster and more accessible
 * [ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn](https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn): 肖像大师 中文版 comfyui-portrait-master
 * [ogkalu2/comic-translate](https://github.com/ogkalu2/comic-translate): AI comic and manga translator app for automatically translating comics, manga, manhwa, BDs, fumetti, and more in multiple languages and formats (Images, PDF, EPUB, CBR, CBZ etc).
-* [cursor/community-plugins](https://github.com/cursor/community-plugins): Find rules and MCP servers
+* [cursor/community-plugins](https://github.com/cursor/community-plugins): Plugsin from the Cursor community
 * [compat-table/compat-table](https://github.com/compat-table/compat-table): ECMAScript compatibility tables
 * [NingZhengsheng/ComposeGigWatermelon](https://github.com/NingZhengsheng/ComposeGigWatermelon): 合成大西瓜CocosCretor开发多平台（包括微信小程序）源码
 * [qiuwenxing/comps-weapp](https://github.com/qiuwenxing/comps-weapp): 小程序自定义组件:下拉刷新、上拉加载组件、搜索组件、省+市选择组件、年月区间选择等
