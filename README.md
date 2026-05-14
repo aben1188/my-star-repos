@@ -237,7 +237,7 @@
 * [cedrickchee/awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp): A curated list of NLP resources focused on Transformer networks, attention mechanism, GPT, BERT, ChatGPT, LLMs, and transfer learning.
 * [sancarn/awesome-vba](https://github.com/sancarn/awesome-vba): A curated list of awesome VBA/VB6 frameworks, libraries, software and resources
 * [vikadata/awesome-vikadata](https://github.com/vikadata/awesome-vikadata): 🙀 A list of awesome projects / resources / SDKs / frameworks that make Vikadata even more awesome. 🤪  https://vika.cn/developers
-* [xjh22222228/awesome-web-editor](https://github.com/xjh22222228/awesome-web-editor): 🔨  Open source WEB editor summary
+* [liuzi6612/awesome-web-editor](https://github.com/liuzi6612/awesome-web-editor): 🔨  Open source WEB editor summary
 * [Aufree/awesome-wechat-weapp](https://github.com/Aufree/awesome-wechat-weapp): None
 * [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp): 微信小程序开发资源汇总 :100:
 * [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper): 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
