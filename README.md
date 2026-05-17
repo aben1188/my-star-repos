@@ -576,7 +576,7 @@
 * [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue): 🥳 Really simple Electron + Vite + Vue boilerplate.
 * [zhongyi-tong/electronic-wechat](https://github.com/zhongyi-tong/electronic-wechat): :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 * [ElemeFE/element](https://github.com/ElemeFE/element): A Vue.js 2.0 UI Toolkit for Web
-* [elizaOS/eliza](https://github.com/elizaOS/eliza): Autonomous agents for everyone
+* [elizaOS/eliza](https://github.com/elizaOS/eliza): Open source agentic operating system
 * [purcell/emacs.d](https://github.com/purcell/emacs.d): An Emacs configuration bundle with batteries included
 * [redguardtoo/emacs.d](https://github.com/redguardtoo/emacs.d): Fast and robust Emacs setup.
 * [lanthaler/emacsIDEAs](https://github.com/lanthaler/emacsIDEAs): Porting some great extensions of emacs to Intellij IDEA. such as AceJump, CopyWithoutSelection.
