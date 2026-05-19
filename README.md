@@ -1096,7 +1096,7 @@
 * [vernesong/OpenClash](https://github.com/vernesong/OpenClash): A Clash Client For OpenWrt
 * [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude): runs anywhere. uses anything
 * [openclaw/openclaw](https://github.com/openclaw/openclaw): Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-* [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI): Make Any Website into CLI & use your logged-in browser by AI agent. 
+* [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI): Make Any Website into CLI & Use your logged-in browser by AI agent. 
 * [leidenglai/opencv-js-qrcode](https://github.com/leidenglai/opencv-js-qrcode): 基于opencv与wechat_qrcode实现的JS版二维码图像识别库
 * [AIDotNet/OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki): OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform. The project is mainly developed using C# and TypeScript, supporting modular design, and is easy to expand and customize.
 * [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands): 🙌 OpenHands: AI-Driven Development
