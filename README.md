@@ -924,7 +924,7 @@
 * [6tail/lunar-javascript](https://github.com/6tail/lunar-javascript): 日历、公历(阳历)、农历(阴历、老黄历)、佛历、道历，支持节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道黑道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar.
 * [lixi5338619/lxBook](https://github.com/lixi5338619/lxBook): 《爬虫逆向进阶实战》书籍代码库
 * [lixi5338619/lxSpider](https://github.com/lixi5338619/lxSpider): 爬虫案例合集。包括但不限于《淘宝、京东、天猫、豆瓣、抖音、快手、微博、微信、阿里、头条、pdd、优酷、爱奇艺、携程、12306、58、搜狐、各种指数、维普万方、Zlibraty、Oalib、小说、招标网、采购网、小红书、大众点评、推特、脉脉、知乎》
-* [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui): A research prototype of a human-centered web agent
+* [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui): An experimental agent that works across the browser and local file system
 * [chokcoco/magicCss](https://github.com/chokcoco/magicCss): CSS3奇思妙想，单标签实现各类图形
 * [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk): The Magic Mask for Android
 * [exvim/main](https://github.com/exvim/main): This is the main repository for exVim!
