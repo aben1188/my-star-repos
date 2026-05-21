@@ -752,6 +752,7 @@
 * [huankemao/huankemao-php](https://github.com/huankemao/huankemao-php): 企业微信私域流量裂变引流SCRM系统，开源PHP版官方Git
 * [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub): The official Python client for the Hugging Face Hub.
 * [huhamhire/huhamhire-hosts](https://github.com/huhamhire/huhamhire-hosts): hosts for Internet Freedom
+* [LearnPrompt/humanize-ppt](https://github.com/LearnPrompt/humanize-ppt): AST-based outline director for human-centered AI presentation workflows.
 * [vercel/hyper](https://github.com/vercel/hyper): A terminal built on web technologies
 * [waylybaye/HyperApp-Guide](https://github.com/waylybaye/HyperApp-Guide): HyperApp user's manual 
 * [hyperf/hyperf](https://github.com/hyperf/hyperf): 🚀 A coroutine framework that focuses on hyperspeed and flexibility. Building microservice or middleware with ease.
