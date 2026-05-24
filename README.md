@@ -447,7 +447,7 @@
 * [WPPlugins/cosign-sso](https://github.com/WPPlugins/cosign-sso): This is a mirror of the svn repo: https://plugins.svn.wordpress.org/cosign-sso/, the master is always the latest release.
 * [silently9527/coupons](https://github.com/silently9527/coupons): 淘宝客项目，支持App，微信小程序，QQ小程序
 * [zwpro/coupons](https://github.com/zwpro/coupons): 美团饿了吗外卖红包外卖优惠券，先领红包再下单。外卖红包优惠券，cps分成，别人领红包下单，你拿佣金。
-* [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent): Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install.
+* [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent): Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install (formerly chatgpt-on-wechat).
 * [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy): 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
 * [industrialcoinmagic/crave](https://github.com/industrialcoinmagic/crave): None
 * [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai): 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
