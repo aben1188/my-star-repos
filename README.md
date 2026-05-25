@@ -103,6 +103,7 @@
 * [chrysb/alphaclaw](https://github.com/chrysb/alphaclaw): The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required.
 * [robiot/AlphaClicker](https://github.com/robiot/AlphaClicker): 🖱️ Windows Autoclicker with a modern ui
 * [ampproject/amphtml](https://github.com/ampproject/amphtml): The AMP web component framework.
+* [LearnPrompt/andrej-karpathy-skills](https://github.com/LearnPrompt/andrej-karpathy-skills): Karpathy-inspired Agent Skills collection
 * [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills): A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 * [kiwibrowser/android](https://github.com/kiwibrowser/android): This repository is archived, and is now transferred to https://github.com/kiwibrowser/src
 * [wildfirechat/android-chat](https://github.com/wildfirechat/android-chat): 即时通讯，聊天，野火IM Android客户端，支持Android 4.x —— 最新
@@ -177,7 +178,7 @@
 * [wikieden/Awesome-ChatGPT-Prompts-CN](https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN): ChatGPT调教指南|咒语指南|聊天提示词指南|学习指南
 * [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh): ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 * [L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN): 如何将ChatGPT调教成一只猫娘
-* [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories): A curated list of resources dedicated to open source GitHub repositories related to ChatGPT, OpenAI API, and Codex.Searchable via Claude Code skills.
+* [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories): A curated list of resources dedicated to open source GitHub repositories related to ChatGPT, OpenAI API, and Codex. Searchable via Claude Code skills.
 * [DeepTecher/awesome-ChatGPT-resource-zh](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh): 精选 OpenAI 的 [ChatGPT](https://chat.openai.com) 资源清单, 跟随最新资源并添加中文相关Work
 * [richzw/awesome-chatgpt-summary](https://github.com/richzw/awesome-chatgpt-summary): Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 * [EmbraceAGI/awesome-chatgpt-zh](https://github.com/EmbraceAGI/awesome-chatgpt-zh): ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
@@ -875,6 +876,7 @@
 * [bluetechsky/Leaflet.DynamicMarker](https://github.com/bluetechsky/Leaflet.DynamicMarker): Plugin for Leaflet to add dynamic color and text to map markers
 * [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent): Research on Coding Agents
 * [kevinyan815/Learning_Laravel_Kernel](https://github.com/kevinyan815/Learning_Laravel_Kernel): Laravel核心代码学习
+* [LearnPrompt/LearnPrompt](https://github.com/LearnPrompt/LearnPrompt): 永久免费开源的 AIGC 课程, 目前已支持Claude Code，Codex，Hermes，OpenClaw，Obsidian，Prompt Engineering, ChatGPT, Midjourney, Runway, Stable Diffusion, AI数字人，AI声音&音乐，开源大模型
 * [phodal/ledge](https://github.com/phodal/ledge): Ledge —— DevOps knowledge learning platform. DevOps、研发效能知识和工具平台，是我们基于在 ThoughtWorks 进行的一系列 DevOps 实践、敏捷实践、软件开发与测试、精益实践提炼出来的知识体系。它包含了各种最佳实践、操作手册、原则与模式、度量、工具，用于帮助您的企业在数字化时代更好地前进，还有 DevOps 转型。
 * [j178/leetgo](https://github.com/j178/leetgo): Best LeetCode friend for geek. :snowboarder:
 * [lmsqueezy/lemonsqueezy.js](https://github.com/lmsqueezy/lemonsqueezy.js): Official JavaScript SDK for Lemon Squeezy.
