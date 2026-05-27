@@ -1002,7 +1002,7 @@
 * [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree): 插件化、定制化、无广告的免费音乐播放器
 * [janl/mustache.js](https://github.com/janl/mustache.js): Minimal templating with {{mustaches}} in JavaScript
 * [tiodot/my-chrome-extension](https://github.com/tiodot/my-chrome-extension): chrome extension v3 made with sveltekit
-* [xirong/my-git](https://github.com/xirong/my-git): Individual collecting material of learning git（有关 git 的学习资料）
+* [xirong/my-git](https://github.com/xirong/my-git): A practical Git & GitHub handbook for modern engineering teams and AI-native development workflows. |  现代工程团队与 AI 编程时代的 Git / GitHub 实战手册
 * [lizongying/my-tv](https://github.com/lizongying/my-tv): 我的电视 电视直播软件，安装即可使用
 * [venaissance/myBlog](https://github.com/venaissance/myBlog): 💡 致力于提升技术学习效率的博客
 * [dbcli/mycli](https://github.com/dbcli/mycli): A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
