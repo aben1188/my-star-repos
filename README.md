@@ -1364,7 +1364,7 @@
 * [pyrocms/social](https://github.com/pyrocms/social): DEPRECATED: Social logins and integrations with various OAuth Providers.
 * [laravel/socialite](https://github.com/laravel/socialite): Laravel wrapper around OAuth 1 & OAuth 2 libraries.
 * [overtrue/socialite](https://github.com/overtrue/socialite): Socialite is an OAuth2 Authentication tool. It is inspired by laravel/socialite, you can easily use it without Laravel.
-* [socketio/socket.io](https://github.com/socketio/socket.io): Realtime application framework (Node.JS server)
+* [socketio/socket.io](https://github.com/socketio/socket.io): Bidirectional and low-latency communication for every platform
 * [jason-gao/SocketLog](https://github.com/jason-gao/SocketLog): 微信调试、API调试和AJAX的调试的工具，能将日志通过WebSocket输出到Chrome浏览器的console中
 * [luofei614/SocketLog](https://github.com/luofei614/SocketLog): 微信调试、API调试和AJAX的调试的工具，能将日志通过WebSocket输出到Chrome浏览器的console中
 * [solidjs/solid](https://github.com/solidjs/solid): A declarative, efficient, and flexible JavaScript library for building user interfaces.
