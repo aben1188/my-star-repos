@@ -980,9 +980,6 @@
     "Tencent/GT": [
         "Other"
     ],
-    "Tencent/TencentDB-Agent-Memory": [
-        "Other"
-    ],
     "Tencent/cloudbase-framework": [
         "Other"
     ],
@@ -999,6 +996,9 @@
         "Other"
     ],
     "Tencent/weui-wxss": [
+        "Other"
+    ],
+    "TencentCloud/TencentDB-Agent-Memory": [
         "Other"
     ],
     "TencentCloudBase/cloudbase-extension-cms": [
