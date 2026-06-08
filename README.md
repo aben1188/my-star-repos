@@ -476,7 +476,7 @@
 * [walkerRnD/daisy-svelte](https://github.com/walkerRnD/daisy-svelte): Svelte components for Daisy UI
 * [saadeghi/daisyui](https://github.com/saadeghi/daisyui): 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 * [doxx/darkflare](https://github.com/doxx/darkflare): DarkFlare Firewall Piercing (TCP over CDN)
-* [yuvenhol/dataharvest](https://github.com/yuvenhol/dataharvest): AGI拓展工具，支持AI搜索&爬虫&数据清洗，开箱即用。tavily、天工、百度百科、百家号、360百科、头条、微信公众号、搜狐百科、腾讯新闻、网易新闻、马蜂窝、小红书
+* [yuvenhol/dataharvest](https://github.com/yuvenhol/dataharvest): DataHarvest is a tool for data search 🔍, crawling 🕷, and cleaning 🧽.
 * [date-fns/date-fns](https://github.com/date-fns/date-fns): ⏳ Modern JavaScript date utility library ⌛️
 * [itwanger/daxigua](https://github.com/itwanger/daxigua): 合成大西瓜未修改版本源码，可直接在浏览器运行
 * [liyupi/daxigua](https://github.com/liyupi/daxigua): 最简单的魔改发布『 合成大西瓜 』，配套改图工具，不用改代码，修改配置即可！
