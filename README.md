@@ -417,6 +417,7 @@
 * [jojoin/Codekart](https://github.com/jojoin/Codekart): Web application framework for Node.js
 * [alchaincyf/CoderWithAI](https://github.com/alchaincyf/CoderWithAI): codeWithAI
 * [Kevin7Qi/codex-collab](https://github.com/Kevin7Qi/codex-collab): Collaborate with Codex from Claude Code
+* [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc): Use Codex from Claude Code to review code or delegate tasks.
 * [CodisLabs/codis](https://github.com/CodisLabs/codis): Proxy based Redis cluster solution supporting pipeline and scaling dynamically
 * [codius-deprecated/codius](https://github.com/codius-deprecated/codius): Repository for general information about the Codius system.
 * [nraiden/cofounder](https://github.com/nraiden/cofounder): ai-generated apps , full stack + generative UI
@@ -1350,6 +1351,7 @@
 * [terwer/siyuan-plugin-publisher](https://github.com/terwer/siyuan-plugin-publisher): V2 is on the way✈️ Publish articles from siyuan-note to platforms such as Yuque, etc.Free and open source. 2.0全面重构，请期待。 将思源笔记的文章发布到语雀等平台，开源免费。V2闭关开发中，发布之后将陆续恢复更新
 * [jayZOU/skeleton](https://github.com/jayZOU/skeleton): miniprogram to generate the skeleton page automatically
 * [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton): Skeleton is an adaptive design system powered by Tailwind CSS.
+* [rohitg00/skillkit](https://github.com/rohitg00/skillkit): Supercharge AI coding agents with portable skills. Install, translate & share skills across Claude Code, Cursor, Codex, Copilot & 40 more
 * [mattpocock/skills](https://github.com/mattpocock/skills): Skills for Real Engineers. Straight from my .claude directory.
 * [vercel-labs/skills](https://github.com/vercel-labs/skills): The open agent skills tool - npx skills
 * [Justineo/slideshows](https://github.com/Justineo/slideshows): My slideshows about techical stuff.
@@ -1534,6 +1536,7 @@
 * [zhangfh-cq/uni-translator-backend](https://github.com/zhangfh-cq/uni-translator-backend): UNI Translator 后端，基于node.js+typescript+koa2+mysql+sequelize。
 * [zhangfh-cq/uni-translator-frontend](https://github.com/zhangfh-cq/uni-translator-frontend): UNI Translator 前端，基于uni-app和uni-ui。
 * [leixiaokou/uniapp-peiyin](https://github.com/leixiaokou/uniapp-peiyin): 文字转人声配音uniapp多端支持的小程序
+* [jacob-bd/universal-skills-manager](https://github.com/jacob-bd/universal-skills-manager): None
 * [unoconv/unoconv](https://github.com/unoconv/unoconv): Universal Office Converter - Convert between any document format supported by LibreOffice/OpenOffice.
 * [upscayl/upscayl](https://github.com/upscayl/upscayl): 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 * [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma): A fancy self-hosted monitoring tool
