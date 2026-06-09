@@ -2216,12 +2216,6 @@
     "f/prompts.chat": [
         "Other"
     ],
-    "facebook/react": [
-        "Other"
-    ],
-    "facebook/react-native": [
-        "Other"
-    ],
     "fastdlabs/fastD": [
         "Other"
     ],
@@ -4167,6 +4161,12 @@
         "Other"
     ],
     "ranger/ranger": [
+        "Other"
+    ],
+    "react/react": [
+        "Other"
+    ],
+    "react/react-native": [
         "Other"
     ],
     "realtime-ai/realtime-ai": [
