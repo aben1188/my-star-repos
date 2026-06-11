@@ -629,6 +629,9 @@
     "LearnPrompt/humanize-ppt": [
         "Other"
     ],
+    "LearnPrompt/luban-skill": [
+        "Other"
+    ],
     "LexiestLeszek/scrapeGPT": [
         "Other"
     ],
@@ -4722,6 +4725,9 @@
         "Other"
     ],
     "the1812/Bilibili-Evolved": [
+        "Other"
+    ],
+    "thedotmack/claude-mem": [
         "Other"
     ],
     "themesberg/flowbite-svelte": [

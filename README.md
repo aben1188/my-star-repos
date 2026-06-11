@@ -395,6 +395,7 @@
 * [AlessioZazzarini/claude-codex-collab](https://github.com/AlessioZazzarini/claude-codex-collab): Two AI coding agents. One orchestrator. Zero API costs.
 * [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto): A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 * [lhfer/claude-howto-zh-cn](https://github.com/lhfer/claude-howto-zh-cn): Claude Code 中文全面上手指南。基于 luongnv89/claude-howto 本土化重写，面向中国小白用户，保留命令与配置兼容性，并附学习路径与本地化校验护栏。
+* [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem): Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 * [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master): An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 * [SeemSeam/claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge): Visible multi-agent CLI teams for Claude, Codex, Gemini, OpenCode, and Droid with project memory and tmux supervision
 * [nakkag/CLCL](https://github.com/nakkag/CLCL): None
@@ -926,6 +927,7 @@
 * [mnvx/lowrapper](https://github.com/mnvx/lowrapper): PHP wrapper over LibreOffice converter
 * [lspcieee/lspcieee_ahk](https://github.com/lspcieee/lspcieee_ahk): 个人开机启动的ahk脚本
 * [octopuszy/LTalk-swoole](https://github.com/octopuszy/LTalk-swoole): 网页版实时通讯功能，基于 easyswoole
+* [LearnPrompt/luban-skill](https://github.com/LearnPrompt/luban-skill): 鲁班 | Luban — 把'能用的Skill'打磨成'能被装、能传播、能验证、能进化'的公共资产。Agent skill-polishing workshop: 验料·访行·过尺·慢刨·回炉
 * [6tail/lunar-javascript](https://github.com/6tail/lunar-javascript): 日历、公历(阳历)、农历(阴历、老黄历)、佛历、道历，支持节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道黑道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar.
 * [lixi5338619/lxBook](https://github.com/lixi5338619/lxBook): 《爬虫逆向进阶实战》书籍代码库
 * [lixi5338619/lxSpider](https://github.com/lixi5338619/lxSpider): 爬虫案例合集。包括但不限于《淘宝、京东、天猫、豆瓣、抖音、快手、微博、微信、阿里、头条、pdd、优酷、爱奇艺、携程、12306、58、搜狐、各种指数、维普万方、Zlibraty、Oalib、小说、招标网、采购网、小红书、大众点评、推特、脉脉、知乎》
