@@ -397,7 +397,7 @@
 * [lhfer/claude-howto-zh-cn](https://github.com/lhfer/claude-howto-zh-cn): Claude Code 中文全面上手指南。基于 luongnv89/claude-howto 本土化重写，面向中国小白用户，保留命令与配置兼容性，并附学习路径与本地化校验护栏。
 * [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem): Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 * [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master): An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
-* [SeemSeam/claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge): Visible multi-agent CLI teams for Claude, Codex, Gemini, OpenCode, and Droid with project memory and tmux supervision
+* [SeemSeam/claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge): Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, Cursor, Copilot, Pi, OpenCode, and other AI coding agents
 * [nakkag/CLCL](https://github.com/nakkag/CLCL): None
 * [npm/cli](https://github.com/npm/cli): the package manager for JavaScript
 * [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything): "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
