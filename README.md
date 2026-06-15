@@ -1515,6 +1515,7 @@
 * [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli): Command line interface to the freedesktop.org trashcan.
 * [sindresorhus/trash-cli](https://github.com/sindresorhus/trash-cli): Move files and folders to the trash
 * [huqi-pr/trending-in-one](https://github.com/huqi-pr/trending-in-one): 今日头条热搜,知乎热门视频，知乎热搜榜，知乎热门话题，微博热搜榜；记录从 2020-11-29 日开始的热搜。每小时抓取一次数据，按天归档。
+* [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar): ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。
 * [doyoe/trip](https://github.com/doyoe/trip): 移动前端开发经验指南
 * [TheTom/turboquant_plus](https://github.com/TheTom/turboquant_plus): None
 * [AlexZhangji/Twitter-Insight-LLM](https://github.com/AlexZhangji/Twitter-Insight-LLM): Twitter data scraping, embedding based image search and more.
