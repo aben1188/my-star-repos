@@ -678,7 +678,7 @@
 * [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster): Make everything a GitHub svg poster and Skyline!
 * [github/gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
 * [kaedei/gitignore](https://github.com/kaedei/gitignore): A collection of useful .gitignore templates
-* [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus): GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+* [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus): GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration
 * [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod): The developer platform for on-demand cloud development environments to create software faster and more securely.
 * [antarixxx/gitsummarize](https://github.com/antarixxx/gitsummarize): Get beautiful, world-class documentation for any repo
 * [gland2015/gland](https://github.com/gland2015/gland): javascript和react
