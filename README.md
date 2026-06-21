@@ -1196,6 +1196,7 @@
 * [vladikoff/playwright-ai](https://github.com/vladikoff/playwright-ai): Command-line utility to generate LLM-based Playwright tests
 * [wechaty/plugin-contrib](https://github.com/wechaty/plugin-contrib): Wechaty Plugin Ecosystem Contrib Package
 * [pnpm/pnpm](https://github.com/pnpm/pnpm): Fast, disk space efficient package manager
+* [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail): Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 * [ambition-hb/Pool_Proxy](https://github.com/ambition-hb/Pool_Proxy): IP Agent Pool (IP代理池)
 * [postcss/postcss](https://github.com/postcss/postcss): Transforming styles with JS plugins
 * [crimx/postcss-safe-important](https://github.com/crimx/postcss-safe-important): PostCSS plugin that adds !important to style declarations safely.
