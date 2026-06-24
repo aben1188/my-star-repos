@@ -853,7 +853,7 @@
 * [kindsoft/kindeditor](https://github.com/kindsoft/kindeditor): Try Lake, a new editor I developed
 * [shaunchander/kit-ai](https://github.com/shaunchander/kit-ai): None
 * [koahubjs/koahub](https://github.com/koahubjs/koahub): KoaHub.js -- 中文最佳实践Node.js Web快速开发框架。支持Koa.js, Express.js中间件。当前项目已停止维护，推荐使用Doodoo.js
-* [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi): 🚀 A modern, open-source K8s panel developed by the official 1Panel team.
+* [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi): 🚀 现代化、开源的K8s 面板，1Panel 官方出品。
 * [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook): Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz
 * [meta-magic/kubernetes_workshop](https://github.com/meta-magic/kubernetes_workshop): Kubernetes is an open source Container Orchestration System for automatic deployment, scaling, and management of Containerized application. Kubernetes gives you the freedom to take advantage of on-premise, hybrid or public cloud infrastructure. Kubernetes helps you to scale both horizontally and vertically depends on the load.
 * [kysely-org/kysely](https://github.com/kysely-org/kysely): A type-safe TypeScript SQL query builder
