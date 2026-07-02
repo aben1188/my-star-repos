@@ -67,6 +67,7 @@
 * [justboil/admin-one-vue-tailwind](https://github.com/justboil/admin-one-vue-tailwind): Free Vue.js 3.x Tailwind 4.x admin dashboard template with dark mode. Vite builds. Pinia state. Laravel integration available
 * [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents): A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 * [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh): 🎭 266 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 50 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。
+* [noobnooc/agent](https://github.com/noobnooc/agent): My profile & the agent skills I created
 * [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills): Production-grade engineering skills for AI coding agents.
 * [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta): The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place.
 * [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
@@ -1065,7 +1066,6 @@
 * [nodists/nodist](https://github.com/nodists/nodist): Natural node.js and npm version manager for windows.
 * [lencx/nofwl](https://github.com/lencx/nofwl): NoFWL Desktop Application
 * [nonebot/nonebot2](https://github.com/nonebot/nonebot2): 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
-* [noobnooc/noobnooc](https://github.com/noobnooc/noobnooc): My profile & the agent skills I created
 * [necolas/normalize.css](https://github.com/necolas/normalize.css): A modern alternative to CSS resets
 * [Xheldon/Notion-Flow-Prod](https://github.com/Xheldon/Notion-Flow-Prod): Publish your Notion article to your Github Jekyll blog, and upload the blog images to an OSS service.
 * [novuhq/novu](https://github.com/novuhq/novu): The open-source communication infrastructure for agents and products
