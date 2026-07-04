@@ -177,7 +177,6 @@
 * [sherlock1987/Awesome-ChatGPT-AIGC-Lesson](https://github.com/sherlock1987/Awesome-ChatGPT-AIGC-Lesson): 关于ChatGPT，以及AIGC的学习道路，里面包含的内容很多，有语言模型，还有RLHF，多模态论文等等，本人的公众号是船长尼莫，感兴趣可以关注一下~
 * [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api): Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 * [Awesome-Open-AI/Awesome-ChatGPT-Plugins](https://github.com/Awesome-Open-AI/Awesome-ChatGPT-Plugins): A curated list of awesome ChatGPT Plugins, guides, blogs, and other resources.
-* [wikieden/Awesome-ChatGPT-Prompts-CN](https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN): ChatGPT调教指南|咒语指南|聊天提示词指南|学习指南
 * [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh): ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 * [L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN): 如何将ChatGPT调教成一只猫娘
 * [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories): A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code skills.
@@ -646,6 +645,7 @@
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
 * [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN): :books: 免费的计算机编程类中文书籍，欢迎投稿
 * [popjane/free_chatgpt_api](https://github.com/popjane/free_chatgpt_api): 🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、Cherry Studio、沉浸式翻译等项目使用
+* [wikieden/Freedom-To-Chatgpt-Claude-Agent](https://github.com/wikieden/Freedom-To-Chatgpt-Claude-Agent): ChatGPT调教指南|咒语指南|聊天提示词指南|学习指南
 * [jectychen/Front-End-Develop-Guide](https://github.com/jectychen/Front-End-Develop-Guide): 这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成。
 * [sniperyan/Front-end-questions-to-the-interview-stage](https://github.com/sniperyan/Front-end-questions-to-the-interview-stage): :snail:最全前端开发面试问题及答案整理
 * [ouvens/frontend-system-map](https://github.com/ouvens/frontend-system-map): init
