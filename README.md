@@ -242,7 +242,6 @@
 * [vikadata/awesome-vikadata](https://github.com/vikadata/awesome-vikadata): 🙀 A list of awesome projects / resources / SDKs / frameworks that make Vikadata even more awesome. 🤪  https://vika.cn/developers
 * [liuzi6612/awesome-web-editor](https://github.com/liuzi6612/awesome-web-editor): 🔨  Open source WEB editor summary
 * [Aufree/awesome-wechat-weapp](https://github.com/Aufree/awesome-wechat-weapp): None
-* [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp): 微信小程序开发资源汇总 :100:
 * [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper): 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
 * [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins): A collection of ZSH frameworks, plugins, themes and tutorials.
 * [ericpd/awesome_ChatGPT4-WebLinks](https://github.com/ericpd/awesome_ChatGPT4-WebLinks): The main purpose of Awesome_ChatGPT4_WebLinks repository is to gather links to websites that are using ChatGPT4 artificial intelligence technology to achieve their goals. By sharing links that demonstrate the use of AI and ChatGPT4 in various applications, you can help developers and enthusiasts in this field to learn and grow.
@@ -1707,6 +1706,7 @@
 * [unmagic/wechat-im](https://github.com/unmagic/wechat-im): 微信小程序即时通讯模板，使用WebSocket通信
 * [turkyden/wechat-link](https://github.com/turkyden/wechat-link): 🥕 微信公众号无法外链怎么办？一行代码搞定长按识别二维码。
 * [mojisrc/wechat-mini-shop](https://github.com/mojisrc/wechat-mini-shop): 微信小程序商城，微信小程序微店，接口基于FaShop
+* [justjavac/wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar): 微信小程序开发资源汇总 :100:
 * [rixingyike/wechat-operation-assistant](https://github.com/rixingyike/wechat-operation-assistant): 一个使用小微商户+微信聊天机器人构建的可付费私域运营助手
 * [ligboy/Wechat-php](https://github.com/ligboy/Wechat-php): 本微信sdk实现了被动响应的官方api已经主动发送消息给订阅用户，主动批量发送消息给订阅用户。
 * [dodgepudding/wechat-php-sdk](https://github.com/dodgepudding/wechat-php-sdk): 微信公众平台php开发包, weixin developer SDK.
