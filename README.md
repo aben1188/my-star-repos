@@ -1707,7 +1707,7 @@
 * [unmagic/wechat-im](https://github.com/unmagic/wechat-im): 微信小程序即时通讯模板，使用WebSocket通信
 * [turkyden/wechat-link](https://github.com/turkyden/wechat-link): 🥕 微信公众号无法外链怎么办？一行代码搞定长按识别二维码。
 * [mojisrc/wechat-mini-shop](https://github.com/mojisrc/wechat-mini-shop): 微信小程序商城，微信小程序微店，接口基于FaShop
-* [justjavac/wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar): 微信小程序开发资源汇总 :100:
+* [justjavac/wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar): 小程序雷达：AI 驱动的小程序技术选型、趋势追踪和迁移诊断工具
 * [rixingyike/wechat-operation-assistant](https://github.com/rixingyike/wechat-operation-assistant): 一个使用小微商户+微信聊天机器人构建的可付费私域运营助手
 * [ligboy/Wechat-php](https://github.com/ligboy/Wechat-php): 本微信sdk实现了被动响应的官方api已经主动发送消息给订阅用户，主动批量发送消息给订阅用户。
 * [dodgepudding/wechat-php-sdk](https://github.com/dodgepudding/wechat-php-sdk): 微信公众平台php开发包, weixin developer SDK.
