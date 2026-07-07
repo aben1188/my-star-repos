@@ -394,6 +394,7 @@
 * [steipete/claude-code-mcp](https://github.com/steipete/claude-code-mcp): Claude Code as one-shot MCP server to have an agent in your agent.
 * [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap): None
 * [AlessioZazzarini/claude-codex-collab](https://github.com/AlessioZazzarini/claude-codex-collab): Two AI coding agents. One orchestrator. Zero API costs.
+* [ZeroSumQuant/claude-conversation-extractor](https://github.com/ZeroSumQuant/claude-conversation-extractor): Extract clean conversation logs from Claude Code's internal storage
 * [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto): A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 * [lhfer/claude-howto-zh-cn](https://github.com/lhfer/claude-howto-zh-cn): Claude Code 中文全面上手指南。基于 luongnv89/claude-howto 本土化重写，面向中国小白用户，保留命令与配置兼容性，并附学习路径与本地化校验护栏。
 * [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem): Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
