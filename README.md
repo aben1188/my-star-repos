@@ -1407,7 +1407,7 @@
 * [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf): Control and manage Android devices from your browser.
 * [STranslate/STranslate](https://github.com/STranslate/STranslate): A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
 * [ygh3279799773/streamer-card](https://github.com/ygh3279799773/streamer-card): 流光卡片API
-* [shinpr/sub-agents-skills](https://github.com/shinpr/sub-agents-skills): Cross-LLM sub-agent orchestration as an Agent Skills. Route tasks to Codex, Claude Code, GLM, Cursor, or Gemini from any compatible tool.
+* [shinpr/sub-agents-skills](https://github.com/shinpr/sub-agents-skills): Cross-LLM sub-agent orchestration as an Agent Skills. Route tasks to Codex, Claude Code, Grok, GLM, Cursor, or Gemini from any compatible tool.
 * [BlackGlory/subtitle-translate-tmt](https://github.com/BlackGlory/subtitle-translate-tmt): 🌳 使用腾讯机器翻译 API 为 PotPlayer 翻译字幕.
 * [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory): Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
 * [obra/superpowers](https://github.com/obra/superpowers): An agentic skills framework & software development methodology that works.
