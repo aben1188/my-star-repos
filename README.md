@@ -925,6 +925,7 @@
 * [apache/logging-log4php](https://github.com/apache/logging-log4php): Mirror of Apache log4php
 * [pimterry/loglevel](https://github.com/pimterry/loglevel): :ledger: Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods
 * [bmpi-dev/logseq.xyz](https://github.com/bmpi-dev/logseq.xyz): logseq self-host with github feature
+* [Archive228/loopkit](https://github.com/Archive228/loopkit): 33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI).
 * [94cstyles/lottery](https://github.com/94cstyles/lottery): 移动端抽奖插件[大转盘，老虎机，刮刮卡]
 * [mnvx/lowrapper](https://github.com/mnvx/lowrapper): PHP wrapper over LibreOffice converter
 * [lspcieee/lspcieee_ahk](https://github.com/lspcieee/lspcieee_ahk): 个人开机启动的ahk脚本
