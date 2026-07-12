@@ -1117,7 +1117,7 @@
 * [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio): 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
 * [openresty/openresty](https://github.com/openresty/openresty): High Performance Web Platform Based on Nginx and LuaJIT
 * [openresty/openresty.org](https://github.com/openresty/openresty.org): Code and data for the openresty.org site
-* [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace): "OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving" -- Community: https://open-space.cloud/
+* [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace): "OpenSpace: The Quality-First Skill Hub for AI Agents" -- https://open-space.cloud/
 * [wandb/openui](https://github.com/wandb/openui): OpenUI let's you describe UI using your imagination, then see it rendered live.
 * [eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat): golang微信SDK
 * [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb): Peer-to-Peer Databases for the Decentralized Web
