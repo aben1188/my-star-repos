@@ -716,6 +716,7 @@
 * [gpt-engineer-org/gptengineer.app](https://github.com/gpt-engineer-org/gptengineer.app): Rapid prototyping of web apps using plain english 👶🤖
 * [CosmosShadow/gptpdf](https://github.com/CosmosShadow/gptpdf): Using GPT to parse PDF
 * [linexjlin/GPTs](https://github.com/linexjlin/GPTs): leaked prompts of GPTs
+* [opengpts/gpts-trending](https://github.com/opengpts/gpts-trending): Record everyday Top GPTs in ChatGPT GPTs Store
 * [AINativeLab/gptstore-data-backup](https://github.com/AINativeLab/gptstore-data-backup): The daily archive of GPT Store's trending data
 * [cryptonomex/graphene](https://github.com/cryptonomex/graphene): None
 * [xai-org/grok-1](https://github.com/xai-org/grok-1): Grok open release
@@ -1508,7 +1509,6 @@
 * [itmad/Tpay_Svr](https://github.com/itmad/Tpay_Svr): Tpay_Svr是微信和支付宝的个人免签 24小时全自动回调支付系统的php服务端程序
 * [Hert4/trace2skill](https://github.com/Hert4/trace2skill): Harness-agnostic framework for evolving agent skills from real trajectories. Implementation of Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills ([arXiv:2603.25158](https://arxiv.org/abs/2603.25158)).
 * [Qwen-Applications/Trace2Skill](https://github.com/Qwen-Applications/Trace2Skill): Official codebase of the paper -- Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills
-* [yzbcs/trace2skill-](https://github.com/yzbcs/trace2skill-): None
 * [Tudou77826/trace2skill_distiller](https://github.com/Tudou77826/trace2skill_distiller): None
 * [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection): 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 * [ambition-hb/Trancefer](https://github.com/ambition-hb/Trancefer): 知乎爬虫——Mongo数据→MySQL数据
