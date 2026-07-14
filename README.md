@@ -716,7 +716,6 @@
 * [gpt-engineer-org/gptengineer.app](https://github.com/gpt-engineer-org/gptengineer.app): Rapid prototyping of web apps using plain english 👶🤖
 * [CosmosShadow/gptpdf](https://github.com/CosmosShadow/gptpdf): Using GPT to parse PDF
 * [linexjlin/GPTs](https://github.com/linexjlin/GPTs): leaked prompts of GPTs
-* [opengpts/gpts-trending](https://github.com/opengpts/gpts-trending): Record everyday Top GPTs in ChatGPT GPTs Store
 * [AINativeLab/gptstore-data-backup](https://github.com/AINativeLab/gptstore-data-backup): The daily archive of GPT Store's trending data
 * [cryptonomex/graphene](https://github.com/cryptonomex/graphene): None
 * [xai-org/grok-1](https://github.com/xai-org/grok-1): Grok open release
