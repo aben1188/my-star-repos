@@ -1360,7 +1360,7 @@
 * [jayZOU/skeleton](https://github.com/jayZOU/skeleton): miniprogram to generate the skeleton page automatically
 * [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton): Skeleton is an adaptive design system powered by Tailwind CSS.
 * [rohitg00/skillkit](https://github.com/rohitg00/skillkit): Supercharge AI coding agents with portable skills. Install, translate & share skills across Claude Code, Cursor, Codex, Copilot & 40 more
-* [mattpocock/skills](https://github.com/mattpocock/skills): Skills for Real Engineers. Straight from my .claude directory.
+* [mattpocock/skills](https://github.com/mattpocock/skills): Skills for Real Engineers. Straight from my .agents directory.
 * [vercel-labs/skills](https://github.com/vercel-labs/skills): The open agent skills tool - npx skills
 * [Justineo/slideshows](https://github.com/Justineo/slideshows): My slideshows about techical stuff.
 * [slimphp/Slim](https://github.com/slimphp/Slim): Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
