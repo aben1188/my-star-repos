@@ -906,7 +906,7 @@
 * [listen1/listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension): one for all free music in china (chrome extension, also works for firefox)
 * [listen1/listen1_desktop](https://github.com/listen1/listen1_desktop): one for all free music in china (Windows, Mac, Linux desktop)
 * [blocklistproject/Lists](https://github.com/blocklistproject/Lists): Primary Block Lists
-* [BerriAI/litellm](https://github.com/BerriAI/litellm): Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]
+* [BerriAI/litellm](https://github.com/BerriAI/litellm): The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
 * [lijigang/ljg-skills](https://github.com/lijigang/ljg-skills): None
 * [run-llama/llama_index](https://github.com/run-llama/llama_index): LlamaIndex is the leading document agent and OCR platform
 * [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory): Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
