@@ -1460,7 +1460,7 @@
 * [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs): The source for all Tauri project documentation.
 * [tecnickcom/TCPDF](https://github.com/tecnickcom/TCPDF): Deprecated: PHP PDF library, superseded by tc-lib-pdf (https://github.com/tecnickcom/tc-lib-pdf)
 * [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop): Telegram Desktop messaging app
-* [teableio/teable](https://github.com/teableio/teable): ✨ The Next Gen Airtable Alternative: No-Code Postgres
+* [teableio/teable](https://github.com/teableio/teable): ✨ AI Spreadsheet for Business
 * [lcomplete/TechShare](https://github.com/lcomplete/TechShare): 🌟 分享效率方法 🪄、优质文章 📑、编程知识 🎹、实用工具 🛠️ 和有趣内容 😄。💌 当有重要的事情需要分享时会发送 newsletter。
 * [Firaenix/TeleChatRelay](https://github.com/Firaenix/TeleChatRelay): Relay between Telegram and WeChat
 * [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup): 2026最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
