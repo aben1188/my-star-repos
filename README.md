@@ -850,7 +850,7 @@
 * [BennyWang/KBinding](https://github.com/BennyWang/KBinding): Android MVVM framework write in kotlin, develop Android has never been so fun.
 * [Tencent/kbone](https://github.com/Tencent/kbone): 一个致力于微信小程序和 Web 端同构的解决方案
 * [kikiakikia/keyword](https://github.com/kikiakikia/keyword): 敏感词整理
-* [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills): 数字生命卡兹克开源的 AI Skills 合集
+* [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills): 数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: neat-freak 洁癖 (docs/memory closeout), hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents
 * [kindsoft/kindeditor](https://github.com/kindsoft/kindeditor): Try Lake, a new editor I developed
 * [shaunchander/kit-ai](https://github.com/shaunchander/kit-ai): None
 * [koahubjs/koahub](https://github.com/koahubjs/koahub): KoaHub.js -- 中文最佳实践Node.js Web快速开发框架。支持Koa.js, Express.js中间件。当前项目已停止维护，推荐使用Doodoo.js
