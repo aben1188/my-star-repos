@@ -1302,7 +1302,6 @@
 * [Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy): Rime输入法安装脚本，让一切更轻松。Make using Rime easy. 
 * [functoreality/rime-flypy-zrmfast](https://github.com/functoreality/rime-flypy-zrmfast): 打字不翻页——Rime 输入法 双拼+辅助码方案
 * [iDvel/rime-ice](https://github.com/iDvel/rime-ice): Rime 配置：雾凇拼音 | 长期维护的简体词库
-* [David-patrick-chuks/Riona-AI-Agent](https://github.com/David-patrick-chuks/Riona-AI-Agent): Riona Ai Agent 🌸 is built using Node.js and TypeScript 🛠️, designed for seamless job execution. It's lightweight, efficient, and still evolving, exciting new features coming soon!
 * [rokstrnisa/RoboGPT](https://github.com/rokstrnisa/RoboGPT): A simple and extensible program that helps you run GPT-4 model autonomously.
 * [rocboss/ROCBOSS-OLD](https://github.com/rocboss/ROCBOSS-OLD): High load, simple micro community software
 * [rocboss/rocphp](https://github.com/rocboss/rocphp): A fast, simple, extensible framework for PHP which is the concrete realization of flight
