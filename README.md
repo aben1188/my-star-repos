@@ -509,7 +509,7 @@
 * [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub): A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
 * [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys): A Swiss Army knife for developers.
 * [devv-ai/devv](https://github.com/devv-ai/devv): An AI-powered search engine for developers.
-* [langgenius/dify](https://github.com/langgenius/dify): Production-ready platform for agentic workflow development.
+* [langgenius/dify](https://github.com/langgenius/dify): Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
 * [Miserlou/DirtyShare](https://github.com/Miserlou/DirtyShare): Peer to Peer Filesharing in Pure Javascript With Node.js and Socket.io
 * [virskor/DiscuzQ](https://github.com/virskor/DiscuzQ): Flutter open source application for DiscuzQ
 * [sabrogden/Ditto](https://github.com/sabrogden/Ditto): Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
