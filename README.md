@@ -522,7 +522,7 @@
 * [mochat-cloud/docker-compose](https://github.com/mochat-cloud/docker-compose): 🐳 The docker compose offered by MoChat.
 * [eternity-wdd/docker-env](https://github.com/eternity-wdd/docker-env): This project includes using docker to build the environment automatically
 * [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer): Easily install PHP extensions in Docker containers
-* [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy): 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到 ClawCloud\Render\Koyeb
+* [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy): 🔥 🔥 🔥 自建 Docker 镜像加速与管理服务，支持 Docker、K8s、Quay、GHCR、MCR、NVCR 等上游一键部署，并提供 Web 后台进行代理管理。
 * [afeiship/docker-sequenceserver](https://github.com/afeiship/docker-sequenceserver): Docker for sequenceserver.
 * [gdraheim/docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement): docker systemctl replacement - allows to deploy to systemd-controlled containers without starting an actual systemd daemon (e.g.  centos7, ubuntu16)
 * [huan/docker-wechat](https://github.com/huan/docker-wechat): DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux
@@ -1810,7 +1810,7 @@
 * [Greyh4t/WinXray](https://github.com/Greyh4t/WinXray): 支持Xray / V2Ray（vmess / vless），Shadowsocks，SSR，Trojan，NaïveProxy，Trojan-go通用客户端（Windows）！默认基于xray核心！本程序采用aardio设计与开发！
 * [TheMRLL/WinXray](https://github.com/TheMRLL/WinXray): 支持Xray / V2Ray（vmess / vless），Shadowsocks，SSR，Trojan，NaïveProxy，Trojan-go通用客户端（Windows）！默认基于xray核心！本程序采用aardio设计与开发！
 * [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements): Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
-* [pranshuparmar/witr](https://github.com/pranshuparmar/witr): Why is this running?
+* [pranshuparmar/witr](https://github.com/pranshuparmar/witr): witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
 * [wj704/wj704.github.io](https://github.com/wj704/wj704.github.io): 个人博客
 * [x64architecture/wnmp](https://github.com/x64architecture/wnmp): An easy Nginx, MariaDB and PHP environment for Windows.
 * [WordPress/WordPress](https://github.com/WordPress/WordPress): WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead.
