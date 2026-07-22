@@ -335,7 +335,7 @@
 * [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev): ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
 * [atorber/chatflow](https://github.com/atorber/chatflow): 一个使用wechaty构建的机器人业务管理平台
 * [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT): Reverse engineered ChatGPT API
-* [lencx/ChatGPT](https://github.com/lencx/ChatGPT): 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+* [lencx/ChatGPT](https://github.com/lencx/ChatGPT): ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
 * [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced): WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 * [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue): ⏩ Automatically continue generating answers when ChatGPT responses get cut-off
 * [Hello-SimpleAI/chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection): Human ChatGPT Comparison Corpus (HC3), Detectors, and more! 🔥
