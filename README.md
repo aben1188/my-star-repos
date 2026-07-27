@@ -1429,7 +1429,7 @@
 * [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler): Open source browser extension for finding, editing, exporting, optimizing, and managing SVG content.
 * [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui): Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 * [openai/swarm](https://github.com/openai/swarm): Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
-* [kyegomez/swarms](https://github.com/kyegomez/swarms): The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai
+* [kyegomez/swarms](https://github.com/kyegomez/swarms): The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai
 * [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts): Switch hosts quickly!
 * [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega): No longer maintained, see pinned issues
 * [swoft-cloud/swoft](https://github.com/swoft-cloud/swoft): 🚀 PHP Microservice Full Coroutine Framework
