@@ -69,7 +69,7 @@
 * [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh): 🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 52 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。
 * [noobnooc/agent](https://github.com/noobnooc/agent): My profile & the agent skills I created
 * [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills): Production-grade engineering skills for AI coding agents.
-* [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta): The open-source workspace for building and running AI agents. Build agents through chat, share them with your team, and run background agents on schedules or app events.
+* [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta): The open-source workspace for building AI agents and automations for teams.
 * [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 * [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic): Your API ⇒ Paid MCP. Instantly.
 * [neural-maze/agentic-patterns-course](https://github.com/neural-maze/agentic-patterns-course): Implementing the 4 agentic patterns from scratch
