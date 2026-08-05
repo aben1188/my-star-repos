@@ -1078,6 +1078,7 @@
 * [ncjoes/office-converter](https://github.com/ncjoes/office-converter): PHP Wrapper for LibreOffice
 * [YowFung/officetopdf](https://github.com/YowFung/officetopdf): This is a PHP Laravel library, which uses LibreOffice built-in command to convert Office documents(such as doc, docx, xls, xlsx, ppt, pptx, wps, dwg and so on) to PDF files.
 * [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
+* [AmazingAng/old-coder](https://github.com/AmazingAng/old-coder): An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.
 * [dimdenGD/OldTweetDeck](https://github.com/dimdenGD/OldTweetDeck): Returns old TweetDeck!
 * [kaqijiang/OminiNewsAI](https://github.com/kaqijiang/OminiNewsAI): AI自动采集多平台发布----万能新闻助手-根据关键字 自助抓取新闻资讯-AI总结-一键发布多平台（微信公众号、掘金、知识星球、知乎）。
 * [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent): Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
