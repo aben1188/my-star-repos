@@ -798,7 +798,7 @@
 * [loveuqian/iOS-Carbon-Forum](https://github.com/loveuqian/iOS-Carbon-Forum): iOS Client for Carbon Forum
 * [xiaosimao/IP_POOL](https://github.com/xiaosimao/IP_POOL): 免费的IP代理池
 * [ipfs/ipfs](https://github.com/ipfs/ipfs): Peer-to-peer hypermedia protocol
-* [ipfs/ipfs-companion](https://github.com/ipfs/ipfs-companion): Browser extension that simplifies access to IPFS resources on the web
+* [ipfs/ipfs-companion](https://github.com/ipfs/ipfs-companion): Browser extension that routes ipfs:// addresses and content-addressed websites through your own local IPFS node
 * [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop): An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux. 
 * [ipfspics/ipfspics-server](https://github.com/ipfspics/ipfspics-server): Content-addressable, peer-to-peer method of storing and sharing images on the internet.
 * [klren0312/ironInfoWeapp](https://github.com/klren0312/ironInfoWeapp): (请仔细阅读每个项目文件夹下的README) 钢材信息小程序服务已暂停, 后续可能改为云函数
