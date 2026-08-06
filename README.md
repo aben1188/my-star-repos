@@ -1072,7 +1072,6 @@
 * [bruderstein/nppPluginManager](https://github.com/bruderstein/nppPluginManager): Notepad++ Plugin Manager
 * [barvian/number-flow](https://github.com/barvian/number-flow): An animated number component for React, Vue, Svelte, and TS/JS.
 * [D-xuanmo/Nuxtjs-Wordpress](https://github.com/D-xuanmo/Nuxtjs-Wordpress): 🎉 Nuxtjs + Wordpress REST API 主题；支持企业微信通知功能；全站前后端分离，自适应，白日、黑夜两种主题切换
-* [ZacharyZhang-NY/O1-For-Claude](https://github.com/ZacharyZhang-NY/O1-For-Claude): None
 * [Vincit/objection.js](https://github.com/Vincit/objection.js): An SQL-friendly ORM for Node.js
 * [ncjoes/office-converter](https://github.com/ncjoes/office-converter): PHP Wrapper for LibreOffice
 * [YowFung/officetopdf](https://github.com/YowFung/officetopdf): This is a PHP Laravel library, which uses LibreOffice built-in command to convert Office documents(such as doc, docx, xls, xlsx, ppt, pptx, wps, dwg and so on) to PDF files.
