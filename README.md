@@ -1350,7 +1350,7 @@
 * [SagerNet/sing-box](https://github.com/SagerNet/sing-box): The universal proxy platform
 * [modelscope/sirchmunk](https://github.com/modelscope/sirchmunk): 🐿️ Sirchmunk:  Raw data to self-evolving intelligence, real-time.
 * [sveltejs/sites](https://github.com/sveltejs/sites): None
-* [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan): A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+* [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan): An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 * [langzhou/siyuan-note](https://github.com/langzhou/siyuan-note): 思源笔记美化教程
 * [terwer/siyuan-plugin-publisher](https://github.com/terwer/siyuan-plugin-publisher): V2 is on the way✈️ Publish articles from siyuan-note to platforms such as Yuque, etc.Free and open source. 2.0全面重构，请期待。 将思源笔记的文章发布到语雀等平台，开源免费。V2闭关开发中，发布之后将陆续恢复更新
 * [jayZOU/skeleton](https://github.com/jayZOU/skeleton): miniprogram to generate the skeleton page automatically
