@@ -1769,7 +1769,6 @@
 * [wonderfulsuccess/weixin_crawler](https://github.com/wonderfulsuccess/weixin_crawler): 稳定工作4年的微信公众号爬虫 Based on python and vuejs 微信公众号采集 Python爬虫 公众号采集 公众号爬虫 公众号备份
 * [52Lau/weixin_crawler-1](https://github.com/52Lau/weixin_crawler-1): 高效微信公众号历史文章和阅读数据爬虫powered by scrapy 微信公众号爬虫 微信采集 公众号采集
 * [Urinx/WeixinBot](https://github.com/Urinx/WeixinBot): 网页版微信API，包含终端版微信及微信机器人
-* [gannicusleon/WeixinBot](https://github.com/gannicusleon/WeixinBot): 网页版微信API，包含终端版微信及微信机器人
 * [dedemao/weixinMp](https://github.com/dedemao/weixinMp): 微信公众号接口单文件版。一个PHP文件搞定微信公众号系列。包括自定义菜单、消息管理等
 * [JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK): 微信全平台 .NET SDK， Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 10.0。已支持微信公众号、小程序、小游戏、微信支付、企业微信/企业号、开放平台、JSSDK、微信周边等全平台。 WeChat SDK for C#.
 * [dedemao/weixinPay](https://github.com/dedemao/weixinPay): 微信支付单文件版。一个PHP文件搞定微信支付系列。包括原生支付（扫码支付），H5支付，公众号支付，现金红包、企业付款到零钱等。新增V3版。
@@ -1808,7 +1807,7 @@
 * [Greyh4t/WinXray](https://github.com/Greyh4t/WinXray): 支持Xray / V2Ray（vmess / vless），Shadowsocks，SSR，Trojan，NaïveProxy，Trojan-go通用客户端（Windows）！默认基于xray核心！本程序采用aardio设计与开发！
 * [TheMRLL/WinXray](https://github.com/TheMRLL/WinXray): 支持Xray / V2Ray（vmess / vless），Shadowsocks，SSR，Trojan，NaïveProxy，Trojan-go通用客户端（Windows）！默认基于xray核心！本程序采用aardio设计与开发！
 * [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements): Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
-* [pranshuparmar/witr](https://github.com/pranshuparmar/witr): Why is this running? CA: BYjCWd4XS7PTnDbou4Swwmj4XkAtreMKew8n2Pagpump
+* [pranshuparmar/witr](https://github.com/pranshuparmar/witr): Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI. 
 * [wj704/wj704.github.io](https://github.com/wj704/wj704.github.io): 个人博客
 * [x64architecture/wnmp](https://github.com/x64architecture/wnmp): An easy Nginx, MariaDB and PHP environment for Windows.
 * [WordPress/WordPress](https://github.com/WordPress/WordPress): WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead.
