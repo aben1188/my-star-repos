@@ -1009,7 +1009,7 @@
 * [xirong/my-git](https://github.com/xirong/my-git): A practical Git & GitHub handbook for modern engineering teams and AI-native development workflows. |  现代工程团队与 AI 编程时代的 Git / GitHub 实战手册
 * [lizongying/my-tv](https://github.com/lizongying/my-tv): 我的电视 电视直播软件，安装即可使用
 * [venaissance/myBlog](https://github.com/venaissance/myBlog): 💡 致力于提升技术学习效率的博客
-* [dbcli/mycli](https://github.com/dbcli/mycli): Rich Terminal Client for MySQL with AutoCompletion, Syntax Highlighting, and Dataframes
+* [dbcli/mycli](https://github.com/dbcli/mycli): Rich MySQL Terminal Client with AutoCompletion, Syntax Highlighting, and Dataframes
 * [neoclide/mycomment.vim](https://github.com/neoclide/mycomment.vim): one mapping for comment:  <leader>c
 * [terrylinooo/mynote](https://github.com/terrylinooo/mynote): WordPress theme built for developers.
 * [uloveits/myTools](https://github.com/uloveits/myTools): 基于taro框架写的微信小程序，包括‘大转盘’，‘答案之书’，‘砸金蛋’，‘贺卡’能工具内容
