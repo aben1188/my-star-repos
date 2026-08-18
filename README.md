@@ -703,7 +703,6 @@
 * [1mrat/gpt-stats](https://github.com/1mrat/gpt-stats): Stats for Custom Chat GPTs not created by OpenAI
 * [mymusise/gpt2-quickly](https://github.com/mymusise/gpt2-quickly): None
 * [padigar210/GPT3](https://github.com/padigar210/GPT3): This is a project made for the purpose of learning React JS referring some of the awesome YouTube channels
-* [hiro086/GPT3-4-Midjourney-StableDiffusion-Mirrors-awesome](https://github.com/hiro086/GPT3-4-Midjourney-StableDiffusion-Mirrors-awesome): 国内AI镜像站的导航大全，每天收集公开的GPT3.5+GPT4受限试用+Midjourney+StableDiffusion站点
 * [DavidOrtsac/gpt3-writer-updated](https://github.com/DavidOrtsac/gpt3-writer-updated): Awesome GPT3 tech
 * [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all): GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 * [xtekky/gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
