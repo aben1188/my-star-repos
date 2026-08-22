@@ -152,7 +152,7 @@
 * [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper): A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 * [bneijt/autotrash](https://github.com/bneijt/autotrash): Tool to automatically purge old trashed files
 * [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia): Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 * [EmbraceAGI/Awesome-AGI](https://github.com/EmbraceAGI/Awesome-AGI): A curated list of awesome AGI frameworks, software and resources
 * [lencx/awesome-ai](https://github.com/lencx/awesome-ai): 🤖 Awesome AI
 * [runningcheese/Awesome-AI](https://github.com/runningcheese/Awesome-AI): Awesome AI，你的《人工智能指南》！
