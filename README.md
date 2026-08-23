@@ -1541,7 +1541,7 @@
 * [leixiaokou/uniapp-peiyin](https://github.com/leixiaokou/uniapp-peiyin): 文字转人声配音uniapp多端支持的小程序
 * [jacob-bd/universal-skills-manager](https://github.com/jacob-bd/universal-skills-manager): None
 * [unoconv/unoconv](https://github.com/unoconv/unoconv): Universal Office Converter - Convert between any document format supported by LibreOffice/OpenOffice.
-* [byoungd/up](https://github.com/byoungd/up): An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
+* [byoungd/up](https://github.com/byoungd/up): An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 离谱的人生/人生进阶 离谱的英语学习指南/英语学习教程/英语学习/学英语
 * [upscayl/upscayl](https://github.com/upscayl/upscayl): 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 * [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma): A fancy self-hosted monitoring tool
 * [suofiya/url_Shortny](https://github.com/suofiya/url_Shortny): 简单短链接,短链接生成，短链接加密，短链接二维码，短链接API，短链接自定义后缀，二维码API
