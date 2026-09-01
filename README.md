@@ -117,7 +117,7 @@
 * [zsh-users/antigen](https://github.com/zsh-users/antigen): The plugin manager for zsh.
 * [any86/any-rule](https://github.com/any86/any-rule): 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
 * [AnyVM-Tech/AnyGPT](https://github.com/AnyVM-Tech/AnyGPT): a simple, intuitive api and webui to get any ai model from for free or to selfhost. incorporates other api technologies into your request such as wolfram, web search, image or voice to text, and more! (also provides a load balancer for the providers side to maximize speed across users, the api is compatible with all other webuis)
-* [OpenMOSS/AnyGPT](https://github.com/OpenMOSS/AnyGPT): Code for "AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling"
+* [OpenMOSS/AnyGPT](https://github.com/OpenMOSS/AnyGPT): A unified multimodal language model based on discrete sequence modeling
 * [any-LABS/anyGPT](https://github.com/any-LABS/anyGPT): A general purpose library for training any type of GPT model.
 * [gitbarlew/AnyGPT-on-Colab---OLLAMA-with-UI-on-Colab](https://github.com/gitbarlew/AnyGPT-on-Colab---OLLAMA-with-UI-on-Colab): Google Colab Notebook describing step by step how to run Ollama with UI on Colab and expose created user interface to the internet. 
 * [Tencent/APIJSON](https://github.com/Tencent/APIJSON): 🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构
