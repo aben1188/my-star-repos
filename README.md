@@ -321,6 +321,7 @@
 * [hjkcai/cardiovascular-tracker](https://github.com/hjkcai/cardiovascular-tracker): 心血管健康助理小程序代码仓库
 * [dntzhang/cax](https://github.com/dntzhang/cax): Canvas 渲染引擎，支持 SVG，兼容了小程序、小游戏和 Web 
 * [zce/caz](https://github.com/zce/caz): A simple yet powerful template-based Scaffolding tools.
+* [farion1231/cc-switch](https://github.com/farion1231/cc-switch): A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 * [thevibeworks/ccx](https://github.com/thevibeworks/ccx): Session viewer for coding agents — browse, search, trace, and export Claude Code, Codex, and Grok conversations
 * [CentOS/CentOS-Dockerfiles](https://github.com/CentOS/CentOS-Dockerfiles): Dockerfiles for various common implementations
 * [jas0ncn/cet](https://github.com/jas0ncn/cet): CET4/6 score query website based on Vue.js and Node
