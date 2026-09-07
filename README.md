@@ -173,7 +173,7 @@
 * [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt): Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 * [jvelilla/awesome-ChatGPT](https://github.com/jvelilla/awesome-ChatGPT): source of interesting articles about ChatGPT
 * [saharmor/awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt): Selected ChatGPT demos, tools, articles, and more ✨
-* [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt): 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
+* [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt): 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE OF TOO MANY LOW QUALITY SUBMISSIONS]
 * [sherlock1987/Awesome-ChatGPT-AIGC-Lesson](https://github.com/sherlock1987/Awesome-ChatGPT-AIGC-Lesson): 关于ChatGPT，以及AIGC的学习道路，里面包含的内容很多，有语言模型，还有RLHF，多模态论文等等，本人的公众号是船长尼莫，感兴趣可以关注一下~
 * [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api): Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 * [Awesome-Open-AI/Awesome-ChatGPT-Plugins](https://github.com/Awesome-Open-AI/Awesome-ChatGPT-Plugins): A curated list of awesome ChatGPT Plugins, guides, blogs, and other resources.
