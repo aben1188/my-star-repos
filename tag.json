@@ -4859,9 +4859,6 @@
     "typesense/typesense-docsearch-scraper": [
         "Other"
     ],
-    "uiv-lib/uiv": [
-        "Other"
-    ],
     "uloveits/myTools": [
         "Other"
     ],
@@ -5259,6 +5256,9 @@
         "Other"
     ],
     "wxingheng/jcommon": [
+        "Other"
+    ],
+    "wxsms/uiv": [
         "Other"
     ],
     "wxt-dev/wxt": [

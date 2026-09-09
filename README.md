@@ -1534,7 +1534,7 @@
 * [typesense/typesense-docsearch-scraper](https://github.com/typesense/typesense-docsearch-scraper): A fork of Algolia's awesome DocSearch Scraper, customized to index data in Typesense (an open source alternative to Algolia)
 * [XIU2/UACWhitelistTool](https://github.com/XIU2/UACWhitelistTool): 📃 UAC 白名单小工具！
 * [sksmatt/UItoTop-jQuery-Plugin](https://github.com/sksmatt/UItoTop-jQuery-Plugin): jQuery dynamic UI plugin.
-* [uiv-lib/uiv](https://github.com/uiv-lib/uiv): Bootstrap 3 components implemented by Vue.js.
+* [wxsms/uiv](https://github.com/wxsms/uiv): Bootstrap 3 components implemented by Vue.js.
 * [zhangchunlin/uliweb-apijson](https://github.com/zhangchunlin/uliweb-apijson): apijson implementation in uliweb
 * [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR): OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 * [dcloudio/uni-app](https://github.com/dcloudio/uni-app): A cross-platform framework using Vue.js
