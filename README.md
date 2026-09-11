@@ -126,6 +126,7 @@
 * [liaozb/APIJSON.NET](https://github.com/liaozb/APIJSON.NET): 后端接口自动化 .NET CORE版本
 * [EhsanTang/ApiManager](https://github.com/EhsanTang/ApiManager): CRAP - 开源API接口管理平台 | 完全开源、免费使用的API接口管理系统、BUG管理系统：API接口管理、文档管理、数据库表管理、接口调试、浏览器调试插件、导出word&pdf接口…..，采用SpringMVC + MyBatis + Lucene + Bootstrap + Angularjs + Iconfont + Guava Cache ，线上使用地址：http://api.crap.cn
 * [lencx/app](https://github.com/lencx/app):  🏖️ No Free Work Life
+* [reactive-resume/app](https://github.com/reactive-resume/app): A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 * [xbrowsersync/app](https://github.com/xbrowsersync/app): xBrowserSync browser extensions / mobile app
 * [appium/appium](https://github.com/appium/appium): Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
 * [MichaelMure/Arbore](https://github.com/MichaelMure/Arbore): Friend-to-friend filesharing app to save the world from dystopia 
@@ -1274,7 +1275,6 @@
 * [react/react-native](https://github.com/react/react-native): A framework for building native applications using React
 * [gold-duo/react-native-RealRecyclerView](https://github.com/gold-duo/react-native-RealRecyclerView): [DEPRECATED]react-native-RealRecyclerView on android.
 * [yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat): 🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)
-* [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume): A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 * [microsoft/reactxp](https://github.com/microsoft/reactxp): Library for cross-platform app development.
 * [ken107/read-aloud](https://github.com/ken107/read-aloud): An awesome browser extension that reads aloud webpage content with one click
 * [index-labs/readpilot](https://github.com/index-labs/readpilot): Read Pilot analyzes online articles and generate Q&A cards for you. Powered by OpenAI & Next.js.

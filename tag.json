@@ -1349,9 +1349,6 @@
     "ampproject/amphtml": [
         "Other"
     ],
-    "amruthpillai/reactive-resume": [
-        "Other"
-    ],
     "anaclumos/bing-chat-for-all-browsers": [
         "Other"
     ],
@@ -4179,6 +4176,9 @@
         "Other"
     ],
     "react/react-native": [
+        "Other"
+    ],
+    "reactive-resume/app": [
         "Other"
     ],
     "realtime-ai/realtime-ai": [
