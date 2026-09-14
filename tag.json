@@ -68,6 +68,9 @@
     "AINativeLab/gptstore-data-backup": [
         "Other"
     ],
+    "APIJSON/APIJSON": [
+        "Other"
+    ],
     "AZeC4/TelegramGroup": [
         "Other"
     ],
@@ -984,9 +987,6 @@
         "Other"
     ],
     "TarsCloud/Tars": [
-        "Other"
-    ],
-    "Tencent/APIJSON": [
         "Other"
     ],
     "Tencent/GT": [
