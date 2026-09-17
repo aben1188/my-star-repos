@@ -914,6 +914,7 @@
 * [changyeyu/LLM-RL-Visualized](https://github.com/changyeyu/LLM-RL-Visualized): 🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献！💥（100+  LLM/RL Algorithm Maps ）
 * [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper): Turn any webpage into structured data using LLMs
 * [buildship-ai/LLM-Web-Crawler](https://github.com/buildship-ai/LLM-Web-Crawler): Web Scraper and Crawler for LLM Apps and AI Workflows with NoCode / LowCode. Plug and play with your own logic and customize it flexibly and scalably on BuildShip.
+* [lobehub/lobehub](https://github.com/lobehub/lobehub): 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 * [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI): Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.
 * [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher): Fully local web research and report writing assistant
 * [Kerinlin/localMusicPlayer](https://github.com/Kerinlin/localMusicPlayer): Audio player that play local audio files and show audio spectrum.
