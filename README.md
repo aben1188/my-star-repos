@@ -199,6 +199,7 @@
 * [michelpereira/awesome-gpt](https://github.com/michelpereira/awesome-gpt): Awesome GPT tools and applications
 * [vkiller/awesome-gpt](https://github.com/vkiller/awesome-gpt): A list for GPT resources
 * [Soul-Master/awesome-gpt-answer](https://github.com/Soul-Master/awesome-gpt-answer): My personal Q & A collection from Chat GPT4
+* [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2): Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
 * [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering): A curated list of awesome resources, tools, and other shiny things for LLM prompt engineering.
 * [cckuailong/awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security): A curated list of awesome security tools, experimental case or other interesting things with LLM or GPT.
 * [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3): None
@@ -1106,6 +1107,7 @@
 * [vernesong/OpenClash](https://github.com/vernesong/OpenClash): A Clash Client For OpenWrt
 * [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude): runs anywhere. uses anything
 * [openclaw/openclaw](https://github.com/openclaw/openclaw): The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
+* [freestylefly/openclaw-wechat](https://github.com/freestylefly/openclaw-wechat): 让 OpenClaw稳定的连上你的个人微信
 * [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI): Make Any Website into CLI & Use your logged-in browser by AI agent. 
 * [leidenglai/opencv-js-qrcode](https://github.com/leidenglai/opencv-js-qrcode): 基于opencv与wechat_qrcode实现的JS版二维码图像识别库
 * [AIDotNet/OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki): OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform. The project is mainly developed using C# and TypeScript, supporting modular design, and is easy to expand and customize.
