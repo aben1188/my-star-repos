@@ -179,7 +179,7 @@
 * [Awesome-Open-AI/Awesome-ChatGPT-Plugins](https://github.com/Awesome-Open-AI/Awesome-ChatGPT-Plugins): A curated list of awesome ChatGPT Plugins, guides, blogs, and other resources.
 * [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh): ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 * [L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN): 如何将ChatGPT调教成一只猫娘
-* [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories): A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code skills.
+* [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories): A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code  and Codex skills.
 * [DeepTecher/awesome-ChatGPT-resource-zh](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh): 精选 OpenAI 的 [ChatGPT](https://chat.openai.com) 资源清单, 跟随最新资源并添加中文相关Work
 * [richzw/awesome-chatgpt-summary](https://github.com/richzw/awesome-chatgpt-summary): Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 * [EmbraceAGI/awesome-chatgpt-zh](https://github.com/EmbraceAGI/awesome-chatgpt-zh): ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
@@ -575,7 +575,7 @@
 * [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT): Reverse engineered API of Microsoft's Bing Chat AI
 * [codex-team/editor.js](https://github.com/codex-team/editor.js): A block-style editor with clean JSON output
 * [ElderDrivers/EdXposed](https://github.com/ElderDrivers/EdXposed): Elder driver Xposed Framework.
-* [eggjs/egg](https://github.com/eggjs/egg): 🥚🥚🥚🥚 Born to build better enterprise frameworks and apps with Node.js & Koa. https://307.run/eggcode
+* [eggjs/egg](https://github.com/eggjs/egg): 🥚🥚🥚🥚 Born to build better enterprise frameworks and apps with Node.js & Koa. https://codewiki.google/github.com/eggjs/egg
 * [egret-labs/egret-core](https://github.com/egret-labs/egret-core): Egret is a brand new open mobile game and application engine which allows you to quickly build mobile games and apps on Android,iOS and Windows.
 * [egret-labs/egret-examples](https://github.com/egret-labs/egret-examples): egret-examples
 * [egret-labs/egret-game-library](https://github.com/egret-labs/egret-game-library): Egret Game Library
