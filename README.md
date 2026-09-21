@@ -1869,7 +1869,7 @@
 * [XTLS/Xray-core](https://github.com/XTLS/Xray-core): Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 * [hightman/xunsearch](https://github.com/hightman/xunsearch): 免费开源的中文搜索引擎，采用 C/C++ 编写 (基于 xapian 和 scws)，提供 PHP 的开发接口和丰富文档
 * [violet7pan/XYplorer_Help](https://github.com/violet7pan/XYplorer_Help): XYplorer使用教程-原创
-* [laruence/yaf](https://github.com/laruence/yaf): Fast php framework written in c, built in php extension
+* [laruence/yaf](https://github.com/laruence/yaf): Ultra-fast PHP MVC framework built as a C extension
 * [gnpok/yafApi](https://github.com/gnpok/yafApi): 使用yaf和swoole_http_server，专注于高性能api接口服务，异步任务...
 * [vim-scripts/YankRing.vim](https://github.com/vim-scripts/YankRing.vim): Maintains a history of previous yanks, changes and deletes
 * [YMFE/yapi](https://github.com/YMFE/yapi): YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
