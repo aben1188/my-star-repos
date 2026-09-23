@@ -1855,7 +1855,7 @@
 * [wxt-dev/wxt](https://github.com/wxt-dev/wxt): ⚡ Next-gen Web Extension Framework
 * [ant-design/x](https://github.com/ant-design/x): Craft AI-driven interface effortlessly🤖
 * [hzeyuan/x-cards](https://github.com/hzeyuan/x-cards): Easy share X anywhere,in any format
-* [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl): Flexible Node.js AI-assisted crawler library
+* [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl): Flexible Node.js crawler library
 * [liu673cn/xbb](https://github.com/liu673cn/xbb): biubiu播放器
 * [xuebingwang/xbw-swoole-yaf](https://github.com/xuebingwang/xbw-swoole-yaf): yaf+swoole实现基于http+json的API Server
 * [xdebug/xdebug](https://github.com/xdebug/xdebug): Xdebug — Step Debugger and Debugging Aid for PHP
