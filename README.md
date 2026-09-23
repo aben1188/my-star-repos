@@ -1355,7 +1355,7 @@
 * [sveltejs/sites](https://github.com/sveltejs/sites): None
 * [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan): An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 * [langzhou/siyuan-note](https://github.com/langzhou/siyuan-note): 思源笔记美化教程
-* [terwer/siyuan-plugin-publisher](https://github.com/terwer/siyuan-plugin-publisher): V2 is on the way✈️ Publish articles from siyuan-note to platforms such as Yuque, etc.Free and open source. 2.0全面重构，请期待。 将思源笔记的文章发布到语雀等平台，开源免费。V2闭关开发中，发布之后将陆续恢复更新
+* [terwer/siyuan-plugin-publisher](https://github.com/terwer/siyuan-plugin-publisher): ✈️ Publish articles from siyuan-note to 30+ platforms.将思源笔记的文章发布到30+平台，开源免费。
 * [jayZOU/skeleton](https://github.com/jayZOU/skeleton): miniprogram to generate the skeleton page automatically
 * [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton): Skeleton is an adaptive design system powered by Tailwind CSS.
 * [rohitg00/skillkit](https://github.com/rohitg00/skillkit): Supercharge AI coding agents with portable skills. Install, translate & share skills across Claude Code, Cursor, Codex, Copilot & 40 more
