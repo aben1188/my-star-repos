@@ -625,7 +625,7 @@
 * [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl): The web data API to search, scrape, and interact at scale. 🔥
 * [nickscamara/firecrawl-openai-realtime](https://github.com/nickscamara/firecrawl-openai-realtime): Realtime API with Firecrawl Tool - Forked from the OpenAI Realtime Console
 * [firecrawl/firecrawl-py](https://github.com/firecrawl/firecrawl-py): Crawl and convert any website into clean markdown
-* [someone1128/firefly_card_google](https://github.com/someone1128/firefly_card_google): 流光卡片：优雅的文字美化Chrome插件，将普通文字转化为视觉艺术品的开源工具。支持Markdown、自定义背景和无水印分享
+* [shuxia-tech/firefly_card_google](https://github.com/shuxia-tech/firefly_card_google): 流光卡片：优雅的文字美化Chrome插件，将普通文字转化为视觉艺术品的开源工具。支持Markdown、自定义背景和无水印分享
 * [benzBrake/FirefoxCustomize](https://github.com/benzBrake/FirefoxCustomize): Ryan 收集的 Firefox 个性化相关资源
 * [rolyatmax/fireworks](https://github.com/rolyatmax/fireworks): experimenting with algorithms for creating curves on a canvas
 * [jeromeetienne/fireworks.js](https://github.com/jeromeetienne/fireworks.js): Particles engine in javascript
