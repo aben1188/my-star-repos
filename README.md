@@ -220,6 +220,7 @@
 * [Lupin1998/Awesome-MIM](https://github.com/Lupin1998/Awesome-MIM): [Survey] Masked Modeling for Self-supervised Representation Learning on Vision and Beyond (https://arxiv.org/abs/2401.00897)
 * [underlines/awesome-ml](https://github.com/underlines/awesome-ml): Curated list of useful LLM / Analytics / Datascience resources
 * [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt): Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
+* [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos): A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.
 * [debarshibasak/awesome-paas](https://github.com/debarshibasak/awesome-paas): A curated list of PaaS, developer platforms, Self hosted PaaS, Cloud IDEs and ADNs.
 * [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php): A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PicGo/Awesome-PicGo](https://github.com/PicGo/Awesome-PicGo): A collection of awesome projects using PicGo.
@@ -454,7 +455,7 @@
 * [WPPlugins/cosign-sso](https://github.com/WPPlugins/cosign-sso): This is a mirror of the svn repo: https://plugins.svn.wordpress.org/cosign-sso/, the master is always the latest release.
 * [silently9527/coupons](https://github.com/silently9527/coupons): 淘宝客项目，支持App，微信小程序，QQ小程序
 * [zwpro/coupons](https://github.com/zwpro/coupons): 美团饿了吗外卖红包外卖优惠券，先领红包再下单。外卖红包优惠券，cps分成，别人领红包下单，你拿佣金。
-* [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent): Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install.
+* [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent): Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install.
 * [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy): 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
 * [industrialcoinmagic/crave](https://github.com/industrialcoinmagic/crave): None
 * [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai): Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
@@ -1105,7 +1106,7 @@
 * [PetoiCamp/OpenCat-Quadruped-Robot](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot): An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development. 
 * [clacky-ai/openclacky](https://github.com/clacky-ai/openclacky): The most Token-efficient open-source AI Agent
 * [vernesong/OpenClash](https://github.com/vernesong/OpenClash): A Clash Client For OpenWrt
-* [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude): runs anywhere. uses anything
+* [Twigpine/openclaude](https://github.com/Twigpine/openclaude): runs anywhere. uses anything
 * [openclaw/openclaw](https://github.com/openclaw/openclaw): The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 * [freestylefly/openclaw-wechat](https://github.com/freestylefly/openclaw-wechat): 让 OpenClaw稳定的连上你的个人微信
 * [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI): Make Any Website into CLI & Use your logged-in browser by AI agent. 
