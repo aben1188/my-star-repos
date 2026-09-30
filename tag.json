@@ -779,9 +779,6 @@
     "OminousIndustries/PhoneDriver": [
         "Other"
     ],
-    "OpenBB-finance/OpenBB": [
-        "Other"
-    ],
     "OpenBMB/ChatDev": [
         "Other"
     ],
@@ -3894,6 +3891,9 @@
         "Other"
     ],
     "openai/swarm": [
+        "Other"
+    ],
+    "openbq-org/OpenBB": [
         "Other"
     ],
     "openclaw/openclaw": [
