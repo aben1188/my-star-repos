@@ -4505,9 +4505,6 @@
     "songquanpeng/one-api": [
         "Other"
     ],
-    "sonofmagic/weapp-tailwindcss": [
-        "Other"
-    ],
     "sorin-ionescu/prezto": [
         "Other"
     ],
@@ -5085,6 +5082,9 @@
         "Other"
     ],
     "weapp-socketio/wxapp-socket-io": [
+        "Other"
+    ],
+    "weapp-tailwindcss/weapp-tailwindcss": [
         "Other"
     ],
     "webclipper/web-clipper": [
