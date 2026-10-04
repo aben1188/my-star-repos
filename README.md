@@ -210,6 +210,7 @@
 * [friuns2/Awesome-GPTs-Big-List](https://github.com/friuns2/Awesome-GPTs-Big-List): Use OpenAI GPTs for Free: https://gptcall.net/ 
 * [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs): Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
 * [KennethanCeyer/awesome-llm](https://github.com/KennethanCeyer/awesome-llm): Awesome series for Large Language Model(LLM)s
+* [koji/awesome-llm-agents](https://github.com/koji/awesome-llm-agents): ChatGPT, related application + prompt engineering list
 * [coderonion/awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc): 🚀🚀🚀A collection of some awesome public projects about Large Language Model(LLM), Vision Language Model(VLM), Vision Language Action(VLA), AI Generated Content(AIGC), the related Datasets and Applications.
 * [kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes](https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes): What can I do with a LLM model?
 * [KennethanCeyer/awesome-llmops](https://github.com/KennethanCeyer/awesome-llmops): Awesome series for LLMOps
@@ -912,7 +913,6 @@
 * [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory): Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 * [ZubinGou/llm-agent-web-tools](https://github.com/ZubinGou/llm-agent-web-tools): A simple Google Search Engine Crawler.
 * [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook): 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
-* [koji/LLM-PromptEngineering-Agents](https://github.com/koji/LLM-PromptEngineering-Agents): ChatGPT, related application + prompt engineering list
 * [changyeyu/LLM-RL-Visualized](https://github.com/changyeyu/LLM-RL-Visualized): 🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献！💥（100+  LLM/RL Algorithm Maps ）
 * [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper): Turn any webpage into structured data using LLMs
 * [buildship-ai/LLM-Web-Crawler](https://github.com/buildship-ai/LLM-Web-Crawler): Web Scraper and Crawler for LLM Apps and AI Workflows with NoCode / LowCode. Plug and play with your own logic and customize it flexibly and scalably on BuildShip.
