@@ -1685,6 +1685,9 @@
     "chatboxai/chatbox": [
         "Other"
     ],
+    "chatfire-AI/huobao-drama": [
+        "Other"
+    ],
     "chatgptmm/alist.io": [
         "Other"
     ],
@@ -3177,6 +3180,9 @@
         "Other"
     ],
     "laravel/socialite": [
+        "Other"
+    ],
+    "larksuite/cli": [
         "Other"
     ],
     "larrykluger/Question-2-Answer-Proxy-SSO-Plugin": [

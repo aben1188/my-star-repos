@@ -131,7 +131,7 @@
 * [MichaelMure/Arbore](https://github.com/MichaelMure/Arbore): Friend-to-friend filesharing app to save the world from dystopia 
 * [solstice23/argon-theme](https://github.com/solstice23/argon-theme): 📖 Argon - 一个轻盈、简洁的 WordPress 主题
 * [astamuse/asta4d](https://github.com/astamuse/asta4d): View first web application framework
-* [withastro/astro](https://github.com/withastro/astro): The web framework for content-driven websites. ⭐️ Star to support our work!
+* [withastro/astro](https://github.com/withastro/astro): The web framework for content-driven websites.
 * [arachnys/athenapdf](https://github.com/arachnys/athenapdf): Drop-in replacement for wkhtmltopdf built on Go, Electron and Docker
 * [Qihoo360/Atlas](https://github.com/Qihoo360/Atlas): A high-performance and stable proxy for MySQL, it is developed by Qihoo's DBA and infrastructure team
 * [VILA-Lab/ATLAS](https://github.com/VILA-Lab/ATLAS): A principled instruction benchmark on formulating effective queries and prompts for large language models (LLMs). Our paper: https://arxiv.org/abs/2312.16171
@@ -405,6 +405,7 @@
 * [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master): An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 * [SeemSeam/claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge): Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, Cursor, Copilot, Pi, OpenCode, and other AI coding agents
 * [nakkag/CLCL](https://github.com/nakkag/CLCL): None
+* [larksuite/cli](https://github.com/larksuite/cli): The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.
 * [npm/cli](https://github.com/npm/cli): the package manager for JavaScript
 * [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything): "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 * [cline/cline](https://github.com/cline/cline): Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
@@ -760,6 +761,7 @@
 * [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub): The official CLI and Python client for the Hugging Face Hub.
 * [huhamhire/huhamhire-hosts](https://github.com/huhamhire/huhamhire-hosts): hosts for Internet Freedom
 * [LearnPrompt/humanize-ppt](https://github.com/LearnPrompt/humanize-ppt): AST-based outline director for human-centered AI presentation workflows.
+* [chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama): 🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator "One Sentence to Complete Drama: Fully Automated from Script to Final Video"
 * [vercel/hyper](https://github.com/vercel/hyper): A terminal built on web technologies
 * [waylybaye/HyperApp-Guide](https://github.com/waylybaye/HyperApp-Guide): HyperApp user's manual 
 * [hyperf/hyperf](https://github.com/hyperf/hyperf): 🚀 A coroutine framework that focuses on hyperspeed and flexibility. Building microservice or middleware with ease.
