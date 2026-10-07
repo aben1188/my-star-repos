@@ -221,6 +221,7 @@
 * [Lupin1998/Awesome-MIM](https://github.com/Lupin1998/Awesome-MIM): [Survey] Masked Modeling for Self-supervised Representation Learning on Vision and Beyond (https://arxiv.org/abs/2401.00897)
 * [underlines/awesome-ml](https://github.com/underlines/awesome-ml): Curated list of useful LLM / Analytics / Datascience resources
 * [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt): Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
+* [zhuyansen/awesome-opus-5.5-video](https://github.com/zhuyansen/awesome-opus-5.5-video): Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 — original posts, prompts and sources. English / 中文.
 * [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos): A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.
 * [debarshibasak/awesome-paas](https://github.com/debarshibasak/awesome-paas): A curated list of PaaS, developer platforms, Self hosted PaaS, Cloud IDEs and ADNs.
 * [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php): A curated list of amazingly awesome PHP libraries, resources and shiny things.
