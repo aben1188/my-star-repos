@@ -1163,9 +1163,6 @@
     "ZZUTK/Face-Aging-CAAE": [
         "Other"
     ],
-    "ZacharyZhang-NY/O1-For-Claude": [
-        "Other"
-    ],
     "ZeroSumQuant/claude-conversation-extractor": [
         "Other"
     ],
@@ -4037,6 +4034,9 @@
     "php/php-src": [
         "Other"
     ],
+    "phpdotenv/phpdotenv": [
+        "Other"
+    ],
     "phpgearbox/pdf": [
         "Other"
     ],
@@ -4982,9 +4982,6 @@
     "vlianx/CuteHttpFileServer": [
         "Other"
     ],
-    "vlucas/phpdotenv": [
-        "Other"
-    ],
     "vue-bulma/vue-admin": [
         "Other"
     ],
@@ -5424,9 +5421,6 @@
         "Other"
     ],
     "yoheinakajima/babyagi": [
-        "Other"
-    ],
-    "yorkie/react-native-wechat": [
         "Other"
     ],
     "youzan/raven-weapp": [

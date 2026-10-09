@@ -1078,7 +1078,6 @@
 * [bruderstein/nppPluginManager](https://github.com/bruderstein/nppPluginManager): Notepad++ Plugin Manager
 * [barvian/number-flow](https://github.com/barvian/number-flow): An animated number component for React, Vue, Svelte, and TS/JS.
 * [D-xuanmo/Nuxtjs-Wordpress](https://github.com/D-xuanmo/Nuxtjs-Wordpress): 🎉 Nuxtjs + Wordpress REST API 主题；支持企业微信通知功能；全站前后端分离，自适应，白日、黑夜两种主题切换
-* [ZacharyZhang-NY/O1-For-Claude](https://github.com/ZacharyZhang-NY/O1-For-Claude): None
 * [Vincit/objection.js](https://github.com/Vincit/objection.js): An SQL-friendly ORM for Node.js
 * [ncjoes/office-converter](https://github.com/ncjoes/office-converter): PHP Wrapper for LibreOffice
 * [YowFung/officetopdf](https://github.com/YowFung/officetopdf): This is a PHP Laravel library, which uses LibreOffice built-in command to convert Office documents(such as doc, docx, xls, xlsx, ppt, pptx, wps, dwg and so on) to PDF files.
@@ -1180,7 +1179,7 @@
 * [pangdahua/php7-wxwork-finance-sdk](https://github.com/pangdahua/php7-wxwork-finance-sdk): PHP企业微信会话存档扩展
 * [ieure/php_repl](https://github.com/ieure/php_repl): A REPL (Read-Eval-Print Loop) for PHP
 * [blogdaren/PHPCreeper](https://github.com/blogdaren/PHPCreeper): A new generation of multi-process async event-driven spider engine based on workerman.  Support headless browser. 🌿基于workerman实现的多进程异步事件驱动型PHP爬虫引擎，支持无头浏览器🌿
-* [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv): Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
+* [phpdotenv/phpdotenv](https://github.com/phpdotenv/phpdotenv): Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 * [summerblue/phphub](https://github.com/summerblue/phphub): (Deprecated See - https://github.com/summerblue/phphub5 ) PHPHub is a Forum project written in Laravel 4.2, and it is also the project build up PHP & Laravel China community - http://phphub.org.
 * [easysoft/phplibreoffice](https://github.com/easysoft/phplibreoffice): A php extension for libreoffice.
 * [html580/phpmall](https://github.com/html580/phpmall): DiyGw提供PHP微信小程序解决方案，针对小程序特性，提供了PHP后台进行交互的解决方案，帮助用户高效完成小程序开发，项目持续更新中，仅供大家学习使用，并没成完成实际电商功能...。
@@ -1279,7 +1278,6 @@
 * [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride): Create guided tours in your apps
 * [react/react-native](https://github.com/react/react-native): A framework for building native applications using React
 * [gold-duo/react-native-RealRecyclerView](https://github.com/gold-duo/react-native-RealRecyclerView): [DEPRECATED]react-native-RealRecyclerView on android.
-* [yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat): 🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)
 * [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume): A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 * [microsoft/reactxp](https://github.com/microsoft/reactxp): Library for cross-platform app development.
 * [ken107/read-aloud](https://github.com/ken107/read-aloud): An awesome browser extension that reads aloud webpage content with one click
