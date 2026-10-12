@@ -91,7 +91,7 @@
 * [myshell-ai/AIlice](https://github.com/myshell-ai/AIlice): AIlice is a fully autonomous, general-purpose AI agent.
 * [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter): ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.
 * [aircodelabs/aircode](https://github.com/aircodelabs/aircode): Build and ship Node.js serverless functions in a coffee break.
-* [lyogavin/airllm](https://github.com/lyogavin/airllm): AirLLM 70B inference with single 4GB GPU
+* [lyogavin/airllm](https://github.com/lyogavin/airllm): AirLLM 2.8T LLM inference with single 4GB GPU
 * [Airtable/airtable.js](https://github.com/Airtable/airtable.js): Airtable javascript client
 * [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox): 🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎
 * [ethereum/aleth](https://github.com/ethereum/aleth): Aleth – Ethereum C++ client, tools and libraries
