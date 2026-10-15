@@ -445,7 +445,7 @@
 * [kitian616/config](https://github.com/kitian616/config): Tian Qi's Configs. include zsh, vim, lint etc.
 * [runsisi/consolas-font-for-powerline](https://github.com/runsisi/consolas-font-for-powerline): Powerline is a nice vim plugin, consolas is a nice font under windows, in order to use consolas in putty or securecrt to work with powerline, the font must be patched.
 * [eugeneching/consolas-powerline-vim](https://github.com/eugeneching/consolas-powerline-vim): Fixed Consolas font for use with Vim Powerline. Font has all variants: regular, bold, italic, bold-italic.
-* [upstash/context7](https://github.com/upstash/context7): Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+* [upstash/context7](https://github.com/upstash/context7): Context7 Platform -- Up-to-date docs for AI agents
 * [ssborbis/ContextSearch-web-ext](https://github.com/ssborbis/ContextSearch-web-ext): Search engine manager for modern browsers
 * [OiAnthony/continue-prompts](https://github.com/OiAnthony/continue-prompts): None
 * [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog): Generate changelogs and release notes from a project's commit messages and metadata.
@@ -737,7 +737,6 @@
 * [ridzenis/gvimfullscreen_win32](https://github.com/ridzenis/gvimfullscreen_win32): Plugin to allow full screen use in gvim on Windows
 * [FernAbby/H5-Activities](https://github.com/FernAbby/H5-Activities): 存放部分活动页面,包含大转盘、砸金蛋、刮刮卡、摇一摇、投票、问卷、抓娃娃、砍价、优惠券投票、意见收集等活动......
 * [qianduanwuzi/H5-game](https://github.com/qianduanwuzi/H5-game): H5小游戏：砸金蛋、刮刮乐、canvas抓粽子等
-* [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool): ALL IN ONE Hacking Tool For Hackers
 * [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io): None
 * [pandecheng36/hcdkp](https://github.com/pandecheng36/hcdkp): 最简单的魔改发布『 合成大西瓜 』，不用改代码，修改配置即可！
 * [krahets/hello-algo](https://github.com/krahets/hello-algo): 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
