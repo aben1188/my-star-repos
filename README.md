@@ -306,7 +306,7 @@
 * [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch): Themes for Bootstrap
 * [aristocratos/bpytop](https://github.com/aristocratos/bpytop): Linux/OSX/FreeBSD resource monitor
 * [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync): Keep multiple browsers & devices in sync when building websites. https://browsersync.io
-* [browser-use/browser-use](https://github.com/browser-use/browser-use): Agents that use the browser.
+* [browser-use/browser-use](https://github.com/browser-use/browser-use): Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
 * [platonai/Browser4](https://github.com/platonai/Browser4): Browser4 — an AI-native browser engine for autonomous agents, intelligent extraction, and large-scale web automation.
 * [4ae9b8/browserhacks](https://github.com/4ae9b8/browserhacks): An extensive list of CSS/JS browserhacks from all over the interwebs.
 * [akazwz/browserproxy](https://github.com/akazwz/browserproxy): proxy and protect your headless chrome
