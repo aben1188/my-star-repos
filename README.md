@@ -738,6 +738,7 @@
 * [ridzenis/gvimfullscreen_win32](https://github.com/ridzenis/gvimfullscreen_win32): Plugin to allow full screen use in gvim on Windows
 * [FernAbby/H5-Activities](https://github.com/FernAbby/H5-Activities): 存放部分活动页面,包含大转盘、砸金蛋、刮刮卡、摇一摇、投票、问卷、抓娃娃、砍价、优惠券投票、意见收集等活动......
 * [qianduanwuzi/H5-game](https://github.com/qianduanwuzi/H5-game): H5小游戏：砸金蛋、刮刮乐、canvas抓粽子等
+* [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool): ALL IN ONE Hacking Tool For Hackers
 * [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io): None
 * [pandecheng36/hcdkp](https://github.com/pandecheng36/hcdkp): 最简单的魔改发布『 合成大西瓜 』，不用改代码，修改配置即可！
 * [krahets/hello-algo](https://github.com/krahets/hello-algo): 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
