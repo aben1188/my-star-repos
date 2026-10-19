@@ -1279,6 +1279,7 @@
 * [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride): Create guided tours in your apps
 * [react/react-native](https://github.com/react/react-native): A framework for building native applications using React
 * [gold-duo/react-native-RealRecyclerView](https://github.com/gold-duo/react-native-RealRecyclerView): [DEPRECATED]react-native-RealRecyclerView on android.
+* [yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat): 🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)
 * [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume): A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 * [microsoft/reactxp](https://github.com/microsoft/reactxp): Library for cross-platform app development.
 * [ken107/read-aloud](https://github.com/ken107/read-aloud): An awesome browser extension that reads aloud webpage content with one click
