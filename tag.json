@@ -2543,9 +2543,6 @@
     "hjkcai/wepy-plugin-axios": [
         "Other"
     ],
-    "houko/wechatgpt": [
-        "Other"
-    ],
     "hpcaitech/ColossalAI": [
         "Other"
     ],
@@ -5418,6 +5415,9 @@
         "Other"
     ],
     "yinhongbo/q2a-lang-cn": [
+        "Other"
+    ],
+    "yldm-tech/forma": [
         "Other"
     ],
     "yll2wcf/wechat-weapp-lifeTools": [
