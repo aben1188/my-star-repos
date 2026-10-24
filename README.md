@@ -482,7 +482,6 @@
 * [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp): TalkToFigma: MCP integration between AI Agent (Cursor, Claude Code, Codex) and Figma, allowing Agentic AI to communicate with Figma for reading designs and modifying them programmatically.
 * [vlianx/CuteHttpFileServer](https://github.com/vlianx/CuteHttpFileServer): None
 * [itsOwen/CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077): A Powerful web scraper powered by LLM | OpenAI, Gemini & Ollama
-* [nearmetips/DailiCode](https://github.com/nearmetips/DailiCode): AI agent that is compatible with multiple LLM models
 * [walkerRnD/daisy-svelte](https://github.com/walkerRnD/daisy-svelte): Svelte components for Daisy UI
 * [saadeghi/daisyui](https://github.com/saadeghi/daisyui): 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 * [doxx/darkflare](https://github.com/doxx/darkflare): DarkFlare Firewall Piercing (TCP over CDN)
@@ -665,6 +664,7 @@
 * [Kingfish404/game-make-wut](https://github.com/Kingfish404/game-make-wut): 合成大西瓜cocos版再开发-合成武汉理工
 * [weijunext/gapis.money](https://github.com/weijunext/gapis.money): Knowledge is power, Gap is money! 「信息差——独立开发者出海周刊」是一个帮助独立开发者缩小信息差的技术周刊。
 * [BlackGlory/garland](https://github.com/BlackGlory/garland): 🌲 A folder hierarchy builder based on tags and symbolic links.
+* [nearmetips/GCCcode](https://github.com/nearmetips/GCCcode): AI agent that is compatible with multiple LLM models
 * [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books): :books: 极客时间电子书
 * [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli): An open-source AI agent that brings the power of Gemini directly into your terminal.
 * [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents): Generative Agents: Interactive Simulacra of Human Behavior
